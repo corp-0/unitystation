@@ -1,0 +1,16 @@
+{
+    "name": "EconomySystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:84e7b12af14c7644f9271326718ed305"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
