@@ -1,15 +1,18 @@
-﻿using Shared.Managers;
-using System.IO;
+﻿using System.IO;
+using Mirror;
+using Shared.Util;
 using Tomlyn;
 using UnityEngine;
 
 namespace Systems.Permissions
 {
-	public class PermissionsManager: SingletonManager<PermissionsManager>
+	public class PermissionsManager: NetworkBehaviour
 	{
 		private readonly string configPath = Path.Combine(Application.streamingAssetsPath, "admin", "permissions.toml");
 
 		public PermissionsConfig Config { get; private set; }
+		private static PermissionsManager instance;
+		public PermissionsManager Instance => FindUtils.LazyFindObject(ref instance);
 
 		/// <summary>
 		/// Tries to read the permissions config file and load it in memory. If for whatever reason it fails,
@@ -55,6 +58,7 @@ namespace Systems.Permissions
 		/// <param name="identifier">UUID from firebase or player identifier after we migrate to django.</param>
 		/// <param name="permission">which permission are we looking for</param>
 		/// <returns></returns>
+		[Server]
 		public bool HasPermission(string identifier, string permission)
 		{
 			var player = Config.Players.Find(p => p.Identifier == identifier);
@@ -76,6 +80,11 @@ namespace Systems.Permissions
 			//wildcard permission means they have all permissions
 			return rank.Permissions.Contains("*") ||
 			       rank.Permissions.Contains(permission);
+		}
+
+		public override void OnStartServer()
+		{
+			LoadPermissionsConfig();
 		}
 	}
 }
