@@ -26,6 +26,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 1487812944719290307, guid: 5f8f71237e56b5244a4119555cda299e,
         type: 3}
+      propertyPath: _assetId
+      value: 3896141971
+      objectReference: {fileID: 0}
+    - target: {fileID: 1487812944719290307, guid: 5f8f71237e56b5244a4119555cda299e,
+        type: 3}
       propertyPath: m_AssetId
       value: 544c220ebc4cd7040ae63b78db104913
       objectReference: {fileID: 0}
@@ -118,5 +123,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d7d4e6085864f9f4e83593f63d102d08,
         type: 2}
+    - target: {fileID: 7013081005860958559, guid: 5f8f71237e56b5244a4119555cda299e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tank of oxygen, this one is red.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5f8f71237e56b5244a4119555cda299e, type: 3}

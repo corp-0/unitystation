@@ -39,6 +39,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5f9d87096ca00de4a8bd96972063a3a9,
         type: 2}
+    - target: {fileID: 3804024679726463818, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: initialDescription
+      value: A special containment suit that allows plasma-based lifeforms to exist
+        safely in an oxygenated environment, and automatically extinguishes them
+        in a crisis. Despite being airtight, it's not spaceworthy.
+      objectReference: {fileID: 0}
     - target: {fileID: 4658995992363608162, guid: de234d793cfd842599c9c8726207f217,
         type: 3}
       propertyPath: m_Name
@@ -118,6 +125,11 @@ PrefabInstance:
         type: 3}
       propertyPath: HeatResistance
       value: 1500
+      objectReference: {fileID: 0}
+    - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: _assetId
+      value: 2121222894
       objectReference: {fileID: 0}
     - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
         type: 3}

@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 3999b6e3c8785d44cb11e4f15017fb6a
       objectReference: {fileID: 0}
+    - target: {fileID: 3473757959931876589, guid: b9dc042fb6542ef4baea84b36c24b31a,
+        type: 3}
+      propertyPath: initialDescription
+      value: Still gross, but at least it has a mountain of sugar on it.
+      objectReference: {fileID: 0}
     - target: {fileID: 3855224395746198965, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: maxBites
@@ -102,6 +107,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SpiderLollipop
+      objectReference: {fileID: 0}
+    - target: {fileID: 5027135991655561841, guid: b9dc042fb6542ef4baea84b36c24b31a,
+        type: 3}
+      propertyPath: _assetId
+      value: 4290934784
       objectReference: {fileID: 0}
     - target: {fileID: 5027135991655561841, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}

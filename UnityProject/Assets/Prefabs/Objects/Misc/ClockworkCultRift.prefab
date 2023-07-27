@@ -27,6 +27,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 6ca11e1a2337f494d8337d3d47f0a042
       objectReference: {fileID: 0}
+    - target: {fileID: 1344368169052875666, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: initialDescription
+      value: What sorcery is this!?
+      objectReference: {fileID: 0}
     - target: {fileID: 4116897424394887774, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
       propertyPath: m_Sprite

@@ -95,6 +95,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
+      propertyPath: _assetId
+      value: 2728162677
+      objectReference: {fileID: 0}
+    - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
       propertyPath: m_AssetId
       value: d22737e4cfaa38b4ba554a6281d8452a
       objectReference: {fileID: 0}
@@ -164,6 +169,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 1a07ab7088574ca4bbf5a60535aabcac,
         type: 3}
+    - target: {fileID: 4742201834036745545, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into grape vines.
+      objectReference: {fileID: 0}
     - target: {fileID: 6983737391352839654, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
       propertyPath: PresentSpriteSet

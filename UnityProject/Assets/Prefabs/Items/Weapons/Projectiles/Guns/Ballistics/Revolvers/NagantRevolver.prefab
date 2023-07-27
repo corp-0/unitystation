@@ -48,6 +48,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4086796152908822152, guid: 538cebc4fa9119344aa630d0f273bced,
         type: 3}
+      propertyPath: _assetId
+      value: 2790370567
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086796152908822152, guid: 538cebc4fa9119344aa630d0f273bced,
+        type: 3}
       propertyPath: m_AssetId
       value: ee6796c2c2708be4e9b9b06e5c4062ad
       objectReference: {fileID: 0}
@@ -123,6 +128,12 @@ PrefabInstance:
       value: Nagant revolver
       objectReference: {fileID: 0}
     - target: {fileID: 4597779802628547678, guid: 538cebc4fa9119344aa630d0f273bced,
+        type: 3}
+      propertyPath: initialDescription
+      value: An old model of revolver that originated in Russia. Able to be suppressed.
+        Uses 7.62x38mmR ammo
+      objectReference: {fileID: 0}
+    - target: {fileID: 5566882947682342932, guid: 538cebc4fa9119344aa630d0f273bced,
         type: 3}
       propertyPath: initialDescription
       value: An old model of revolver that originated in Russia. Able to be suppressed.

@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 169216062924189193, guid: 75421751b31ee7f49b1adb8b70cd2375,
         type: 3}
+      propertyPath: _assetId
+      value: 1681682925
+      objectReference: {fileID: 0}
+    - target: {fileID: 169216062924189193, guid: 75421751b31ee7f49b1adb8b70cd2375,
+        type: 3}
       propertyPath: m_AssetId
       value: 183dcfe0a3fcd6c4ca1a8d373b07489d
       objectReference: {fileID: 0}
@@ -109,6 +114,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 183dcfe0a3fcd6c4ca1a8d373b07489d
+      objectReference: {fileID: 0}
+    - target: {fileID: 8624271127910006933, guid: 75421751b31ee7f49b1adb8b70cd2375,
+        type: 3}
+      propertyPath: initialDescription
+      value: A cute, soft plush of a little bug. It sounds like this one didn't come
+        with a voice box.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75421751b31ee7f49b1adb8b70cd2375, type: 3}

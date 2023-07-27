@@ -78,12 +78,22 @@ PrefabInstance:
       propertyPath: foreverID
       value: c4c1a5e556c58314eb690ee3272fb1cf
       objectReference: {fileID: 0}
+    - target: {fileID: 4060082913680725042, guid: aa86a2f1735706141b988a218138c7dd,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used for advanced medical procedures
+      objectReference: {fileID: 0}
     - target: {fileID: 5972490048144347955, guid: aa86a2f1735706141b988a218138c7dd,
         type: 3}
       propertyPath: PresentSpriteSet
       value: 
       objectReference: {fileID: 11400000, guid: 4a8d7af28bea0674cb91cc8b192c045e,
         type: 2}
+    - target: {fileID: 7309251054634536075, guid: aa86a2f1735706141b988a218138c7dd,
+        type: 3}
+      propertyPath: _assetId
+      value: 1802155500
+      objectReference: {fileID: 0}
     - target: {fileID: 7309251054634536075, guid: aa86a2f1735706141b988a218138c7dd,
         type: 3}
       propertyPath: m_AssetId
@@ -119,7 +129,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e12f147c494feb4bb0f1d25f7968cf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OccupantPlayerScript: {fileID: 0}
+  occupiedSpriteHandler: {fileID: 0}
+  doResistUncuffed: 0
   resistTime: 60
   forceLayingDown: 1
   allowImpassable: 1

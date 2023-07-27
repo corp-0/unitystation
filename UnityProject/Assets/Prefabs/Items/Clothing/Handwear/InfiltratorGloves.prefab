@@ -23,6 +23,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 450dfda4e87a8a248b364e6eb71136c9,
         type: 2}
+    - target: {fileID: 3175192626155068559, guid: cf31a682867c234409b80f763fc9a1b9,
+        type: 3}
+      propertyPath: initialDescription
+      value: These conspicuously-colored gloves are fireproof and electrically insulated.
+        Transfers tactical kidnapping knowledge into the user via nanochips.
+      objectReference: {fileID: 0}
     - target: {fileID: 6368519368898966227, guid: cf31a682867c234409b80f763fc9a1b9,
         type: 3}
       propertyPath: m_RootOrder
@@ -82,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: InfiltratorGloves
+      objectReference: {fileID: 0}
+    - target: {fileID: 6477919160917602835, guid: cf31a682867c234409b80f763fc9a1b9,
+        type: 3}
+      propertyPath: _assetId
+      value: 4125943569
       objectReference: {fileID: 0}
     - target: {fileID: 6477919160917602835, guid: cf31a682867c234409b80f763fc9a1b9,
         type: 3}

@@ -67,6 +67,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StatueGoldBase
       objectReference: {fileID: 0}
+    - target: {fileID: 2880965380671279882, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: initialDescription
+      value: This is a highly valuable statue made from gold.
+      objectReference: {fileID: 0}
     - target: {fileID: 4062499396821368984, guid: ba5045d716084034ab5a9b712f8ce559,
         type: 3}
       propertyPath: foreverID
@@ -81,6 +86,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialIntegrity
       value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848689545314208691, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: _assetId
+      value: 744646513
       objectReference: {fileID: 0}
     - target: {fileID: 8848689545314208691, guid: ba5045d716084034ab5a9b712f8ce559,
         type: 3}

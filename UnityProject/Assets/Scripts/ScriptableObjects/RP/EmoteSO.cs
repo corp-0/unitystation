@@ -82,7 +82,7 @@ namespace ScriptableObjects.RP
 		public virtual void Do(GameObject player)
 		{
 			if (CheckAllBaseConditions(player) == false) return;
-			Chat.AddActionMsgToChat(player, $"{youText}", $"{player.ExpensiveName()} {viewText}.");
+			Chat.AddActionMsgToChat(player, $"{youText}", $"{player.DisplayName()} {viewText}.");
 			PlayAudio(defaultSounds, player);
 		}
 
@@ -100,7 +100,7 @@ namespace ScriptableObjects.RP
 					Chat.AddActionMsgToChat(player, $"{failText}", "");
 					break;
 				case FailType.Critical:
-					Chat.AddActionMsgToChat(player, $"{player.ExpensiveName()} {critViewText}.", $"{player.ExpensiveName()} {critViewText}.");
+					Chat.AddActionMsgToChat(player, $"{player.DisplayName()} {critViewText}.", $"{player.DisplayName()} {critViewText}.");
 					break;
 				case FailType.MouthBlocked:
 					Chat.AddExamineMsg(player, mouthBlockedText);
@@ -110,16 +110,13 @@ namespace ScriptableObjects.RP
 
 		protected void PlayAudio(List<AddressableAudioSource> audio, GameObject player)
 		{
-			//If there is no audio in the audio list, exit out of this function.
-			if (audio.Count == 0)
-			{
-				Logger.LogWarning("[EmoteSO/" + $"{name}] - " + "No audio files detected!.");
-				return;
-			}
+			if (audio.Count == 0) return;
 
 			var audioSourceParameters = new AudioSourceParameters(Random.Range(pitchRange.x, pitchRange.y), 100f);
+			var audioSource = audio.PickRandom();
 
-			_ = SoundManager.PlayNetworkedAtPosAsync(audio.PickRandom(), player.AssumedWorldPosServer(), audioSourceParameters);
+			_ = SoundManager.PlayNetworkedAtPosAsync(audioSource, player.AssumedWorldPosServer(),
+				audioSourceParameters, sourceObj: player, attachToSource: true);
 		}
 
 		/// <summary>

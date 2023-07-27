@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 807712572239148119, guid: c08b964edf24e5c42a6edf23e84fc920,
+        type: 3}
+      propertyPath: initialDescription
+      value: Why would bloodless aliens have a tool to stop bleeding? Unless...
+      objectReference: {fileID: 0}
     - target: {fileID: 2121025136257718661, guid: c08b964edf24e5c42a6edf23e84fc920,
         type: 3}
       propertyPath: SpeedMultiplier

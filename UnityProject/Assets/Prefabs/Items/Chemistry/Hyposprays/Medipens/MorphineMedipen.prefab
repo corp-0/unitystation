@@ -116,6 +116,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
         type: 3}
+      propertyPath: _assetId
+      value: 253322686
+      objectReference: {fileID: 0}
+    - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
       propertyPath: m_AssetId
       value: 1a65065c17776164fba0f4be6ed4ecca
       objectReference: {fileID: 0}
@@ -196,5 +201,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f868b39d746be2d4a8dc52dc82d50229,
         type: 2}
+    - target: {fileID: 7583825043675237299, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
+      propertyPath: initialDescription
+      value: A rapid way to get you out of a tight situation and fast! You'll feel
+        rather drowsy, though.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6445f714f221b6743aa6d70ac4b73c87, type: 3}

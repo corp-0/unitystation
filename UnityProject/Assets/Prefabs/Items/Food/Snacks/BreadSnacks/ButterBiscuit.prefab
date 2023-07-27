@@ -101,6 +101,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
+      propertyPath: _assetId
+      value: 3447075132
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
       propertyPath: m_AssetId
       value: 8ab0c6744d91e854cb5bac5412e13efb
       objectReference: {fileID: 0}
@@ -134,6 +139,11 @@ PrefabInstance:
         type: 3}
       propertyPath: StartingNutrients
       value: 188
+      objectReference: {fileID: 0}
+    - target: {fileID: 7393185702746791663, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
+      propertyPath: initialDescription
+      value: Well butter my biscuit!
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eaf8c1f2a0f9374488e16061fd5b4dcd, type: 3}

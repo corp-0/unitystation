@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3564945054494194852, guid: a0c29a11d2c864b7982765b5340eed0e,
         type: 3}
+      propertyPath: _assetId
+      value: 3122347164
+      objectReference: {fileID: 0}
+    - target: {fileID: 3564945054494194852, guid: a0c29a11d2c864b7982765b5340eed0e,
+        type: 3}
       propertyPath: m_AssetId
       value: 49d912bd7badc5a4083cc1898469a7bf
       objectReference: {fileID: 0}
@@ -84,6 +89,13 @@ PrefabInstance:
       value: worn shirt
       objectReference: {fileID: 0}
     - target: {fileID: 3891274522419703410, guid: a0c29a11d2c864b7982765b5340eed0e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A worn out, curiously comfortable t-shirt with a picture of Ian. You
+        wouldn't go so far as to say it feels like being hugged when you wear it,
+        but it's pretty close. Good for sleeping in.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4940316139980870200, guid: a0c29a11d2c864b7982765b5340eed0e,
         type: 3}
       propertyPath: initialDescription
       value: A worn out, curiously comfortable t-shirt with a picture of Ian. You

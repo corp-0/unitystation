@@ -67,6 +67,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
         type: 3}
+      propertyPath: _assetId
+      value: 1002517230
+      objectReference: {fileID: 0}
+    - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
       propertyPath: m_AssetId
       value: 7c9b308fb19afbd47bbc03df800f8d63
       objectReference: {fileID: 0}
@@ -277,6 +282,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 7c9b308fb19afbd47bbc03df800f8d63
       objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: A weird kind of ice, feels warm to the touch
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}
 --- !u!1 &2265521501557685915 stripped
@@ -309,11 +319,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7c30ca55ffa4467a421abf7a832a6a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   initialAmount: 1
   maxAmount: 50
   stacksWith: []
+  isRepresentationOfStack: 0
   stackNames: []
   stackSprites: []
   autoStackOnSpawn: 1
@@ -331,6 +343,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isHotIce: 1
+  MeltTime: 10
 --- !u!114 &8670566117553005211
 MonoBehaviour:
   m_ObjectHideFlags: 0

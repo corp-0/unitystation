@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 159418868575386266, guid: c432d0b09f765e440a39dea62e9a423e,
         type: 3}
+      propertyPath: _assetId
+      value: 945704835
+      objectReference: {fileID: 0}
+    - target: {fileID: 159418868575386266, guid: c432d0b09f765e440a39dea62e9a423e,
+        type: 3}
       propertyPath: m_AssetId
       value: eb6e678136f03fe4896e35207b70e1cc
       objectReference: {fileID: 0}
@@ -127,5 +132,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3e9a735a6bd80a6499b2679dec06b54b,
         type: 2}
+    - target: {fileID: 8629146908414645254, guid: c432d0b09f765e440a39dea62e9a423e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A yellow and blue winter coat. The zipper pull-tab is made to look like
+        a miniature breath mask.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c432d0b09f765e440a39dea62e9a423e, type: 3}

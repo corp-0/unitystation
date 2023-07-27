@@ -30,6 +30,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: 3cb15abe5075ccd4eab53769c9fe0e88
       objectReference: {fileID: 0}
+    - target: {fileID: 2412584864140635593, guid: f27991fd74b5f6941a1ad2f9e161a022,
+        type: 3}
+      propertyPath: initialDescription
+      value: A winter coat in a vibrant shade of blue with a small silver caduceus
+        instead of a plastic zipper tab. The normal liner is replaced with an exceptionally
+        thick, soft layer of fur.
+      objectReference: {fileID: 0}
     - target: {fileID: 6049508525371871619, guid: f27991fd74b5f6941a1ad2f9e161a022,
         type: 3}
       propertyPath: initialName
@@ -56,6 +63,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Fire
       value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6092671967717950293, guid: f27991fd74b5f6941a1ad2f9e161a022,
+        type: 3}
+      propertyPath: _assetId
+      value: 291258856
       objectReference: {fileID: 0}
     - target: {fileID: 6092671967717950293, guid: f27991fd74b5f6941a1ad2f9e161a022,
         type: 3}

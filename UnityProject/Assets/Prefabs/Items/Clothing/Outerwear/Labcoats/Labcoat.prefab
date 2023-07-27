@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 218537909720789257, guid: 47cf030149b5a174f91d3ec320a7f031,
+        type: 3}
+      propertyPath: initialDescription
+      value: A suit that protects against minor chemical spills.
+      objectReference: {fileID: 0}
     - target: {fileID: 2462607273329465766, guid: 47cf030149b5a174f91d3ec320a7f031,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -145,6 +150,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Fire
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8574531444343578517, guid: 47cf030149b5a174f91d3ec320a7f031,
+        type: 3}
+      propertyPath: _assetId
+      value: 2662494790
       objectReference: {fileID: 0}
     - target: {fileID: 8574531444343578517, guid: 47cf030149b5a174f91d3ec320a7f031,
         type: 3}

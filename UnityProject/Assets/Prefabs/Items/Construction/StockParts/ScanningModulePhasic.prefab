@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2593168487031691222, guid: a6a04b99723d3ae42958de4193b9920d,
         type: 3}
+      propertyPath: _assetId
+      value: 1921742115
+      objectReference: {fileID: 0}
+    - target: {fileID: 2593168487031691222, guid: a6a04b99723d3ae42958de4193b9920d,
+        type: 3}
       propertyPath: m_AssetId
       value: 8c448234d4537fa4bbbd9ae3ff9ef162
       objectReference: {fileID: 0}
@@ -104,6 +109,12 @@ PrefabInstance:
         type: 3}
       propertyPath: tier
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6199896509570087242, guid: a6a04b99723d3ae42958de4193b9920d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A compact, high resolution phasic scanning module used in the construction
+        of certain devices.
       objectReference: {fileID: 0}
     - target: {fileID: 8588050373806019045, guid: a6a04b99723d3ae42958de4193b9920d,
         type: 3}

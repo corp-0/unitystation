@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: SpeedMultiplier
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1226205322650702606, guid: 63878e0cc44c05d48a33f173427bb4b0,
+        type: 3}
+      propertyPath: initialDescription
+      value: You've never seen this before.
+      objectReference: {fileID: 0}
     - target: {fileID: 3467996460871351201, guid: 63878e0cc44c05d48a33f173427bb4b0,
         type: 3}
       propertyPath: PresentSpriteSet

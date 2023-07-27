@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2278709885361838553, guid: 229f1c93e0e4ada439cfe4b781f65997,
+        type: 3}
+      propertyPath: initialDescription
+      value: A military combat utility survival knife.
+      objectReference: {fileID: 0}
     - target: {fileID: 3695110123352835740, guid: 229f1c93e0e4ada439cfe4b781f65997,
         type: 3}
       propertyPath: foreverID
@@ -24,6 +29,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: df969c7057c65464295b62b03e01479f,
         type: 3}
+    - target: {fileID: 7667703169655306053, guid: 229f1c93e0e4ada439cfe4b781f65997,
+        type: 3}
+      propertyPath: _assetId
+      value: 486302699
+      objectReference: {fileID: 0}
     - target: {fileID: 7667703169655306053, guid: 229f1c93e0e4ada439cfe4b781f65997,
         type: 3}
       propertyPath: m_AssetId

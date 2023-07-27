@@ -97,6 +97,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
+      propertyPath: _assetId
+      value: 214886470
+      objectReference: {fileID: 0}
+    - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
       propertyPath: m_AssetId
       value: 4f7ce98391b8ec54493a831134aa65be
       objectReference: {fileID: 0}
@@ -166,6 +171,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 565b408ec33350340ad047e43f98b293,
         type: 3}
+    - target: {fileID: 4742201834036745545, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
+      propertyPath: initialDescription
+      value: Boil 'em! Mash 'em! Stick 'em in a stew!
+      objectReference: {fileID: 0}
     - target: {fileID: 6983737391352839654, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
       propertyPath: PresentSpriteSet

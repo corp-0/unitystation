@@ -39,6 +39,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1a583f3d940173e498296b42cd82f962,
         type: 2}
+    - target: {fileID: 2779047972415260783, guid: 5c40f1e282a3589419bfcca5e7c95320,
+        type: 3}
+      propertyPath: initialDescription
+      value: A hard-boiled private investigator's grey suitskirt, complete with tie
+        clip.
+      objectReference: {fileID: 0}
     - target: {fileID: 5765263475959326747, guid: 5c40f1e282a3589419bfcca5e7c95320,
         type: 3}
       propertyPath: m_Sprite
@@ -49,6 +55,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NoirSuitskirt
+      objectReference: {fileID: 0}
+    - target: {fileID: 6009935579059185395, guid: 5c40f1e282a3589419bfcca5e7c95320,
+        type: 3}
+      propertyPath: _assetId
+      value: 1231239250
       objectReference: {fileID: 0}
     - target: {fileID: 6009935579059185395, guid: 5c40f1e282a3589419bfcca5e7c95320,
         type: 3}

@@ -90,6 +90,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 1586270509
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: bb118b34602036247a9e597743e4e0a4
       objectReference: {fileID: 0}
@@ -125,5 +130,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f7e49df7289dd4841b656dbd8ec8d2ea,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: It allows quick identification of trained medical personnel.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

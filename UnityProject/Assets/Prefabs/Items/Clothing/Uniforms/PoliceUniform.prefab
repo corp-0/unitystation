@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: 56b3a5e4aaeeac7409c2ce3816b0c339,
         type: 3}
+      propertyPath: _assetId
+      value: 1455192212
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 56b3a5e4aaeeac7409c2ce3816b0c339,
+        type: 3}
       propertyPath: m_AssetId
       value: aaa453dc2a893d94e8d1f6dc29d07a1d
       objectReference: {fileID: 0}
@@ -84,6 +89,12 @@ PrefabInstance:
       value: police uniform
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 56b3a5e4aaeeac7409c2ce3816b0c339,
+        type: 3}
+      propertyPath: initialDescription
+      value: Space not controlled by megacorporations, planets, or pirates is under
+        the jurisdiction of Spacepol.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 56b3a5e4aaeeac7409c2ce3816b0c339,
         type: 3}
       propertyPath: initialDescription
       value: Space not controlled by megacorporations, planets, or pirates is under

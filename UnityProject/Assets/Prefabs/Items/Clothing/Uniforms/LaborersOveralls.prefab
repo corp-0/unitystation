@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2917128564446547862, guid: 6b5f74a79e023479cb5b30a2879621da,
         type: 3}
+      propertyPath: _assetId
+      value: 2191923080
+      objectReference: {fileID: 0}
+    - target: {fileID: 2917128564446547862, guid: 6b5f74a79e023479cb5b30a2879621da,
+        type: 3}
       propertyPath: m_AssetId
       value: 3a9617526f84d3b4bacbf7cbe4a473a0
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: laborer's overalls
       objectReference: {fileID: 0}
     - target: {fileID: 3387296074795883840, guid: 6b5f74a79e023479cb5b30a2879621da,
+        type: 3}
+      propertyPath: initialDescription
+      value: A set of durable overalls for getting the job done.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6741049716389339402, guid: 6b5f74a79e023479cb5b30a2879621da,
         type: 3}
       propertyPath: initialDescription
       value: A set of durable overalls for getting the job done.

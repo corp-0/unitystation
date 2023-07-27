@@ -14,6 +14,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: db6925c2066e4fb49a396bacd6dc7552,
         type: 3}
+      propertyPath: _assetId
+      value: 484287910
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: db6925c2066e4fb49a396bacd6dc7552,
+        type: 3}
       propertyPath: m_AssetId
       value: a5844cd2f1544d946ba8fc5d4bb031a9
       objectReference: {fileID: 0}
@@ -89,6 +94,11 @@ PrefabInstance:
       value: black pants
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: db6925c2066e4fb49a396bacd6dc7552,
+        type: 3}
+      propertyPath: initialDescription
+      value: These pants are dark, like your soul.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: db6925c2066e4fb49a396bacd6dc7552,
         type: 3}
       propertyPath: initialDescription
       value: These pants are dark, like your soul.

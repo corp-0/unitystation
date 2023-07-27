@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
+      propertyPath: _assetId
+      value: 1330213187
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
       propertyPath: m_AssetId
       value: 71c90208ddf5d59489b9273c371733d7
       objectReference: {fileID: 0}
@@ -110,5 +115,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2717702614898470369, guid: b7f9ffc5f19a51546bc9474d372c12c4,
         type: 3}
+    - target: {fileID: 7393185702746791663, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
+      propertyPath: initialDescription
+      value: You wish you had some peanut butter to go with this...
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eaf8c1f2a0f9374488e16061fd5b4dcd, type: 3}

@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: magazineSize
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 1625760680073983730, guid: b207c10b72e178346bee8cf182f264eb,
+        type: 3}
+      propertyPath: initialDescription
+      value: A well-worn magazine fitted for the surplus rifle.
+      objectReference: {fileID: 0}
     - target: {fileID: 4011383383968898653, guid: b207c10b72e178346bee8cf182f264eb,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -88,6 +93,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7167867211737094254, guid: b207c10b72e178346bee8cf182f264eb,
+        type: 3}
+      propertyPath: _assetId
+      value: 1225033162
       objectReference: {fileID: 0}
     - target: {fileID: 7167867211737094254, guid: b207c10b72e178346bee8cf182f264eb,
         type: 3}

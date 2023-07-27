@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3107333849576633749, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}
+      propertyPath: _assetId
+      value: 2057756545
+      objectReference: {fileID: 0}
+    - target: {fileID: 3107333849576633749, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
       propertyPath: m_AssetId
       value: a097e6ce2cea8c94d99717f07c82b2a6
       objectReference: {fileID: 0}
@@ -89,6 +94,11 @@ PrefabInstance:
       value: baklava
       objectReference: {fileID: 0}
     - target: {fileID: 3199482630336423747, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
+      propertyPath: initialDescription
+      value: A delightful healthy snack made of nut layers with thin bread.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6839219976228231945, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}
       propertyPath: initialDescription
       value: A delightful healthy snack made of nut layers with thin bread.

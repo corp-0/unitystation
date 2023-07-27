@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1283590903198422754, guid: 3d19628d41d177c469a643ad9c65a0a0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Apply to head repeatedly.
+      objectReference: {fileID: 0}
     - target: {fileID: 3527634033172627021, guid: 3d19628d41d177c469a643ad9c65a0a0,
         type: 3}
       propertyPath: PresentSpriteSet

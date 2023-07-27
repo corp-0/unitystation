@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: c922edd9ccbbb524ea09b00c4527be02
       objectReference: {fileID: 0}
+    - target: {fileID: 2495172927752524473, guid: e2ecbd3591e115b459b0160c82af302c,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into omega cannabis.
+      objectReference: {fileID: 0}
     - target: {fileID: 4701198458871700264, guid: e2ecbd3591e115b459b0160c82af302c,
         type: 3}
       propertyPath: plantData.PlantName
@@ -127,6 +132,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293252128790379557, guid: e2ecbd3591e115b459b0160c82af302c,
+        type: 3}
+      propertyPath: _assetId
+      value: 1913130957
       objectReference: {fileID: 0}
     - target: {fileID: 6293252128790379557, guid: e2ecbd3591e115b459b0160c82af302c,
         type: 3}

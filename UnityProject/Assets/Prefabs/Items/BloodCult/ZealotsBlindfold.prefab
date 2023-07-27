@@ -39,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0f8f9ba229b5a6c41942b8e01baf18ce,
         type: 2}
+    - target: {fileID: 4083355373169253350, guid: 02850781d993bb344b2a6ee5208fbcef,
+        type: 3}
+      propertyPath: initialDescription
+      value: May Nar'Sie guide you through the darkness and shield you from the light.
+      objectReference: {fileID: 0}
     - target: {fileID: 5342936871389718444, guid: 02850781d993bb344b2a6ee5208fbcef,
         type: 3}
       propertyPath: initialName
@@ -108,6 +113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5574405114639594874, guid: 02850781d993bb344b2a6ee5208fbcef,
+        type: 3}
+      propertyPath: _assetId
+      value: 102119339
       objectReference: {fileID: 0}
     - target: {fileID: 5574405114639594874, guid: 02850781d993bb344b2a6ee5208fbcef,
         type: 3}

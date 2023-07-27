@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 53188f8d30a6088499ccd9aa2f5e0476,
         type: 2}
+    - target: {fileID: 4284901414100020173, guid: d22737e4cfaa38b4ba554a6281d8452a,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into green-grape vines.
+      objectReference: {fileID: 0}
     - target: {fileID: 5330034310481893255, guid: d22737e4cfaa38b4ba554a6281d8452a,
         type: 3}
       propertyPath: initialName
@@ -34,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: fa96a021d5272084c9013469f1919da0,
         type: 3}
+    - target: {fileID: 5657008057324471633, guid: d22737e4cfaa38b4ba554a6281d8452a,
+        type: 3}
+      propertyPath: _assetId
+      value: 1319617186
+      objectReference: {fileID: 0}
     - target: {fileID: 5657008057324471633, guid: d22737e4cfaa38b4ba554a6281d8452a,
         type: 3}
       propertyPath: m_AssetId

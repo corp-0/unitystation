@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1830087588442433470, guid: 1e67a35115f25b64283e699e311413ef,
+        type: 3}
+      propertyPath: initialDescription
+      value: A shield that stops most melee attacks, protects user from almost all
+        energy projectiles, and can be thrown to slip opponents.
+      objectReference: {fileID: 0}
     - target: {fileID: 3872523323669412091, guid: 1e67a35115f25b64283e699e311413ef,
         type: 3}
       propertyPath: foreverID
@@ -55,6 +61,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 63ebb1ff93c93354994ab009bc8ccf7d,
         type: 2}
+    - target: {fileID: 7823732278566013218, guid: 1e67a35115f25b64283e699e311413ef,
+        type: 3}
+      propertyPath: _assetId
+      value: 1413507243
+      objectReference: {fileID: 0}
     - target: {fileID: 7823732278566013218, guid: 1e67a35115f25b64283e699e311413ef,
         type: 3}
       propertyPath: m_AssetId

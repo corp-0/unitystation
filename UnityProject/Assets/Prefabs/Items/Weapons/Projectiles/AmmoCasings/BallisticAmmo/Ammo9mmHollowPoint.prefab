@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 0b455f7f0f9cae148ba47e10e0344c07
       objectReference: {fileID: 0}
+    - target: {fileID: 3639041181291612011, guid: 5d37ebc7a0cbd0948a172b21dd46ca54,
+        type: 3}
+      propertyPath: initialDescription
+      value: A 10mm hollow-point bullet casing.
+      objectReference: {fileID: 0}
     - target: {fileID: 4616025213351328545, guid: 5d37ebc7a0cbd0948a172b21dd46ca54,
         type: 3}
       propertyPath: initialName
@@ -81,6 +86,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5149520195437373943, guid: 5d37ebc7a0cbd0948a172b21dd46ca54,
+        type: 3}
+      propertyPath: _assetId
+      value: 2992881800
       objectReference: {fileID: 0}
     - target: {fileID: 5149520195437373943, guid: 5d37ebc7a0cbd0948a172b21dd46ca54,
         type: 3}

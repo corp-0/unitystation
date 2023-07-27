@@ -99,6 +99,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2388022189226633715, guid: c60440956ff96af4b84ba3e95e41c3e0,
         type: 3}
+      propertyPath: _assetId
+      value: 2709119002
+      objectReference: {fileID: 0}
+    - target: {fileID: 2388022189226633715, guid: c60440956ff96af4b84ba3e95e41c3e0,
+        type: 3}
       propertyPath: m_AssetId
       value: a74082718c5a6d34b924357788ca381c
       objectReference: {fileID: 0}
@@ -119,6 +124,12 @@ PrefabInstance:
       value: AP hardsuit helmet
       objectReference: {fileID: 0}
     - target: {fileID: 2763621013712894757, guid: c60440956ff96af4b84ba3e95e41c3e0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Designed to protect its wearer from the vacuum of space and the anomalies
+        within it
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112871777271252847, guid: c60440956ff96af4b84ba3e95e41c3e0,
         type: 3}
       propertyPath: initialDescription
       value: Designed to protect its wearer from the vacuum of space and the anomalies

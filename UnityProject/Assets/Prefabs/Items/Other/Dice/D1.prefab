@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: sides
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 974874576353264851, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A die with only one side. Deterministic!
+      objectReference: {fileID: 0}
     - target: {fileID: 2404714145071242134, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: foreverID
@@ -61,6 +66,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 65dbb0db0ce9f6e46aaf061cc31e87c8,
         type: 2}
+    - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: _assetId
+      value: 2848303289
+      objectReference: {fileID: 0}
     - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: m_AssetId

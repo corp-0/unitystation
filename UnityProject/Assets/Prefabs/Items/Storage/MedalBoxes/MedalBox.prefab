@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 283111325396180734, guid: ea49e3be5601db24a9bbf989d6341568,
         type: 3}
+      propertyPath: _assetId
+      value: 336232423
+      objectReference: {fileID: 0}
+    - target: {fileID: 283111325396180734, guid: ea49e3be5601db24a9bbf989d6341568,
+        type: 3}
       propertyPath: m_AssetId
       value: f80586e0fe8257c44afa4d5dcffd86e6
       objectReference: {fileID: 0}
@@ -133,6 +138,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: f80586e0fe8257c44afa4d5dcffd86e6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8510516562308378722, guid: ea49e3be5601db24a9bbf989d6341568,
+        type: 3}
+      propertyPath: initialDescription
+      value: A locked box used to store medals of honor.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea49e3be5601db24a9bbf989d6341568, type: 3}

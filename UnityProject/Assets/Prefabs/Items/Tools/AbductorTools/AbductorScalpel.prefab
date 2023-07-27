@@ -114,5 +114,10 @@ PrefabInstance:
       propertyPath: SpeedMultiplier
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 8802886070315336091, guid: 6d3ab6351590fb943aea84485346e1c0,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a gleaming sharp knife made out of silvery-green metal.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6d3ab6351590fb943aea84485346e1c0, type: 3}

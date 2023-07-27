@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1381682031583824400, guid: 4bf8c38cb85116e4babedf03228412de,
+        type: 3}
+      propertyPath: initialDescription
+      value: You monster.
+      objectReference: {fileID: 0}
     - target: {fileID: 4608460023768847701, guid: 4bf8c38cb85116e4babedf03228412de,
         type: 3}
       propertyPath: foreverID
@@ -21,6 +26,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: You monster.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7411242208336094348, guid: 4bf8c38cb85116e4babedf03228412de,
+        type: 3}
+      propertyPath: _assetId
+      value: 1522079757
       objectReference: {fileID: 0}
     - target: {fileID: 7411242208336094348, guid: 4bf8c38cb85116e4babedf03228412de,
         type: 3}

@@ -61,6 +61,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
         type: 3}
+      propertyPath: _assetId
+      value: 3824092853
+      objectReference: {fileID: 0}
+    - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
       propertyPath: m_AssetId
       value: 26abf4c2c542ffa4098216683cb5f652
       objectReference: {fileID: 0}
@@ -117,6 +122,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 26abf4c2c542ffa4098216683cb5f652
       objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: Y
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}
 --- !u!1 &3867790606060242529 stripped
@@ -137,6 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db8e8b7b55bea56498ef51fca8eaec51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   Sprite: {fileID: 6983737391352839654}

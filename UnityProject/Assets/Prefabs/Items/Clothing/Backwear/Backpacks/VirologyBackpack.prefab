@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4290689576098717370, guid: da93b0f7c392d46ba85123e2516cfa49,
         type: 3}
+      propertyPath: _assetId
+      value: 1303007574
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290689576098717370, guid: da93b0f7c392d46ba85123e2516cfa49,
+        type: 3}
       propertyPath: m_AssetId
       value: 0c198ac94169aed40ab72b2afc2d4cc5
       objectReference: {fileID: 0}
@@ -84,6 +89,12 @@ PrefabInstance:
       value: virology backpack
       objectReference: {fileID: 0}
     - target: {fileID: 4391634449878879340, guid: da93b0f7c392d46ba85123e2516cfa49,
+        type: 3}
+      propertyPath: initialDescription
+      value: A backpack made of hypo-allergenic fibers. It's designed to help prevent
+        the spread of disease. Smells like monkey.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5655723533491040294, guid: da93b0f7c392d46ba85123e2516cfa49,
         type: 3}
       propertyPath: initialDescription
       value: A backpack made of hypo-allergenic fibers. It's designed to help prevent

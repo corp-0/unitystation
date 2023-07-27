@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
         type: 3}
+      propertyPath: _assetId
+      value: 3756675997
+      objectReference: {fileID: 0}
+    - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
       propertyPath: m_AssetId
       value: 09ad517695df02345a18aad76e8fd903
       objectReference: {fileID: 0}
@@ -141,6 +146,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 09ad517695df02345a18aad76e8fd903
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213787336926973796, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
+      propertyPath: initialDescription
+      value: A beautiful flower capable of being used for most dyeing processes.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27208d0fc3f7c3544a8d1a7861253b52, type: 3}

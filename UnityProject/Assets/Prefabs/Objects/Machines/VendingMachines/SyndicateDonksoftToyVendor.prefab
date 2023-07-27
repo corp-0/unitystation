@@ -85,6 +85,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2368661890258351188, guid: e24780af3a0e5ce4a95df51fb628f3c9,
         type: 3}
+    - target: {fileID: 2417342147722627535, guid: fd07f1ca390dd8f48b0cf257cb070d2a,
+        type: 3}
+      propertyPath: initialDescription
+      value: An ages 8 and up approved vendor that dispenses toys. If you were to
+        find the right wires, you can unlock the adult mode setting!
+      objectReference: {fileID: 0}
     - target: {fileID: 3868250325507980753, guid: fd07f1ca390dd8f48b0cf257cb070d2a,
         type: 3}
       propertyPath: HullColor.b
@@ -121,6 +127,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: An ages 8 and up approved vendor that dispenses toys. If you were to
         find the right wires, you can unlock the adult mode setting!
+      objectReference: {fileID: 0}
+    - target: {fileID: 8988055784870957430, guid: fd07f1ca390dd8f48b0cf257cb070d2a,
+        type: 3}
+      propertyPath: _assetId
+      value: 522059452
       objectReference: {fileID: 0}
     - target: {fileID: 8988055784870957430, guid: fd07f1ca390dd8f48b0cf257cb070d2a,
         type: 3}

@@ -112,6 +112,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
+      propertyPath: _assetId
+      value: 2068496198
+      objectReference: {fileID: 0}
+    - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
       propertyPath: m_AssetId
       value: 3681ff6246315294c9d3613edcd53e21
       objectReference: {fileID: 0}
@@ -181,6 +186,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: fd8eab74b4bc76549baeccf2349dbcbc,
         type: 3}
+    - target: {fileID: 4742201834036745545, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
+      propertyPath: initialDescription
+      value: A robust species of weed that often springs up in-between the cracks
+        of spaceship parking lots.
+      objectReference: {fileID: 0}
     - target: {fileID: 6983737391352839654, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
       propertyPath: PresentSpriteSet

@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1857806640773602436, guid: 46bb2fe95f4f66341aadfb4600751333,
+        type: 3}
+      propertyPath: initialDescription
+      value: A true dorf's drink of choice.
+      objectReference: {fileID: 0}
     - target: {fileID: 3823680117459157953, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: foreverID
@@ -114,6 +119,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300006, guid: 23b7fbbe775154443a8c0ef8ea687e39,
         type: 3}
+    - target: {fileID: 7799949450078925336, guid: 46bb2fe95f4f66341aadfb4600751333,
+        type: 3}
+      propertyPath: _assetId
+      value: 3705568163
+      objectReference: {fileID: 0}
     - target: {fileID: 7799949450078925336, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: m_AssetId
@@ -231,6 +241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 86536f54b4694d5a98b2f4962a473b7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   spriteHandler: {fileID: 0}

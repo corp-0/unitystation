@@ -27,6 +27,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: ec878b229bc16bb43a22dfbe0068687a
       objectReference: {fileID: 0}
+    - target: {fileID: 1344368169052875666, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: initialDescription
+      value: Apply corpse before closing.
+      objectReference: {fileID: 0}
     - target: {fileID: 4116897424394887774, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
       propertyPath: m_Sprite
@@ -112,6 +117,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.FreezeProof
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: _assetId
+      value: 1132747481
       objectReference: {fileID: 0}
     - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}

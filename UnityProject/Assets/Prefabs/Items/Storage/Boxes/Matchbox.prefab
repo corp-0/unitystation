@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: StorageItemName
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 267093757808967282, guid: 3e5919f639f566c4590d07d54ef256dd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A small box of Almost But Not Quite Plasma Premium Matches.
+      objectReference: {fileID: 0}
     - target: {fileID: 2490630288303511261, guid: 3e5919f639f566c4590d07d54ef256dd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -89,6 +94,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 8682f29ddcac77d4e91c15f94a6650d5,
         type: 3}
+    - target: {fileID: 8521467601672753390, guid: 3e5919f639f566c4590d07d54ef256dd,
+        type: 3}
+      propertyPath: _assetId
+      value: 4158832812
+      objectReference: {fileID: 0}
     - target: {fileID: 8521467601672753390, guid: 3e5919f639f566c4590d07d54ef256dd,
         type: 3}
       propertyPath: m_AssetId

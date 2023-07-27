@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 377a80ddf7905a745ace5d56a9b3f9ad
       objectReference: {fileID: 0}
+    - target: {fileID: 3473757959931876589, guid: b9dc042fb6542ef4baea84b36c24b31a,
+        type: 3}
+      propertyPath: initialDescription
+      value: The delicious combination of nachos and melting cheese.
+      objectReference: {fileID: 0}
     - target: {fileID: 4808250800529090727, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: initialName
@@ -87,6 +92,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CheesyNachos
+      objectReference: {fileID: 0}
+    - target: {fileID: 5027135991655561841, guid: b9dc042fb6542ef4baea84b36c24b31a,
+        type: 3}
+      propertyPath: _assetId
+      value: 2527726270
       objectReference: {fileID: 0}
     - target: {fileID: 5027135991655561841, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}

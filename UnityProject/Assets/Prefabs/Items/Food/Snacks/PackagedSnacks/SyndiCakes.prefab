@@ -123,6 +123,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
+      propertyPath: _assetId
+      value: 2422585308
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
       propertyPath: m_AssetId
       value: 8ba651ee9b6deb3498f9502bc784a7db
       objectReference: {fileID: 0}
@@ -162,6 +167,11 @@ PrefabInstance:
         type: 3}
       propertyPath: StartingNutrients
       value: 163
+      objectReference: {fileID: 0}
+    - target: {fileID: 7393185702746791663, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
+      propertyPath: initialDescription
+      value: An extremely moist snack cake that tastes just as good after being nuked.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eaf8c1f2a0f9374488e16061fd5b4dcd, type: 3}

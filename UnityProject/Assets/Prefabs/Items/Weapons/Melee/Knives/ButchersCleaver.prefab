@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2278709885361838553, guid: 229f1c93e0e4ada439cfe4b781f65997,
+        type: 3}
+      propertyPath: initialDescription
+      value: A huge thing used for chopping and chopping up meat. This includes clowns
+        and clown by-products.
+      objectReference: {fileID: 0}
     - target: {fileID: 3695110123352835740, guid: 229f1c93e0e4ada439cfe4b781f65997,
         type: 3}
       propertyPath: foreverID
@@ -24,6 +30,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: eb081bedb6999dd42b7f3cfed0243dd5,
         type: 3}
+    - target: {fileID: 7667703169655306053, guid: 229f1c93e0e4ada439cfe4b781f65997,
+        type: 3}
+      propertyPath: _assetId
+      value: 658095484
+      objectReference: {fileID: 0}
     - target: {fileID: 7667703169655306053, guid: 229f1c93e0e4ada439cfe4b781f65997,
         type: 3}
       propertyPath: m_AssetId

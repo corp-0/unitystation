@@ -81,7 +81,12 @@ PrefabInstance:
         type: 3}
       propertyPath: customNetTransform
       value: 
-      objectReference: {fileID: 4980137051466096026}
+      objectReference: {fileID: 0}
+    - target: {fileID: 3386979507669081950, guid: fee295a4b61f370429840936c3956722,
+        type: 3}
+      propertyPath: _assetId
+      value: 3907447406
+      objectReference: {fileID: 0}
     - target: {fileID: 3386979507669081950, guid: fee295a4b61f370429840936c3956722,
         type: 3}
       propertyPath: m_AssetId
@@ -127,6 +132,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 44d930a4eaefa064ba2d7c934f0bd0a9,
         type: 2}
+    - target: {fileID: 6554507756529627586, guid: fee295a4b61f370429840936c3956722,
+        type: 3}
+      propertyPath: initialDescription
+      value: The Lung killer
+      objectReference: {fileID: 0}
     - target: {fileID: 8515879833374371463, guid: fee295a4b61f370429840936c3956722,
         type: 3}
       propertyPath: foreverID
@@ -153,6 +163,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba8febc3c8584802b87295d0f110959e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
+  syncMode: 0
+  syncInterval: 0.1
+  consumeTime: 0.1
   drinkSound:
     SetLoadSetting: 0
     AssetAddress: Assets/Prefabs/Effects/Slurp.prefab
@@ -162,15 +176,3 @@ MonoBehaviour:
       m_SubObjectType: 
       m_EditorAssetChanged: 0
   lungDamage: 30
---- !u!114 &4980137051466096026 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3387108457866989370, guid: fee295a4b61f370429840936c3956722,
-    type: 3}
-  m_PrefabInstance: {fileID: 7646106601405272736}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4938389421849145418}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 579884b05ae74e8499329b64997147d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

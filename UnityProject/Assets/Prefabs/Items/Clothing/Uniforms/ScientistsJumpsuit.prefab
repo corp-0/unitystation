@@ -39,6 +39,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8f3df30c62a0dcb49ab8436681c749e8,
         type: 2}
+    - target: {fileID: 3804024679726463818, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's made of a special fiber that provides minor protection against
+        explosives. It has markings that denote the wearer as a scientist.
+      objectReference: {fileID: 0}
     - target: {fileID: 4658995992363608162, guid: de234d793cfd842599c9c8726207f217,
         type: 3}
       propertyPath: m_Name
@@ -108,6 +114,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Bomb
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: _assetId
+      value: 1763598660
       objectReference: {fileID: 0}
     - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
         type: 3}

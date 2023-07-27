@@ -19,6 +19,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3601627923293437900, guid: 7c015dc850eb29f43ad09b94d9354fbc,
         type: 3}
+    - target: {fileID: 942115623869195617, guid: b29d3b3d0eac3a84d9ef700d10f41b3a,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's an excellent prop for a mime.
+      objectReference: {fileID: 0}
     - target: {fileID: 2435075956048476708, guid: b29d3b3d0eac3a84d9ef700d10f41b3a,
         type: 3}
       propertyPath: foreverID

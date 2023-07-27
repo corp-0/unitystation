@@ -122,6 +122,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
+      propertyPath: _assetId
+      value: 1860100309
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
       propertyPath: m_AssetId
       value: 0e200f4a94617be49bd00c1565ab160e
       objectReference: {fileID: 0}
@@ -157,6 +162,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: honyonyehyoney
+      objectReference: {fileID: 0}
+    - target: {fileID: 7393185702746791663, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A sweetened root roll with sliced fruit, enjoyed as a seasonal dessert
+        on Tizira.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eaf8c1f2a0f9374488e16061fd5b4dcd, type: 3}

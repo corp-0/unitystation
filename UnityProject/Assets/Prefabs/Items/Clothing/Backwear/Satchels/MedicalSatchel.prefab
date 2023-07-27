@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a854d55f0dc7ad31eaf239f619e94abb,
         type: 2}
+    - target: {fileID: 1379146600267112103, guid: a168a3bbdfd796d48bf524dd9bef1803,
+        type: 3}
+      propertyPath: initialDescription
+      value: A sterile satchel used in medical departments.
+      objectReference: {fileID: 0}
     - target: {fileID: 3604887204119082504, guid: a168a3bbdfd796d48bf524dd9bef1803,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -56,6 +61,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: bb08cfa35785d0b4498caeb4fff275f6,
         type: 3}
+    - target: {fileID: 7409841405138497595, guid: a168a3bbdfd796d48bf524dd9bef1803,
+        type: 3}
+      propertyPath: _assetId
+      value: 732361580
+      objectReference: {fileID: 0}
     - target: {fileID: 7409841405138497595, guid: a168a3bbdfd796d48bf524dd9bef1803,
         type: 3}
       propertyPath: m_AssetId

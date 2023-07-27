@@ -26,6 +26,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2473701121889670674, guid: d88c145d60cabfd4092f839650cea997,
         type: 3}
+      propertyPath: _assetId
+      value: 875363426
+      objectReference: {fileID: 0}
+    - target: {fileID: 2473701121889670674, guid: d88c145d60cabfd4092f839650cea997,
+        type: 3}
       propertyPath: m_AssetId
       value: eb3039e757a51bd42aa5d92b0a3711ef
       objectReference: {fileID: 0}
@@ -203,6 +208,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SortingLayerID
       value: 776718967
+      objectReference: {fileID: 0}
+    - target: {fileID: 6314864617384392846, guid: d88c145d60cabfd4092f839650cea997,
+        type: 3}
+      propertyPath: initialDescription
+      value: used to connect  machines that are running on the 240V line
       objectReference: {fileID: 0}
     - target: {fileID: 8897659774656423883, guid: d88c145d60cabfd4092f839650cea997,
         type: 3}

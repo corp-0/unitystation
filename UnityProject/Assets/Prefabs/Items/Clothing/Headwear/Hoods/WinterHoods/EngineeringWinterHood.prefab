@@ -24,6 +24,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: cf8cf10a15398fd478c8f6f7677d6471
       objectReference: {fileID: 0}
+    - target: {fileID: 2538461622751989417, guid: 211616cbdb7012b4eb5b07baff781d16,
+        type: 3}
+      propertyPath: initialDescription
+      value: A yellow winter coat hood. Definitely not a replacement for a hard hat.
+      objectReference: {fileID: 0}
     - target: {fileID: 5887752484129272547, guid: 211616cbdb7012b4eb5b07baff781d16,
         type: 3}
       propertyPath: initialName
@@ -49,6 +54,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Fire
       value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6254603353582542901, guid: 211616cbdb7012b4eb5b07baff781d16,
+        type: 3}
+      propertyPath: _assetId
+      value: 3335147820
       objectReference: {fileID: 0}
     - target: {fileID: 6254603353582542901, guid: 211616cbdb7012b4eb5b07baff781d16,
         type: 3}

@@ -74,6 +74,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3584548037582887432, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
+      propertyPath: _assetId
+      value: 3966784041
+      objectReference: {fileID: 0}
+    - target: {fileID: 3584548037582887432, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+        type: 3}
       propertyPath: m_AssetId
       value: 85b170b6b3a35904b9938dc5850248f5
       objectReference: {fileID: 0}
@@ -107,6 +112,11 @@ PrefabInstance:
         type: 3}
       propertyPath: StartingNutrients
       value: 450
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920290945618588820, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+        type: 3}
+      propertyPath: initialDescription
+      value: Citrus overload!
       objectReference: {fileID: 0}
     - target: {fileID: 7308486626998426683, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}

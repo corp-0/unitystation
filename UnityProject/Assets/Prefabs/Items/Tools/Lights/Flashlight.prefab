@@ -110,6 +110,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 224935955204253567, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A hand-held emergency light.
+      objectReference: {fileID: 0}
     - target: {fileID: 2466764617220362192, guid: c9c58a9243d494537abcb4ee470efab0,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -485,6 +490,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6f122a1a988dbc140976f31c34382af7, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

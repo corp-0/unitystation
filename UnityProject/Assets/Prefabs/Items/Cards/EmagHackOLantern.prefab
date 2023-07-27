@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3117242790283333740, guid: 92d97624df4de9c44b21713ad3a016cc,
         type: 3}
+      propertyPath: _assetId
+      value: 861681716
+      objectReference: {fileID: 0}
+    - target: {fileID: 3117242790283333740, guid: 92d97624df4de9c44b21713ad3a016cc,
+        type: 3}
       propertyPath: m_AssetId
       value: 1daeb19fc242de54bab12a5453fa8ca4
       objectReference: {fileID: 0}
@@ -94,6 +99,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7ae123829b3f16c4abec33e1e0394003,
         type: 2}
+    - target: {fileID: 6824103749311889136, guid: 92d97624df4de9c44b21713ad3a016cc,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a pumpkin with a cryptographic sequencer sticking out.
+      objectReference: {fileID: 0}
     - target: {fileID: 8245008661041766837, guid: 92d97624df4de9c44b21713ad3a016cc,
         type: 3}
       propertyPath: foreverID

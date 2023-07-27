@@ -89,6 +89,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
+      propertyPath: _assetId
+      value: 261304670
+      objectReference: {fileID: 0}
+    - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
       propertyPath: m_AssetId
       value: ddf5589ea9ed42b41b3469ec36f4bb7c
       objectReference: {fileID: 0}
@@ -158,6 +163,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 17d0741600260f949a5d2d6740bad1d2,
         type: 3}
+    - target: {fileID: 4742201834036745545, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into cabbages.
+      objectReference: {fileID: 0}
     - target: {fileID: 6983737391352839654, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
       propertyPath: PresentSpriteSet

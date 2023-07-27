@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 61b5edd5acec52940a84d5df45e9983b,
         type: 2}
+    - target: {fileID: 3117967703170066944, guid: 7e7b4be15b786a3409887818a46638f3,
+        type: 3}
+      propertyPath: initialDescription
+      value: Suffer not a heretic to live.
+      objectReference: {fileID: 0}
     - target: {fileID: 6470034178287949386, guid: 7e7b4be15b786a3409887818a46638f3,
         type: 3}
       propertyPath: initialName
@@ -92,6 +97,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 80b47ff9d9de5464f8021e0966f21f36,
         type: 3}
+    - target: {fileID: 6823941768137835676, guid: 7e7b4be15b786a3409887818a46638f3,
+        type: 3}
+      propertyPath: _assetId
+      value: 3388710166
+      objectReference: {fileID: 0}
     - target: {fileID: 6823941768137835676, guid: 7e7b4be15b786a3409887818a46638f3,
         type: 3}
       propertyPath: m_AssetId

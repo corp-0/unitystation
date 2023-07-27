@@ -24,6 +24,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4284472624482382869, guid: 6bc7664000f3e42498bd8318c68ce7d2,
         type: 3}
+    - target: {fileID: 3359839086500358260, guid: e291198bb131d49469d0b57ae983bd32,
+        type: 3}
+      propertyPath: initialDescription
+      value: A small can of pine nuts. Can be eaten on their own, if you're into
+        that.
+      objectReference: {fileID: 0}
     - target: {fileID: 5469631057095422964, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
@@ -113,6 +119,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6581507416717428456, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
+      propertyPath: _assetId
+      value: 1008791408
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581507416717428456, guid: e291198bb131d49469d0b57ae983bd32,
+        type: 3}
       propertyPath: m_AssetId
       value: 13dddc5372ab75247a7d0275f23cdb2f
       objectReference: {fileID: 0}
@@ -120,7 +131,7 @@ PrefabInstance:
         type: 3}
       propertyPath: customNetTransform
       value: 
-      objectReference: {fileID: 5972240594637692146}
+      objectReference: {fileID: 0}
     - target: {fileID: 6642696252695335998, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: initialName
@@ -150,15 +161,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e291198bb131d49469d0b57ae983bd32, type: 3}
---- !u!114 &5972240594637692146 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6581919563771549324, guid: e291198bb131d49469d0b57ae983bd32,
-    type: 3}
-  m_PrefabInstance: {fileID: 699753205399030398}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 579884b05ae74e8499329b64997147d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

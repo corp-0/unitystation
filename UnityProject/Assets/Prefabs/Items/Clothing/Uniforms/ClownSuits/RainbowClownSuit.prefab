@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: a08b3d5119d894fcb917204c9c820035,
         type: 3}
+      propertyPath: _assetId
+      value: 3027364579
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: a08b3d5119d894fcb917204c9c820035,
+        type: 3}
       propertyPath: m_AssetId
       value: b25e9a05d86428341bc29213996a893d
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: rainbow clown suit
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: a08b3d5119d894fcb917204c9c820035,
+        type: 3}
+      propertyPath: initialDescription
+      value: R A I N B O W HONK!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: a08b3d5119d894fcb917204c9c820035,
         type: 3}
       propertyPath: initialDescription
       value: R A I N B O W HONK!

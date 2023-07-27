@@ -20,6 +20,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2416758669775616128, guid: 79cea07a5f8e66f49a554df1a003ecba,
         type: 3}
+      propertyPath: _assetId
+      value: 1414291092
+      objectReference: {fileID: 0}
+    - target: {fileID: 2416758669775616128, guid: 79cea07a5f8e66f49a554df1a003ecba,
+        type: 3}
       propertyPath: m_AssetId
       value: f2441585d37f1914395df59a57c5e925
       objectReference: {fileID: 0}
@@ -188,6 +193,11 @@ PrefabInstance:
         type: 3}
       propertyPath: closeSFX.AssetAddress
       value: Assets/Prefabs/Doors/BlastDoor.prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 8988604078320033849, guid: 79cea07a5f8e66f49a554df1a003ecba,
+        type: 3}
+      propertyPath: initialDescription
+      value: Heavy duty metal shutters that open mechanically.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 79cea07a5f8e66f49a554df1a003ecba, type: 3}

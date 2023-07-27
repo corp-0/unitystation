@@ -411,6 +411,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2193914177532499227, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
+      propertyPath: _assetId
+      value: 2316142488
+      objectReference: {fileID: 0}
+    - target: {fileID: 2193914177532499227, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
       propertyPath: m_AssetId
       value: 69dfd2945b85d4f42904f8b7a00ade80
       objectReference: {fileID: 0}
@@ -443,6 +448,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: d9004351ded6e51498a5a702755ab112,
         type: 3}
+    - target: {fileID: 4847486937091673506, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
+      propertyPath: initialDescription
+      value: This can be used to check medical records.
+      objectReference: {fileID: 0}
     - target: {fileID: 5903546303531293955, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
       propertyPath: m_AssetId

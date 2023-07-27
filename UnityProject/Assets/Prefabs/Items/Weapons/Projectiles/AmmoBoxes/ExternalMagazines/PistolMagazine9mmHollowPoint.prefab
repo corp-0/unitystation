@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 66847659780693651, guid: 678d8623073f29f4cb23d4cb26359cd4,
+        type: 3}
+      propertyPath: initialDescription
+      value: A gun magazine. Loaded with hollow-point rounds, extremely effective
+        against unarmored targets, but nearly useless against protective clothing.
+      objectReference: {fileID: 0}
     - target: {fileID: 3185535953976934870, guid: 678d8623073f29f4cb23d4cb26359cd4,
         type: 3}
       propertyPath: foreverID
@@ -82,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8438549908676571151, guid: 678d8623073f29f4cb23d4cb26359cd4,
+        type: 3}
+      propertyPath: _assetId
+      value: 3520360745
       objectReference: {fileID: 0}
     - target: {fileID: 8438549908676571151, guid: 678d8623073f29f4cb23d4cb26359cd4,
         type: 3}

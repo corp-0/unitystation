@@ -90,6 +90,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 1035804109
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: 99972b6fb78d35245885d5917704db00
       objectReference: {fileID: 0}
@@ -125,5 +130,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 76c5f5fb52a7f6e40bf755dabc353e42,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: An extra-mustahabb way of showing your devotion to Allah.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

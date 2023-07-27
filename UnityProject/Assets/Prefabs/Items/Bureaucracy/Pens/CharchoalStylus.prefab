@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 960420711637719710, guid: 83442ea1bc97ef04db1f9962a2f7021d,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's just a wooden stick with some compressed ash on the end. At least
+        it can write.
+      objectReference: {fileID: 0}
     - target: {fileID: 2417351120508978651, guid: 83442ea1bc97ef04db1f9962a2f7021d,
         type: 3}
       propertyPath: foreverID
@@ -18,6 +24,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e19c8071e45564a4c8971d4cbe66febe,
         type: 2}
+    - target: {fileID: 8692691054828270594, guid: 83442ea1bc97ef04db1f9962a2f7021d,
+        type: 3}
+      propertyPath: _assetId
+      value: 3862624370
+      objectReference: {fileID: 0}
     - target: {fileID: 8692691054828270594, guid: 83442ea1bc97ef04db1f9962a2f7021d,
         type: 3}
       propertyPath: m_AssetId

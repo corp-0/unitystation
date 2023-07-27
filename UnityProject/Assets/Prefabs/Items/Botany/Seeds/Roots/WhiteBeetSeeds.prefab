@@ -109,6 +109,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
+      propertyPath: _assetId
+      value: 1489764969
+      objectReference: {fileID: 0}
+    - target: {fileID: 3763059340105120725, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
       propertyPath: m_AssetId
       value: 68259771352072a48a290530b2894872
       objectReference: {fileID: 0}
@@ -178,6 +183,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 46446813c3ff12147af52a0cca1b5d6a,
         type: 3}
+    - target: {fileID: 4742201834036745545, guid: 26abf4c2c542ffa4098216683cb5f652,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into sugary beet producing plants.
+      objectReference: {fileID: 0}
     - target: {fileID: 6983737391352839654, guid: 26abf4c2c542ffa4098216683cb5f652,
         type: 3}
       propertyPath: PresentSpriteSet

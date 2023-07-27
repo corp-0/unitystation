@@ -48,6 +48,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 2029488147373310651, guid: 3e49627878e69e941a8ddc6808be2f28,
         type: 3}
+      propertyPath: _assetId
+      value: 295394461
+      objectReference: {fileID: 0}
+    - target: {fileID: 2029488147373310651, guid: 3e49627878e69e941a8ddc6808be2f28,
+        type: 3}
       propertyPath: m_AssetId
       value: 84d17485093438f4990e06fcb52fb851
       objectReference: {fileID: 0}
@@ -148,5 +153,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: de83142dab681444fb0f0b620c36b16c,
         type: 2}
+    - target: {fileID: 7628127238182169639, guid: 3e49627878e69e941a8ddc6808be2f28,
+        type: 3}
+      propertyPath: initialDescription
+      value: Looks like some cables tied together. Could be used to tie something
+        up.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e49627878e69e941a8ddc6808be2f28, type: 3}

@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 1982097787885165787, guid: c141da4e786e96c40b854e3daf1737d0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Only a clown would think to make a ghetto banana-shaped lamp. Even has
+        a goofy pullstring.
+      objectReference: {fileID: 0}
     - target: {fileID: 3988468442208863134, guid: c141da4e786e96c40b854e3daf1737d0,
         type: 3}
       propertyPath: foreverID
@@ -64,6 +70,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 66f98d5fc226acb49a0b06771e561b33,
         type: 3}
+    - target: {fileID: 7959952459703693895, guid: c141da4e786e96c40b854e3daf1737d0,
+        type: 3}
+      propertyPath: _assetId
+      value: 1448183243
+      objectReference: {fileID: 0}
     - target: {fileID: 7959952459703693895, guid: c141da4e786e96c40b854e3daf1737d0,
         type: 3}
       propertyPath: m_AssetId

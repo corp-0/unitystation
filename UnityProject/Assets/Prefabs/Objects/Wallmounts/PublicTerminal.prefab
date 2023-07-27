@@ -199,12 +199,23 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A wall mounted computer for viewing news, manifest aswell as sending
+        and receiving requests
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: PresentSpriteSet
       value: 
       objectReference: {fileID: 11400000, guid: 2239f0e1ffe994648a228ff07314c6a5,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 4073639000
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId
@@ -242,6 +253,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d7277dcc993463cb6c7f79b663f36fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   NetTabType: 52
@@ -258,6 +270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b765ac9b30643c08432e68ddb18dd08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   emmitableSignalData:
@@ -268,6 +281,7 @@ MonoBehaviour:
   requiresPower: 1
   isPowered: 0
   canExamineFrequency: 0
+  minimumDamageBeforeObfuscation: 12
   departmentList: {fileID: 11400000, guid: 78ed418d17146c04e84a65952c123008, type: 2}
   <Department>k__BackingField: 0
   <IsAI>k__BackingField: 0
@@ -297,6 +311,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d2571f1f49edba47abeb2caf877b73e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   SignalTypeToReceive: 1
@@ -340,6 +355,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819809cff2481914d883a6e1fefb4edd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   MethodRotation: 0

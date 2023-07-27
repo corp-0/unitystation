@@ -7,6 +7,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2066078434560289289, guid: f736e201fb6e2d046ac2c309e9b62997,
+        type: 3}
+      propertyPath: initialDescription
+      value: An experimental suit of armor that renders the wearer invisible on detection
+        of imminent harm, and creates a decoy that runs away from the owner. You
+        can't fight what you can't see.
+      objectReference: {fileID: 0}
     - target: {fileID: 3491449588223784268, guid: f736e201fb6e2d046ac2c309e9b62997,
         type: 3}
       propertyPath: foreverID

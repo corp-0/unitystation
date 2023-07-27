@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 594104672287667517, guid: 900572ab8ed9030429b12eaa3974a43f,
+        type: 3}
+      propertyPath: initialDescription
+      value: A slim Type I-A armored vest that provides decent protection against
+        most types of damage.
+      objectReference: {fileID: 0}
     - target: {fileID: 2603394941573166480, guid: 900572ab8ed9030429b12eaa3974a43f,
         type: 3}
       propertyPath: clothData
@@ -99,6 +105,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ArmorVestSlim
+      objectReference: {fileID: 0}
+    - target: {fileID: 9063515089906310049, guid: 900572ab8ed9030429b12eaa3974a43f,
+        type: 3}
+      propertyPath: _assetId
+      value: 1056450522
       objectReference: {fileID: 0}
     - target: {fileID: 9063515089906310049, guid: 900572ab8ed9030429b12eaa3974a43f,
         type: 3}

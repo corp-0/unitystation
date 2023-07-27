@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1760473060056327368, guid: f866b44bcdd7d734885f7c49999d85c9,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tablet or capsule.
+      objectReference: {fileID: 0}
     - target: {fileID: 3798299677133241229, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: foreverID
@@ -127,7 +132,7 @@ PrefabInstance:
     - target: {fileID: 7785875528613525472, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: m_Name
-      value: Pill
+      value: _PillBase
       objectReference: {fileID: 0}
     - target: {fileID: 7791085151706811028, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
@@ -183,6 +188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7897283028627769940, guid: f866b44bcdd7d734885f7c49999d85c9,
+        type: 3}
+      propertyPath: _assetId
+      value: 2686177764
       objectReference: {fileID: 0}
     - target: {fileID: 7897283028627769940, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
@@ -246,7 +256,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45e06ddb12acf47158b8cccf9289fd75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
+  syncMode: 0
+  syncInterval: 0.1
+  consumeTime: 0.1
   leavings: {fileID: 0}
+  currentBites: 0
+  maxBites: 1
+  setCurrentBitesToMaxBitesOnAwake: 1
   sound:
     SetLoadSetting: 0
     AssetAddress: 

@@ -103,6 +103,11 @@ PrefabInstance:
       propertyPath: m_AssetId
       value: 7cbf0fb7d8635474c871b803710c8c07
       objectReference: {fileID: 0}
+    - target: {fileID: 5340744455670126513, guid: eaa56f4c8fd7aa64d8fa44b70ed9ccb3,
+        type: 3}
+      propertyPath: initialDescription
+      value: Do the aliens also lose this, and need to find an alien hatchet?
+      objectReference: {fileID: 0}
     - target: {fileID: 6648673801114778211, guid: eaa56f4c8fd7aa64d8fa44b70ed9ccb3,
         type: 3}
       propertyPath: SpeedMultiplier

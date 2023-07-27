@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 2ba7b8511785c014cacb736b4296b898,
         type: 2}
+    - target: {fileID: 1443283499416642748, guid: 7cef0e2714d9c8c4587deef900a0b670,
+        type: 3}
+      propertyPath: initialDescription
+      value: A golden card which shows power and might.
+      objectReference: {fileID: 0}
     - target: {fileID: 3828910587391036435, guid: 7cef0e2714d9c8c4587deef900a0b670,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -83,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7057474091270294048, guid: 7cef0e2714d9c8c4587deef900a0b670,
+        type: 3}
+      propertyPath: _assetId
+      value: 3941250448
       objectReference: {fileID: 0}
     - target: {fileID: 7057474091270294048, guid: 7cef0e2714d9c8c4587deef900a0b670,
         type: 3}

@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 0f7236d12e1c49246a29ec59fe36949a
       objectReference: {fileID: 0}
+    - target: {fileID: 2564582898840658955, guid: b39d85aa9080f014b9956cb59d760674,
+        type: 3}
+      propertyPath: initialDescription
+      value: Fire syringes at a short distance.
+      objectReference: {fileID: 0}
     - target: {fileID: 5843464883585849409, guid: b39d85aa9080f014b9956cb59d760674,
         type: 3}
       propertyPath: initialName
@@ -46,6 +51,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: ec79b2083d48bea49941a3b1d2b67a1f,
         type: 3}
+    - target: {fileID: 6224405101200099991, guid: b39d85aa9080f014b9956cb59d760674,
+        type: 3}
+      propertyPath: _assetId
+      value: 2234386265
+      objectReference: {fileID: 0}
     - target: {fileID: 6224405101200099991, guid: b39d85aa9080f014b9956cb59d760674,
         type: 3}
       propertyPath: m_AssetId

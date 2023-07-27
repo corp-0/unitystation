@@ -25,6 +25,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2176208296632151677, guid: 31d01d60b659392429fe6a6384563082,
         type: 3}
+      propertyPath: _assetId
+      value: 119472332
+      objectReference: {fileID: 0}
+    - target: {fileID: 2176208296632151677, guid: 31d01d60b659392429fe6a6384563082,
+        type: 3}
       propertyPath: m_AssetId
       value: 5fcdd7b5846d1734381c1bf52c4ffdba
       objectReference: {fileID: 0}
@@ -99,5 +104,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: adc89861d7f37e248bae186467bc56df,
         type: 2}
+    - target: {fileID: 7765837516449333473, guid: 31d01d60b659392429fe6a6384563082,
+        type: 3}
+      propertyPath: initialDescription
+      value: A .50 bullet casing.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 31d01d60b659392429fe6a6384563082, type: 3}

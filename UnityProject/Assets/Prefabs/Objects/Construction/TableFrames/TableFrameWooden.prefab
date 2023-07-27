@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 489144493542136707, guid: 9b139d47618b5ff418198a443805c1d5,
+        type: 3}
+      propertyPath: initialDescription
+      value: Four wooden legs with four framing wooden rods for a wooden table. You
+        could easily pass through this.
+      objectReference: {fileID: 0}
     - target: {fileID: 1596584984253954953, guid: 9b139d47618b5ff418198a443805c1d5,
         type: 3}
       propertyPath: pushPullSound.AssetAddress
@@ -104,6 +110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.Flammable
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6628780433559274298, guid: 9b139d47618b5ff418198a443805c1d5,
+        type: 3}
+      propertyPath: _assetId
+      value: 1568187159
       objectReference: {fileID: 0}
     - target: {fileID: 6628780433559274298, guid: 9b139d47618b5ff418198a443805c1d5,
         type: 3}

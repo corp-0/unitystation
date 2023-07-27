@@ -57,6 +57,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
         type: 3}
+      propertyPath: _assetId
+      value: 3757695244
+      objectReference: {fileID: 0}
+    - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
       propertyPath: m_AssetId
       value: bf74e8243028ec14ebeb6578ebd2fcf4
       objectReference: {fileID: 0}
@@ -210,6 +215,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: bf74e8243028ec14ebeb6578ebd2fcf4
       objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: A hand-held environmental scanner which reports current gas levels.
+        Alt-Click to use the built in barometer function.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}
 --- !u!1 &8238071069653876758 stripped
@@ -260,12 +271,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: b71c0e14fb0a5904daa0cd6da9c7e4d1, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

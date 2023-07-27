@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1540529183909536826, guid: c85b28d3e2e443540933f905c954c98d,
         type: 3}
+      propertyPath: _assetId
+      value: 1406836221
+      objectReference: {fileID: 0}
+    - target: {fileID: 1540529183909536826, guid: c85b28d3e2e443540933f905c954c98d,
+        type: 3}
       propertyPath: m_AssetId
       value: da6a3431e038e8042a1797d4de5e23b5
       objectReference: {fileID: 0}
@@ -98,6 +103,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: da6a3431e038e8042a1797d4de5e23b5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6960228391724632742, guid: c85b28d3e2e443540933f905c954c98d,
+        type: 3}
+      propertyPath: initialDescription
+      value: Whose smart idea was it to use toys as crowd control? Ages 18 and up.
       objectReference: {fileID: 0}
     - target: {fileID: 8503423773277236794, guid: c85b28d3e2e443540933f905c954c98d,
         type: 3}

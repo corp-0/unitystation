@@ -97,6 +97,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
         type: 3}
+      propertyPath: _assetId
+      value: 184125398
+      objectReference: {fileID: 0}
+    - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
       propertyPath: m_AssetId
       value: d94457f7385d03049b1fe178e7f758a8
       objectReference: {fileID: 0}
@@ -117,5 +122,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c88f15765340e6d4fa015aaa7bfe82c6,
         type: 2}
+    - target: {fileID: 7510198461880636079, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
+      propertyPath: initialDescription
+      value: You can't understand the runes, but the packet smells funny.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2, type: 3}

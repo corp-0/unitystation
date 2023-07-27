@@ -29,6 +29,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
         type: 3}
+      propertyPath: _assetId
+      value: 667701264
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
       propertyPath: m_AssetId
       value: 7a2370ed5124e4897ba86392a2d9052b
       objectReference: {fileID: 0}
@@ -172,6 +177,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e76dc5fcc033af5429103750eb7be505,
         type: 2}
+    - target: {fileID: 7890908865026357812, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A pair of yellow rubber boots, designed to prevent slipping on wet surfaces.
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2180396187395717271, guid: 502f496beb9034b9b9c97868e845ed7e, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 502f496beb9034b9b9c97868e845ed7e, type: 3}
@@ -195,4 +205,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   runningSpeedDebuff: 1
   walkingSpeedDebuff: 0.5
+  SpeedDebuffRemoved: 0
   slot: 3

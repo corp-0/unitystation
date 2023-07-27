@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1970169885811908730, guid: e1b6777d67d2e244f8149d1eb84fc582,
+        type: 3}
+      propertyPath: initialDescription
+      value: A 7.12x82mm bullet casing designed with a hardened-tipped core to help
+        penetrate armored targets.
+      objectReference: {fileID: 0}
     - target: {fileID: 4003491813111447359, guid: e1b6777d67d2e244f8149d1eb84fc582,
         type: 3}
       propertyPath: foreverID
@@ -22,6 +28,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A 7.12x82mm bullet casing designed with a hardened-tipped core to help
         penetrate armored targets.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7971880326410833638, guid: e1b6777d67d2e244f8149d1eb84fc582,
+        type: 3}
+      propertyPath: _assetId
+      value: 750630947
       objectReference: {fileID: 0}
     - target: {fileID: 7971880326410833638, guid: e1b6777d67d2e244f8149d1eb84fc582,
         type: 3}

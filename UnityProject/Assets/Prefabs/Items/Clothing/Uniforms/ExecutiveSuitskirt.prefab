@@ -34,6 +34,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ddfe5111b6eb3424db048903e68d531d,
         type: 2}
+    - target: {fileID: 2423077874653365327, guid: 119a19b7af9f24a4eae413817fdef76d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A formal black suitskirt and red tie, intended for the station's finest.
+      objectReference: {fileID: 0}
     - target: {fileID: 5994170879913261061, guid: 119a19b7af9f24a4eae413817fdef76d,
         type: 3}
       propertyPath: initialName
@@ -43,6 +48,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A formal black suitskirt and red tie, intended for the station's finest.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6077112385209608915, guid: 119a19b7af9f24a4eae413817fdef76d,
+        type: 3}
+      propertyPath: _assetId
+      value: 29133995
       objectReference: {fileID: 0}
     - target: {fileID: 6077112385209608915, guid: 119a19b7af9f24a4eae413817fdef76d,
         type: 3}

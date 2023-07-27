@@ -41,6 +41,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2806690048445349940, guid: abff3ae0227731244b0814b2055fa6f0,
         type: 3}
+      propertyPath: _assetId
+      value: 506218109
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806690048445349940, guid: abff3ae0227731244b0814b2055fa6f0,
+        type: 3}
       propertyPath: m_AssetId
       value: 56207cafd3f8d8549b442fe7b1ad7777
       objectReference: {fileID: 0}
@@ -103,6 +108,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5982434261040148136, guid: abff3ae0227731244b0814b2055fa6f0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Uh oh!
       objectReference: {fileID: 0}
     - target: {fileID: 8223985327567078919, guid: abff3ae0227731244b0814b2055fa6f0,
         type: 3}

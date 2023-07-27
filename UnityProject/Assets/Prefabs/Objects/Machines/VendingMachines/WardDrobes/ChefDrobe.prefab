@@ -47,6 +47,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 2647376971
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: 50f2990836fbfa0409adf54bb1c6c87c
       objectReference: {fileID: 0}
@@ -122,6 +127,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: b214754b208e62b4089977ce356ebe64,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: This vending machine might not dispense meat, but it certainly dispenses
+        chef related clothing.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

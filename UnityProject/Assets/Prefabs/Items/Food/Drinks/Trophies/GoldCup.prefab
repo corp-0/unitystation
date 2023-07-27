@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 883443519858018821, guid: 8396fd38ae379ec468d261d584a05953,
+        type: 3}
+      propertyPath: initialDescription
+      value: You're winner!
+      objectReference: {fileID: 0}
     - target: {fileID: 2349382254331860288, guid: 8396fd38ae379ec468d261d584a05953,
         type: 3}
       propertyPath: foreverID
@@ -87,6 +92,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8769672626535343257, guid: 8396fd38ae379ec468d261d584a05953,
+        type: 3}
+      propertyPath: _assetId
+      value: 1449323329
       objectReference: {fileID: 0}
     - target: {fileID: 8769672626535343257, guid: 8396fd38ae379ec468d261d584a05953,
         type: 3}

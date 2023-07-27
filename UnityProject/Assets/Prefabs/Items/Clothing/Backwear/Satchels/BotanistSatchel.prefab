@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1379146600267112103, guid: a168a3bbdfd796d48bf524dd9bef1803,
+        type: 3}
+      propertyPath: initialDescription
+      value: A satchel made of all natural fibers.
+      objectReference: {fileID: 0}
     - target: {fileID: 3604887204119082504, guid: a168a3bbdfd796d48bf524dd9bef1803,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -50,6 +55,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: d7edd181e2de32744b35532c08395536,
         type: 3}
+    - target: {fileID: 7409841405138497595, guid: a168a3bbdfd796d48bf524dd9bef1803,
+        type: 3}
+      propertyPath: _assetId
+      value: 891403420
+      objectReference: {fileID: 0}
     - target: {fileID: 7409841405138497595, guid: a168a3bbdfd796d48bf524dd9bef1803,
         type: 3}
       propertyPath: m_AssetId

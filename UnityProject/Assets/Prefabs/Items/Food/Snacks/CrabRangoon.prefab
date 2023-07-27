@@ -112,6 +112,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
+      propertyPath: _assetId
+      value: 3297442515
+      objectReference: {fileID: 0}
+    - target: {fileID: 1400446589329289331, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
       propertyPath: m_AssetId
       value: 7769c3602197f1a489c7eda2addfaae0
       objectReference: {fileID: 0}
@@ -151,6 +156,12 @@ PrefabInstance:
         type: 3}
       propertyPath: StartingNutrients
       value: 563
+      objectReference: {fileID: 0}
+    - target: {fileID: 7393185702746791663, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
+      propertyPath: initialDescription
+      value: Has many names, like crab puffs, cheese won'tons, crab dumplings? Whatever
+        you call them, they're a fabulous blast of cream cheesy crab.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eaf8c1f2a0f9374488e16061fd5b4dcd, type: 3}

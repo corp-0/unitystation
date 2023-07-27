@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 3c635c1a747152345962a77b8a32b902
       objectReference: {fileID: 0}
+    - target: {fileID: 2425449579350024004, guid: c1f6076f8e09d6841a682007c710f04f,
+        type: 3}
+      propertyPath: initialDescription
+      value: It seems to be vibrating gently.
+      objectReference: {fileID: 0}
     - target: {fileID: 5612090779203469339, guid: c1f6076f8e09d6841a682007c710f04f,
         type: 3}
       propertyPath: seedPacket

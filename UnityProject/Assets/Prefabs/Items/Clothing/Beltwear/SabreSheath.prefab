@@ -27,6 +27,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 1764592290455851827, guid: 51c105fae1f0b074abf4c80745d8b129,
         type: 3}
+      propertyPath: _assetId
+      value: 1889685316
+      objectReference: {fileID: 0}
+    - target: {fileID: 1764592290455851827, guid: 51c105fae1f0b074abf4c80745d8b129,
+        type: 3}
       propertyPath: m_AssetId
       value: dae967f10ee14d84bb699350ef4f5cb7
       objectReference: {fileID: 0}
@@ -122,6 +127,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 85e773dee3f50f6458ce91564214f839,
         type: 2}
+    - target: {fileID: 7893590444240190895, guid: 51c105fae1f0b074abf4c80745d8b129,
+        type: 3}
+      propertyPath: initialDescription
+      value: An ornate sheath designed to hold an officer's blade.
+      objectReference: {fileID: 0}
     - target: {fileID: 7968275424856731504, guid: 51c105fae1f0b074abf4c80745d8b129,
         type: 3}
       propertyPath: clothData

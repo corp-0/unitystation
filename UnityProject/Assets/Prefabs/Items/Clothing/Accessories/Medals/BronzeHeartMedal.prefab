@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 986060116320561314, guid: 10346266394bdb54ca023bf71f4cd128,
         type: 3}
+      propertyPath: _assetId
+      value: 1921234075
+      objectReference: {fileID: 0}
+    - target: {fileID: 986060116320561314, guid: 10346266394bdb54ca023bf71f4cd128,
+        type: 3}
       propertyPath: m_AssetId
       value: 03562079bd70ef14a946653e3b6fa4a0
       objectReference: {fileID: 0}
@@ -100,5 +105,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 044947bf5496ee54cb6a0e492b8f6b41,
         type: 2}
+    - target: {fileID: 8672118183625131582, guid: 10346266394bdb54ca023bf71f4cd128,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bronze heart-shaped medal awarded for sacrifice. It is often awarded
+        posthumously or for severe injury in the line of duty.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10346266394bdb54ca023bf71f4cd128, type: 3}

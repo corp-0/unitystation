@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 282936738995214052, guid: 351fa36521ade244b9d7d66b21f7f333,
+        type: 3}
+      propertyPath: initialDescription
+      value: Bob Ross save us
+      objectReference: {fileID: 0}
     - target: {fileID: 2506717331081805387, guid: 351fa36521ade244b9d7d66b21f7f333,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -39,6 +44,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 64a685bf9e3c97d4fa7225dcf9b8f2e4,
         type: 3}
+    - target: {fileID: 8510550462711117944, guid: 351fa36521ade244b9d7d66b21f7f333,
+        type: 3}
+      propertyPath: _assetId
+      value: 1283390339
+      objectReference: {fileID: 0}
     - target: {fileID: 8510550462711117944, guid: 351fa36521ade244b9d7d66b21f7f333,
         type: 3}
       propertyPath: m_AssetId

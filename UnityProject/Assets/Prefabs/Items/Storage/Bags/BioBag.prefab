@@ -98,6 +98,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3433479011725450937, guid: a4904005b4f886143a41a4b3c99a6845,
         type: 3}
+      propertyPath: _assetId
+      value: 2192154529
+      objectReference: {fileID: 0}
+    - target: {fileID: 3433479011725450937, guid: a4904005b4f886143a41a4b3c99a6845,
+        type: 3}
       propertyPath: m_AssetId
       value: 65edb76df2eb9bf4384853861f92e3fa
       objectReference: {fileID: 0}
@@ -112,6 +117,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 35c2d87812413cf4c996161862900807,
         type: 2}
+    - target: {fileID: 6507867493661323301, guid: a4904005b4f886143a41a4b3c99a6845,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bag for the safe transportation and disposal of biowaste and other
+        biological materials.
+      objectReference: {fileID: 0}
     - target: {fileID: 8541259781182205792, guid: a4904005b4f886143a41a4b3c99a6845,
         type: 3}
       propertyPath: foreverID
@@ -143,12 +154,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: 8b742e817b3166d47949a64ea98175a8, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

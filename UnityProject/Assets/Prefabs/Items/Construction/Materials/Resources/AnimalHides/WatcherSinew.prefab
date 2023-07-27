@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f93972aa5a05a3441baf9401390908cb,
         type: 2}
+    - target: {fileID: 94447294824387351, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: initialDescription
+      value: Long stringy filaments which presumably came from a watcher's wings.
+      objectReference: {fileID: 0}
     - target: {fileID: 2335991647453887416, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -81,6 +86,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: Long stringy filaments which presumably came from a watcher's wings.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: _assetId
+      value: 497571852
       objectReference: {fileID: 0}
     - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}

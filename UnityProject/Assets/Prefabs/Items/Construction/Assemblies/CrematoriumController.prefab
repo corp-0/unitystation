@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1112274411039915797, guid: ce5401e036c8e774db7877d3328c7c22,
         type: 3}
+      propertyPath: _assetId
+      value: 3598543942
+      objectReference: {fileID: 0}
+    - target: {fileID: 1112274411039915797, guid: ce5401e036c8e774db7877d3328c7c22,
+        type: 3}
       propertyPath: m_AssetId
       value: d7846831f0c68db4588a7eb7e97e333b
       objectReference: {fileID: 0}
@@ -86,6 +91,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: d7846831f0c68db4588a7eb7e97e333b
+      objectReference: {fileID: 0}
+    - target: {fileID: 8834138693247914377, guid: ce5401e036c8e774db7877d3328c7c22,
+        type: 3}
+      propertyPath: initialDescription
+      value: An evil-looking remote controller for a crematorium.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce5401e036c8e774db7877d3328c7c22, type: 3}

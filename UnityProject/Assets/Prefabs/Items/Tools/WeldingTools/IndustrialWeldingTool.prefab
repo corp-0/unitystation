@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1485128146809005279, guid: b735ab74dab174a4f90c79558cd51e43,
+        type: 3}
+      propertyPath: initialDescription
+      value: A slightly larger welder with a larger tank.
+      objectReference: {fileID: 0}
     - target: {fileID: 3117172067951294432, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -148,6 +153,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: IndustrialWeldingTool
+      objectReference: {fileID: 0}
+    - target: {fileID: 7019565730922564163, guid: b735ab74dab174a4f90c79558cd51e43,
+        type: 3}
+      propertyPath: _assetId
+      value: 3631338135
       objectReference: {fileID: 0}
     - target: {fileID: 7019565730922564163, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}

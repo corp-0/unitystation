@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2109443883461650354, guid: cf8cf10a15398fd478c8f6f7677d6471,
         type: 3}
+      propertyPath: _assetId
+      value: 3173712123
+      objectReference: {fileID: 0}
+    - target: {fileID: 2109443883461650354, guid: cf8cf10a15398fd478c8f6f7677d6471,
+        type: 3}
       propertyPath: m_AssetId
       value: d054f614f6b4a5f4ca459b8191451049
       objectReference: {fileID: 0}
@@ -136,5 +141,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 9d1806ced6b1d0b4badce86892a12b76,
         type: 2}
+    - target: {fileID: 7543808584052836654, guid: cf8cf10a15398fd478c8f6f7677d6471,
+        type: 3}
+      propertyPath: initialDescription
+      value: A white winter coat hood. Feels surprisingly heavy. The tag says that
+        it's not child safe.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf8cf10a15398fd478c8f6f7677d6471, type: 3}

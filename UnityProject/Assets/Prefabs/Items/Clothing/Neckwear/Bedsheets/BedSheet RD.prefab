@@ -87,8 +87,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}
+      propertyPath: _assetId
+      value: 3920524732
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
       propertyPath: m_AssetId
       value: 3cb51053875fa6441a8ec33faa6c9c4c
+      objectReference: {fileID: 0}
+    - target: {fileID: 4798647905009580971, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
+      propertyPath: initialDescription
+      value: It appears to have a beaker emblem, and is made out of fire-resistant
+        material, although it probably won't protect you in the event of fires you're
+        familiar with every day.
       objectReference: {fileID: 0}
     - target: {fileID: 7186812133261251332, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}

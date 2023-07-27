@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ed5f2da4a7bae964aad727492bbca58a,
         type: 2}
+    - target: {fileID: 2153783398316133701, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+        type: 3}
+      propertyPath: initialDescription
+      value: Reminds you of hard booze and cholera.
+      objectReference: {fileID: 0}
     - target: {fileID: 3547700795691028992, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
         type: 3}
       propertyPath: foreverID
@@ -24,6 +29,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: cdc2f5e980f24d4479b62474f7dd40a6,
         type: 2}
+    - target: {fileID: 7500036475197416409, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+        type: 3}
+      propertyPath: _assetId
+      value: 1374738681
+      objectReference: {fileID: 0}
     - target: {fileID: 7500036475197416409, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
         type: 3}
       propertyPath: m_AssetId

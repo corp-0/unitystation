@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3676122640429376199, guid: e46ba34aab52d654787ef10d896b0874,
         type: 3}
+      propertyPath: _assetId
+      value: 17070505
+      objectReference: {fileID: 0}
+    - target: {fileID: 3676122640429376199, guid: e46ba34aab52d654787ef10d896b0874,
+        type: 3}
       propertyPath: m_AssetId
       value: 6fdb43db19eedc84ab031aa637204114
       objectReference: {fileID: 0}
@@ -120,6 +125,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d826281b4a2314b558681d69d7e7f5d2,
         type: 2}
+    - target: {fileID: 5112302362493013083, guid: e46ba34aab52d654787ef10d896b0874,
+        type: 3}
+      propertyPath: initialDescription
+      value: You wear this on your back and put items into it.
+      objectReference: {fileID: 0}
     - target: {fileID: 6900997446700812531, guid: e46ba34aab52d654787ef10d896b0874,
         type: 3}
       propertyPath: denyStorageOfStorageItems
@@ -156,12 +166,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: 7446f571b280c274f98c9d7ebb5407f7, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 61172890db55d3943b1a2a923ad33ce5
       objectReference: {fileID: 0}
+    - target: {fileID: 3019180995534070326, guid: 6912188aeedf08e4597674ede9f0c62d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A vibrant berry creamsicle. A berry good frozen treat.
+      objectReference: {fileID: 0}
     - target: {fileID: 3194054077450859374, guid: 6912188aeedf08e4597674ede9f0c62d,
         type: 3}
       propertyPath: NutritionLevel
@@ -43,6 +48,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A vibrant berry creamsicle. A berry good frozen treat.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6634071525805919402, guid: 6912188aeedf08e4597674ede9f0c62d,
+        type: 3}
+      propertyPath: _assetId
+      value: 3314891460
       objectReference: {fileID: 0}
     - target: {fileID: 6634071525805919402, guid: 6912188aeedf08e4597674ede9f0c62d,
         type: 3}

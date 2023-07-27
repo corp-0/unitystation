@@ -39,6 +39,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 2727bed1326d7b44c8baa7e3c964a2d6,
         type: 2}
+    - target: {fileID: 3804024679726463818, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a suit worn by those with the know-how to achieve the position
+        of "Research Director". Its fabric provides minor protection from biological
+        contaminants.
+      objectReference: {fileID: 0}
     - target: {fileID: 4658995992363608162, guid: de234d793cfd842599c9c8726207f217,
         type: 3}
       propertyPath: m_Name
@@ -118,6 +125,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Bomb
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: _assetId
+      value: 2017409236
       objectReference: {fileID: 0}
     - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
         type: 3}

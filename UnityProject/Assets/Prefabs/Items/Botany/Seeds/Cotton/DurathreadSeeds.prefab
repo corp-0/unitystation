@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3271957192379590778, guid: f93f1ab0ed9820742b43e07cb9375aec,
         type: 3}
+      propertyPath: _assetId
+      value: 4018279617
+      objectReference: {fileID: 0}
+    - target: {fileID: 3271957192379590778, guid: f93f1ab0ed9820742b43e07cb9375aec,
+        type: 3}
       propertyPath: m_AssetId
       value: b8be396d3c1443d4bb55d0cb034438df
       objectReference: {fileID: 0}
@@ -138,6 +143,12 @@ PrefabInstance:
         type: 3}
       propertyPath: plantData.MutatesInToGameObject.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6385803288981849830, guid: f93f1ab0ed9820742b43e07cb9375aec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A pack of seeds that'll grow into an extremely durable thread that could
+        easily rival plasteel if woven properly.
       objectReference: {fileID: 0}
     - target: {fileID: 8378630203332909475, guid: f93f1ab0ed9820742b43e07cb9375aec,
         type: 3}

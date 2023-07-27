@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1485128146809005279, guid: b735ab74dab174a4f90c79558cd51e43,
+        type: 3}
+      propertyPath: initialDescription
+      value: A miniature welder used during emergencies.
+      objectReference: {fileID: 0}
     - target: {fileID: 3871032415882939504, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -111,6 +116,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: EmergencyWeldingTool
+      objectReference: {fileID: 0}
+    - target: {fileID: 7019565730922564163, guid: b735ab74dab174a4f90c79558cd51e43,
+        type: 3}
+      propertyPath: _assetId
+      value: 1242921722
       objectReference: {fileID: 0}
     - target: {fileID: 7019565730922564163, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}

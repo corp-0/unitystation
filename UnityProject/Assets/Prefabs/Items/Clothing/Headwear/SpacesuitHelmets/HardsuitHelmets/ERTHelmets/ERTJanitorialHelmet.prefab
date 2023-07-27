@@ -52,12 +52,22 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 719457d499f98314994c46327b08fc63,
         type: 2}
+    - target: {fileID: 3403450207862577941, guid: 4870238ed625c0e45839e280fab63823,
+        type: 3}
+      propertyPath: initialDescription
+      value: The integrated helmet of an ERT hardsuit, this one has purple highlights.
+      objectReference: {fileID: 0}
     - target: {fileID: 6460420345527728993, guid: 4870238ed625c0e45839e280fab63823,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: b261c01719b9b454d87b4f716ff48bfc,
         type: 3}
+    - target: {fileID: 6543103638195795337, guid: 4870238ed625c0e45839e280fab63823,
+        type: 3}
+      propertyPath: _assetId
+      value: 1298759970
+      objectReference: {fileID: 0}
     - target: {fileID: 6543103638195795337, guid: 4870238ed625c0e45839e280fab63823,
         type: 3}
       propertyPath: m_AssetId

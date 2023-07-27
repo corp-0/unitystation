@@ -247,6 +247,12 @@ PrefabInstance:
       propertyPath: <AlternativePrefabName>k__BackingField
       value: light
       objectReference: {fileID: 0}
+    - target: {fileID: 7336963282444764258, guid: 81e4f93f9ae0fc64aad2053ade3ae29e,
+        type: 3}
+      propertyPath: initialDescription
+      value: Allows turned on lights to be replaced without burning your hands, and
+        allows you to fine tune the properties of lights.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81e4f93f9ae0fc64aad2053ade3ae29e, type: 3}
 --- !u!4 &686540928847996329 stripped

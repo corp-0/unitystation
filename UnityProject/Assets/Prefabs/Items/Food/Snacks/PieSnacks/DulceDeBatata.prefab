@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3107333849576633749, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}
+      propertyPath: _assetId
+      value: 2141573138
+      objectReference: {fileID: 0}
+    - target: {fileID: 3107333849576633749, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
       propertyPath: m_AssetId
       value: 0a36878b7d5196b45b592118937306fb
       objectReference: {fileID: 0}
@@ -89,6 +94,11 @@ PrefabInstance:
       value: dulce de batata
       objectReference: {fileID: 0}
     - target: {fileID: 3199482630336423747, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
+      propertyPath: initialDescription
+      value: A delicious jelly made with sweet potatoes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6839219976228231945, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}
       propertyPath: initialDescription
       value: A delicious jelly made with sweet potatoes.

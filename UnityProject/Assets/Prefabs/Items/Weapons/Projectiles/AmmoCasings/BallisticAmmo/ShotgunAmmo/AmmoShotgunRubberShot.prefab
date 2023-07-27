@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 136226853080657431, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A shotgun casing filled with densely-packed rubber balls, used to incapacitate
+        crowds from a distance.
+      objectReference: {fileID: 0}
     - target: {fileID: 2361978366132242104, guid: b564e5d916b891446903adc342af08bd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -28,6 +34,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A shotgun casing filled with densely-packed rubber balls, used to incapacitate
         crowds from a distance.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: _assetId
+      value: 2718151514
       objectReference: {fileID: 0}
     - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
         type: 3}

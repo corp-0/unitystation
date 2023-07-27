@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 508c03f2fa38c6a49961b318e6ac8362,
         type: 2}
+    - target: {fileID: 4486896210094938310, guid: 0bf643131a7f0e3469673a5d636ae7c2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A baked cheese wheel, melty and delicious.
+      objectReference: {fileID: 0}
     - target: {fileID: 5248898813661509810, guid: 0bf643131a7f0e3469673a5d636ae7c2,
         type: 3}
       propertyPath: m_Sprite
@@ -83,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5454445933680424538, guid: 0bf643131a7f0e3469673a5d636ae7c2,
+        type: 3}
+      propertyPath: _assetId
+      value: 3927608593
       objectReference: {fileID: 0}
     - target: {fileID: 5454445933680424538, guid: 0bf643131a7f0e3469673a5d636ae7c2,
         type: 3}

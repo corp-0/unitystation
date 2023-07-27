@@ -50,6 +50,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2648266232423228038, guid: 2e6f2ff9beb985749940d242877d84f0,
         type: 3}
+      propertyPath: _assetId
+      value: 1636578727
+      objectReference: {fileID: 0}
+    - target: {fileID: 2648266232423228038, guid: 2e6f2ff9beb985749940d242877d84f0,
+        type: 3}
       propertyPath: m_AssetId
       value: 7565228022b9e5643905aed9a7302328
       objectReference: {fileID: 0}
@@ -125,6 +130,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c9191e040f023ed4fb5eb384a338f1b1,
         type: 2}
+    - target: {fileID: 5851924012462410778, guid: 2e6f2ff9beb985749940d242877d84f0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A fragile moth left leg.
+      objectReference: {fileID: 0}
     - target: {fileID: 8075695979122336949, guid: 2e6f2ff9beb985749940d242877d84f0,
         type: 3}
       propertyPath: PresentSpriteSet

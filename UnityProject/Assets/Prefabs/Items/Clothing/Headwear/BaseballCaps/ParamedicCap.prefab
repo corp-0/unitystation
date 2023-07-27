@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 788649a7f84574c48a54361479106732,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a baseball hat with a dark turquoise color and a reflective cross
+        on the top.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 788649a7f84574c48a54361479106732,
         type: 3}
       propertyPath: foreverID
@@ -40,6 +46,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 20a67eff667dd7b46bd501d7b2670b1e,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: 788649a7f84574c48a54361479106732,
+        type: 3}
+      propertyPath: _assetId
+      value: 1643271456
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 788649a7f84574c48a54361479106732,
         type: 3}
       propertyPath: m_AssetId

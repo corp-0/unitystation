@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 159418868575386266, guid: c432d0b09f765e440a39dea62e9a423e,
         type: 3}
+      propertyPath: _assetId
+      value: 308889396
+      objectReference: {fileID: 0}
+    - target: {fileID: 159418868575386266, guid: c432d0b09f765e440a39dea62e9a423e,
+        type: 3}
       propertyPath: m_AssetId
       value: 540792c5f97893c4eb13668a623fcc5f
       objectReference: {fileID: 0}
@@ -195,5 +200,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 9d86148ef307fd64ab563d79dede2e35,
         type: 2}
+    - target: {fileID: 8629146908414645254, guid: c432d0b09f765e440a39dea62e9a423e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A white winter coat with reflective green and yellow stripes. Stuffed
+        with asbestos, treated with fire retardant PBDE, lined with a micro thin
+        sheet of lead foil and snugly fitted to your body's measurements. This baby's
+        ready to save you from anything except the thyroid cancer and systemic fibrosis
+        you'll get from wearing it. The zipper tab is a tiny golden wrench.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c432d0b09f765e440a39dea62e9a423e, type: 3}

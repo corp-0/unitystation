@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3022557335325303025, guid: f0108676c1bf82d41a7c4efdfc660dc0,
         type: 3}
+      propertyPath: _assetId
+      value: 817362580
+      objectReference: {fileID: 0}
+    - target: {fileID: 3022557335325303025, guid: f0108676c1bf82d41a7c4efdfc660dc0,
+        type: 3}
       propertyPath: m_AssetId
       value: e275b4076a6fc414583fa344a4177552
       objectReference: {fileID: 0}
@@ -142,6 +147,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 7891588707496553622, guid: ab1442ccdc53ec149820ae45ec942a3a,
         type: 3}
+    - target: {fileID: 6630699535671348845, guid: f0108676c1bf82d41a7c4efdfc660dc0,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'Plumus Hellmus: Plump, soft and s-so inviting~'
+      objectReference: {fileID: 0}
     - target: {fileID: 8132598906308874536, guid: f0108676c1bf82d41a7c4efdfc660dc0,
         type: 3}
       propertyPath: foreverID

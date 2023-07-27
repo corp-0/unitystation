@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 77556be90466a4737b39e556f8ff1d41,
+        type: 3}
+      propertyPath: initialDescription
+      value: A special armored campaign hat with the security insignia emblazoned
+        on it. Uses reinforced fabric to offer sufficient protection.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 77556be90466a4737b39e556f8ff1d41,
         type: 3}
       propertyPath: foreverID
@@ -34,6 +40,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: dbe9fb49203c9c24d9b91cc091384033,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: 77556be90466a4737b39e556f8ff1d41,
+        type: 3}
+      propertyPath: _assetId
+      value: 1701852865
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 77556be90466a4737b39e556f8ff1d41,
         type: 3}
       propertyPath: m_AssetId

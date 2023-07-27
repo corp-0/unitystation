@@ -84,6 +84,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 986060116320561314, guid: 10346266394bdb54ca023bf71f4cd128,
         type: 3}
+      propertyPath: _assetId
+      value: 3225928494
+      objectReference: {fileID: 0}
+    - target: {fileID: 986060116320561314, guid: 10346266394bdb54ca023bf71f4cd128,
+        type: 3}
       propertyPath: m_AssetId
       value: b5b82a5784598df4984e98d1b8239329
       objectReference: {fileID: 0}
@@ -104,5 +109,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: df1f9c44deafcbb44a3f163abc860c5d,
         type: 2}
+    - target: {fileID: 8672118183625131582, guid: 10346266394bdb54ca023bf71f4cd128,
+        type: 3}
+      propertyPath: initialDescription
+      value: An eccentric medal made of plasma.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10346266394bdb54ca023bf71f4cd128, type: 3}

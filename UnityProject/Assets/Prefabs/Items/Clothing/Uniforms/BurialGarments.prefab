@@ -39,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 043166a89018117479211155acbce5f9,
         type: 2}
+    - target: {fileID: 3804024679726463818, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: initialDescription
+      value: Traditional burial garments from the early 22nd century.
+      objectReference: {fileID: 0}
     - target: {fileID: 4658995992363608162, guid: de234d793cfd842599c9c8726207f217,
         type: 3}
       propertyPath: m_Name
@@ -103,6 +108,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: _assetId
+      value: 3952624517
       objectReference: {fileID: 0}
     - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
         type: 3}

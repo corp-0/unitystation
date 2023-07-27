@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 48075f8cb0786a247b377be9ae33f774
       objectReference: {fileID: 0}
+    - target: {fileID: 3532421165250911315, guid: 1e86836ca86312b47b6c5416bd8426f1,
+        type: 3}
+      propertyPath: initialDescription
+      value: A potent chemical mix that will give a slime core an additional use
+      objectReference: {fileID: 0}
     - target: {fileID: 4866909607520428057, guid: 1e86836ca86312b47b6c5416bd8426f1,
         type: 3}
       propertyPath: initialName

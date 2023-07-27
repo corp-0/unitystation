@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3578522913692291626, guid: 1196c3867e61e9e49973dcb106b0a977,
         type: 3}
+      propertyPath: _assetId
+      value: 1282014603
+      objectReference: {fileID: 0}
+    - target: {fileID: 3578522913692291626, guid: 1196c3867e61e9e49973dcb106b0a977,
+        type: 3}
       propertyPath: m_AssetId
       value: 78421020f3046494d83a50667724ef36
       objectReference: {fileID: 0}
@@ -103,6 +108,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f9a760a0a4fcd784999416fc7d519f16,
         type: 2}
+    - target: {fileID: 4926878997920398518, guid: 1196c3867e61e9e49973dcb106b0a977,
+        type: 3}
+      propertyPath: initialDescription
+      value: Looks like a circuit. Probably is.
+      objectReference: {fileID: 0}
     - target: {fileID: 7532265830037070835, guid: 1196c3867e61e9e49973dcb106b0a977,
         type: 3}
       propertyPath: foreverID
@@ -128,4 +138,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c90bcd903792fa459451cefa210a434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentAccess: 49
+  currentClearance: 12

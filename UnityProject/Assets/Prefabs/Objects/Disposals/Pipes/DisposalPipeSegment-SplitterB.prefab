@@ -109,6 +109,12 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558787617631677022, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
+        type: 3}
+      propertyPath: initialDescription
+      value: A splitting segment of disposal pipe that has a large cross-section.
+        Could you fit in this?
+      objectReference: {fileID: 0}
     - target: {fileID: 5066112798346183791, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: disposalPipeTileUp
@@ -139,6 +145,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 40c2c9f24cf955949bff3df466aaae33,
         type: 2}
+    - target: {fileID: 7094281925372949223, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
+        type: 3}
+      propertyPath: _assetId
+      value: 1691209901
+      objectReference: {fileID: 0}
     - target: {fileID: 7094281925372949223, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: m_AssetId

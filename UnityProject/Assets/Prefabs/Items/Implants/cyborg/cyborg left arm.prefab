@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1719022311833286670, guid: 0af3fb6f8543f0b4b914da932bd18ea0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Standard cyborg arm. This one is a left arm.
+      objectReference: {fileID: 0}
     - target: {fileID: 3963069789698429089, guid: 0af3fb6f8543f0b4b914da932bd18ea0,
         type: 3}
       propertyPath: PresentSpriteSet

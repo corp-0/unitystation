@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1866186239178702782, guid: ab1442ccdc53ec149820ae45ec942a3a,
+        type: 3}
+      propertyPath: initialDescription
+      value: This mycelium will grow into huge stuff!
+      objectReference: {fileID: 0}
     - target: {fileID: 3836565479812194555, guid: ab1442ccdc53ec149820ae45ec942a3a,
         type: 3}
       propertyPath: foreverID
@@ -27,6 +32,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: This mycelium will grow into huge stuff!
+      objectReference: {fileID: 0}
+    - target: {fileID: 7786929940589367586, guid: ab1442ccdc53ec149820ae45ec942a3a,
+        type: 3}
+      propertyPath: _assetId
+      value: 1897230645
       objectReference: {fileID: 0}
     - target: {fileID: 7786929940589367586, guid: ab1442ccdc53ec149820ae45ec942a3a,
         type: 3}

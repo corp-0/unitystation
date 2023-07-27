@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3ade30a1cf3c5bd43b405462115f25a9,
         type: 2}
+    - target: {fileID: 2968664142878122032, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tile made out of bananium, HOOOOOOOOONK!
+      objectReference: {fileID: 0}
     - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: waysToPlace.Array.size
@@ -72,6 +77,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 43c2cfcaf747e7b45b11f3648aedfb1f,
         type: 2}
+    - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: _assetId
+      value: 3844886445
+      objectReference: {fileID: 0}
     - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: m_AssetId

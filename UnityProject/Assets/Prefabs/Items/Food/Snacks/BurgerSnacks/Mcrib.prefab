@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1381682031583824400, guid: 4bf8c38cb85116e4babedf03228412de,
+        type: 3}
+      propertyPath: initialDescription
+      value: An elusive rib shaped burger with limited availablity across the galaxy.
+        Not as good as you remember it.
+      objectReference: {fileID: 0}
     - target: {fileID: 1628471418149378888, guid: 4bf8c38cb85116e4babedf03228412de,
         type: 3}
       propertyPath: consumeTime
@@ -44,6 +50,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7411242208336094348, guid: 4bf8c38cb85116e4babedf03228412de,
+        type: 3}
+      propertyPath: _assetId
+      value: 2606969489
       objectReference: {fileID: 0}
     - target: {fileID: 7411242208336094348, guid: 4bf8c38cb85116e4babedf03228412de,
         type: 3}

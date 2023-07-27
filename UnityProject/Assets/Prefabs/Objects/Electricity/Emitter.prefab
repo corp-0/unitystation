@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 785692926240997882, guid: f9025da3beb40304cb15babfc0a6cafa,
+        type: 3}
+      propertyPath: initialDescription
+      value: Emitter a high power laser beam when powered
+      objectReference: {fileID: 0}
     - target: {fileID: 1548266987274834536, guid: f9025da3beb40304cb15babfc0a6cafa,
         type: 3}
       propertyPath: foreverID
@@ -347,6 +352,7 @@ MonoBehaviour:
   projectilePrefab: {fileID: 3294328072042417454, guid: cb2dd6c06a988d947b53d2dcf0ec9575,
     type: 3}
   startSetUp: 0
+  startOn: 0
   alwaysShoot: 0
   minVoltage: 1500
   sound:

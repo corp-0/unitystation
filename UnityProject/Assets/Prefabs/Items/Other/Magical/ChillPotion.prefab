@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: c54e23bbe891b544f8c6caacf8b8f063
       objectReference: {fileID: 0}
+    - target: {fileID: 3532421165250911315, guid: 1e86836ca86312b47b6c5416bd8426f1,
+        type: 3}
+      propertyPath: initialDescription
+      value: A potent chemical mix that will fireproof any article of clothing. Has
+        three uses.
+      objectReference: {fileID: 0}
     - target: {fileID: 4866909607520428057, guid: 1e86836ca86312b47b6c5416bd8426f1,
         type: 3}
       propertyPath: initialName
@@ -121,3 +127,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AppliedItemTrait: {fileID: 11400000, guid: 501676ced0c053f4ba1a735f99b58bd4, type: 2}
+  PotionColour: {r: 0.23529412, g: 0.53725, b: 0.8156863, a: 1}

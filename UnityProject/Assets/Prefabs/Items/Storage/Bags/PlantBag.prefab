@@ -97,6 +97,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3433479011725450937, guid: a4904005b4f886143a41a4b3c99a6845,
         type: 3}
+      propertyPath: _assetId
+      value: 1307530985
+      objectReference: {fileID: 0}
+    - target: {fileID: 3433479011725450937, guid: a4904005b4f886143a41a4b3c99a6845,
+        type: 3}
       propertyPath: m_AssetId
       value: c9970b39137b47b4e8e1f06443af3ca7
       objectReference: {fileID: 0}
@@ -111,6 +116,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5eab8c1c42b3fd4e4b5ac63a854f020a,
         type: 2}
+    - target: {fileID: 6507867493661323301, guid: a4904005b4f886143a41a4b3c99a6845,
+        type: 3}
+      propertyPath: initialDescription
+      value: For holding greens!
+      objectReference: {fileID: 0}
     - target: {fileID: 8541259781182205792, guid: a4904005b4f886143a41a4b3c99a6845,
         type: 3}
       propertyPath: foreverID
@@ -142,12 +152,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: d7433608738f695448eafa7e54e7a565, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

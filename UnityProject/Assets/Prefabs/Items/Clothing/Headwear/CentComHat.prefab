@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 97b4b6e6d0aac46f6ad3fb58fb826008,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's good to be emperor.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 97b4b6e6d0aac46f6ad3fb58fb826008,
         type: 3}
       propertyPath: foreverID
@@ -34,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5c0abe25d9b2ea5478723510acf05329,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: 97b4b6e6d0aac46f6ad3fb58fb826008,
+        type: 3}
+      propertyPath: _assetId
+      value: 2544984693
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 97b4b6e6d0aac46f6ad3fb58fb826008,
         type: 3}
       propertyPath: m_AssetId

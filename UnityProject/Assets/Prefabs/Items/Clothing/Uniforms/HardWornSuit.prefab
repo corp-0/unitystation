@@ -45,6 +45,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8b482cab10e6ebf4087da59dea138c14,
         type: 2}
+    - target: {fileID: 3804024679726463818, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: initialDescription
+      value: Someone who wears this means business.
+      objectReference: {fileID: 0}
     - target: {fileID: 4658995992363608162, guid: de234d793cfd842599c9c8726207f217,
         type: 3}
       propertyPath: m_Name
@@ -124,6 +129,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Melee
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: _assetId
+      value: 3528560412
       objectReference: {fileID: 0}
     - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
         type: 3}

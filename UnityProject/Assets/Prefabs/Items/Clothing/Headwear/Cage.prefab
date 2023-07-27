@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: d3d950d792abb79fba51d3166022f581,
+        type: 3}
+      propertyPath: initialDescription
+      value: A cage that restrains the will of the self, allowing one to see the
+        profane world for what it is.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: d3d950d792abb79fba51d3166022f581,
         type: 3}
       propertyPath: foreverID
@@ -44,6 +50,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 9be6ccf73249dc349b062115b73d6b47,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: d3d950d792abb79fba51d3166022f581,
+        type: 3}
+      propertyPath: _assetId
+      value: 1036991602
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: d3d950d792abb79fba51d3166022f581,
         type: 3}
       propertyPath: m_AssetId

@@ -78,6 +78,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: feec062ff875fe54d95812aa42dfe4f8
       objectReference: {fileID: 0}
+    - target: {fileID: 4359852835674094681, guid: d867a6391836ada4ab3327716b7dc931,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used for watching an empty arena.
+      objectReference: {fileID: 0}
     - target: {fileID: 4410169746923948576, guid: d867a6391836ada4ab3327716b7dc931,
         type: 3}
       propertyPath: m_IsActive
@@ -99,6 +104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: spriteHandlers.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7041006315059274976, guid: d867a6391836ada4ab3327716b7dc931,
+        type: 3}
+      propertyPath: _assetId
+      value: 1380874689
       objectReference: {fileID: 0}
     - target: {fileID: 7041006315059274976, guid: d867a6391836ada4ab3327716b7dc931,
         type: 3}

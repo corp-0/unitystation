@@ -34,6 +34,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 86532817e290feb439642503e77d53bc,
         type: 2}
+    - target: {fileID: 3207528084556292477, guid: 7620c1f80fbe6f14d9fd21f5db20cb7b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A mask carved out of wood, detailed carefully by hand.
+      objectReference: {fileID: 0}
     - target: {fileID: 6404652678407139925, guid: 7620c1f80fbe6f14d9fd21f5db20cb7b,
         type: 3}
       propertyPath: m_Name
@@ -93,6 +98,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6446287369552793569, guid: 7620c1f80fbe6f14d9fd21f5db20cb7b,
+        type: 3}
+      propertyPath: _assetId
+      value: 44449762
       objectReference: {fileID: 0}
     - target: {fileID: 6446287369552793569, guid: 7620c1f80fbe6f14d9fd21f5db20cb7b,
         type: 3}

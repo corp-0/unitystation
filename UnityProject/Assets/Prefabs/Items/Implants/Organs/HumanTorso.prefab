@@ -774,6 +774,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6008882450192898690, guid: e241039a7933eb347bd1a9bb67a9078a,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's impolite to stare at a person's chest.
+      objectReference: {fileID: 0}
     - target: {fileID: 8234622556944347693, guid: e241039a7933eb347bd1a9bb67a9078a,
         type: 3}
       propertyPath: PresentSpriteSet

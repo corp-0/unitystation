@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 04fe79f5ec3c43e439558f6427d80cbe,
         type: 2}
+    - target: {fileID: 3381847866449666429, guid: 4e6de775cebea9d4b959e8aea5b25b74,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow to produce berries that look a lot like eggs
+      objectReference: {fileID: 0}
     - target: {fileID: 5579992024541571308, guid: 4e6de775cebea9d4b959e8aea5b25b74,
         type: 3}
       propertyPath: plantData.Lifespan
@@ -115,6 +120,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6563997893114204129, guid: 4e6de775cebea9d4b959e8aea5b25b74,
+        type: 3}
+      propertyPath: _assetId
+      value: 2636709308
       objectReference: {fileID: 0}
     - target: {fileID: 6563997893114204129, guid: 4e6de775cebea9d4b959e8aea5b25b74,
         type: 3}

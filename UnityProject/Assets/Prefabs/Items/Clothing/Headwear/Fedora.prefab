@@ -90,6 +90,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 2864211112
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: 59b6ec971c7da824b83117e8faa53db3
       objectReference: {fileID: 0}
@@ -125,5 +130,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: bc07965ea467ec04c9eaf9a79b450022,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: A really cool hat if you're a mobster. A really lame hat if you're not.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

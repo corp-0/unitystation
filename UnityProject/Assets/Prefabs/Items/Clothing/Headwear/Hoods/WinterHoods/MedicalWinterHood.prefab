@@ -24,6 +24,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: f20181605e8d37a4b84ed0090f6d8432
       objectReference: {fileID: 0}
+    - target: {fileID: 2538461622751989417, guid: 211616cbdb7012b4eb5b07baff781d16,
+        type: 3}
+      propertyPath: initialDescription
+      value: A white winter coat hood with blue markings.
+      objectReference: {fileID: 0}
     - target: {fileID: 5887752484129272547, guid: 211616cbdb7012b4eb5b07baff781d16,
         type: 3}
       propertyPath: initialName
@@ -54,6 +59,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Fire
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6254603353582542901, guid: 211616cbdb7012b4eb5b07baff781d16,
+        type: 3}
+      propertyPath: _assetId
+      value: 4277271642
       objectReference: {fileID: 0}
     - target: {fileID: 6254603353582542901, guid: 211616cbdb7012b4eb5b07baff781d16,
         type: 3}

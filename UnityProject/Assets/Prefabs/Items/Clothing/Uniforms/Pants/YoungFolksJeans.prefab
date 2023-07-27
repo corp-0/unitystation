@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: db6925c2066e4fb49a396bacd6dc7552,
         type: 3}
+      propertyPath: _assetId
+      value: 1122228508
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: db6925c2066e4fb49a396bacd6dc7552,
+        type: 3}
       propertyPath: m_AssetId
       value: 87753f1b643066f4a8ee45b19f6c2712
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: Young Folks jeans
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: db6925c2066e4fb49a396bacd6dc7552,
+        type: 3}
+      propertyPath: initialDescription
+      value: For those tired of boring old jeans. Relive the passion of your youth!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: db6925c2066e4fb49a396bacd6dc7552,
         type: 3}
       propertyPath: initialDescription
       value: For those tired of boring old jeans. Relive the passion of your youth!

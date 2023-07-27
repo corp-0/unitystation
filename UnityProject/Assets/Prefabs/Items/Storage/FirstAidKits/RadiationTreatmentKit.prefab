@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 267093757808967282, guid: d0eb5dacbdcd4844e8c76aabde50434f,
+        type: 3}
+      propertyPath: initialDescription
+      value: Useful for treating the effects of radiation
+      objectReference: {fileID: 0}
     - target: {fileID: 2490630288303511261, guid: d0eb5dacbdcd4844e8c76aabde50434f,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -46,6 +51,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 8803b1c89cbbd884abe016c18bde7a78,
         type: 3}
+    - target: {fileID: 8521467601672753390, guid: d0eb5dacbdcd4844e8c76aabde50434f,
+        type: 3}
+      propertyPath: _assetId
+      value: 538427871
+      objectReference: {fileID: 0}
     - target: {fileID: 8521467601672753390, guid: d0eb5dacbdcd4844e8c76aabde50434f,
         type: 3}
       propertyPath: m_AssetId

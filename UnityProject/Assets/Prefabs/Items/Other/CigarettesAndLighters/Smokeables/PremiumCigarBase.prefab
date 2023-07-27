@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1275951428261943363, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A brown roll of tobacco and... well, you're not quite sure. This thing's
+        huge!
+      objectReference: {fileID: 0}
     - target: {fileID: 3499719427789762796, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -74,6 +80,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d0f658d5e048c3740826ea1f66b0d011,
         type: 2}
+    - target: {fileID: 7224806146168436447, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+        type: 3}
+      propertyPath: _assetId
+      value: 2374332317
+      objectReference: {fileID: 0}
     - target: {fileID: 7224806146168436447, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: m_AssetId

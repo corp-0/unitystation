@@ -51,6 +51,11 @@ PrefabInstance:
       objectReference: {fileID: 2049545656261771638}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 1834948815
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: e918b0f3bdc465242a46bd7ad253de9b
       objectReference: {fileID: 0}
@@ -126,6 +131,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d254b1c14e913824fbf0af744962e956,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: An unsterilized machine for dispending virology related clothing.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

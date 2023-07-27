@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 79559197284412699, guid: b87ebcdea6fb0dd49b0fbcf1b308c159,
+        type: 3}
+      propertyPath: initialDescription
+      value: A severed lizard tail. Somewhere, no doubt, a lizard hater is very pleased
+        with themselves.
+      objectReference: {fileID: 0}
     - target: {fileID: 3297364101944848990, guid: b87ebcdea6fb0dd49b0fbcf1b308c159,
         type: 3}
       propertyPath: foreverID
@@ -96,6 +102,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A severed lizard tail. Somewhere, no doubt, a lizard hater is very pleased
         with themselves.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8425139041998570375, guid: b87ebcdea6fb0dd49b0fbcf1b308c159,
+        type: 3}
+      propertyPath: _assetId
+      value: 2369206552
       objectReference: {fileID: 0}
     - target: {fileID: 8425139041998570375, guid: b87ebcdea6fb0dd49b0fbcf1b308c159,
         type: 3}

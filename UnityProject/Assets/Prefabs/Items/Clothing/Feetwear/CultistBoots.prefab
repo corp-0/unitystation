@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
         type: 3}
+      propertyPath: _assetId
+      value: 1615812025
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
       propertyPath: m_AssetId
       value: 6c9425f0b5642004bb0cf91196c9263d
       objectReference: {fileID: 0}
@@ -115,5 +120,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 83b6a3f9edebb774c8a45a0cf42a4fa2,
         type: 2}
+    - target: {fileID: 7890908865026357812, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A pair of boots worn by the followers of Nar'Sie.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 502f496beb9034b9b9c97868e845ed7e, type: 3}

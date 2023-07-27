@@ -19,6 +19,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
+      propertyPath: _assetId
+      value: 1164395856
+      objectReference: {fileID: 0}
+    - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
       propertyPath: m_AssetId
       value: 56c2043ee23a6ab4192f2e8f4d8c3ff6
       objectReference: {fileID: 0}
@@ -104,5 +109,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: b1c201785be471a47b6c47389099cde8,
         type: 2}
+    - target: {fileID: 7577121754099152834, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A slice of the most cheezy pizza in galaxy.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48bd1ae82f15544478352338b47f67e6, type: 3}

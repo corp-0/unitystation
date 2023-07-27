@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
         type: 3}
+      propertyPath: _assetId
+      value: 3023534094
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
       propertyPath: m_AssetId
       value: 3e5e43af50c3e4b2d9b5e5ccbbde3ea2
       objectReference: {fileID: 0}
@@ -125,5 +130,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 111a8d2c35cb36547887de9c960740a5,
         type: 2}
+    - target: {fileID: 7890908865026357812, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: The height of fashion, and they're pre-polished!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 502f496beb9034b9b9c97868e845ed7e, type: 3}

@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2278709885361838553, guid: d70fb70bc4fe6534a85996e49221bb53,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tutorial in mummification is carved into the staff. You could probably
+        craft the wraps if you had some cloth.
+      objectReference: {fileID: 0}
     - target: {fileID: 3695110123352835740, guid: d70fb70bc4fe6534a85996e49221bb53,
         type: 3}
       propertyPath: foreverID
@@ -24,6 +30,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: f4a8542084da12046959a9d524c0744f,
         type: 3}
+    - target: {fileID: 7667703169655306053, guid: d70fb70bc4fe6534a85996e49221bb53,
+        type: 3}
+      propertyPath: _assetId
+      value: 1186705262
+      objectReference: {fileID: 0}
     - target: {fileID: 7667703169655306053, guid: d70fb70bc4fe6534a85996e49221bb53,
         type: 3}
       propertyPath: m_AssetId

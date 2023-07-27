@@ -132,6 +132,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: cf177927bccd83f4383a2ac1559fdda6,
         type: 3}
+    - target: {fileID: 5310784437401147974, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A self recharging, ranged mining tool that does increased damage in
+        low pressure.
+      objectReference: {fileID: 0}
     - target: {fileID: 6227234703256324225, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
       propertyPath: m_IsActive

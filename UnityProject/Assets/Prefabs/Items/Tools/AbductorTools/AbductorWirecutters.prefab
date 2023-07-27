@@ -109,6 +109,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 845144e750ee5a148a744a5e87e974c2,
         type: 2}
+    - target: {fileID: 7925141613747255529, guid: 3266ceefb65da2f4cb4bbfd297415ad5,
+        type: 3}
+      propertyPath: initialDescription
+      value: Extremely sharp wirecutters, made out of a silvery-green metal.
+      objectReference: {fileID: 0}
     - target: {fileID: 8908459946260862267, guid: 3266ceefb65da2f4cb4bbfd297415ad5,
         type: 3}
       propertyPath: SpeedMultiplier

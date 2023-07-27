@@ -181,6 +181,11 @@ PrefabInstance:
       propertyPath: <AlternativePrefabName>k__BackingField
       value: gun
       objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a gun. It's pretty terrible, though.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}
 --- !u!1 &8150840225578731674 stripped

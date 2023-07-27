@@ -191,6 +191,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4770047258275636917
 GameObject:
   m_ObjectHideFlags: 0
@@ -331,6 +334,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6856492196138066528
 GameObject:
   m_ObjectHideFlags: 0
@@ -437,6 +443,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &8704332902418867922
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -586,6 +595,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 68a3eee06f0a8cf4da5d8ab811ce1c73
+      objectReference: {fileID: 0}
+    - target: {fileID: 6688559072007500801, guid: a7af28adb717b4c44b8b2002b27670bd,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a basic storage unit.
       objectReference: {fileID: 0}
     - target: {fileID: 8371364824666529536, guid: a7af28adb717b4c44b8b2002b27670bd,
         type: 3}

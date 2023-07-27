@@ -96,6 +96,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
+      propertyPath: _assetId
+      value: 2780360072
+      objectReference: {fileID: 0}
+    - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
       propertyPath: m_AssetId
       value: 7fd11f09765590540b2685a0dfa2b8ea
       objectReference: {fileID: 0}
@@ -165,6 +170,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 7ff9b33435841a54cac3a5d90c8cf4af,
         type: 3}
+    - target: {fileID: 5310784437401147974, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A basic energy-based laser gun that fires concentrated beams of light
+        which pass through glass and thin metal.
+      objectReference: {fileID: 0}
     - target: {fileID: 5785640420543790341, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
       propertyPath: m_RootOrder

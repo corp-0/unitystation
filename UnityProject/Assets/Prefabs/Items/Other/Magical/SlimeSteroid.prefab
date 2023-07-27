@@ -12,6 +12,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: 174a60b83f7a16e429aef53ef61c652a
       objectReference: {fileID: 0}
+    - target: {fileID: 3532421165250911315, guid: 1e86836ca86312b47b6c5416bd8426f1,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'a potent chemical mix that will cause a slime to produce one more extract
+        when processed, for a maximum of four extra. The steroid only works on live
+        slimes. '
+      objectReference: {fileID: 0}
     - target: {fileID: 4866909607520428057, guid: 1e86836ca86312b47b6c5416bd8426f1,
         type: 3}
       propertyPath: initialName

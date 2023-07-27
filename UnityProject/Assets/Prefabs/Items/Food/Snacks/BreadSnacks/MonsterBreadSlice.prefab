@@ -36,6 +36,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2206326841797731583, guid: 5f01f5a34b9c216449c31cf35a77e2da,
         type: 3}
+      propertyPath: _assetId
+      value: 1771014246
+      objectReference: {fileID: 0}
+    - target: {fileID: 2206326841797731583, guid: 5f01f5a34b9c216449c31cf35a77e2da,
+        type: 3}
       propertyPath: m_AssetId
       value: ead79bbdc5f3b1a4e98720c2c151dcf0
       objectReference: {fileID: 0}
@@ -121,5 +126,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a11ab7a8e3ad9a743a58b7f6779f9601,
         type: 2}
+    - target: {fileID: 7739664021168212579, guid: 5f01f5a34b9c216449c31cf35a77e2da,
+        type: 3}
+      propertyPath: initialDescription
+      value: A worringly soggy and spiky slice of monster bread.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5f01f5a34b9c216449c31cf35a77e2da, type: 3}

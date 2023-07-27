@@ -34,6 +34,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8ed49c3f0be12e94ebddd7745c2a7c4d,
         type: 2}
+    - target: {fileID: 3958496978141305216, guid: 64a0d2d91b5c1d24596fcac46075e587,
+        type: 3}
+      propertyPath: initialDescription
+      value: A blue, casual skirt.
+      objectReference: {fileID: 0}
     - target: {fileID: 4646613081342081524, guid: 64a0d2d91b5c1d24596fcac46075e587,
         type: 3}
       propertyPath: m_Sprite
@@ -99,6 +104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4835130963128809244, guid: 64a0d2d91b5c1d24596fcac46075e587,
+        type: 3}
+      propertyPath: _assetId
+      value: 537393430
       objectReference: {fileID: 0}
     - target: {fileID: 4835130963128809244, guid: 64a0d2d91b5c1d24596fcac46075e587,
         type: 3}

@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: d70fb70bc4fe6534a85996e49221bb53
       objectReference: {fileID: 0}
+    - target: {fileID: 2690252785328744081, guid: 93af1c166793efb498012ddc7370f8ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A rod of pure obsidian; its very presence disrupts and dampens the powers
+        of unholy beings.
+      objectReference: {fileID: 0}
     - target: {fileID: 5810504842801530893, guid: 93af1c166793efb498012ddc7370f8ec,
         type: 3}
       propertyPath: _assetId

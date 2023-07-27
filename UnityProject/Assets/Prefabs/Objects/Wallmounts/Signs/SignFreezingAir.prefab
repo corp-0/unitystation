@@ -19,6 +19,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
+      propertyPath: _assetId
+      value: 1872418870
+      objectReference: {fileID: 0}
+    - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
       propertyPath: m_AssetId
       value: e501198e0ced03f42b7524757eb84bfc
       objectReference: {fileID: 0}
@@ -28,6 +33,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 6756885f7b8b7f7429499325763831d9,
         type: 2}
+    - target: {fileID: 5088541089700716830, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
+      propertyPath: initialDescription
+      value: A sign that warns of extremely cold air in the vicinity.
+      objectReference: {fileID: 0}
     - target: {fileID: 6414808378359280268, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
       propertyPath: foreverID

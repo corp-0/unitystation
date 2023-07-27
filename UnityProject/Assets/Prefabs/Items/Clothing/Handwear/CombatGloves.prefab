@@ -33,6 +33,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 93b806080b090744b9f756c9942f23bc,
         type: 2}
+    - target: {fileID: 2803524705192454134, guid: f819cf8b4a0534ec59570563e52c8508,
+        type: 3}
+      propertyPath: initialDescription
+      value: These tactical gloves are fireproof and electrically insulated.
+      objectReference: {fileID: 0}
     - target: {fileID: 5947731994596095198, guid: f819cf8b4a0534ec59570563e52c8508,
         type: 3}
       propertyPath: m_Name
@@ -107,6 +112,11 @@ PrefabInstance:
         type: 3}
       propertyPath: HeatResistance
       value: 1500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989403931701021034, guid: f819cf8b4a0534ec59570563e52c8508,
+        type: 3}
+      propertyPath: _assetId
+      value: 601575880
       objectReference: {fileID: 0}
     - target: {fileID: 5989403931701021034, guid: f819cf8b4a0534ec59570563e52c8508,
         type: 3}

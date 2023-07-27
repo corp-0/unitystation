@@ -39,6 +39,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: aec2f5a737f9b604c9768c8c973cd01d,
         type: 2}
+    - target: {fileID: 2803524705192454134, guid: f819cf8b4a0534ec59570563e52c8508,
+        type: 3}
+      propertyPath: initialDescription
+      value: Pricy sterile gloves that are thicker than latex. Transfers intimate
+        paramedic knowledge into the user via nanochips.
+      objectReference: {fileID: 0}
     - target: {fileID: 5799337935409317762, guid: f819cf8b4a0534ec59570563e52c8508,
         type: 3}
       propertyPath: m_Sprite
@@ -104,6 +110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989403931701021034, guid: f819cf8b4a0534ec59570563e52c8508,
+        type: 3}
+      propertyPath: _assetId
+      value: 56983740
       objectReference: {fileID: 0}
     - target: {fileID: 5989403931701021034, guid: f819cf8b4a0534ec59570563e52c8508,
         type: 3}

@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4290689576098717370, guid: da93b0f7c392d46ba85123e2516cfa49,
         type: 3}
+      propertyPath: _assetId
+      value: 1184152052
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290689576098717370, guid: da93b0f7c392d46ba85123e2516cfa49,
+        type: 3}
       propertyPath: m_AssetId
       value: 9ece9b1c0b01fa46ab120b1b423b1739
       objectReference: {fileID: 0}
@@ -89,6 +94,11 @@ PrefabInstance:
       value: industrial backpack
       objectReference: {fileID: 0}
     - target: {fileID: 4391634449878879340, guid: da93b0f7c392d46ba85123e2516cfa49,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a tough backpack for the daily grind of station life.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5655723533491040294, guid: da93b0f7c392d46ba85123e2516cfa49,
         type: 3}
       propertyPath: initialDescription
       value: It's a tough backpack for the daily grind of station life.

@@ -119,6 +119,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ac2a193c4ee1ca14f814e17478f6701a,
         type: 2}
+    - target: {fileID: 4396982867251396906, guid: 3937c48f98f9cd043babc5471ee77682,
+        type: 3}
+      propertyPath: initialDescription
+      value: Adds gas to an atmosphere regardless of pressure or gas mixture..
+      objectReference: {fileID: 0}
     - target: {fileID: 5075775655067238256, guid: 3937c48f98f9cd043babc5471ee77682,
         type: 3}
       propertyPath: CurrentDirection
@@ -153,6 +158,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3abcece9e48b1ee459e6c665e5f00db5,
         type: 2}
+    - target: {fileID: 6931842893682907539, guid: 3937c48f98f9cd043babc5471ee77682,
+        type: 3}
+      propertyPath: _assetId
+      value: 3066897327
+      objectReference: {fileID: 0}
     - target: {fileID: 6931842893682907539, guid: 3937c48f98f9cd043babc5471ee77682,
         type: 3}
       propertyPath: m_AssetId
@@ -235,9 +245,9 @@ MonoBehaviour:
       gasMix:
         GasData:
           GasesArray: []
-        Pressure: 0
+        pressure: 0
         Volume: 2.5
-        Temperature: 0
+        temperature: 0
     MonoPipe: {fileID: 0}
   Colour: {r: 1, g: 1, b: 1, a: 1}
   spawnedFromItem: 1

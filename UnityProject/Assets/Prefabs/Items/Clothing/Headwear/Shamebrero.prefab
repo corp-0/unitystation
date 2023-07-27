@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: bddc8fa44a800174c99860d180042f90,
+        type: 3}
+      propertyPath: initialDescription
+      value: Once it's on, it never comes off.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: bddc8fa44a800174c99860d180042f90,
         type: 3}
       propertyPath: foreverID
@@ -44,6 +49,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 9bfa59139dc27f04db7cd39d5865faba,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: bddc8fa44a800174c99860d180042f90,
+        type: 3}
+      propertyPath: _assetId
+      value: 3078588709
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: bddc8fa44a800174c99860d180042f90,
         type: 3}
       propertyPath: m_AssetId

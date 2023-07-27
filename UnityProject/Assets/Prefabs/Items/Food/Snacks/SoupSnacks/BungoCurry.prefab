@@ -17,6 +17,11 @@ PrefabInstance:
       propertyPath: StartingNutrients
       value: 238
       objectReference: {fileID: 0}
+    - target: {fileID: 493527399931038268, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: initialDescription
+      value: A spicy vegetable curry made with the humble bungo fruit, Exotic!
+      objectReference: {fileID: 0}
     - target: {fileID: 2881683467392410259, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -119,6 +124,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BungoCurry
+      objectReference: {fileID: 0}
+    - target: {fileID: 8300100540400329888, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: _assetId
+      value: 230559738
       objectReference: {fileID: 0}
     - target: {fileID: 8300100540400329888, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}

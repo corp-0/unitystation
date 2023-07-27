@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 581826423977261850, guid: 048adc7de22264941a619844198b1f44,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into lilies.
+      objectReference: {fileID: 0}
     - target: {fileID: 2651249681712358495, guid: 048adc7de22264941a619844198b1f44,
         type: 3}
       propertyPath: foreverID
@@ -131,6 +136,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: LilySeeds
+      objectReference: {fileID: 0}
+    - target: {fileID: 9071848295730550150, guid: 048adc7de22264941a619844198b1f44,
+        type: 3}
+      propertyPath: _assetId
+      value: 4150792757
       objectReference: {fileID: 0}
     - target: {fileID: 9071848295730550150, guid: 048adc7de22264941a619844198b1f44,
         type: 3}

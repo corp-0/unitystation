@@ -28,6 +28,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: b56f73a3js832ce48ade0ddf2e577ee8
       objectReference: {fileID: 0}
+    - target: {fileID: 2420387227032028503, guid: 92c1bd5af5895a54781dc61c607ede14,
+        type: 3}
+      propertyPath: initialDescription
+      value: The strong, scaled hide of an ash drake.
+      objectReference: {fileID: 0}
     - target: {fileID: 5988067382882072861, guid: 92c1bd5af5895a54781dc61c607ede14,
         type: 3}
       propertyPath: initialName
@@ -42,6 +47,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: The strong, scaled hide of an ash drake.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079943759636343755, guid: 92c1bd5af5895a54781dc61c607ede14,
+        type: 3}
+      propertyPath: _assetId
+      value: 998480950
       objectReference: {fileID: 0}
     - target: {fileID: 6079943759636343755, guid: 92c1bd5af5895a54781dc61c607ede14,
         type: 3}

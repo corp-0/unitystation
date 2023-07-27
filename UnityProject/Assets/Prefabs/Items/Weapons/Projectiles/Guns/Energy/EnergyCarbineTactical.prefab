@@ -29,6 +29,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d03f66995d06ed1478c3fce92ff03340,
         type: 2}
+    - target: {fileID: 2959491636832776921, guid: d589c17f6fd91da4190edfdd2cb5aa53,
+        type: 3}
+      propertyPath: initialDescription
+      value: Military issue energy gun, is able to fire stun rounds.
+      objectReference: {fileID: 0}
     - target: {fileID: 3524967171874133402, guid: d589c17f6fd91da4190edfdd2cb5aa53,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -136,6 +141,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: dfb63cea5fc82354882e9b6223d8bfb3,
         type: 2}
+    - target: {fileID: 6693620148964760645, guid: d589c17f6fd91da4190edfdd2cb5aa53,
+        type: 3}
+      propertyPath: _assetId
+      value: 921026076
+      objectReference: {fileID: 0}
     - target: {fileID: 6693620148964760645, guid: d589c17f6fd91da4190edfdd2cb5aa53,
         type: 3}
       propertyPath: m_AssetId

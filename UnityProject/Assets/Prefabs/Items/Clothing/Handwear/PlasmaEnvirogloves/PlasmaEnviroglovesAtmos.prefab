@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3013311642140121104, guid: cb7e5ca96c976e74cb550187a84e94b3,
         type: 3}
+      propertyPath: _assetId
+      value: 3295978051
+      objectReference: {fileID: 0}
+    - target: {fileID: 3013311642140121104, guid: cb7e5ca96c976e74cb550187a84e94b3,
+        type: 3}
       propertyPath: m_AssetId
       value: 6874374e856e4ba4bbcb1147d8dbb5a0
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1213038ef37bbdf498fd3434a3459ce0,
         type: 2}
+    - target: {fileID: 6640508173374895756, guid: cb7e5ca96c976e74cb550187a84e94b3,
+        type: 3}
+      propertyPath: initialDescription
+      value: Covers up those scandalous boney hands. This pair is insulated.
+      objectReference: {fileID: 0}
     - target: {fileID: 8086320792411436577, guid: cb7e5ca96c976e74cb550187a84e94b3,
         type: 3}
       propertyPath: clothData

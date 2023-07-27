@@ -138,6 +138,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3877279333247478238, guid: d2991f5505400ab479c5262137eed380,
         type: 3}
+      propertyPath: _assetId
+      value: 1532308756
+      objectReference: {fileID: 0}
+    - target: {fileID: 3877279333247478238, guid: d2991f5505400ab479c5262137eed380,
+        type: 3}
       propertyPath: m_AssetId
       value: 5f45dc321af090a4bb549c246dbf28b0
       objectReference: {fileID: 0}
@@ -151,6 +156,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4627555251773556546, guid: d2991f5505400ab479c5262137eed380,
+        type: 3}
+      propertyPath: initialDescription
+      value: A slice of meatloaf made from an animal that most likely still wants
+        you dead.
       objectReference: {fileID: 0}
     - target: {fileID: 5011845196938696218, guid: d2991f5505400ab479c5262137eed380,
         type: 3}

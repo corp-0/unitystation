@@ -46,6 +46,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
+      propertyPath: _assetId
+      value: 3699368969
+      objectReference: {fileID: 0}
+    - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
       propertyPath: m_AssetId
       value: 08857fdacfcda7040a1a224c144edc3f
       objectReference: {fileID: 0}
@@ -129,6 +134,12 @@ PrefabInstance:
         type: 3}
       propertyPath: armoredBodyParts.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5897924544656819047, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
+      propertyPath: initialDescription
+      value: A strange eye, said to have been torn from an omniscient creature that
+        used to roam the wastes.
       objectReference: {fileID: 0}
     - target: {fileID: 8141721191079898056, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}

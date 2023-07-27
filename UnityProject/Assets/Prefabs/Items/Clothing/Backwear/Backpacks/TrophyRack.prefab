@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4290689576098717370, guid: da93b0f7c392d46ba85123e2516cfa49,
         type: 3}
+      propertyPath: _assetId
+      value: 2149438197
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290689576098717370, guid: da93b0f7c392d46ba85123e2516cfa49,
+        type: 3}
       propertyPath: m_AssetId
       value: 4a7edcb6b0aa41f4f812fc2b11ac6ba0
       objectReference: {fileID: 0}
@@ -84,6 +89,12 @@ PrefabInstance:
       value: trophy rack
       objectReference: {fileID: 0}
     - target: {fileID: 4391634449878879340, guid: da93b0f7c392d46ba85123e2516cfa49,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's useful for both carrying extra gear and proudly declaring your
+        insanity.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5655723533491040294, guid: da93b0f7c392d46ba85123e2516cfa49,
         type: 3}
       propertyPath: initialDescription
       value: It's useful for both carrying extra gear and proudly declaring your

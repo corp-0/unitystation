@@ -30,6 +30,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: 42a2481cdb460114dbd0dbaceea88a9c
       objectReference: {fileID: 0}
+    - target: {fileID: 2412584864140635593, guid: f27991fd74b5f6941a1ad2f9e161a022,
+        type: 3}
+      propertyPath: initialDescription
+      value: A white winter coat with green markings. Warm, but wont fight off the
+        common cold or any other disease. Might make people stand far away from you
+        in the hallway. The zipper tab looks like an oversized bacteriophage.
+      objectReference: {fileID: 0}
     - target: {fileID: 6049508525371871619, guid: f27991fd74b5f6941a1ad2f9e161a022,
         type: 3}
       propertyPath: initialName
@@ -41,6 +48,11 @@ PrefabInstance:
       value: A white winter coat with green markings. Warm, but wont fight off the
         common cold or any other disease. Might make people stand far away from you
         in the hallway. The zipper tab looks like an oversized bacteriophage.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6092671967717950293, guid: f27991fd74b5f6941a1ad2f9e161a022,
+        type: 3}
+      propertyPath: _assetId
+      value: 1944578927
       objectReference: {fileID: 0}
     - target: {fileID: 6092671967717950293, guid: f27991fd74b5f6941a1ad2f9e161a022,
         type: 3}

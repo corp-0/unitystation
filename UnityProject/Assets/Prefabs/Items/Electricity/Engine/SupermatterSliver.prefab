@@ -143,6 +143,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: f2f44eb806b35ff40a64333b48771101
       objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: a piece of a supermatter crystal
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}
 --- !u!1 &70068185008237990 stripped

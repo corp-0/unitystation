@@ -7,6 +7,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 911578004007578095, guid: 5da2eb22d55c9c045bd7c22925c9b948,
+        type: 3}
+      propertyPath: initialDescription
+      value: A prototype designed to replace the ageing MK.II SWAT suit. Based on
+        the streamlined MK.II model, the traditional ceramic and graphene plate construction
+        was replaced with plasteel, allowing superior armor against most threats.
+        There's room for some kind of energy projection device on the back.
+      objectReference: {fileID: 0}
     - target: {fileID: 2341487905993848490, guid: 5da2eb22d55c9c045bd7c22925c9b948,
         type: 3}
       propertyPath: foreverID
@@ -423,6 +431,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8741538160526706547, guid: 5da2eb22d55c9c045bd7c22925c9b948,
+        type: 3}
+      propertyPath: _assetId
+      value: 1146815382
       objectReference: {fileID: 0}
     - target: {fileID: 8741538160526706547, guid: 5da2eb22d55c9c045bd7c22925c9b948,
         type: 3}

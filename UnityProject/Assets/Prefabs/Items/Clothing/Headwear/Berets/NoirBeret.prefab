@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 9445628fd16314b7388c7086f5fd2f26,
+        type: 3}
+      propertyPath: initialDescription
+      value: A grey beret, typically worn by hard-boiled private investigators who
+        roam the streets of France at night, looking for crime.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 9445628fd16314b7388c7086f5fd2f26,
         type: 3}
       propertyPath: foreverID
@@ -68,6 +74,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Energy
       value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7524605284256423550, guid: 9445628fd16314b7388c7086f5fd2f26,
+        type: 3}
+      propertyPath: _assetId
+      value: 4021498561
       objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 9445628fd16314b7388c7086f5fd2f26,
         type: 3}

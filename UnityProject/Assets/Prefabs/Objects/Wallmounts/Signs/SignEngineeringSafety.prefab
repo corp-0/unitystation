@@ -20,6 +20,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
+      propertyPath: _assetId
+      value: 430080282
+      objectReference: {fileID: 0}
+    - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
       propertyPath: m_AssetId
       value: a0c5d9be8f4ec1548b61febf61b6cdc7
       objectReference: {fileID: 0}
@@ -29,6 +34,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 4a4ccc819f566c84aa802b61d3f84c06,
         type: 2}
+    - target: {fileID: 5088541089700716830, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
+      propertyPath: initialDescription
+      value: A sign detailing the various safety protocols when working on-site to
+        ensure a safe shift.
+      objectReference: {fileID: 0}
     - target: {fileID: 6414808378359280268, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
       propertyPath: foreverID

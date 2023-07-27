@@ -12,6 +12,16 @@ PrefabInstance:
       propertyPath: foreverID
       value: 2cdfee5611d505240ab3835c94a38fa8
       objectReference: {fileID: 0}
+    - target: {fileID: 3882688689638227017, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+        type: 3}
+      propertyPath: initialDescription
+      value: Whatever this is, it's useless for anything but looks.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4617501557389857493, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+        type: 3}
+      propertyPath: _assetId
+      value: 3724013341
+      objectReference: {fileID: 0}
     - target: {fileID: 4617501557389857493, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: m_AssetId

@@ -28,6 +28,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: buvfeca3708v2ce48ade0ddf2e577ee8
       objectReference: {fileID: 0}
+    - target: {fileID: 2420387227032028503, guid: 92c1bd5af5895a54781dc61c607ede14,
+        type: 3}
+      propertyPath: initialDescription
+      value: Pieces of a goliath's rocky hide, these might be able to make your suit
+        a bit more durable to attack from the local fauna.
+      objectReference: {fileID: 0}
     - target: {fileID: 5944587105204789161, guid: 92c1bd5af5895a54781dc61c607ede14,
         type: 3}
       propertyPath: relatedRecipes.Array.size
@@ -60,6 +66,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: Pieces of a goliath's rocky hide, these might be able to make your suit
         a bit more durable to attack from the local fauna.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079943759636343755, guid: 92c1bd5af5895a54781dc61c607ede14,
+        type: 3}
+      propertyPath: _assetId
+      value: 191696324
       objectReference: {fileID: 0}
     - target: {fileID: 6079943759636343755, guid: 92c1bd5af5895a54781dc61c607ede14,
         type: 3}

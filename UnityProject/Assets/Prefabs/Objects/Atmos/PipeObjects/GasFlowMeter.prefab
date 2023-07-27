@@ -108,6 +108,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: b8fb81ca58d782b49bf75a15183aa0e6
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: Measures the flow of gas.
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -245,6 +250,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0ea0c6301632edf46afa524310e9baf4,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 3384087710
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId

@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: 4319a1b0d53702e458b176248bc470bb,
         type: 3}
+      propertyPath: _assetId
+      value: 2117185554
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 4319a1b0d53702e458b176248bc470bb,
+        type: 3}
       propertyPath: m_AssetId
       value: 37e025654ce3f9b43bd61c6caf0f79dc
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: black tango dress
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 4319a1b0d53702e458b176248bc470bb,
+        type: 3}
+      propertyPath: initialDescription
+      value: Filled with Latin fire.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 4319a1b0d53702e458b176248bc470bb,
         type: 3}
       propertyPath: initialDescription
       value: Filled with Latin fire.

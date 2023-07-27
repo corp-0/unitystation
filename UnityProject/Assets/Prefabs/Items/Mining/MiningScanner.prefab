@@ -113,6 +113,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: OPQ0C59Qi61@EcYkTJHR
       objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: Highlights ores around you
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}
 --- !u!1 &4683416395492829356 stripped

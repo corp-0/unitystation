@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0c53e44732cf1fc4c829ef1c0c7df57a,
         type: 2}
+    - target: {fileID: 2968664142878122032, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tile made out of highly flammable plasma. This can only end well.
+      objectReference: {fileID: 0}
     - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: waysToPlace.Array.size
@@ -67,6 +72,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3eb7c4f106546fb468fdea2f4f8e795e,
         type: 2}
+    - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: _assetId
+      value: 3797271188
+      objectReference: {fileID: 0}
     - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: m_AssetId

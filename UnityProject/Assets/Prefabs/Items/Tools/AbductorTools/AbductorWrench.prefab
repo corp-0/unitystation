@@ -23,6 +23,11 @@ PrefabInstance:
       propertyPath: SpeedMultiplier
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 3463124440865141637, guid: 7976a84ef9209f14697cdd941b913e2a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A polarized wrench. It causes anything placed between the jaws to turn.
+      objectReference: {fileID: 0}
     - target: {fileID: 4791952605902770127, guid: 7976a84ef9209f14697cdd941b913e2a,
         type: 3}
       propertyPath: initialName

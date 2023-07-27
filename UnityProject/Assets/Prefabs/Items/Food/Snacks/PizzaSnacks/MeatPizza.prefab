@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 810151741965214022, guid: 20e558a25e0b41942a7483724b3e4d45,
+        type: 3}
+      propertyPath: initialDescription
+      value: Greasy pizza with delicious meat.
+      objectReference: {fileID: 0}
     - target: {fileID: 1048207226637103134, guid: 20e558a25e0b41942a7483724b3e4d45,
         type: 3}
       propertyPath: NutritionLevel
@@ -53,6 +58,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9135694018600570842, guid: 20e558a25e0b41942a7483724b3e4d45,
+        type: 3}
+      propertyPath: _assetId
+      value: 3872459337
       objectReference: {fileID: 0}
     - target: {fileID: 9135694018600570842, guid: 20e558a25e0b41942a7483724b3e4d45,
         type: 3}

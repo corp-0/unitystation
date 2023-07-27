@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 493527399931038268, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: initialDescription
+      value: A true vegan meal.
+      objectReference: {fileID: 0}
     - target: {fileID: 2881683467392410259, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -88,6 +93,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: VegetableSoup
+      objectReference: {fileID: 0}
+    - target: {fileID: 8300100540400329888, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: _assetId
+      value: 1785482721
       objectReference: {fileID: 0}
     - target: {fileID: 8300100540400329888, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}

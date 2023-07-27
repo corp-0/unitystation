@@ -34,6 +34,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e794f93fe5d15e84abd47f583e65b48f,
         type: 2}
+    - target: {fileID: 2959491636832776921, guid: d589c17f6fd91da4190edfdd2cb5aa53,
+        type: 3}
+      propertyPath: initialDescription
+      value: The "Dynamic Rapid-Apprehension of the Guilty" net is a revolution in
+        law enforcement technology.
+      objectReference: {fileID: 0}
     - target: {fileID: 3524967171874133402, guid: d589c17f6fd91da4190edfdd2cb5aa53,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -85,6 +91,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: bc13dc02b1a2f024081076801ba1604c,
         type: 2}
+    - target: {fileID: 6693620148964760645, guid: d589c17f6fd91da4190edfdd2cb5aa53,
+        type: 3}
+      propertyPath: _assetId
+      value: 2352271977
+      objectReference: {fileID: 0}
     - target: {fileID: 6693620148964760645, guid: d589c17f6fd91da4190edfdd2cb5aa53,
         type: 3}
       propertyPath: m_AssetId

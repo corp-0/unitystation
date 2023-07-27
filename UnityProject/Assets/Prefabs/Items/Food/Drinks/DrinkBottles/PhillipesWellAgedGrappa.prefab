@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 0ad13b012c2a2ef4aa66aa12b3a5060b
       objectReference: {fileID: 0}
+    - target: {fileID: 2414645551038346883, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bottle of Grappa.
+      objectReference: {fileID: 0}
     - target: {fileID: 4956784215611960579, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
@@ -48,6 +53,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A bottle of Grappa.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: _assetId
+      value: 1032442930
       objectReference: {fileID: 0}
     - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}

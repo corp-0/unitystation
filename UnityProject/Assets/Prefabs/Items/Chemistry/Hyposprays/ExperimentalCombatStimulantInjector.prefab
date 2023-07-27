@@ -28,6 +28,18 @@ PrefabInstance:
       propertyPath: SubCatalogue.Array.size
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4451205881773016173, guid: a753ad12f9c4b8847be33e910d2e18e5,
+        type: 3}
+      propertyPath: initialDescription
+      value: A modified air-needle autoinjector for use in combat situations. Prefilled
+        with experimental medical nanites and a stimulant for rapid healing and a
+        combat boost.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5202609555093908209, guid: a753ad12f9c4b8847be33e910d2e18e5,
+        type: 3}
+      propertyPath: _assetId
+      value: 1457731345
+      objectReference: {fileID: 0}
     - target: {fileID: 5202609555093908209, guid: a753ad12f9c4b8847be33e910d2e18e5,
         type: 3}
       propertyPath: m_AssetId

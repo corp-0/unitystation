@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 709095287aed6df4585ae42ed7fc4d78
       objectReference: {fileID: 0}
+    - target: {fileID: 2414645551038346883, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: initialDescription
+      value: It is said that the ancient Applalacians used these stoneware jugs to
+        capture lightning in a bottle.
+      objectReference: {fileID: 0}
     - target: {fileID: 4956784215611960579, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
@@ -49,6 +55,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: It is said that the ancient Applalacians used these stoneware jugs to
         capture lightning in a bottle.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: _assetId
+      value: 1271744842
       objectReference: {fileID: 0}
     - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}

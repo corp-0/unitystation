@@ -19,6 +19,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4391492129781918316, guid: f20181605e8d37a4b84ed0090f6d8432,
         type: 3}
+      propertyPath: _assetId
+      value: 4036064023
+      objectReference: {fileID: 0}
+    - target: {fileID: 4391492129781918316, guid: f20181605e8d37a4b84ed0090f6d8432,
+        type: 3}
       propertyPath: m_AssetId
       value: 58dae4cbc30d98f47a0b9ca9ab5f2399
       objectReference: {fileID: 0}
@@ -88,6 +93,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 655ff0eecb5494146a9466a69fa3f57b,
         type: 3}
+    - target: {fileID: 5262186965507900656, guid: f20181605e8d37a4b84ed0090f6d8432,
+        type: 3}
+      propertyPath: initialDescription
+      value: A blue winer coat hood with white markings.
+      objectReference: {fileID: 0}
     - target: {fileID: 7284776635404207197, guid: f20181605e8d37a4b84ed0090f6d8432,
         type: 3}
       propertyPath: allClothingData.Array.data[0]

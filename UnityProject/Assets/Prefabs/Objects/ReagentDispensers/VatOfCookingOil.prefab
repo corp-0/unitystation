@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 54c2a3f772b36e14f8901379a4af5eb2
       objectReference: {fileID: 0}
+    - target: {fileID: 1506691950847041099, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: initialDescription
+      value: A huge metal vat with a tap on the front. Filled with cooking oil for
+        use in frying food.
+      objectReference: {fileID: 0}
     - target: {fileID: 4324277455529423760, guid: 39da184d881f73c48b25ae5921795c55,
         type: 3}
       propertyPath: m_Name
@@ -94,6 +100,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c1160dd86dc720e3eb0ed3dc2fc7338e,
         type: 2}
+    - target: {fileID: 5323037765139105522, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: _assetId
+      value: 4053528088
+      objectReference: {fileID: 0}
     - target: {fileID: 5323037765139105522, guid: 39da184d881f73c48b25ae5921795c55,
         type: 3}
       propertyPath: m_AssetId

@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2003804624138751089, guid: 0db28ea7632de0b4593a32bba473e844,
         type: 3}
+    - target: {fileID: 136226853080657431, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A weak beanbag slug for riot control.
+      objectReference: {fileID: 0}
     - target: {fileID: 2361978366132242104, guid: b564e5d916b891446903adc342af08bd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -33,6 +38,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A weak beanbag slug for riot control.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: _assetId
+      value: 2245349695
       objectReference: {fileID: 0}
     - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
         type: 3}

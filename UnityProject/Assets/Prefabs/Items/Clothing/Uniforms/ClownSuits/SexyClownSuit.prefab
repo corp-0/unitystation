@@ -24,6 +24,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: a08b3d5119d894fcb917204c9c820035,
         type: 3}
+      propertyPath: _assetId
+      value: 3383277609
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: a08b3d5119d894fcb917204c9c820035,
+        type: 3}
       propertyPath: m_AssetId
       value: edb26444a4c140d4d834a7e3744c6987
       objectReference: {fileID: 0}
@@ -99,6 +104,11 @@ PrefabInstance:
       value: sexy-clown suit
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: a08b3d5119d894fcb917204c9c820035,
+        type: 3}
+      propertyPath: initialDescription
+      value: It makes you look HONKable!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: a08b3d5119d894fcb917204c9c820035,
         type: 3}
       propertyPath: initialDescription
       value: It makes you look HONKable!

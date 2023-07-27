@@ -147,6 +147,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3678386046103158624, guid: c10750ad2e97d7c449aa7a5518793cdc,
         type: 3}
+      propertyPath: _assetId
+      value: 3856922721
+      objectReference: {fileID: 0}
+    - target: {fileID: 3678386046103158624, guid: c10750ad2e97d7c449aa7a5518793cdc,
+        type: 3}
       propertyPath: m_AssetId
       value: ebdd6aa95215b0c4bb40715466808bea
       objectReference: {fileID: 0}
@@ -156,6 +161,12 @@ PrefabInstance:
       value: pack of bungo seeds
       objectReference: {fileID: 0}
     - target: {fileID: 3780191012849757622, guid: c10750ad2e97d7c449aa7a5518793cdc,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into bungo trees. They appear to be heavy and almost
+        perfectly spherical.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114678948372042236, guid: c10750ad2e97d7c449aa7a5518793cdc,
         type: 3}
       propertyPath: initialDescription
       value: These seeds grow into bungo trees. They appear to be heavy and almost

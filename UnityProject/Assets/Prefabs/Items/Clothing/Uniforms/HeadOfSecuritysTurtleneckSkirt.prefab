@@ -213,8 +213,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2828748588198284406, guid: 0c722f8fdd00ce544b2dc844f4bfdb6e,
         type: 3}
+      propertyPath: _assetId
+      value: 1101018052
+      objectReference: {fileID: 0}
+    - target: {fileID: 2828748588198284406, guid: 0c722f8fdd00ce544b2dc844f4bfdb6e,
+        type: 3}
       propertyPath: m_AssetId
       value: 1c19022c926dd3a488a97c170d0a6199
+      objectReference: {fileID: 0}
+    - target: {fileID: 5960239381912183530, guid: 0c722f8fdd00ce544b2dc844f4bfdb6e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A stylish alternative to the normal head of security jumpsuit, complete
+        with a tactical skirt.
       objectReference: {fileID: 0}
     - target: {fileID: 8328160068540222021, guid: 0c722f8fdd00ce544b2dc844f4bfdb6e,
         type: 3}

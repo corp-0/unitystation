@@ -24,6 +24,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 989532514442120172, guid: bba003073444ea344a3c1f58fba1edc5,
         type: 3}
+    - target: {fileID: 1600316860898834367, guid: 24acfe3e8c412064ab3e3aeab2759c1d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A roll of festive paper used for gifts!
+      objectReference: {fileID: 0}
     - target: {fileID: 3968200009823084304, guid: 24acfe3e8c412064ab3e3aeab2759c1d,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -100,6 +105,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: WrappingPaperFestive
+      objectReference: {fileID: 0}
+    - target: {fileID: 7188811865976756515, guid: 24acfe3e8c412064ab3e3aeab2759c1d,
+        type: 3}
+      propertyPath: _assetId
+      value: 2265882819
       objectReference: {fileID: 0}
     - target: {fileID: 7188811865976756515, guid: 24acfe3e8c412064ab3e3aeab2759c1d,
         type: 3}

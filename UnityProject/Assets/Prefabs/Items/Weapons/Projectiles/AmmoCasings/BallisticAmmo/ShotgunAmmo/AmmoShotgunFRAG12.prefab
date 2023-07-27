@@ -19,6 +19,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2699700629119018223, guid: dbc1bc7b54a48ad4b8aa56a8da8758bf,
         type: 3}
+    - target: {fileID: 136226853080657431, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A high explosive breaching round for a 12 gauge shotgun.
+      objectReference: {fileID: 0}
     - target: {fileID: 2361978366132242104, guid: b564e5d916b891446903adc342af08bd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -39,6 +44,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A high explosive breaching round for a 12 gauge shotgun.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: _assetId
+      value: 3653190087
       objectReference: {fileID: 0}
     - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
         type: 3}

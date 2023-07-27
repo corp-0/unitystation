@@ -381,6 +381,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -104033551261495246, guid: 45eaf4cbd7878664bb683aec21ad1e30,
         type: 3}
+    - target: {fileID: 4847486937091673506, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
+      propertyPath: initialDescription
+      value: Controls the control rods in a nuclear reactor chamber.
+      objectReference: {fileID: 0}
     - target: {fileID: 5903546303531293955, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
       propertyPath: m_AssetId
@@ -829,3 +834,4 @@ MonoBehaviour:
   canExamineFrequency: 1
   minimumDamageBeforeObfuscation: 12
   ReactorChambers: {fileID: 0}
+  chatAnnouncementCheckTime: 8

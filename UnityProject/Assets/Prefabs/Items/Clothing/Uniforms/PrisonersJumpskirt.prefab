@@ -29,6 +29,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: f1436853dd14162fe97690f8e7714773,
         type: 3}
+      propertyPath: _assetId
+      value: 3012060510
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: f1436853dd14162fe97690f8e7714773,
+        type: 3}
       propertyPath: m_AssetId
       value: d3b0186c86ba4f44d8cf26cb50345ae4
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
       value: prisoner's jumpskirt
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: f1436853dd14162fe97690f8e7714773,
+        type: 3}
+      propertyPath: initialDescription
+      value: A orange jumpskirt worn by criminals while they are locked up.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: f1436853dd14162fe97690f8e7714773,
         type: 3}
       propertyPath: initialDescription
       value: A orange jumpskirt worn by criminals while they are locked up.

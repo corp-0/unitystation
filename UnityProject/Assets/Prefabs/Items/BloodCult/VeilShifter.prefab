@@ -57,6 +57,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
         type: 3}
+      propertyPath: _assetId
+      value: 178237044
+      objectReference: {fileID: 0}
+    - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
       propertyPath: m_AssetId
       value: cacf7d15d81a63c4284fd07b534444d8
       objectReference: {fileID: 0}
@@ -97,6 +102,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: cacf7d15d81a63c4284fd07b534444d8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: This relic instantly teleports you, and anything you're pulling, forward
+        by a moderate distance.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}

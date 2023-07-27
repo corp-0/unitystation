@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 871440119842124713, guid: 8fee22e722a3782408324281846ebd02,
+        type: 3}
+      propertyPath: initialDescription
+      value: A jar for honey. It can hold up to 50 units of sweet delight.
+      objectReference: {fileID: 0}
     - target: {fileID: 2364332256798584044, guid: 8fee22e722a3782408324281846ebd02,
         type: 3}
       propertyPath: foreverID
@@ -77,6 +82,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: HoneyJar
+      objectReference: {fileID: 0}
+    - target: {fileID: 8782379728963083573, guid: 8fee22e722a3782408324281846ebd02,
+        type: 3}
+      propertyPath: _assetId
+      value: 4015091056
       objectReference: {fileID: 0}
     - target: {fileID: 8782379728963083573, guid: 8fee22e722a3782408324281846ebd02,
         type: 3}

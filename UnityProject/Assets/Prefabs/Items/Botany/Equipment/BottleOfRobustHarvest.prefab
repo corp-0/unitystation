@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: a2f9aca219accaa41850895d69007e20
       objectReference: {fileID: 0}
+    - target: {fileID: 4282697274171007583, guid: 752790e3dadac94449e7417e35974da5,
+        type: 3}
+      propertyPath: initialDescription
+      value: Contains a fertilizer that increases the yield of a plant while gradually
+        preventing mutations.
+      objectReference: {fileID: 0}
     - target: {fileID: 5323290699344764437, guid: 752790e3dadac94449e7417e35974da5,
         type: 3}
       propertyPath: initialName
@@ -22,6 +28,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: Contains a fertilizer that increases the yield of a plant while gradually
         preventing mutations.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5663715803261177027, guid: 752790e3dadac94449e7417e35974da5,
+        type: 3}
+      propertyPath: _assetId
+      value: 363521407
       objectReference: {fileID: 0}
     - target: {fileID: 5663715803261177027, guid: 752790e3dadac94449e7417e35974da5,
         type: 3}

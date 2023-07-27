@@ -34,12 +34,22 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 07c9b952018b3464b809a830cfcff397,
         type: 2}
+    - target: {fileID: 2873235897283256120, guid: 0c2ee0b3b98be9a47b3eaf08b0748b17,
+        type: 3}
+      propertyPath: initialDescription
+      value: Unique and versatile chest rig, can hold security gear.
+      objectReference: {fileID: 0}
     - target: {fileID: 5858256426857283404, guid: 0c2ee0b3b98be9a47b3eaf08b0748b17,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 6b120f98071cac448ab8c6e077a1587d,
         type: 3}
+    - target: {fileID: 5920392009681547684, guid: 0c2ee0b3b98be9a47b3eaf08b0748b17,
+        type: 3}
+      propertyPath: _assetId
+      value: 2521569334
+      objectReference: {fileID: 0}
     - target: {fileID: 5920392009681547684, guid: 0c2ee0b3b98be9a47b3eaf08b0748b17,
         type: 3}
       propertyPath: m_AssetId

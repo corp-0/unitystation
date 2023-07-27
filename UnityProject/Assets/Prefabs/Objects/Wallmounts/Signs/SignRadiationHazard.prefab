@@ -19,6 +19,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
+      propertyPath: _assetId
+      value: 1042755941
+      objectReference: {fileID: 0}
+    - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
       propertyPath: m_AssetId
       value: 3252edce30bbb4749a17af748afbaecc
       objectReference: {fileID: 0}
@@ -28,6 +33,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f82771928ecc722459fda4398bd811cc,
         type: 2}
+    - target: {fileID: 5088541089700716830, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
+      propertyPath: initialDescription
+      value: A warning sign alerting the user of potential radiation hazards.
+      objectReference: {fileID: 0}
     - target: {fileID: 6414808378359280268, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
       propertyPath: foreverID

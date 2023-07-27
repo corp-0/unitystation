@@ -24,6 +24,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 92debb1b4d5e52d4db2f9296db1c79e7
       objectReference: {fileID: 0}
+    - target: {fileID: 2538461622751989417, guid: 211616cbdb7012b4eb5b07baff781d16,
+        type: 3}
+      propertyPath: initialDescription
+      value: A green winter coat hood.
+      objectReference: {fileID: 0}
     - target: {fileID: 5887752484129272547, guid: 211616cbdb7012b4eb5b07baff781d16,
         type: 3}
       propertyPath: initialName
@@ -40,6 +45,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 5d05b89eb832a374fa2d5bde3815856b,
         type: 3}
+    - target: {fileID: 6254603353582542901, guid: 211616cbdb7012b4eb5b07baff781d16,
+        type: 3}
+      propertyPath: _assetId
+      value: 2984363333
+      objectReference: {fileID: 0}
     - target: {fileID: 6254603353582542901, guid: 211616cbdb7012b4eb5b07baff781d16,
         type: 3}
       propertyPath: m_AssetId

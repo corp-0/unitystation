@@ -58,6 +58,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2226056215570727727, guid: 82677ff961fa72944936cc923625a1bc,
         type: 3}
+      propertyPath: _assetId
+      value: 3685166621
+      objectReference: {fileID: 0}
+    - target: {fileID: 2226056215570727727, guid: 82677ff961fa72944936cc923625a1bc,
+        type: 3}
       propertyPath: m_AssetId
       value: f610372b0de613b499d0e53b49c4e605
       objectReference: {fileID: 0}
@@ -150,6 +155,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 318180ee59365e64683ba015c2f2ecf6,
         type: 2}
+    - target: {fileID: 7715290325165403571, guid: 82677ff961fa72944936cc923625a1bc,
+        type: 3}
+      propertyPath: initialDescription
+      value: A nasty looking shard of plasma glass.
+      objectReference: {fileID: 0}
     - target: {fileID: 7942108884443502463, guid: 82677ff961fa72944936cc923625a1bc,
         type: 3}
       propertyPath: TransformTo

@@ -35,6 +35,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
+      propertyPath: _assetId
+      value: 3125397379
+      objectReference: {fileID: 0}
+    - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
       propertyPath: m_AssetId
       value: 93bbf35c21b5ce2409f3629563e6b472
       objectReference: {fileID: 0}
@@ -109,6 +114,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 5262f40fc80c63941b86c8c4f2d12ef2,
         type: 3}
+    - target: {fileID: 5897924544656819047, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
+      propertyPath: initialDescription
+      value: A pair of goggles meant for low temperatures.
+      objectReference: {fileID: 0}
     - target: {fileID: 8141721191079898056, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
       propertyPath: PresentSpriteSet

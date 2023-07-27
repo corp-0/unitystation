@@ -129,6 +129,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 15f08c39008895a479c577daae2481a5,
         type: 2}
+    - target: {fileID: 4396982867251396906, guid: 3937c48f98f9cd043babc5471ee77682,
+        type: 3}
+      propertyPath: initialDescription
+      value: Removes gases from the atmosphere.
+      objectReference: {fileID: 0}
     - target: {fileID: 5075775655067238256, guid: 3937c48f98f9cd043babc5471ee77682,
         type: 3}
       propertyPath: CurrentDirection
@@ -179,6 +184,11 @@ PrefabInstance:
         type: 3}
       propertyPath: isDirty
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6931842893682907539, guid: 3937c48f98f9cd043babc5471ee77682,
+        type: 3}
+      propertyPath: _assetId
+      value: 606691230
       objectReference: {fileID: 0}
     - target: {fileID: 6931842893682907539, guid: 3937c48f98f9cd043babc5471ee77682,
         type: 3}
@@ -280,9 +290,9 @@ MonoBehaviour:
       gasMix:
         GasData:
           GasesArray: []
-        Pressure: 0
+        pressure: 0
         Volume: 0.05
-        Temperature: 0
+        temperature: 0
     MonoPipe: {fileID: 0}
   Colour: {r: 1, g: 1, b: 1, a: 1}
   spawnedFromItem: 1
@@ -296,6 +306,10 @@ MonoBehaviour:
       m_SubObjectType: 
       m_EditorAssetChanged: 0
   selfSufficient: 0
+  SiphonMultiplier: 2
+  ExpandedRangeNumber: 0.2
+  NormalRangeNumber: 0.1
+  nominalMolesTransferCap: 10
 --- !u!114 &5629559581263994867 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6323048891065173547, guid: 3937c48f98f9cd043babc5471ee77682,

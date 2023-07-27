@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 224935955204253567, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Retracts stuff.
+      objectReference: {fileID: 0}
     - target: {fileID: 2466764617220362192, guid: c9c58a9243d494537abcb4ee470efab0,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -76,6 +81,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8568555645537651171, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: _assetId
+      value: 758694467
       objectReference: {fileID: 0}
     - target: {fileID: 8568555645537651171, guid: c9c58a9243d494537abcb4ee470efab0,
         type: 3}

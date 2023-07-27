@@ -28,6 +28,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 395626ab8eece294e985c6cf36a9541d
       objectReference: {fileID: 0}
+    - target: {fileID: 3740830609390099904, guid: 23da5cf6be2781344b9040c388022fa5,
+        type: 3}
+      propertyPath: initialDescription
+      value: You think you can hear the hissing of a tiny fuse.
+      objectReference: {fileID: 0}
     - target: {fileID: 4712185004488139146, guid: 23da5cf6be2781344b9040c388022fa5,
         type: 3}
       propertyPath: initialName

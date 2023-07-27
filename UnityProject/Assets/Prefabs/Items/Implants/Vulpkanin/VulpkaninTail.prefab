@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 79559197284412699, guid: b87ebcdea6fb0dd49b0fbcf1b308c159,
+        type: 3}
+      propertyPath: initialDescription
+      value: A severed vulpkanin tail. Somewhere, no doubt, a fox hater is very pleased
+        with themselves.
+      objectReference: {fileID: 0}
     - target: {fileID: 2323349423520023988, guid: b87ebcdea6fb0dd49b0fbcf1b308c159,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -71,6 +77,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A severed vulpkanin tail. Somewhere, no doubt, a fox hater is very pleased
         with themselves.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8425139041998570375, guid: b87ebcdea6fb0dd49b0fbcf1b308c159,
+        type: 3}
+      propertyPath: _assetId
+      value: 1207016108
       objectReference: {fileID: 0}
     - target: {fileID: 8425139041998570375, guid: b87ebcdea6fb0dd49b0fbcf1b308c159,
         type: 3}

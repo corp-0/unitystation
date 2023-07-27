@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4271034696529489382, guid: aa2175a532ddc614fbd4cebc49ab22fb,
         type: 3}
+      propertyPath: _assetId
+      value: 3864428784
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271034696529489382, guid: aa2175a532ddc614fbd4cebc49ab22fb,
+        type: 3}
       propertyPath: m_AssetId
       value: c5b9669d73c1e974dbc238867757a34c
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7ee1f286bc98a994abf999faee9a87b2,
         type: 2}
+    - target: {fileID: 5671015531778081658, guid: aa2175a532ddc614fbd4cebc49ab22fb,
+        type: 3}
+      propertyPath: initialDescription
+      value: A compact module capable of sensing extradimensional activity.
+      objectReference: {fileID: 0}
     - target: {fileID: 7091848973800414271, guid: aa2175a532ddc614fbd4cebc49ab22fb,
         type: 3}
       propertyPath: foreverID

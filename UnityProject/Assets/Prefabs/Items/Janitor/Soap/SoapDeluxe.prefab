@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1760473060056327368, guid: 94dfead23e20498409009e55d3dfe3ca,
+        type: 3}
+      propertyPath: initialDescription
+      value: A deluxe Waffle Co. brand bar of soap. Smells of high-class luxury.
+      objectReference: {fileID: 0}
     - target: {fileID: 2881235331250953825, guid: 94dfead23e20498409009e55d3dfe3ca,
         type: 3}
       propertyPath: useTime
@@ -105,6 +110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7897283028627769940, guid: 94dfead23e20498409009e55d3dfe3ca,
+        type: 3}
+      propertyPath: _assetId
+      value: 4259526135
       objectReference: {fileID: 0}
     - target: {fileID: 7897283028627769940, guid: 94dfead23e20498409009e55d3dfe3ca,
         type: 3}

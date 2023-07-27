@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 82692ea8680693d459ad97993dbda0f3,
         type: 2}
+    - target: {fileID: 117920589588426969, guid: c94f0c553fec1af4cb4d7289fcaf0701,
+        type: 3}
+      propertyPath: initialDescription
+      value: An unlit firebrand. It makes you wonder why it's not just called a stick.
+      objectReference: {fileID: 0}
     - target: {fileID: 3277144588670988188, guid: c94f0c553fec1af4cb4d7289fcaf0701,
         type: 3}
       propertyPath: foreverID
@@ -32,6 +37,11 @@ PrefabInstance:
         type: 3}
       propertyPath: hitSound.AssetAddress
       value: Assets/Prefabs/Effects/Tap.prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 8382410430362312261, guid: c94f0c553fec1af4cb4d7289fcaf0701,
+        type: 3}
+      propertyPath: _assetId
+      value: 702541344
       objectReference: {fileID: 0}
     - target: {fileID: 8382410430362312261, guid: c94f0c553fec1af4cb4d7289fcaf0701,
         type: 3}

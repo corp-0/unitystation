@@ -35,6 +35,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2618191676536156122, guid: 6c06d764ea0ea9e4f9dff0e83cbb46e6,
         type: 3}
+      propertyPath: _assetId
+      value: 4248946014
+      objectReference: {fileID: 0}
+    - target: {fileID: 2618191676536156122, guid: 6c06d764ea0ea9e4f9dff0e83cbb46e6,
+        type: 3}
       propertyPath: m_AssetId
       value: 9bfdfa8bc1790204984be16634b55902
       objectReference: {fileID: 0}
@@ -109,6 +114,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: fc16b10aa17b4874d98cc5c67955a5e1,
         type: 3}
+    - target: {fileID: 5882565932266242374, guid: 6c06d764ea0ea9e4f9dff0e83cbb46e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A headset with a commanding channel.
+      objectReference: {fileID: 0}
     - target: {fileID: 8108596829518490089, guid: 6c06d764ea0ea9e4f9dff0e83cbb46e6,
         type: 3}
       propertyPath: PresentSpriteSet

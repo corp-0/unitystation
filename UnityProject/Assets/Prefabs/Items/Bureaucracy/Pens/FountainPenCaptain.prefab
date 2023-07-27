@@ -44,6 +44,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3178986680836320422, guid: 8aed0ee99da5fca4d93befe72d7da164,
         type: 3}
+      propertyPath: _assetId
+      value: 1646886996
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178986680836320422, guid: 8aed0ee99da5fca4d93befe72d7da164,
+        type: 3}
       propertyPath: m_AssetId
       value: 4a7128e6bc8b4214794a2cc4405e60ae
       objectReference: {fileID: 0}
@@ -113,6 +118,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 276775a49504f6c42ae3e862a8fd6d6f,
         type: 3}
+    - target: {fileID: 6478633062923715130, guid: 8aed0ee99da5fca4d93befe72d7da164,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's an expensive fountain pen. The nib is quite sharp.
+      objectReference: {fileID: 0}
     - target: {fileID: 8444403194878483839, guid: 8aed0ee99da5fca4d93befe72d7da164,
         type: 3}
       propertyPath: foreverID

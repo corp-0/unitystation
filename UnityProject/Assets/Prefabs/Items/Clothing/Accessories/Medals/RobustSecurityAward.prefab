@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 7697d3fff31182d4b9e40199a2fff087
       objectReference: {fileID: 0}
+    - target: {fileID: 4179344045928213577, guid: 00585e1640b90704c80577abf89e78fe,
+        type: 3}
+      propertyPath: initialDescription
+      value: An award for distinguished combat and sacrifice in defence of Nanotrasen's
+        commercial interests. Often awarded to security staff.
+      objectReference: {fileID: 0}
     - target: {fileID: 5228417008115847171, guid: 00585e1640b90704c80577abf89e78fe,
         type: 3}
       propertyPath: initialName
@@ -82,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762002493750428373, guid: 00585e1640b90704c80577abf89e78fe,
+        type: 3}
+      propertyPath: _assetId
+      value: 3937549301
       objectReference: {fileID: 0}
     - target: {fileID: 5762002493750428373, guid: 00585e1640b90704c80577abf89e78fe,
         type: 3}

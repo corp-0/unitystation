@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 1887961787049617135, guid: 6861c2a7b893541488ad7e9e51c4d119,
         type: 3}
+      propertyPath: _assetId
+      value: 3526790858
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887961787049617135, guid: 6861c2a7b893541488ad7e9e51c4d119,
+        type: 3}
       propertyPath: m_AssetId
       value: 4b9b555f5b302244fb1235845e92dc3f
       objectReference: {fileID: 0}
@@ -135,5 +140,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ffb452e1978e76e49b9eba1acb4fb936,
         type: 2}
+    - target: {fileID: 8054088455099222131, guid: 6861c2a7b893541488ad7e9e51c4d119,
+        type: 3}
+      propertyPath: initialDescription
+      value: A classy suitskirt and tie.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6861c2a7b893541488ad7e9e51c4d119, type: 3}

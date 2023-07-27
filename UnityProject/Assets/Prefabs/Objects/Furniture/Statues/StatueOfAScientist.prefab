@@ -20,6 +20,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4191237880968369507, guid: 586e4c629584b404d8595aa0691ed07f,
         type: 3}
+      propertyPath: _assetId
+      value: 4062486278
+      objectReference: {fileID: 0}
+    - target: {fileID: 4191237880968369507, guid: 586e4c629584b404d8595aa0691ed07f,
+        type: 3}
       propertyPath: m_AssetId
       value: 502fa3c7c8dfc574caf0a03cd404df5b
       objectReference: {fileID: 0}

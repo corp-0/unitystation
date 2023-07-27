@@ -66,6 +66,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4379662516609680101, guid: 20a3d1857d5f66c4aa945129302471a7,
         type: 3}
+      propertyPath: _assetId
+      value: 1129351516
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379662516609680101, guid: 20a3d1857d5f66c4aa945129302471a7,
+        type: 3}
       propertyPath: m_AssetId
       value: 40d216ce05a669448a2ccef3beb60899
       objectReference: {fileID: 0}
@@ -135,6 +140,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: e1c9abf3aede5454e88009fdee27b686,
         type: 3}
+    - target: {fileID: 5274016582908259449, guid: 20a3d1857d5f66c4aa945129302471a7,
+        type: 3}
+      propertyPath: initialDescription
+      value: They're seeds that grow into mimana trees. When grown, keep away from
+        mime
+      objectReference: {fileID: 0}
     - target: {fileID: 7343439865566507836, guid: 20a3d1857d5f66c4aa945129302471a7,
         type: 3}
       propertyPath: foreverID

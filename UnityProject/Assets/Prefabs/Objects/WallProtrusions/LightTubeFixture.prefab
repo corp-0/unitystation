@@ -332,6 +332,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: -932335445
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A lighting fixture.
+      objectReference: {fileID: 0}
     - target: {fileID: 5432513913519741094, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_Size.x

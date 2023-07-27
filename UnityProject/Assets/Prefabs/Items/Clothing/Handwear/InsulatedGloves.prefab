@@ -39,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fd60e5ae19a61744c8b7e5596275c1af,
         type: 2}
+    - target: {fileID: 2803524705192454134, guid: f819cf8b4a0534ec59570563e52c8508,
+        type: 3}
+      propertyPath: initialDescription
+      value: These gloves provide protection against electric shock.
+      objectReference: {fileID: 0}
     - target: {fileID: 5799337935409317762, guid: f819cf8b4a0534ec59570563e52c8508,
         type: 3}
       propertyPath: m_Sprite
@@ -104,6 +109,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989403931701021034, guid: f819cf8b4a0534ec59570563e52c8508,
+        type: 3}
+      propertyPath: _assetId
+      value: 1583800811
       objectReference: {fileID: 0}
     - target: {fileID: 5989403931701021034, guid: f819cf8b4a0534ec59570563e52c8508,
         type: 3}

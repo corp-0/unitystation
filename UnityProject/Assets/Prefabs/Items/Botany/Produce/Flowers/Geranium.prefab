@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7157b0e60140ff141a7e3c3d1b64335c,
         type: 2}
+    - target: {fileID: 4236852780489857128, guid: 28cdae7ec5501a447b6d5c181d3083ac,
+        type: 3}
+      propertyPath: initialDescription
+      value: A beautiful blue flower.
+      objectReference: {fileID: 0}
     - target: {fileID: 5207078106024879138, guid: 28cdae7ec5501a447b6d5c181d3083ac,
         type: 3}
       propertyPath: initialName
@@ -104,6 +109,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5709138118853031668, guid: 28cdae7ec5501a447b6d5c181d3083ac,
+        type: 3}
+      propertyPath: _assetId
+      value: 595625075
       objectReference: {fileID: 0}
     - target: {fileID: 5709138118853031668, guid: 28cdae7ec5501a447b6d5c181d3083ac,
         type: 3}

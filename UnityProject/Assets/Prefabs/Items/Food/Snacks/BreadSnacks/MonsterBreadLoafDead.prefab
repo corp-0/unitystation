@@ -13,6 +13,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8293460573435019875, guid: f297c5f7ec90e204fa5a9991c56a8388,
         type: 3}
+    - target: {fileID: 538956489724416331, guid: f297c5f7ec90e204fa5a9991c56a8388,
+        type: 3}
+      propertyPath: initialDescription
+      value: A smashed up loaf of monster bread, now inanimate. Careful with the
+        spikes.
+      objectReference: {fileID: 0}
     - target: {fileID: 2764740975249062372, guid: f297c5f7ec90e204fa5a9991c56a8388,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -30,6 +36,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 4d4250c77617e3f439c53c07ba164539,
         type: 3}
+    - target: {fileID: 8254112866474622935, guid: f297c5f7ec90e204fa5a9991c56a8388,
+        type: 3}
+      propertyPath: _assetId
+      value: 3560134451
+      objectReference: {fileID: 0}
     - target: {fileID: 8254112866474622935, guid: f297c5f7ec90e204fa5a9991c56a8388,
         type: 3}
       propertyPath: m_AssetId

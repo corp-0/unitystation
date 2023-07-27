@@ -36,6 +36,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
+      propertyPath: _assetId
+      value: 636564603
+      objectReference: {fileID: 0}
+    - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
       propertyPath: m_AssetId
       value: 1ae4a2ac3215bf300a744e4ec8d06bce
       objectReference: {fileID: 0}
@@ -110,6 +115,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: ceaf4f9509a879e4cb2eafd4d7c5ea02,
         type: 3}
+    - target: {fileID: 5897924544656819047, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
+      propertyPath: initialDescription
+      value: Protects the eyes from bright flashes; approved by the mad scientist
+        association.
+      objectReference: {fileID: 0}
     - target: {fileID: 8141721191079898056, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
       propertyPath: PresentSpriteSet

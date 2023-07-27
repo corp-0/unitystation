@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1474225463594202965, guid: 896c6e3b4d7bb56428ed81d5353e7db0,
+        type: 3}
+      propertyPath: initialDescription
+      value: This mycelium grows into an inocybe mushroom, a species of Lavaland
+        origin with hallucinatory and toxic effects.
+      objectReference: {fileID: 0}
     - target: {fileID: 3841877697913135098, guid: 896c6e3b4d7bb56428ed81d5353e7db0,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -77,6 +83,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: InocybeMycelium
+      objectReference: {fileID: 0}
+    - target: {fileID: 7026527766606977481, guid: 896c6e3b4d7bb56428ed81d5353e7db0,
+        type: 3}
+      propertyPath: _assetId
+      value: 3117421237
       objectReference: {fileID: 0}
     - target: {fileID: 7026527766606977481, guid: 896c6e3b4d7bb56428ed81d5353e7db0,
         type: 3}

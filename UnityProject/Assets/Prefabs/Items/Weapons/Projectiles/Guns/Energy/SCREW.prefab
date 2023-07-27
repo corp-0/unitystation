@@ -105,6 +105,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &2797089418331044201
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -134,6 +137,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0033893dccf718d46a700d7fbada45e7,
         type: 2}
+    - target: {fileID: 2959491636832776921, guid: d589c17f6fd91da4190edfdd2cb5aa53,
+        type: 3}
+      propertyPath: initialDescription
+      value: The "Self-Charging Repeating Energy Weapon" is an energy gun with an
+        experimental miniaturized nuclear reactor that automatically charges the
+        internal power cell.
+      objectReference: {fileID: 0}
     - target: {fileID: 3524967171874133402, guid: d589c17f6fd91da4190edfdd2cb5aa53,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -191,6 +201,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 4b547d20fd09a044988d41425205323d,
         type: 2}
+    - target: {fileID: 6693620148964760645, guid: d589c17f6fd91da4190edfdd2cb5aa53,
+        type: 3}
+      propertyPath: _assetId
+      value: 2593992694
+      objectReference: {fileID: 0}
     - target: {fileID: 6693620148964760645, guid: d589c17f6fd91da4190edfdd2cb5aa53,
         type: 3}
       propertyPath: m_AssetId

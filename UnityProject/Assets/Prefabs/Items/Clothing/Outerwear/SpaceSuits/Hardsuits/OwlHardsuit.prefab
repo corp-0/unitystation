@@ -84,6 +84,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 538302552490197242, guid: eec487290ececeb4db71bab916465099,
         type: 3}
+      propertyPath: _assetId
+      value: 194926712
+      objectReference: {fileID: 0}
+    - target: {fileID: 538302552490197242, guid: eec487290ececeb4db71bab916465099,
+        type: 3}
       propertyPath: m_AssetId
       value: c29a8b03e5340244287ff6c26749b609
       objectReference: {fileID: 0}
@@ -125,5 +130,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8e52a8782ccb2c44e8ed96986ed43fa8,
         type: 2}
+    - target: {fileID: 8254766789763034726, guid: eec487290ececeb4db71bab916465099,
+        type: 3}
+      propertyPath: initialDescription
+      value: A dual-mode advanced hardsuit designed for any crime-fighting situation.
+        It is in travel mode.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eec487290ececeb4db71bab916465099, type: 3}

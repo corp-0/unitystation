@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2565599457671015435, guid: e746d3505715fa14eb99a37456d99398,
         type: 3}
+      propertyPath: _assetId
+      value: 751602237
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565599457671015435, guid: e746d3505715fa14eb99a37456d99398,
+        type: 3}
       propertyPath: m_AssetId
       value: b627c8cce47c65e44bd56e8cc6736173
       objectReference: {fileID: 0}
@@ -127,6 +132,11 @@ PrefabInstance:
         type: 3}
       propertyPath: plantData.MutatesInToGameObject.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6227469912486658711, guid: e746d3505715fa14eb99a37456d99398,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into parsnips.
       objectReference: {fileID: 0}
     - target: {fileID: 8595398832567020088, guid: e746d3505715fa14eb99a37456d99398,
         type: 3}

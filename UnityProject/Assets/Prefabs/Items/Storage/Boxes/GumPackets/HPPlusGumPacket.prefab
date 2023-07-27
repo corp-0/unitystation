@@ -13,6 +13,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 1bb80c3af4f67094bb514a996b97f2b1,
         type: 3}
+    - target: {fileID: 1661222264422037523, guid: d2416a3be0e9a95469a2c1e06baebbb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A seemingly homemade packaging with an odd smell. It has a weird drawing
+        of a smiling face sticking out its tongue.
+      objectReference: {fileID: 0}
     - target: {fileID: 3902738030797902012, guid: d2416a3be0e9a95469a2c1e06baebbb6,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -36,6 +42,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 1bb80c3af4f67094bb514a996b97f2b1,
         type: 3}
+    - target: {fileID: 7132405623160919695, guid: d2416a3be0e9a95469a2c1e06baebbb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 1433496508
+      objectReference: {fileID: 0}
     - target: {fileID: 7132405623160919695, guid: d2416a3be0e9a95469a2c1e06baebbb6,
         type: 3}
       propertyPath: m_AssetId

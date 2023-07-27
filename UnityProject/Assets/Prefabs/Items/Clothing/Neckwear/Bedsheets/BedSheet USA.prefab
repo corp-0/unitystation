@@ -85,8 +85,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}
+      propertyPath: _assetId
+      value: 1838974311
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
       propertyPath: m_AssetId
       value: d10afef7f693cd8458a74bbf5b2a59ce
+      objectReference: {fileID: 0}
+    - target: {fileID: 4798647905009580971, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
+      propertyPath: initialDescription
+      value: You've never felt more free than when sleeping on this."
       objectReference: {fileID: 0}
     - target: {fileID: 7186812133261251332, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}

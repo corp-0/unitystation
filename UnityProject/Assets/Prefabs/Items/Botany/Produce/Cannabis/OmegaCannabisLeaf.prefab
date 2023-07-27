@@ -108,6 +108,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: You feel dizzy looking at it. What the fuck?
       objectReference: {fileID: 0}
+    - target: {fileID: 5104746128820311436, guid: d5e025aa25145c744ae2e3883cd7dd39,
+        type: 3}
+      propertyPath: initialDescription
+      value: You feel dizzy looking at it. What the fuck?
+      objectReference: {fileID: 0}
     - target: {fileID: 7490371117361085731, guid: d5e025aa25145c744ae2e3883cd7dd39,
         type: 3}
       propertyPath: PresentSpriteSet

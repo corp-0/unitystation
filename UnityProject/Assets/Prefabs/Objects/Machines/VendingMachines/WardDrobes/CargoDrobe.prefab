@@ -47,6 +47,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 2801236327
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: 3a8afcbc3f0e5664eb19dc113ea3c5db
       objectReference: {fileID: 0}
@@ -132,6 +137,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7a8d6f85b188e9f48b45691781e701ce,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A highly advanced vending machine for buying cargo related clothing
+        for free.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

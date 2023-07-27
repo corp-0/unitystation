@@ -39,6 +39,11 @@ PrefabInstance:
       propertyPath: groundReagents.m_values.Array.data[1]
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 4257468314640852640, guid: b58112df4b5764d479ff1b2118341579,
+        type: 3}
+      propertyPath: initialDescription
+      value: Increases robustness by 37 percent!
+      objectReference: {fileID: 0}
     - target: {fileID: 5303694675348871914, guid: b58112df4b5764d479ff1b2118341579,
         type: 3}
       propertyPath: initialName
@@ -55,6 +60,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 57e17df00a92389499b393eb3adc2613,
         type: 3}
+    - target: {fileID: 5684436740371056700, guid: b58112df4b5764d479ff1b2118341579,
+        type: 3}
+      propertyPath: _assetId
+      value: 1261554194
+      objectReference: {fileID: 0}
     - target: {fileID: 5684436740371056700, guid: b58112df4b5764d479ff1b2118341579,
         type: 3}
       propertyPath: m_AssetId

@@ -13,7 +13,8 @@ using Doors;
 
 namespace Objects.Wallmounts
 {
-	public class FireAlarm : ImnterfaceMultitoolGUI, ISubscriptionController, IServerLifecycle, ICheckedInteractable<HandApply>, IMultitoolMasterable, ICheckedInteractable<AiActivate>
+	public class FireAlarm : ImnterfaceMultitoolGUI, ISubscriptionController, IServerLifecycle,
+		ICheckedInteractable<HandApply>, IMultitoolMasterable, ICheckedInteractable<AiActivate>
 	{
 		public List<FireLock> FireLockList = new List<FireLock>();
 		private MetaDataNode metaNode;
@@ -28,10 +29,9 @@ namespace Objects.Wallmounts
 		public bool coverOpen;
 		public bool hasCables = true;
 
-		private RegisterTile registerTile;
-
-		[SerializeField]
-		private AddressableAudioSource FireAlarmSFX = null;
+		[SerializeField] private RegisterTile registerTile;
+		[SerializeField] private Integrity integrity;
+		[SerializeField] private AddressableAudioSource FireAlarmSFX = null;
 
 		public enum FireAlarmState
 		{
@@ -43,7 +43,8 @@ namespace Objects.Wallmounts
 
 		private void Awake()
 		{
-			registerTile = GetComponent<RegisterTile>();
+			registerTile ??= GetComponent<RegisterTile>();
+			integrity ??= GetComponent<Integrity>();
 		}
 
 
@@ -51,7 +52,7 @@ namespace Objects.Wallmounts
 		{
 			if (hasCables == false) return;
 
-			if(activated || isInCooldown) return;
+			if (activated || isInCooldown) return;
 			activated = true;
 
 			SyncSprite(FireAlarmState.TopLightSpriteAlert);
@@ -67,7 +68,6 @@ namespace Objects.Wallmounts
 
 		public void OnSpawnServer(SpawnInfo info)
 		{
-			var integrity = GetComponent<Integrity>();
 			integrity.OnExposedEvent.AddListener(SendCloseAlerts);
 			MetaDataLayer metaDataLayer = MatrixManager.AtPoint(registerTile.WorldPositionServer, true).MetaDataLayer;
 			var wallMount = GetComponent<WallmountBehavior>();
@@ -157,7 +157,7 @@ namespace Objects.Wallmounts
 				{
 					//cut out cables
 					Chat.AddActionMsgToChat(interaction, $"You remove the cables.",
-						$"{interaction.Performer.ExpensiveName()} removes the cables.");
+						$"{interaction.Performer.DisplayName()} removes the cables.");
 					ToolUtils.ServerPlayToolSound(interaction);
 					Spawn.ServerPrefab(CommonPrefabs.Instance.SingleCableCoil, SpawnDestination.At(gameObject), 5);
 					SyncSprite(FireAlarmState.OpenEmptySprite);
@@ -172,9 +172,9 @@ namespace Objects.Wallmounts
 					//add 5 cables
 					ToolUtils.ServerUseToolWithActionMessages(interaction, 2f,
 						"You start adding cables to the frame...",
-						$"{interaction.Performer.ExpensiveName()} starts adding cables to the frame...",
+						$"{interaction.Performer.DisplayName()} starts adding cables to the frame...",
 						"You add cables to the frame.",
-						$"{interaction.Performer.ExpensiveName()} adds cables to the frame.",
+						$"{interaction.Performer.DisplayName()} adds cables to the frame.",
 						() =>
 						{
 							Inventory.ServerConsume(interaction.HandSlot, 5);

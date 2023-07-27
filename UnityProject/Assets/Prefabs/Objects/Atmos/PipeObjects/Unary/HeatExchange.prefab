@@ -113,6 +113,13 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4396982867251396906, guid: 3937c48f98f9cd043babc5471ee77682,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'Equalises the heat between two exchanges
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 5075775655067238256, guid: 3937c48f98f9cd043babc5471ee77682,
         type: 3}
       propertyPath: CurrentDirection
@@ -128,6 +135,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialVariantIndex
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6931842893682907539, guid: 3937c48f98f9cd043babc5471ee77682,
+        type: 3}
+      propertyPath: _assetId
+      value: 128741409
       objectReference: {fileID: 0}
     - target: {fileID: 6931842893682907539, guid: 3937c48f98f9cd043babc5471ee77682,
         type: 3}
@@ -223,13 +235,13 @@ MonoBehaviour:
       gasMix:
         GasData:
           GasesArray: []
-        Pressure: 0
+        pressure: 0
         Volume: 2.5
+        temperature: 293.15
     MonoPipe: {fileID: 3905221925973493106}
   Colour: {r: 1, g: 1, b: 1, a: 1}
   spawnedFromItem: 1
   directional: {fileID: 9059593038761234394}
-  maxTempExchange: 10
 --- !u!114 &6266835237918800915 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7868529330565958841, guid: 3937c48f98f9cd043babc5471ee77682,

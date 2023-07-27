@@ -38,6 +38,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5996511364925663208, guid: c1e78413dfa7c5d4ebb396bb780027c1,
         type: 3}
+    - target: {fileID: 2143735947355105386, guid: 7fd11f09765590540b2685a0dfa2b8ea,
+        type: 3}
+      propertyPath: initialDescription
+      value: This is an antique laser gun. All craftsmanship is of the highest quality.
+        It is decorated with assistant leather and chrome. The object menaces with
+        spikes of energy. On the item is an image of Space Station 13. The station
+        is exploding.
+      objectReference: {fileID: 0}
     - target: {fileID: 3537619260171532079, guid: 7fd11f09765590540b2685a0dfa2b8ea,
         type: 3}
       propertyPath: foreverID
@@ -61,6 +69,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d876447fb4123ef4f8f6d359f9206a70,
         type: 2}
+    - target: {fileID: 7509375819178772214, guid: 7fd11f09765590540b2685a0dfa2b8ea,
+        type: 3}
+      propertyPath: _assetId
+      value: 3426169687
+      objectReference: {fileID: 0}
     - target: {fileID: 7509375819178772214, guid: 7fd11f09765590540b2685a0dfa2b8ea,
         type: 3}
       propertyPath: m_AssetId

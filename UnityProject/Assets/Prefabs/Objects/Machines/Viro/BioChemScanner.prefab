@@ -93,12 +93,22 @@ PrefabInstance:
       propertyPath: foreverID
       value: EzjNzmvMsgnzPS8Vf!we
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: Scans blood and shows info related to it.
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: PresentSpriteSet
       value: 
       objectReference: {fileID: 11400000, guid: 04b8b9a3e4329524a9c254eed275266c,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 351123387
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId

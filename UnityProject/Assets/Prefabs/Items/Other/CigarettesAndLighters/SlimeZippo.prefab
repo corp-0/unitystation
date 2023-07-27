@@ -15,6 +15,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 22003444456472042, guid: 41be4fe4e9ea29443a0731c3637687f9,
         type: 3}
+      propertyPath: _assetId
+      value: 3677657987
+      objectReference: {fileID: 0}
+    - target: {fileID: 22003444456472042, guid: 41be4fe4e9ea29443a0731c3637687f9,
+        type: 3}
       propertyPath: m_AssetId
       value: 7f8c278b920e3d946b8de1f36da3cd6a
       objectReference: {fileID: 0}
@@ -134,6 +139,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 7f8c278b920e3d946b8de1f36da3cd6a
+      objectReference: {fileID: 0}
+    - target: {fileID: 8482690414970704758, guid: 41be4fe4e9ea29443a0731c3637687f9,
+        type: 3}
+      propertyPath: initialDescription
+      value: A specialty zippo made from slimes and industry. Has a much hotter flame
+        than normal.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 41be4fe4e9ea29443a0731c3637687f9, type: 3}

@@ -418,6 +418,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: a54ff5941b31b6e499a9f63299979d7d
       objectReference: {fileID: 0}
+    - target: {fileID: 7225575060204174384, guid: 1162a9966a460f940a18b4d183b04c30,
+        type: 3}
+      propertyPath: initialDescription
+      value: The skeletal structure of a cyborg, holding the assembly together.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1162a9966a460f940a18b4d183b04c30, type: 3}
 --- !u!1 &4762489895222112533 stripped

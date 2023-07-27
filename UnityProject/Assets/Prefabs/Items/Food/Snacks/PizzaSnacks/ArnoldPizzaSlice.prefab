@@ -57,6 +57,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
+      propertyPath: _assetId
+      value: 1970270501
+      objectReference: {fileID: 0}
+    - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
       propertyPath: m_AssetId
       value: e890a42abb0446047a0516f271ebed29
       objectReference: {fileID: 0}
@@ -142,6 +147,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 80d2517de16fc15448e20c6aad33cf4b,
         type: 2}
+    - target: {fileID: 7577121754099152834, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: I come over, maybe I give you a pizza, maybe I break off your arm.
+      objectReference: {fileID: 0}
     - target: {fileID: 7823489550948591258, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
       propertyPath: NutritionLevel

@@ -105,6 +105,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &7393967512050525525
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -251,6 +254,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
+      propertyPath: _assetId
+      value: 654446135
+      objectReference: {fileID: 0}
+    - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
       propertyPath: m_AssetId
       value: 1c2ebf5951e982c4cb87e7204c670f99
       objectReference: {fileID: 0}
@@ -326,6 +334,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c73eeedb790e6b44b88d166acb084870,
         type: 2}
+    - target: {fileID: 5310784437401147974, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A heavy-duty, multifaceted energy rifle with three modes. Preferred
+        by front-line combat personnel.
+      objectReference: {fileID: 0}
     - target: {fileID: 6093713910395123777, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -503,12 +517,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: 016040b02af7ca64abf7dd60afd9d147, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

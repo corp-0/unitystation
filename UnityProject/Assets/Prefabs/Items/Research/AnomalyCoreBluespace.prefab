@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 755804916297397180, guid: 4acdc2a3b5cb25f47948d30e3b94a28f,
+        type: 3}
+      propertyPath: initialDescription
+      value: The neutralized core of a bluespace anomaly. It keeps phasing in and
+        out of view. It'd probably be valuable for research.
+      objectReference: {fileID: 0}
     - target: {fileID: 2784659518425591033, guid: 4acdc2a3b5cb25f47948d30e3b94a28f,
         type: 3}
       propertyPath: foreverID

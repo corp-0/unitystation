@@ -39,6 +39,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fb993f8e19a13d44998d36df30e1fbf8,
         type: 2}
+    - target: {fileID: 3120556573011417136, guid: 96d11d94b11923f488c5d1711131870a,
+        type: 3}
+      propertyPath: initialDescription
+      value: An air-tight suit designed to be used by plasmamen exployed as atmos
+        technicians, the usual purple stripes being replaced by atmos's blue.
+      objectReference: {fileID: 0}
     - target: {fileID: 6467559934747862138, guid: 96d11d94b11923f488c5d1711131870a,
         type: 3}
       propertyPath: initialName
@@ -56,6 +62,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 3de1cf62d00a7894cbccb5753044cc2a,
         type: 3}
+    - target: {fileID: 6825429889626289836, guid: 96d11d94b11923f488c5d1711131870a,
+        type: 3}
+      propertyPath: _assetId
+      value: 887325552
+      objectReference: {fileID: 0}
     - target: {fileID: 6825429889626289836, guid: 96d11d94b11923f488c5d1711131870a,
         type: 3}
       propertyPath: m_AssetId

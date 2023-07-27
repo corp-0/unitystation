@@ -7,10 +7,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 533570137807616035, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 533570137807616035, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 533570137807616035, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 825006774157790681, guid: 39da184d881f73c48b25ae5921795c55,
         type: 3}
       propertyPath: foreverID
       value: ec35686c7084c93438b6f226712183d2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1506691950847041099, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: initialDescription
+      value: A stationary, plumbed, water tank.
       objectReference: {fileID: 0}
     - target: {fileID: 4324277455529423760, guid: 39da184d881f73c48b25ae5921795c55,
         type: 3}
@@ -35,6 +55,21 @@ PrefabInstance:
     - target: {fileID: 4330033629727454538, guid: 39da184d881f73c48b25ae5921795c55,
         type: 3}
       propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4330033629727454538, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4330033629727454538, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4330033629727454538, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4330033629727454538, guid: 39da184d881f73c48b25ae5921795c55,
@@ -80,6 +115,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5323037765139105522, guid: 39da184d881f73c48b25ae5921795c55,
         type: 3}
+      propertyPath: _assetId
+      value: 3513814945
+      objectReference: {fileID: 0}
+    - target: {fileID: 5323037765139105522, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
       propertyPath: m_AssetId
       value: ec35686c7084c93438b6f226712183d2
       objectReference: {fileID: 0}
@@ -119,6 +159,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819809cff2481914d883a6e1fefb4edd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   MethodRotation: 0

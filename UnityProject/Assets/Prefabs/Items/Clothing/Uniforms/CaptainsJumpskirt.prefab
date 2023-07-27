@@ -29,6 +29,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: 9c0ae44adb2c14e9bae919e9e0f844fc,
         type: 3}
+      propertyPath: _assetId
+      value: 92427140
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 9c0ae44adb2c14e9bae919e9e0f844fc,
+        type: 3}
       propertyPath: m_AssetId
       value: 1538131c6d4be324784f652fab62fbdc
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
       value: captain's jumpskirt
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 9c0ae44adb2c14e9bae919e9e0f844fc,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a blue jumpskirt with some gold markings denoting the rank of "Captain".
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 9c0ae44adb2c14e9bae919e9e0f844fc,
         type: 3}
       propertyPath: initialDescription
       value: It's a blue jumpskirt with some gold markings denoting the rank of "Captain".

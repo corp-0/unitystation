@@ -8,6 +8,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4780239401564943, guid: a096b50447bc34448ab67474a463eaef, type: 3}
+      propertyPath: _assetId
+      value: 182052523
+      objectReference: {fileID: 0}
+    - target: {fileID: 4780239401564943, guid: a096b50447bc34448ab67474a463eaef, type: 3}
       propertyPath: m_AssetId
       value: 24c987967588bb14688c5f71dd985be4
       objectReference: {fileID: 0}
@@ -120,6 +124,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 24c987967588bb14688c5f71dd985be4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8495555138870678931, guid: a096b50447bc34448ab67474a463eaef,
+        type: 3}
+      propertyPath: initialDescription
+      value: When life gives you lemons, don't make lemonade. Make life take the
+        lemons back! Get mad! I don't want your damn lemons!
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a096b50447bc34448ab67474a463eaef, type: 3}

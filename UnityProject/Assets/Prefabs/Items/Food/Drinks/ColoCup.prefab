@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1857806640773602436, guid: 46bb2fe95f4f66341aadfb4600751333,
+        type: 3}
+      propertyPath: initialDescription
+      value: A cheap, mass produced style of cup, typically used at parties. They
+        never seem to come out red, for some reason...
+      objectReference: {fileID: 0}
     - target: {fileID: 3823680117459157953, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: foreverID
@@ -120,6 +126,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -881236643720803590, guid: 0771b52ea8980754390c28d822a9ab25,
         type: 3}
+    - target: {fileID: 7799949450078925336, guid: 46bb2fe95f4f66341aadfb4600751333,
+        type: 3}
+      propertyPath: _assetId
+      value: 3445816545
+      objectReference: {fileID: 0}
     - target: {fileID: 7799949450078925336, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: m_AssetId

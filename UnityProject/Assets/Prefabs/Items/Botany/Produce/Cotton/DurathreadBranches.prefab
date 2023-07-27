@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 864600281347692230, guid: bd34c1228ac64824dbf42c3d2b45d285,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tough bundle of durathread, good luck unraveling this.
+      objectReference: {fileID: 0}
     - target: {fileID: 1557278221188219388, guid: bd34c1228ac64824dbf42c3d2b45d285,
         type: 3}
       propertyPath: seedPacket

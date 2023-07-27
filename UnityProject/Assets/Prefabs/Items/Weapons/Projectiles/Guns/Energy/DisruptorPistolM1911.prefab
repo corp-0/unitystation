@@ -49,6 +49,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 4071982798066082234, guid: 588d1ebc8abb732498ce241df11cdf66,
         type: 3}
+      propertyPath: _assetId
+      value: 2339871650
+      objectReference: {fileID: 0}
+    - target: {fileID: 4071982798066082234, guid: 588d1ebc8abb732498ce241df11cdf66,
+        type: 3}
       propertyPath: m_AssetId
       value: 5332ea8dee0701a43bb873e71327923e
       objectReference: {fileID: 0}
@@ -146,6 +151,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 9d3a385c9fed65648a0ce87943465e3b,
         type: 2}
+    - target: {fileID: 5581133386919169830, guid: 588d1ebc8abb732498ce241df11cdf66,
+        type: 3}
+      propertyPath: initialDescription
+      value: A compact disruptor core in a classic handgun frame for Nanotrasen officers.
+        It's not the size of the gun, it's the size of the hole it puts through people.
+      objectReference: {fileID: 0}
     - target: {fileID: 5788992439995936033, guid: 588d1ebc8abb732498ce241df11cdf66,
         type: 3}
       propertyPath: PresentSpriteSet

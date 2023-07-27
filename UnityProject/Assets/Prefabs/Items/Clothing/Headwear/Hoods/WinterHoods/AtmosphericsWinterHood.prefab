@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2109443883461650354, guid: cf8cf10a15398fd478c8f6f7677d6471,
         type: 3}
+      propertyPath: _assetId
+      value: 3802052556
+      objectReference: {fileID: 0}
+    - target: {fileID: 2109443883461650354, guid: cf8cf10a15398fd478c8f6f7677d6471,
+        type: 3}
       propertyPath: m_AssetId
       value: 9e0c52dde739c6a4b8f6d6d390f4e069
       objectReference: {fileID: 0}
@@ -105,5 +110,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 81a63f1ecde531d4f8f974dc9e63dda8,
         type: 2}
+    - target: {fileID: 7543808584052836654, guid: cf8cf10a15398fd478c8f6f7677d6471,
+        type: 3}
+      propertyPath: initialDescription
+      value: A yellow and blue winter coat hood.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf8cf10a15398fd478c8f6f7677d6471, type: 3}

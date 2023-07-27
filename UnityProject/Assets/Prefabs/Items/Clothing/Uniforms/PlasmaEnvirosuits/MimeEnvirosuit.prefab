@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
+      propertyPath: _assetId
+      value: 4113801056
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
       propertyPath: m_AssetId
       value: 9a8a6051110f4204fb283ebbc5c68396
       objectReference: {fileID: 0}
@@ -88,6 +93,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: f1fb5d6a9e3e33f44876efbf0dedf808,
         type: 3}
+    - target: {fileID: 6350572432933501875, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's not very colourful.
+      objectReference: {fileID: 0}
     - target: {fileID: 8376256678827195166, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
       propertyPath: clothData

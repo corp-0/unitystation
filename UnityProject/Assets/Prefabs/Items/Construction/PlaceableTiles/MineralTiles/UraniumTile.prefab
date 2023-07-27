@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5faace0450975ec40a530d89a45f28f5,
         type: 2}
+    - target: {fileID: 2968664142878122032, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tile made out of uranium. You feel a bit woozy.
+      objectReference: {fileID: 0}
     - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: waysToPlace.Array.size
@@ -67,6 +72,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 05f5e65b373f70044ae9e3332cb877ef,
         type: 2}
+    - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: _assetId
+      value: 4168664307
+      objectReference: {fileID: 0}
     - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: m_AssetId

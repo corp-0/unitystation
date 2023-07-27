@@ -19,6 +19,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4086796152908822152, guid: 538cebc4fa9119344aa630d0f273bced,
         type: 3}
+      propertyPath: _assetId
+      value: 510812496
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086796152908822152, guid: 538cebc4fa9119344aa630d0f273bced,
+        type: 3}
       propertyPath: m_AssetId
       value: 04e181bad9e993944bf2465d48cb41d4
       objectReference: {fileID: 0}
@@ -94,6 +99,12 @@ PrefabInstance:
       value: golden revolver
       objectReference: {fileID: 0}
     - target: {fileID: 4597779802628547678, guid: 538cebc4fa9119344aa630d0f273bced,
+        type: 3}
+      propertyPath: initialDescription
+      value: This ain't no game, ain't never been no show, And I'll gladly gun down
+        the oldest lady you know. Uses .357 ammo.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5566882947682342932, guid: 538cebc4fa9119344aa630d0f273bced,
         type: 3}
       propertyPath: initialDescription
       value: This ain't no game, ain't never been no show, And I'll gladly gun down

@@ -24,6 +24,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
+      propertyPath: _assetId
+      value: 1316344423
+      objectReference: {fileID: 0}
+    - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
       propertyPath: m_AssetId
       value: 49cda73f00a194d458b70128a1c26dbb
       objectReference: {fileID: 0}
@@ -109,5 +114,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1a27268eb934df3488cc80adc28c4ef8,
         type: 2}
+    - target: {fileID: 7577121754099152834, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: Cheesy, garlicky, herby, delicious!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48bd1ae82f15544478352338b47f67e6, type: 3}

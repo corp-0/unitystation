@@ -17,6 +17,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 01adbe4ed95aba04298d331662f28dcd
       objectReference: {fileID: 0}
+    - target: {fileID: 1315440052150143362, guid: e9f5c9b81c30b4742b7859c8d2b045c3,
+        type: 3}
+      propertyPath: initialDescription
+      value: A secure plasma crate.
+      objectReference: {fileID: 0}
     - target: {fileID: 3444414882150781575, guid: e9f5c9b81c30b4742b7859c8d2b045c3,
         type: 3}
       propertyPath: requiredClearance.Array.size
@@ -103,6 +108,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5725908286051291451, guid: e9f5c9b81c30b4742b7859c8d2b045c3,
+        type: 3}
+      propertyPath: _assetId
+      value: 1612126303
       objectReference: {fileID: 0}
     - target: {fileID: 5725908286051291451, guid: e9f5c9b81c30b4742b7859c8d2b045c3,
         type: 3}

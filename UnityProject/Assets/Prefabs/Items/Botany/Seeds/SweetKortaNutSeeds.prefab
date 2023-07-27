@@ -18,6 +18,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 95c058dfb1a8fba42b9e234acf3e0e74,
         type: 2}
+    - target: {fileID: 3191020801338112320, guid: eb8e5acb0bfcf7a42b21358943d2e1e3,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into sweet korta nuts, a mutation of the original species
+        that produces a thick syrup that Tizirans use for desserts.
+      objectReference: {fileID: 0}
     - target: {fileID: 5752901137671319761, guid: eb8e5acb0bfcf7a42b21358943d2e1e3,
         type: 3}
       propertyPath: plantData.Yield
@@ -103,6 +109,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6466735282065168348, guid: eb8e5acb0bfcf7a42b21358943d2e1e3,
+        type: 3}
+      propertyPath: _assetId
+      value: 2827214867
       objectReference: {fileID: 0}
     - target: {fileID: 6466735282065168348, guid: eb8e5acb0bfcf7a42b21358943d2e1e3,
         type: 3}

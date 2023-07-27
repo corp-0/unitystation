@@ -145,8 +145,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4033042375367942854, guid: 154f1cc5290d1be46b350dde20de63d0,
         type: 3}
+      propertyPath: _assetId
+      value: 4146366415
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033042375367942854, guid: 154f1cc5290d1be46b350dde20de63d0,
+        type: 3}
       propertyPath: m_AssetId
       value: 81f18cbc700b2dc4c97a466ab1015731
+      objectReference: {fileID: 0}
+    - target: {fileID: 4759886258258201690, guid: 154f1cc5290d1be46b350dde20de63d0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A magnificent, paper-lined robe that seems to radiate power. Looks flammable.
       objectReference: {fileID: 0}
     - target: {fileID: 7145545764318209269, guid: 154f1cc5290d1be46b350dde20de63d0,
         type: 3}

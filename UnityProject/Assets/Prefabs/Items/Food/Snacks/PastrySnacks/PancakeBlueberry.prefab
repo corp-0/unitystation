@@ -85,6 +85,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2870805221280403415, guid: 035adb3887f722a46a90a325f4096256,
         type: 3}
+      propertyPath: _assetId
+      value: 2309557889
+      objectReference: {fileID: 0}
+    - target: {fileID: 2870805221280403415, guid: 035adb3887f722a46a90a325f4096256,
+        type: 3}
       propertyPath: m_AssetId
       value: af1b909717de29d43a653522f2ec532d
       objectReference: {fileID: 0}
@@ -97,6 +102,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.data[1]
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5918182747567317323, guid: 035adb3887f722a46a90a325f4096256,
+        type: 3}
+      propertyPath: initialDescription
+      value: A fluffy and delicious blueberry pancake.
       objectReference: {fileID: 0}
     - target: {fileID: 6310771810781360147, guid: 035adb3887f722a46a90a325f4096256,
         type: 3}

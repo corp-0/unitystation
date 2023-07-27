@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3539591971176388631, guid: f81f054e54c0164459e94a191cf3ac9e,
         type: 3}
+      propertyPath: _assetId
+      value: 3389562770
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539591971176388631, guid: f81f054e54c0164459e94a191cf3ac9e,
+        type: 3}
       propertyPath: m_AssetId
       value: ee3283831c14da341b7f378f1e7f3971
       objectReference: {fileID: 0}
@@ -94,6 +99,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ee76ba24a0cd443b1a308dd04cdb3678,
         type: 2}
+    - target: {fileID: 4965664844642662027, guid: f81f054e54c0164459e94a191cf3ac9e,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'A holster to carry a handgun and ammo. WARNING: Badasses only.'
+      objectReference: {fileID: 0}
     - target: {fileID: 5185682996409656404, guid: f81f054e54c0164459e94a191cf3ac9e,
         type: 3}
       propertyPath: allClothingData.Array.size

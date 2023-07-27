@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 826361811098923384, guid: e77ad8336ea71364c9ec01faad07f5f4,
+        type: 3}
+      propertyPath: initialDescription
+      value: A modified flash device, programmed to emit a sequence of subliminal
+        flashes that can send a vulnerable target into a hypnotic trance.
+      objectReference: {fileID: 0}
     - target: {fileID: 2859753007631003197, guid: e77ad8336ea71364c9ec01faad07f5f4,
         type: 3}
       propertyPath: foreverID
@@ -17,6 +23,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A modified flash device, programmed to emit a sequence of subliminal
         flashes that can send a vulnerable target into a hypnotic trance.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9115688381779992548, guid: e77ad8336ea71364c9ec01faad07f5f4,
+        type: 3}
+      propertyPath: _assetId
+      value: 2009268336
       objectReference: {fileID: 0}
     - target: {fileID: 9115688381779992548, guid: e77ad8336ea71364c9ec01faad07f5f4,
         type: 3}

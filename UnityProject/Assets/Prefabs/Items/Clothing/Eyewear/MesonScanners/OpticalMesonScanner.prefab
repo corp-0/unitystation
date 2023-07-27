@@ -36,6 +36,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
+      propertyPath: _assetId
+      value: 469498559
+      objectReference: {fileID: 0}
+    - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
       propertyPath: m_AssetId
       value: e6f80a7fd02e2c14ea72a1410452b690
       objectReference: {fileID: 0}
@@ -110,6 +115,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: d496b6e775c7720479b0bfd76ffe7b5f,
         type: 3}
+    - target: {fileID: 5897924544656819047, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used by engineering and mining staff to see basic structural and terrain
+        layouts through walls, regardless of lighting conditions.
+      objectReference: {fileID: 0}
     - target: {fileID: 8141721191079898056, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
       propertyPath: PresentSpriteSet

@@ -34,6 +34,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 063875855fb4fdf458ecaa4a572c0ba8,
         type: 2}
+    - target: {fileID: 4489323093273851691, guid: 370e44bf0f4127a4194e5d791bca7989,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'The book''s cover reads: \"Understanding Dronespeak - An exercise in
+        futility.\" The book is written entirely in binary, non-silicons probably
+        won''t understand it.'
+      objectReference: {fileID: 0}
     - target: {fileID: 5250698454179092319, guid: 370e44bf0f4127a4194e5d791bca7989,
         type: 3}
       propertyPath: m_Sprite
@@ -99,6 +106,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457230700116875703, guid: 370e44bf0f4127a4194e5d791bca7989,
+        type: 3}
+      propertyPath: _assetId
+      value: 258089103
       objectReference: {fileID: 0}
     - target: {fileID: 5457230700116875703, guid: 370e44bf0f4127a4194e5d791bca7989,
         type: 3}

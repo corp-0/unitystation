@@ -34,6 +34,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: b48564661c786a34c8e35fdfe187f83e,
         type: 2}
+    - target: {fileID: 4077325183551366391, guid: ae4a690ad52c79c4fab73ca540cde5ac,
+        type: 3}
+      propertyPath: initialDescription
+      value: Believe in us humans.
+      objectReference: {fileID: 0}
     - target: {fileID: 5339724841748502717, guid: ae4a690ad52c79c4fab73ca540cde5ac,
         type: 3}
       propertyPath: hitDamage
@@ -113,6 +118,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BlackGigaGarGlasses
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576349553471015531, guid: ae4a690ad52c79c4fab73ca540cde5ac,
+        type: 3}
+      propertyPath: _assetId
+      value: 3659345169
       objectReference: {fileID: 0}
     - target: {fileID: 5576349553471015531, guid: ae4a690ad52c79c4fab73ca540cde5ac,
         type: 3}

@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 639459494560864374, guid: 75714a236b0522844b47ac0e27cd2487,
+        type: 3}
+      propertyPath: initialDescription
+      value: Maybe alien surgeons have finally found a use for the drill.
+      objectReference: {fileID: 0}
     - target: {fileID: 2199206135514510756, guid: 75714a236b0522844b47ac0e27cd2487,
         type: 3}
       propertyPath: SpeedMultiplier

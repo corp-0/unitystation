@@ -380,6 +380,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6008882450192898690, guid: e241039a7933eb347bd1a9bb67a9078a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A decapitated human head.
+      objectReference: {fileID: 0}
     - target: {fileID: 7822575272286095514, guid: e241039a7933eb347bd1a9bb67a9078a,
         type: 3}
       propertyPath: deadlyDamageInOneHit

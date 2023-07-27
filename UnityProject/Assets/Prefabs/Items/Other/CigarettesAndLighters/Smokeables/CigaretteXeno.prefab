@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1275951428261943363, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A Xeno Filtered brand cigarette.
+      objectReference: {fileID: 0}
     - target: {fileID: 4426236432238511878, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: foreverID
@@ -16,6 +21,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A Xeno Filtered brand cigarette.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224806146168436447, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+        type: 3}
+      propertyPath: _assetId
+      value: 3998081148
       objectReference: {fileID: 0}
     - target: {fileID: 7224806146168436447, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}

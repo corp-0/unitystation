@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1558895869745956181, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
+        type: 3}
+      propertyPath: initialDescription
+      value: A sweet treat lizards love to eat.
+      objectReference: {fileID: 0}
     - target: {fileID: 4141761404124568080, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
         type: 3}
       propertyPath: foreverID
@@ -32,6 +37,11 @@ PrefabInstance:
         type: 3}
       propertyPath: juicedReagents.m_values.Array.data[1]
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6941439495637117897, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
+        type: 3}
+      propertyPath: _assetId
+      value: 2425177394
       objectReference: {fileID: 0}
     - target: {fileID: 6941439495637117897, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
         type: 3}

@@ -25,6 +25,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2193914177532499227, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
+      propertyPath: _assetId
+      value: 892203215
+      objectReference: {fileID: 0}
+    - target: {fileID: 2193914177532499227, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
       propertyPath: m_AssetId
       value: d867a6391836ada4ab3327716b7dc931
       objectReference: {fileID: 0}
@@ -46,6 +51,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 5112fc234b2397b4fbc53dd35ae70fb8,
         type: 3}
+    - target: {fileID: 4847486937091673506, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used to access the various cameras on the station.
+      objectReference: {fileID: 0}
     - target: {fileID: 6092885030212132519, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
       propertyPath: Color.b

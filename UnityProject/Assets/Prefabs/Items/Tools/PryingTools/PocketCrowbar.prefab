@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 224935955204253567, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A small crowbar. This handy tool is useful for lots of things, such
+        as prying floor tiles or opening unpowered doors.
+      objectReference: {fileID: 0}
     - target: {fileID: 2466764617220362192, guid: c9c58a9243d494537abcb4ee470efab0,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -216,6 +222,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Fire
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8568555645537651171, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: _assetId
+      value: 476961080
       objectReference: {fileID: 0}
     - target: {fileID: 8568555645537651171, guid: c9c58a9243d494537abcb4ee470efab0,
         type: 3}

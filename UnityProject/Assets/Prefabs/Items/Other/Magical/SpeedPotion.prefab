@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 2627ddb9f8001584a9e040287453010b
       objectReference: {fileID: 0}
+    - target: {fileID: 3532421165250911315, guid: 1e86836ca86312b47b6c5416bd8426f1,
+        type: 3}
+      propertyPath: initialDescription
+      value: A potent chemical mix that will remove the slowdown from any item.
+      objectReference: {fileID: 0}
     - target: {fileID: 4866909607520428057, guid: 1e86836ca86312b47b6c5416bd8426f1,
         type: 3}
       propertyPath: initialName
@@ -119,3 +124,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5dcd84ca3f42b0c489d95b19763e499b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PotionColour: {r: 1, g: 0.992156, b: 0.0039, a: 1}

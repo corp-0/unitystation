@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
+      propertyPath: _assetId
+      value: 2205609408
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
       propertyPath: m_AssetId
       value: 20b6b38ae2978ce478f9d412a545f03d
       objectReference: {fileID: 0}
@@ -88,6 +93,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 37856b63a920f4145af6e36b4ae2c540,
         type: 3}
+    - target: {fileID: 6350572432933501875, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
+      propertyPath: initialDescription
+      value: A plasmaman envirosuit designed for geneticists.
+      objectReference: {fileID: 0}
     - target: {fileID: 8376256678827195166, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
       propertyPath: clothData

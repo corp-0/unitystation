@@ -7,6 +7,27 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 540805638979158701, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's staggering to think that something this big could have lived, let
+        alone died.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1445115290152821957, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1445115290152821957, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1445115290152821957, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1736851031246721343, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
         type: 3}
       propertyPath: foreverID
@@ -60,6 +81,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3422407103395555756, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
         type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3422407103395555756, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3422407103395555756, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3422407103395555756, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -83,6 +119,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: It's staggering to think that something this big could have lived, let
         alone died.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6536606663306582548, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: _assetId
+      value: 2066723306
       objectReference: {fileID: 0}
     - target: {fileID: 6536606663306582548, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
         type: 3}
@@ -115,6 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819809cff2481914d883a6e1fefb4edd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   MethodRotation: 0

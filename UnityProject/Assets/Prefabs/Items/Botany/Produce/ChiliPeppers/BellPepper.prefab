@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
         type: 3}
+      propertyPath: _assetId
+      value: 3171537686
+      objectReference: {fileID: 0}
+    - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
       propertyPath: m_AssetId
       value: dee57bd2331d0cc4799b6077a0004818
       objectReference: {fileID: 0}
@@ -136,6 +141,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: dingdong
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213787336926973796, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
+      propertyPath: initialDescription
+      value: A big mild pepper that's good for many things.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27208d0fc3f7c3544a8d1a7861253b52, type: 3}

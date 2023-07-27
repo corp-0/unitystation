@@ -79,6 +79,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 9071029834492727957, guid: 890d160c3b8aa074c844215d24be6881,
         type: 3}
+    - target: {fileID: 2666083176144469889, guid: 17045812469b8c649babb925c6965066,
+        type: 3}
+      propertyPath: initialDescription
+      value: heats or cools gas in connected pipes.
+      objectReference: {fileID: 0}
     - target: {fileID: 3138898577607490365, guid: 17045812469b8c649babb925c6965066,
         type: 3}
       propertyPath: type
@@ -140,6 +145,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: heats or cools gas in connected pipes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8775323764407330616, guid: 17045812469b8c649babb925c6965066,
+        type: 3}
+      propertyPath: _assetId
+      value: 3979889059
       objectReference: {fileID: 0}
     - target: {fileID: 8775323764407330616, guid: 17045812469b8c649babb925c6965066,
         type: 3}

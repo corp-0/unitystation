@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3107333849576633749, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}
+      propertyPath: _assetId
+      value: 1350315172
+      objectReference: {fileID: 0}
+    - target: {fileID: 3107333849576633749, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
       propertyPath: m_AssetId
       value: 7aafd41668c29ca48ba6e2d0fb369566
       objectReference: {fileID: 0}
@@ -123,6 +128,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.data[2]
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6839219976228231945, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tasty dessert that won't make it through a metal detector.
       objectReference: {fileID: 0}
     - target: {fileID: 8228634865165812812, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}

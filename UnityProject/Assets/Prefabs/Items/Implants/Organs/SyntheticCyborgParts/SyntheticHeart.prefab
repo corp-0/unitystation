@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: oZ$qFf9Q2zVR!nCaGFkE
       objectReference: {fileID: 0}
+    - target: {fileID: 3882688689638227017, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+        type: 3}
+      propertyPath: initialDescription
+      value: A mechanical heart.
+      objectReference: {fileID: 0}
     - target: {fileID: 4617501557389857493, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: _assetId
@@ -265,8 +270,9 @@ MonoBehaviour:
   syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
+  CanHaveHeartAttack: 1
+  EfficiencyLinksToModifiers: 1
   HeartAttack: 0
-  CanTriggerHeartAttack: 1
   heartAttackThreshold: -100
   SecondsOfRevivePulse: 45
   CurrentPulse: 0

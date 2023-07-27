@@ -90,6 +90,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 3318078067
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: 63587900698efce47a648bd987aef283
       objectReference: {fileID: 0}
@@ -125,5 +130,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e3beab5195ee1214387c4b1ed9da32f7,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: A working man's cap.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

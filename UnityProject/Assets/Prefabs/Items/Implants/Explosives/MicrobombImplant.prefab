@@ -135,8 +135,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3453718111123140604, guid: 414ec5b5318df6f4bbd000a4dfb298ca,
         type: 3}
+      propertyPath: _assetId
+      value: 2060832620
+      objectReference: {fileID: 0}
+    - target: {fileID: 3453718111123140604, guid: 414ec5b5318df6f4bbd000a4dfb298ca,
+        type: 3}
       propertyPath: m_AssetId
       value: dc94bc35b5fe6704b851fa3e1f97bfff
+      objectReference: {fileID: 0}
+    - target: {fileID: 6492132015428256096, guid: 414ec5b5318df6f4bbd000a4dfb298ca,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'And boom goes the weasel. And everything else nearby.
+
+        Implanted
+        in the victims head.'
       objectReference: {fileID: 0}
     - target: {fileID: 7968537685027302571, guid: 414ec5b5318df6f4bbd000a4dfb298ca,
         type: 3}

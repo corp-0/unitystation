@@ -78,6 +78,18 @@ PrefabInstance:
       propertyPath: foreverID
       value: f17d6c099ecfc4b49a1b59d77cbe2d28
       objectReference: {fileID: 0}
+    - target: {fileID: 3781317830145964587, guid: f68661a1266c7104a8e88709444da749,
+        type: 3}
+      propertyPath: initialDescription
+      value: A special protolathe with a built in interface meant for departmental
+        usage, with built in ExoSync receivers allowing it to print designs researched
+        that match its ROM-encoded department type.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7588022720072639122, guid: f68661a1266c7104a8e88709444da749,
+        type: 3}
+      propertyPath: _assetId
+      value: 3401406240
+      objectReference: {fileID: 0}
     - target: {fileID: 7588022720072639122, guid: f68661a1266c7104a8e88709444da749,
         type: 3}
       propertyPath: m_AssetId

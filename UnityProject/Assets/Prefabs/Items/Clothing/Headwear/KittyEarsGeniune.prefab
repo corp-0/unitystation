@@ -7,10 +7,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 5a6e2e3a0a44146198136e4fa2798db5,
+        type: 3}
+      propertyPath: initialDescription
+      value: A pair of kitty ears. A tag on the inside says \"Hand made from real
+        cats.\"
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 5a6e2e3a0a44146198136e4fa2798db5,
         type: 3}
       propertyPath: foreverID
       value: 5a6e2e3t0b44h46198136e4fa2798db5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7524605284256423550, guid: 5a6e2e3a0a44146198136e4fa2798db5,
+        type: 3}
+      propertyPath: _assetId
+      value: 3978243623
       objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 5a6e2e3a0a44146198136e4fa2798db5,
         type: 3}

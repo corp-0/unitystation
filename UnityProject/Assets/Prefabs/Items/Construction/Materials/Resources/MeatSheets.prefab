@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 94447294824387351, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: initialDescription
+      value: Something's bloody meat compressed into a nice solid sheet.
+      objectReference: {fileID: 0}
     - target: {fileID: 2335991647453887416, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -39,6 +44,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 66b978f0f74b5c14eb2a3ed504fda347,
         type: 2}
+    - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: _assetId
+      value: 1954972296
+      objectReference: {fileID: 0}
     - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}
       propertyPath: m_AssetId

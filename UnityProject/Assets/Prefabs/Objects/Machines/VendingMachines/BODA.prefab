@@ -30,6 +30,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 854479238589397880, guid: 2f2954acc32d9d3468c620e34a625966,
         type: 3}
+      propertyPath: _assetId
+      value: 3233712564
+      objectReference: {fileID: 0}
+    - target: {fileID: 854479238589397880, guid: 2f2954acc32d9d3468c620e34a625966,
+        type: 3}
       propertyPath: m_AssetId
       value: 413bafde4923c1b4783cf7b33153c6f3
       objectReference: {fileID: 0}
@@ -89,6 +94,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 413bafde4923c1b4783cf7b33153c6f3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6263480870727295937, guid: 2f2954acc32d9d3468c620e34a625966,
+        type: 3}
+      propertyPath: initialDescription
+      value: Old sweet water vending machine.
       objectReference: {fileID: 0}
     - target: {fileID: 7077253877563091611, guid: 2f2954acc32d9d3468c620e34a625966,
         type: 3}

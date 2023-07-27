@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 587a58515cd8e184b95f460845e0b21d
       objectReference: {fileID: 0}
+    - target: {fileID: 3742366849115467082, guid: 82854d05a642eb841b438f039ae33cb5,
+        type: 3}
+      propertyPath: initialDescription
+      value: All the joys of healthy eating with all the fun of cannibalism.
+      objectReference: {fileID: 0}
     - target: {fileID: 4710936765405548800, guid: 82854d05a642eb841b438f039ae33cb5,
         type: 3}
       propertyPath: initialDescription
@@ -29,6 +34,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: eacf923f7fb74e14689541749cae5e9c,
         type: 3}
+    - target: {fileID: 5051124718424327126, guid: 82854d05a642eb841b438f039ae33cb5,
+        type: 3}
+      propertyPath: _assetId
+      value: 2886384501
+      objectReference: {fileID: 0}
     - target: {fileID: 5051124718424327126, guid: 82854d05a642eb841b438f039ae33cb5,
         type: 3}
       propertyPath: m_AssetId

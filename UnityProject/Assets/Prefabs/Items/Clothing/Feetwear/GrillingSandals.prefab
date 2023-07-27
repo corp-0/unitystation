@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
         type: 3}
+      propertyPath: _assetId
+      value: 545916930
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
       propertyPath: m_AssetId
       value: 3c6a831db5491964b8410e18ee7f8a1d
       objectReference: {fileID: 0}
@@ -126,5 +131,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ff97fa8e91283924bb8dfe186d0a61a2,
         type: 2}
+    - target: {fileID: 7890908865026357812, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: All this talk of antags, greytiding, and griefing... I just wanna grill
+        for god's sake!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 502f496beb9034b9b9c97868e845ed7e, type: 3}

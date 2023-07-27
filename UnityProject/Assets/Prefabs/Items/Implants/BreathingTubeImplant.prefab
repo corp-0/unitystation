@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1274760333973328556, guid: 1162a9966a460f940a18b4d183b04c30,
         type: 3}
+      propertyPath: _assetId
+      value: 1028297904
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274760333973328556, guid: 1162a9966a460f940a18b4d183b04c30,
+        type: 3}
       propertyPath: m_AssetId
       value: daf62c71c82b7c846b32610281425999
       objectReference: {fileID: 0}
@@ -236,6 +241,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: breathing_tube
       objectReference: {fileID: 0}
+    - target: {fileID: 7225575060204174384, guid: 1162a9966a460f940a18b4d183b04c30,
+        type: 3}
+      propertyPath: initialDescription
+      value: This implant will allow the user to use gas tanks for internals, even
+        if he is not wearing a mask. If exposed to EMP, it has a chance to suffocate
+        the user.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1162a9966a460f940a18b4d183b04c30, type: 3}
 --- !u!1 &4785539145425236049 stripped
@@ -256,6 +268,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 950a39b567eac844590f5776f592f514, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   isEMPVunerable: 1

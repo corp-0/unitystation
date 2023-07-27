@@ -34,6 +34,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f463e72a7750346439293794de72d39b,
         type: 2}
+    - target: {fileID: 2959491636832776921, guid: d589c17f6fd91da4190edfdd2cb5aa53,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'A small, pistol-sized energy carbine with a built-in flashlight. It
+        has two settings: disable and kill.'
+      objectReference: {fileID: 0}
     - target: {fileID: 3524967171874133402, guid: d589c17f6fd91da4190edfdd2cb5aa53,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -100,6 +106,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e8985b79e43678340a5da4ca4ef37d67,
         type: 2}
+    - target: {fileID: 6693620148964760645, guid: d589c17f6fd91da4190edfdd2cb5aa53,
+        type: 3}
+      propertyPath: _assetId
+      value: 2128327839
+      objectReference: {fileID: 0}
     - target: {fileID: 6693620148964760645, guid: d589c17f6fd91da4190edfdd2cb5aa53,
         type: 3}
       propertyPath: m_AssetId

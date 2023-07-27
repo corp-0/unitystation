@@ -93,6 +93,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: Manufactures circuit boards for the construction of machines.
       objectReference: {fileID: 0}
+    - target: {fileID: 1801304770416810805, guid: 76c4b888beee06f4c9fda031b6e4d47b,
+        type: 3}
+      propertyPath: initialDescription
+      value: Manufactures circuit boards for the construction of machines.
+      objectReference: {fileID: 0}
     - target: {fileID: 3180855700610470511, guid: 76c4b888beee06f4c9fda031b6e4d47b,
         type: 3}
       propertyPath: MachineParts
@@ -135,6 +140,11 @@ PrefabInstance:
         type: 3}
       propertyPath: isDirty
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5028383164152644492, guid: 76c4b888beee06f4c9fda031b6e4d47b,
+        type: 3}
+      propertyPath: _assetId
+      value: 2293840173
       objectReference: {fileID: 0}
     - target: {fileID: 5028383164152644492, guid: 76c4b888beee06f4c9fda031b6e4d47b,
         type: 3}

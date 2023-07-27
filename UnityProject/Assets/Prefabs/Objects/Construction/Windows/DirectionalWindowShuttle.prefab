@@ -60,6 +60,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3210787376857357156, guid: 157fcff274a3644448d1ff3bdc019619,
         type: 3}
+      propertyPath: _assetId
+      value: 2708187671
+      objectReference: {fileID: 0}
+    - target: {fileID: 3210787376857357156, guid: 157fcff274a3644448d1ff3bdc019619,
+        type: 3}
       propertyPath: m_AssetId
       value: 044c5be8ebc308b4b9e450ab85fec306
       objectReference: {fileID: 0}
@@ -123,6 +128,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 044c5be8ebc308b4b9e450ab85fec306
+      objectReference: {fileID: 0}
+    - target: {fileID: 8194546801250042845, guid: 157fcff274a3644448d1ff3bdc019619,
+        type: 3}
+      propertyPath: initialDescription
+      value: A reinforced, air-locked pod window.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 157fcff274a3644448d1ff3bdc019619, type: 3}

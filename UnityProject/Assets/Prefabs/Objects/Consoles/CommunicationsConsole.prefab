@@ -95,6 +95,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 2193914177532499227, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
+      propertyPath: _assetId
+      value: 2370671671
+      objectReference: {fileID: 0}
+    - target: {fileID: 2193914177532499227, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
       propertyPath: m_AssetId
       value: 9ee00dec6bcc89c41908f9f20efa9068
       objectReference: {fileID: 0}
@@ -132,6 +137,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: d06e087543597fc44a9070b2c5279e85,
         type: 3}
+    - target: {fileID: 4847486937091673506, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
+      propertyPath: initialDescription
+      value: A console used for high-priority announcements and emergencies.
+      objectReference: {fileID: 0}
     - target: {fileID: 5903546303531293955, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
       propertyPath: m_AssetId
@@ -333,11 +343,13 @@ MonoBehaviour:
     type: 2}
   itemStoragePopulator: {fileID: 0}
   forceSpawnContents: 0
+  ManuallySpawnContent: 0
   dropItemsOnDespawn: 0
   UesAddlistPopulater: 0
   Populater:
     SlotContents: []
     DeprecatedContents: []
+  SetSlotItemNotRemovableOnStartUp: 0
   ashPrefab: {fileID: 0}
 --- !u!114 &6346262200105816416
 MonoBehaviour:

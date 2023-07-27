@@ -30,12 +30,24 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3d369c74676843949889a1add2eecfaa,
         type: 2}
+    - target: {fileID: 3414541485199591099, guid: caa7ec1293d63a74aa063307403f0c7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A luxurious winter coat woven in the bright green and gold colours of
+        Central Command. It has a small pin in the shape of the Nanotrasen logo for
+        a zipper.
+      objectReference: {fileID: 0}
     - target: {fileID: 6481135740484462287, guid: caa7ec1293d63a74aa063307403f0c7e,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: c695a97746ff49f45882a6c67bdbf675,
         type: 3}
+    - target: {fileID: 6526945778998519847, guid: caa7ec1293d63a74aa063307403f0c7e,
+        type: 3}
+      propertyPath: _assetId
+      value: 801837889
+      objectReference: {fileID: 0}
     - target: {fileID: 6526945778998519847, guid: caa7ec1293d63a74aa063307403f0c7e,
         type: 3}
       propertyPath: m_AssetId

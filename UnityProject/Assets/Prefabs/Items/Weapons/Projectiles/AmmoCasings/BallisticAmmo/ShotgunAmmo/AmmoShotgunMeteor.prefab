@@ -19,6 +19,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 828190728026662152, guid: 82634fbe84fa69d4b8cc2e16bc0756a4,
         type: 3}
+    - target: {fileID: 136226853080657431, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A shotgun shell rigged with CMC technology, which launches a massive
+        slug when fired.
+      objectReference: {fileID: 0}
     - target: {fileID: 2361978366132242104, guid: b564e5d916b891446903adc342af08bd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -40,6 +46,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A shotgun shell rigged with CMC technology, which launches a massive
         slug when fired.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: _assetId
+      value: 2845573813
       objectReference: {fileID: 0}
     - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
         type: 3}

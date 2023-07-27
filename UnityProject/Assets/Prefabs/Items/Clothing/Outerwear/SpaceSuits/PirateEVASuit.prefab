@@ -29,6 +29,18 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f3655757ed199b44496b43fcb24a2260,
         type: 2}
+    - target: {fileID: 4411345340311771647, guid: 5b03000bed50be045b14e7dc9186fd97,
+        type: 3}
+      propertyPath: initialDescription
+      value: A modified EVA suit to allow space pirates to board shuttles and stations
+        while avoiding the maw of the void. Has been up-armored to resist light blows
+        and trimming to the ligaments increases the mobility slightly.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5246274445521368931, guid: 5b03000bed50be045b14e7dc9186fd97,
+        type: 3}
+      propertyPath: _assetId
+      value: 714758958
+      objectReference: {fileID: 0}
     - target: {fileID: 5246274445521368931, guid: 5b03000bed50be045b14e7dc9186fd97,
         type: 3}
       propertyPath: m_AssetId

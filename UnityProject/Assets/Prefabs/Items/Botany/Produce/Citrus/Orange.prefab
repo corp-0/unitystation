@@ -95,6 +95,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1049692092611538263, guid: 626cdf84a36c1384abff4ad0c505ea96,
         type: 3}
+      propertyPath: _assetId
+      value: 1544049331
+      objectReference: {fileID: 0}
+    - target: {fileID: 1049692092611538263, guid: 626cdf84a36c1384abff4ad0c505ea96,
+        type: 3}
       propertyPath: m_AssetId
       value: f77037b85bbec3f408e6f8b3bdd874db
       objectReference: {fileID: 0}
@@ -195,6 +200,11 @@ PrefabInstance:
         type: 3}
       propertyPath: juicedReagents.m_values.Array.data[0]
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8892353738744562635, guid: 626cdf84a36c1384abff4ad0c505ea96,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a tangy fruit.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 626cdf84a36c1384abff4ad0c505ea96, type: 3}

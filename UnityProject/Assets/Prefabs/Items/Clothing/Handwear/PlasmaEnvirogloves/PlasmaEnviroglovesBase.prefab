@@ -39,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7e2eeedde15ffc941bd3386640c9d211,
         type: 2}
+    - target: {fileID: 3312608723683038991, guid: 628668e5958fedc4bb4bf1685251aa9f,
+        type: 3}
+      propertyPath: initialDescription
+      value: Covers up those scandalous boney hands.
+      objectReference: {fileID: 0}
     - target: {fileID: 6341625060856878547, guid: 628668e5958fedc4bb4bf1685251aa9f,
         type: 3}
       propertyPath: Armor.Bio
@@ -58,6 +63,11 @@ PrefabInstance:
         type: 3}
       propertyPath: HeatResistance
       value: 1500
+      objectReference: {fileID: 0}
+    - target: {fileID: 6345147379047856531, guid: 628668e5958fedc4bb4bf1685251aa9f,
+        type: 3}
+      propertyPath: _assetId
+      value: 2443127645
       objectReference: {fileID: 0}
     - target: {fileID: 6345147379047856531, guid: 628668e5958fedc4bb4bf1685251aa9f,
         type: 3}

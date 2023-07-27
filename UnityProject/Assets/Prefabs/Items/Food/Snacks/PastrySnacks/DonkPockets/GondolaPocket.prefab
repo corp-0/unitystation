@@ -102,6 +102,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4170985198274634163, guid: 03ecfa2b3ab8ecf4f86c295e0dc69792,
         type: 3}
+      propertyPath: _assetId
+      value: 4046596282
+      objectReference: {fileID: 0}
+    - target: {fileID: 4170985198274634163, guid: 03ecfa2b3ab8ecf4f86c295e0dc69792,
+        type: 3}
       propertyPath: m_AssetId
       value: a8b8e46cdc47857479564ff9e846b125
       objectReference: {fileID: 0}
@@ -122,6 +127,12 @@ PrefabInstance:
       value: Gondola-pocket
       objectReference: {fileID: 0}
     - target: {fileID: 4511480774014382949, guid: 03ecfa2b3ab8ecf4f86c295e0dc69792,
+        type: 3}
+      propertyPath: initialDescription
+      value: The choice to use real gondola meat in the recipe is controversial,
+        to say the least.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5482267271404146479, guid: 03ecfa2b3ab8ecf4f86c295e0dc69792,
         type: 3}
       propertyPath: initialDescription
       value: The choice to use real gondola meat in the recipe is controversial,

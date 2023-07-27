@@ -51,6 +51,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: e61cd1e78677d984988f8655ba75746a
       objectReference: {fileID: 0}
+    - target: {fileID: 3892247816555243931, guid: d05e6959c655a704783a7df68cd10435,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used by veteran cultists to instantly transport items to their needful
+        brethren.
+      objectReference: {fileID: 0}
     - target: {fileID: 4654319829746092527, guid: d05e6959c655a704783a7df68cd10435,
         type: 3}
       propertyPath: m_Sprite
@@ -129,6 +135,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4896177219586066183, guid: d05e6959c655a704783a7df68cd10435,
         type: 3}
+      propertyPath: _assetId
+      value: 6991282
+      objectReference: {fileID: 0}
+    - target: {fileID: 4896177219586066183, guid: d05e6959c655a704783a7df68cd10435,
+        type: 3}
       propertyPath: m_AssetId
       value: e61cd1e78677d984988f8655ba75746a
       objectReference: {fileID: 0}
@@ -203,6 +214,21 @@ PrefabInstance:
     - target: {fileID: 5185865969733433047, guid: d05e6959c655a704783a7df68cd10435,
         type: 3}
       propertyPath: Colour.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5185865969733433047, guid: d05e6959c655a704783a7df68cd10435,
+        type: 3}
+      propertyPath: colour.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5185865969733433047, guid: d05e6959c655a704783a7df68cd10435,
+        type: 3}
+      propertyPath: colour.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5185865969733433047, guid: d05e6959c655a704783a7df68cd10435,
+        type: 3}
+      propertyPath: colour.r
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []

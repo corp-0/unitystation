@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: b56fec0300832ce48ade0ddf2e577e10
       objectReference: {fileID: 0}
+    - target: {fileID: 2420387227032028503, guid: 92c1bd5af5895a54781dc61c607ede14,
+        type: 3}
+      propertyPath: initialDescription
+      value: The by-product of corgi farming.
+      objectReference: {fileID: 0}
     - target: {fileID: 5333582536047098853, guid: 92c1bd5af5895a54781dc61c607ede14,
         type: 3}
       propertyPath: buildList
@@ -33,6 +38,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: The by-product of corgi farming.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079943759636343755, guid: 92c1bd5af5895a54781dc61c607ede14,
+        type: 3}
+      propertyPath: _assetId
+      value: 3949393331
       objectReference: {fileID: 0}
     - target: {fileID: 6079943759636343755, guid: 92c1bd5af5895a54781dc61c607ede14,
         type: 3}

@@ -125,6 +125,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
+      propertyPath: _assetId
+      value: 3290926287
+      objectReference: {fileID: 0}
+    - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
       propertyPath: m_AssetId
       value: a12add7b219842843b678dec171704cb
       objectReference: {fileID: 0}
@@ -199,6 +204,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 91747fb8a8ae72e4ba94f78e2d8f65b4,
         type: 3}
+    - target: {fileID: 5310784437401147974, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A mining tool capable of expelling concentrated plasma bursts. You could
+        use it to cut limbs off xenos! Or, you know, mine stuff.
+      objectReference: {fileID: 0}
     - target: {fileID: 6227234703256324225, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
       propertyPath: m_IsActive

@@ -27,6 +27,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: 0d2a097efdcb88644898d858b77b4e94
       objectReference: {fileID: 0}
+    - target: {fileID: 1359844311683291887, guid: fb2c1c5d5f027eb45bb342edeb5a3d8f,
+        type: 3}
+      propertyPath: initialDescription
+      value: A high intensity laser projector able to emit controlled bursts of energy
+        to obtain research data surrounding various objects. A staple of any high-energy
+        lab.
+      objectReference: {fileID: 0}
     - target: {fileID: 1362956364068856906, guid: fb2c1c5d5f027eb45bb342edeb5a3d8f,
         type: 3}
       propertyPath: connected

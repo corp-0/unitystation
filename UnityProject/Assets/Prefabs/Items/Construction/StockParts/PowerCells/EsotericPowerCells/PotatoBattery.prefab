@@ -107,6 +107,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &157762337711357078
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -130,6 +133,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 6199612c76ca14b42ae5fdf8a2ff11a5,
         type: 3}
+    - target: {fileID: 1048113473106476432, guid: a910878bd30ff5d439b94cd12e623762,
+        type: 3}
+      propertyPath: _assetId
+      value: 2911399456
+      objectReference: {fileID: 0}
     - target: {fileID: 1048113473106476432, guid: a910878bd30ff5d439b94cd12e623762,
         type: 3}
       propertyPath: m_AssetId
@@ -202,6 +210,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1851616424243757961, guid: a910878bd30ff5d439b94cd12e623762,
         type: 3}
+      propertyPath: watts
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1851616424243757961, guid: a910878bd30ff5d439b94cd12e623762,
+        type: 3}
       propertyPath: MaxWatts
       value: 300
       objectReference: {fileID: 0}
@@ -216,6 +229,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a15490f7000a1c34e9e066d61477bb70,
         type: 2}
+    - target: {fileID: 8898295237363290892, guid: a910878bd30ff5d439b94cd12e623762,
+        type: 3}
+      propertyPath: initialDescription
+      value: A rechargeable starch based power cell.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a910878bd30ff5d439b94cd12e623762, type: 3}
 --- !u!4 &953758288651862470 stripped

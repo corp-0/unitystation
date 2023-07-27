@@ -110,6 +110,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c1d6e2641f90999479a07bfa49c20811,
         type: 2}
+    - target: {fileID: 2602668963096875731, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a card-locked storage unit.
+      objectReference: {fileID: 0}
     - target: {fileID: 3814792625627134472, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
         type: 3}
       propertyPath: m_Sprite
@@ -205,6 +210,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialIntegrity
       value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 8730627397065656938, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
+        type: 3}
+      propertyPath: _assetId
+      value: 4144390058
       objectReference: {fileID: 0}
     - target: {fileID: 8730627397065656938, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
         type: 3}

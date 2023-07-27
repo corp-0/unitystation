@@ -18,6 +18,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a57b2b819b7aec44abf5f8b9a475d33a,
         type: 2}
+    - target: {fileID: 4606883307286581235, guid: d8e28939643d5a34095fed9b0898c45b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A shield that reflects almost all energy projectiles, but is useless
+        against physical attacks. It can be retracted, expanded, and stored anywhere.
+      objectReference: {fileID: 0}
     - target: {fileID: 5295549301877665671, guid: d8e28939643d5a34095fed9b0898c45b,
         type: 3}
       propertyPath: m_Sprite
@@ -28,6 +34,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5339107572780065135, guid: d8e28939643d5a34095fed9b0898c45b,
+        type: 3}
+      propertyPath: _assetId
+      value: 880385210
       objectReference: {fileID: 0}
     - target: {fileID: 5339107572780065135, guid: d8e28939643d5a34095fed9b0898c45b,
         type: 3}

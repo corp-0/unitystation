@@ -35,6 +35,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
+      propertyPath: _assetId
+      value: 2888537024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
       propertyPath: m_AssetId
       value: 0ef8e2824e992de48821b5ee531e8261
       objectReference: {fileID: 0}
@@ -109,6 +114,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: e85dc60264928894fb2bb8e244d306f7,
         type: 3}
+    - target: {fileID: 5897924544656819047, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
+      propertyPath: initialDescription
+      value: Thermals in the shape of glasses.
+      objectReference: {fileID: 0}
     - target: {fileID: 8141721191079898056, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
       propertyPath: PresentSpriteSet

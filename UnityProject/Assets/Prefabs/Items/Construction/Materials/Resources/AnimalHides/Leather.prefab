@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1602d390c6ff17e4ca12bc5abdee6175,
         type: 2}
+    - target: {fileID: 94447294824387351, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: initialDescription
+      value: The by-product of mob grinding.
+      objectReference: {fileID: 0}
     - target: {fileID: 2335991647453887416, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -98,6 +103,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: The by-product of mob grinding.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: _assetId
+      value: 1648306575
       objectReference: {fileID: 0}
     - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}

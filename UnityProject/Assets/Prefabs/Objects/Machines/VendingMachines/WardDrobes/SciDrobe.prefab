@@ -47,6 +47,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 821151486
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: f1e32d58e30c77945913f429f31b729f
       objectReference: {fileID: 0}
@@ -122,6 +127,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fe42a252ffbf79b4cae717a924a00a54,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A simple vending machine suitable to dispense well tailored science
+        clothing. Endorsed by Space Cubans.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2374380983259834516, guid: 48d3c058a9e5a42418875499b82cc5e3,
         type: 3}
+      propertyPath: _assetId
+      value: 953996099
+      objectReference: {fileID: 0}
+    - target: {fileID: 2374380983259834516, guid: 48d3c058a9e5a42418875499b82cc5e3,
+        type: 3}
       propertyPath: m_AssetId
       value: 34ecf2817a168de479d040f2ad8b9473
       objectReference: {fileID: 0}
@@ -111,6 +116,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 58d6e8fa67e53774b8b8f60286124b96,
         type: 2}
+    - target: {fileID: 6126517365317043720, guid: 48d3c058a9e5a42418875499b82cc5e3,
+        type: 3}
+      propertyPath: initialDescription
+      value: A generic tank used for storing and transporting gasses. Can be used
+        for internals.
+      objectReference: {fileID: 0}
     - target: {fileID: 7575452727574476451, guid: 48d3c058a9e5a42418875499b82cc5e3,
         type: 3}
       propertyPath: ReleasePressure
@@ -123,7 +134,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7575452727574476451, guid: 48d3c058a9e5a42418875499b82cc5e3,
         type: 3}
+      propertyPath: StoredGasMix.pressure
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7575452727574476451, guid: 48d3c058a9e5a42418875499b82cc5e3,
+        type: 3}
       propertyPath: StoredGasMix.Temperature
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7575452727574476451, guid: 48d3c058a9e5a42418875499b82cc5e3,
+        type: 3}
+      propertyPath: StoredGasMix.temperature
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7575452727574476451, guid: 48d3c058a9e5a42418875499b82cc5e3,
@@ -167,12 +188,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: 2b162ba0e3e989f4ba91a826dfb4f9c8, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

@@ -108,6 +108,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3342215226231398706, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}
+      propertyPath: _assetId
+      value: 3818612438
+      objectReference: {fileID: 0}
+    - target: {fileID: 3342215226231398706, guid: b04d0f9770ef17c459a1af178889e3ba,
+        type: 3}
       propertyPath: m_AssetId
       value: 2e464f403424dbd409a91b0abbb4121c
       objectReference: {fileID: 0}
@@ -191,6 +196,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.data[0]
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 6599834983692865454, guid: b04d0f9770ef17c459a1af178889e3ba,
+        type: 3}
+      propertyPath: initialDescription
+      value: Unleash the ape!
       objectReference: {fileID: 0}
     - target: {fileID: 8597199573883621611, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}

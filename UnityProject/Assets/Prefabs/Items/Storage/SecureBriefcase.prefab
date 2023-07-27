@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ba164592654b9a3479a41ff0e37f286b,
         type: 2}
+    - target: {fileID: 3144458238540733746, guid: 318d763691da60547af2d92d0fed09a4,
+        type: 3}
+      propertyPath: initialDescription
+      value: A large briefcase with a digital locking system.
+      objectReference: {fileID: 0}
     - target: {fileID: 5768131466933356480, guid: 318d763691da60547af2d92d0fed09a4,
         type: 3}
       propertyPath: itemStorageCapacity
@@ -114,6 +119,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 4b799099faa11ad42acd6acb56ac5183,
         type: 3}
+    - target: {fileID: 6797587575614501806, guid: 318d763691da60547af2d92d0fed09a4,
+        type: 3}
+      propertyPath: _assetId
+      value: 1916693064
+      objectReference: {fileID: 0}
     - target: {fileID: 6797587575614501806, guid: 318d763691da60547af2d92d0fed09a4,
         type: 3}
       propertyPath: m_AssetId

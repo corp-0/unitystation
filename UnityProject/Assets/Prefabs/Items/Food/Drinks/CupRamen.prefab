@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1857806640773602436, guid: 46bb2fe95f4f66341aadfb4600751333,
+        type: 3}
+      propertyPath: initialDescription
+      value: Just add 5ml of water, self heats! A taste that reminds you of your
+        school years. Now new with salty flavour!
+      objectReference: {fileID: 0}
     - target: {fileID: 3823680117459157953, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: foreverID
@@ -109,6 +115,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300006, guid: c3cac687e37179042ac12ff591fb83e5,
         type: 3}
+    - target: {fileID: 7799949450078925336, guid: 46bb2fe95f4f66341aadfb4600751333,
+        type: 3}
+      propertyPath: _assetId
+      value: 653540072
+      objectReference: {fileID: 0}
     - target: {fileID: 7799949450078925336, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: m_AssetId

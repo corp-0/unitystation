@@ -191,6 +191,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4033042375367942854, guid: bb9351dcbe298544e9475ae3e599f329,
         type: 3}
+      propertyPath: _assetId
+      value: 2921168785
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033042375367942854, guid: bb9351dcbe298544e9475ae3e599f329,
+        type: 3}
       propertyPath: m_AssetId
       value: 5b03000bed50be045b14e7dc9186fd97
       objectReference: {fileID: 0}
@@ -199,6 +204,12 @@ PrefabInstance:
       propertyPath: CurrentsortingGroup
       value: 
       objectReference: {fileID: 2156878199720053913}
+    - target: {fileID: 4759886258258201690, guid: bb9351dcbe298544e9475ae3e599f329,
+        type: 3}
+      propertyPath: initialDescription
+      value: A lightweight space suit with the basic ability to protect the wearer
+        from the vacuum of space during emergencies."
+      objectReference: {fileID: 0}
     - target: {fileID: 7145545764318209269, guid: bb9351dcbe298544e9475ae3e599f329,
         type: 3}
       propertyPath: PresentSpriteSet

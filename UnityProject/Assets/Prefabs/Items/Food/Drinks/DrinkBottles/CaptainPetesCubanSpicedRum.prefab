@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 6a72b953bd878cc44a21a966d9425be0
       objectReference: {fileID: 0}
+    - target: {fileID: 2414645551038346883, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: initialDescription
+      value: This isn't just rum, oh no. It's practically GRIFF in a bottle.
+      objectReference: {fileID: 0}
     - target: {fileID: 4956784215611960579, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
@@ -61,6 +66,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 32de1f4d04e224f4399721f51621df9d,
         type: 2}
+    - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: _assetId
+      value: 1615095623
+      objectReference: {fileID: 0}
     - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: m_AssetId

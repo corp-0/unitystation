@@ -31,6 +31,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 4521961886344786086, guid: fb326cff61a55704ca244f0116325115,
         type: 3}
+      propertyPath: _assetId
+      value: 2886800698
+      objectReference: {fileID: 0}
+    - target: {fileID: 4521961886344786086, guid: fb326cff61a55704ca244f0116325115,
+        type: 3}
       propertyPath: m_AssetId
       value: 746ca02f4810e98409a7ac5c0c5a556d
       objectReference: {fileID: 0}
@@ -93,6 +98,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: AtmosphericsEnvirohelmet
+      objectReference: {fileID: 0}
+    - target: {fileID: 5419943173012495930, guid: fb326cff61a55704ca244f0116325115,
+        type: 3}
+      propertyPath: initialDescription
+      value: A space-worthy helmet specially designed for atmos technician plasmamen,
+        the usual purple stripes being replaced by engineering's blue.
       objectReference: {fileID: 0}
     - target: {fileID: 7433247755527118487, guid: fb326cff61a55704ca244f0116325115,
         type: 3}

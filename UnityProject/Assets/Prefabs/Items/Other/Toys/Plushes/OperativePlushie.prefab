@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 169216062924189193, guid: 75421751b31ee7f49b1adb8b70cd2375,
         type: 3}
+      propertyPath: _assetId
+      value: 894122595
+      objectReference: {fileID: 0}
+    - target: {fileID: 169216062924189193, guid: 75421751b31ee7f49b1adb8b70cd2375,
+        type: 3}
       propertyPath: m_AssetId
       value: b0299a1d730d1564489a7ca43b497a34
       objectReference: {fileID: 0}
@@ -114,6 +119,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: b0299a1d730d1564489a7ca43b497a34
+      objectReference: {fileID: 0}
+    - target: {fileID: 8624271127910006933, guid: 75421751b31ee7f49b1adb8b70cd2375,
+        type: 3}
+      propertyPath: initialDescription
+      value: A stuffed toy that resembles a syndicate nuclear operative. The tag
+        claims operatives to be purely fictitious.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75421751b31ee7f49b1adb8b70cd2375, type: 3}

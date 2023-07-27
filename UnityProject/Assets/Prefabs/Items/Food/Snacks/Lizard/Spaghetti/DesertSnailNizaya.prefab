@@ -7,6 +7,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 904398327654797661, guid: a859eb3fcda3a8747aba7894b40cfdb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A high class pasta dish from Tizira's vineyard region of Valyngia. Traditionally
+        made with only the finest Tiziran wine... but the human swill will do, in
+        a pinch.
+      objectReference: {fileID: 0}
     - target: {fileID: 2329804638538092056, guid: a859eb3fcda3a8747aba7894b40cfdb6,
         type: 3}
       propertyPath: foreverID
@@ -114,6 +121,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753779990741090241, guid: a859eb3fcda3a8747aba7894b40cfdb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 1170499215
       objectReference: {fileID: 0}
     - target: {fileID: 8753779990741090241, guid: a859eb3fcda3a8747aba7894b40cfdb6,
         type: 3}

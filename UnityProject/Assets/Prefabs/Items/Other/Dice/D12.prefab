@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: sides
       value: 12
       objectReference: {fileID: 0}
+    - target: {fileID: 974874576353264851, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A die with twelve sides. There's an air of neglect about it.
+      objectReference: {fileID: 0}
     - target: {fileID: 2404714145071242134, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: foreverID
@@ -41,6 +46,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 48c51796def25ef43943c83ed032530a,
         type: 2}
+    - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: _assetId
+      value: 710673979
+      objectReference: {fileID: 0}
     - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: m_AssetId

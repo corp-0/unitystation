@@ -39,6 +39,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: dac3ea384320aa34cbd7495cb791b3ad,
         type: 2}
+    - target: {fileID: 4598434514340916140, guid: d13212514984c824bb70e62b7f1d2672,
+        type: 3}
+      propertyPath: initialDescription
+      value: Some blood-drenched wheat stalks. You can crush them into what passes
+        for meat if you squint hard enough.
+      objectReference: {fileID: 0}
     - target: {fileID: 5279228313035705304, guid: d13212514984c824bb70e62b7f1d2672,
         type: 3}
       propertyPath: m_Sprite

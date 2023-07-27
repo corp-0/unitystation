@@ -83,12 +83,22 @@ PrefabInstance:
       propertyPath: foreverID
       value: afd19108e6ae5874fb594966aef4b0be
       objectReference: {fileID: 0}
+    - target: {fileID: 3697620804683028578, guid: 435b47dee4994034e85a3b3f00c2afe2,
+        type: 3}
+      propertyPath: initialDescription
+      value: Several lumps of snow put together to form a snowman.
+      objectReference: {fileID: 0}
     - target: {fileID: 6479084952470708067, guid: 435b47dee4994034e85a3b3f00c2afe2,
         type: 3}
       propertyPath: PresentSpriteSet
       value: 
       objectReference: {fileID: 11400000, guid: 64815dd8b627e3648ad1a9f8ab73e3ce,
         type: 2}
+    - target: {fileID: 7955455335317061851, guid: 435b47dee4994034e85a3b3f00c2afe2,
+        type: 3}
+      propertyPath: _assetId
+      value: 794614515
+      objectReference: {fileID: 0}
     - target: {fileID: 7955455335317061851, guid: 435b47dee4994034e85a3b3f00c2afe2,
         type: 3}
       propertyPath: m_AssetId

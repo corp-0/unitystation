@@ -105,6 +105,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &6963000123108354207
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -229,6 +232,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
+      propertyPath: _assetId
+      value: 1180177811
+      objectReference: {fileID: 0}
+    - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
       propertyPath: m_AssetId
       value: d589c17f6fd91da4190edfdd2cb5aa53
       objectReference: {fileID: 0}
@@ -304,6 +312,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 636d4fa9401f7f941aeeab177218ce2f,
         type: 2}
+    - target: {fileID: 5310784437401147974, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'A basic hybrid energy gun with two settings: disable and kill.'
+      objectReference: {fileID: 0}
     - target: {fileID: 5785640420543790341, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
       propertyPath: m_LocalPosition.x

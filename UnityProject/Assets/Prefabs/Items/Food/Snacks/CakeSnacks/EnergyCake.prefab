@@ -123,6 +123,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4293924360312916785, guid: b3d41585e23dd2045892c06de579cb7f,
         type: 3}
+      propertyPath: _assetId
+      value: 2688430108
+      objectReference: {fileID: 0}
+    - target: {fileID: 4293924360312916785, guid: b3d41585e23dd2045892c06de579cb7f,
+        type: 3}
       propertyPath: m_AssetId
       value: cae7142a6f1b7504bbd27d4a9699a055
       objectReference: {fileID: 0}
@@ -165,6 +170,11 @@ PrefabInstance:
         type: 3}
       propertyPath: StartingNutrients
       value: 738
+      objectReference: {fileID: 0}
+    - target: {fileID: 5647980733482935725, guid: b3d41585e23dd2045892c06de579cb7f,
+        type: 3}
+      propertyPath: initialDescription
+      value: Just enough calories for a whole nuclear operative squad.
       objectReference: {fileID: 0}
     - target: {fileID: 7113885348979849960, guid: b3d41585e23dd2045892c06de579cb7f,
         type: 3}

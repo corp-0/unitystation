@@ -86,6 +86,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4312873684044972470, guid: 86669a8ef2406e440827ba82318ce65d,
         type: 3}
+      propertyPath: _assetId
+      value: 3599255094
+      objectReference: {fileID: 0}
+    - target: {fileID: 4312873684044972470, guid: 86669a8ef2406e440827ba82318ce65d,
+        type: 3}
       propertyPath: m_AssetId
       value: 0050a50ec85bf0b4da11ed25b93a8103
       objectReference: {fileID: 0}
@@ -95,6 +100,12 @@ PrefabInstance:
       value: raw mothic pesto pizza
       objectReference: {fileID: 0}
     - target: {fileID: 4369556995692450656, guid: 86669a8ef2406e440827ba82318ce65d,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'Pesto is a popular pizza topping for moths, quite possibly because
+        it exemplifies their favourite flavours: cheese, herbs, and veggies.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5633117179864461098, guid: 86669a8ef2406e440827ba82318ce65d,
         type: 3}
       propertyPath: initialDescription
       value: 'Pesto is a popular pizza topping for moths, quite possibly because

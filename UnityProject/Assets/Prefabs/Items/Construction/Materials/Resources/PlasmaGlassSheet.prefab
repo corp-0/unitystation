@@ -13,6 +13,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 4d15679dd14850b4089e00938f63f242,
         type: 2}
+    - target: {fileID: 94447294824387351, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: initialDescription
+      value: A glass sheet made out of a plasma-silicate alloy. It looks extremely
+        tough and heavily fire resistant.
+      objectReference: {fileID: 0}
     - target: {fileID: 2335991647453887416, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -120,6 +126,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.AcidProof
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: _assetId
+      value: 2258664472
       objectReference: {fileID: 0}
     - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}
@@ -234,6 +245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a92be9a13622bf48a10f05367a474f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   rods: 2

@@ -151,6 +151,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: f029ac18cb79ad24c8691a3a0d6f191e
       objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: A combined label printer and applicator in a portable device, designed
+        to be easy to operate and use.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}
 --- !u!1 &8517905270553474336 stripped

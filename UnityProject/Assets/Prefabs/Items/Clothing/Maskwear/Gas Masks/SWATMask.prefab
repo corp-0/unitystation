@@ -44,6 +44,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 36cf84ca21ae9a849aa777ad981fb7c7,
         type: 2}
+    - target: {fileID: 3207528084556292477, guid: e560948fdd6edc3448ac06d10906c4fc,
+        type: 3}
+      propertyPath: initialDescription
+      value: A close-fitting tactical mask with an especially aggressive Compli-o-nator
+        3000.
+      objectReference: {fileID: 0}
     - target: {fileID: 3483897746626099850, guid: e560948fdd6edc3448ac06d10906c4fc,
         type: 3}
       propertyPath: armoredBodyParts.Array.size
@@ -118,6 +124,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6446287369552793569, guid: e560948fdd6edc3448ac06d10906c4fc,
+        type: 3}
+      propertyPath: _assetId
+      value: 551616841
       objectReference: {fileID: 0}
     - target: {fileID: 6446287369552793569, guid: e560948fdd6edc3448ac06d10906c4fc,
         type: 3}

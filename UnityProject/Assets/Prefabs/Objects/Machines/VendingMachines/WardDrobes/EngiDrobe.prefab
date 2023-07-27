@@ -46,6 +46,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 4197117281
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: c856929901af9ba42aa6fedb7dd82672
       objectReference: {fileID: 0}
@@ -131,6 +136,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e86a3647acdceae46b500e055b661b2a,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A vending machine renowned for vending industrial grade clothing.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

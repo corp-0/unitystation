@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2066078434560289289, guid: f736e201fb6e2d046ac2c309e9b62997,
+        type: 3}
+      propertyPath: initialDescription
+      value: An experimental suit of armor with sensitive detectors hooked up to
+        a huge capacitor grid, with emitters strutting out of it. Zap.
+      objectReference: {fileID: 0}
     - target: {fileID: 3491449588223784268, guid: f736e201fb6e2d046ac2c309e9b62997,
         type: 3}
       propertyPath: foreverID

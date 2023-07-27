@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1656568180319450909, guid: 640362304f8197943af8d02267686221,
+        type: 3}
+      propertyPath: initialDescription
+      value: High speed, no drag combat boots.
+      objectReference: {fileID: 0}
     - target: {fileID: 4189894110207502424, guid: 640362304f8197943af8d02267686221,
         type: 3}
       propertyPath: foreverID
@@ -96,6 +101,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Bullet
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7137064127981083009, guid: 640362304f8197943af8d02267686221,
+        type: 3}
+      propertyPath: _assetId
+      value: 858559014
       objectReference: {fileID: 0}
     - target: {fileID: 7137064127981083009, guid: 640362304f8197943af8d02267686221,
         type: 3}

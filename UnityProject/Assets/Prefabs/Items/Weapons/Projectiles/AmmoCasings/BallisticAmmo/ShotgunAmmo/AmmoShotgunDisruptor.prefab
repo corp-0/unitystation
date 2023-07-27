@@ -19,6 +19,15 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 141087819969772048, guid: 744f742f4f95f5c4c8eb2015d1bfe1bb,
         type: 3}
+    - target: {fileID: 136226853080657431, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A delicate device which can be loaded into a shotgun. The primer acts
+        as a button which triggers the gain medium and fires a powerful energy blast.
+        While the heat and power drain limit it to one use, it can still allow an
+        operator to engage targets that ballistic ammunition would have difficulty
+        with.
+      objectReference: {fileID: 0}
     - target: {fileID: 2361978366132242104, guid: b564e5d916b891446903adc342af08bd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -43,6 +52,11 @@ PrefabInstance:
         While the heat and power drain limit it to one use, it can still allow an
         operator to engage targets that ballistic ammunition would have difficulty
         with.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
+        type: 3}
+      propertyPath: _assetId
+      value: 693153038
       objectReference: {fileID: 0}
     - target: {fileID: 8364667066244186251, guid: b564e5d916b891446903adc342af08bd,
         type: 3}

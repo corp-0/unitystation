@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1821991397738242279, guid: c3138c3e8a46444199668b85070b1a39,
         type: 3}
+      propertyPath: _assetId
+      value: 4084087142
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821991397738242279, guid: c3138c3e8a46444199668b85070b1a39,
+        type: 3}
       propertyPath: m_AssetId
       value: 24acfe3e8c412064ab3e3aeab2759c1d
       objectReference: {fileID: 0}
@@ -136,6 +141,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 11843ac3c75b109478c1e7769e42044a,
         type: 2}
+    - target: {fileID: 7836191319777627771, guid: c3138c3e8a46444199668b85070b1a39,
+        type: 3}
+      propertyPath: initialDescription
+      value: A roll of brown paper used for packages.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3138c3e8a46444199668b85070b1a39, type: 3}
 --- !u!1 &7086413832420484247 stripped

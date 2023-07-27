@@ -51,6 +51,11 @@ PrefabInstance:
       objectReference: {fileID: 8034858153834393140}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 1548748911
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: bbc06330a48bad4429a153c0fd6e878a
       objectReference: {fileID: 0}
@@ -126,6 +131,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3c7e8b78f43a7084c944730fd7fcfbd2,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A machine for dispensing clothing related to genetics.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

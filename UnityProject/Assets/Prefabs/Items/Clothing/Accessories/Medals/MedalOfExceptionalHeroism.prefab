@@ -21,6 +21,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3797178001479478553, guid: 08198d608da024f47ae27defb4e20c43,
         type: 3}
+      propertyPath: _assetId
+      value: 4243518435
+      objectReference: {fileID: 0}
+    - target: {fileID: 3797178001479478553, guid: 08198d608da024f47ae27defb4e20c43,
+        type: 3}
       propertyPath: m_AssetId
       value: 9dbc0f8277de1ed449efae96f66428e9
       objectReference: {fileID: 0}
@@ -83,6 +88,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4703153013102314373, guid: 08198d608da024f47ae27defb4e20c43,
+        type: 3}
+      propertyPath: initialDescription
+      value: An extremely rare golden medal awarded only by CentCom. To receive such
+        a medal is the highest honor and as such, very few exist. This medal is almost
+        never awarded to anybody but commanders.
       objectReference: {fileID: 0}
     - target: {fileID: 7898404699752701120, guid: 08198d608da024f47ae27defb4e20c43,
         type: 3}

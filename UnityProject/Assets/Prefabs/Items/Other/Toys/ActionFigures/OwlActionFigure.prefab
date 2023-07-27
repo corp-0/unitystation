@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3314426196376968796, guid: 0da3b10e7818be2468927541947cb533,
         type: 3}
+      propertyPath: _assetId
+      value: 1046789210
+      objectReference: {fileID: 0}
+    - target: {fileID: 3314426196376968796, guid: 0da3b10e7818be2468927541947cb533,
+        type: 3}
       propertyPath: m_AssetId
       value: 9556fda060adf1e49ad89fcecdf94994
       objectReference: {fileID: 0}
@@ -92,6 +97,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6343752087592333504, guid: 0da3b10e7818be2468927541947cb533,
+        type: 3}
+      propertyPath: initialDescription
+      value: An action figure modeled after 'The Owl', defender of justice.
       objectReference: {fileID: 0}
     - target: {fileID: 8417713054579027845, guid: 0da3b10e7818be2468927541947cb533,
         type: 3}

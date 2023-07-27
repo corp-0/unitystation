@@ -132,6 +132,11 @@ PrefabInstance:
       propertyPath: DoNotShowInventoryOnUI
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6507867493661323301, guid: a4904005b4f886143a41a4b3c99a6845,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's the heavy-duty black polymer kind. Time to take out the trash!
+      objectReference: {fileID: 0}
     - target: {fileID: 8541259781182205792, guid: a4904005b4f886143a41a4b3c99a6845,
         type: 3}
       propertyPath: foreverID

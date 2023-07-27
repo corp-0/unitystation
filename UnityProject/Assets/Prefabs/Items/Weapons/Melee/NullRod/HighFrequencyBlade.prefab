@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 729993013395327495, guid: 0776de7177938cb48a6339d82019bab9,
         type: 3}
+      propertyPath: _assetId
+      value: 2158304048
+      objectReference: {fileID: 0}
+    - target: {fileID: 729993013395327495, guid: 0776de7177938cb48a6339d82019bab9,
+        type: 3}
       propertyPath: m_AssetId
       value: e31a1d680d1ebba499773073df7c2bab
       objectReference: {fileID: 0}
@@ -147,5 +152,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5905fc5392bb295409a3c14bad964cb6,
         type: 2}
+    - target: {fileID: 9212052831784871067, guid: 0776de7177938cb48a6339d82019bab9,
+        type: 3}
+      propertyPath: initialDescription
+      value: Bad references are the DNA of the soul.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0776de7177938cb48a6339d82019bab9, type: 3}

@@ -19,6 +19,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
+      propertyPath: _assetId
+      value: 2134409751
+      objectReference: {fileID: 0}
+    - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
       propertyPath: m_AssetId
       value: 27a4c26511276c2419be72224cefca16
       objectReference: {fileID: 0}
@@ -28,6 +33,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 6094d32346956bd4f983adf1030f93ef,
         type: 2}
+    - target: {fileID: 5088541089700716830, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
+      propertyPath: initialDescription
+      value: A sign that warns would-be travellers of hostile alien life in the vicinity.
+      objectReference: {fileID: 0}
     - target: {fileID: 6414808378359280268, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
       propertyPath: foreverID

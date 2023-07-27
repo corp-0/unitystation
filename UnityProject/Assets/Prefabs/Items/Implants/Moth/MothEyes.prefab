@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1163800086432830013, guid: 5c61c3c9e64efa740accb280f8923222,
+        type: 3}
+      propertyPath: initialDescription
+      value: These eyes seem to have increased sensitivity to bright light, with
+        no improvement to low light vision.
+      objectReference: {fileID: 0}
     - target: {fileID: 3531439301631965842, guid: 5c61c3c9e64efa740accb280f8923222,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -104,6 +110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7336394554284506273, guid: 5c61c3c9e64efa740accb280f8923222,
+        type: 3}
+      propertyPath: _assetId
+      value: 2634093519
       objectReference: {fileID: 0}
     - target: {fileID: 7336394554284506273, guid: 5c61c3c9e64efa740accb280f8923222,
         type: 3}

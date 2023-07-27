@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
         type: 3}
+      propertyPath: _assetId
+      value: 1437163446
+      objectReference: {fileID: 0}
+    - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
       propertyPath: m_AssetId
       value: 61c4c92ba58812a4ea18401eff2b8938
       objectReference: {fileID: 0}
@@ -170,6 +175,12 @@ PrefabInstance:
         type: 3}
       propertyPath: copyPlantDataToLeavings
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213787336926973796, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
+      propertyPath: initialDescription
+      value: A strange fruit, tough leathery skin protects its juicy flesh and large
+        poisonous seed.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27208d0fc3f7c3544a8d1a7861253b52, type: 3}

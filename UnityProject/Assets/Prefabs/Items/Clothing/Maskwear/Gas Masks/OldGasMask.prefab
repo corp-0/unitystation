@@ -24,6 +24,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: df76f4c8475e24e4a8a8994e2a31c57e,
         type: 2}
+    - target: {fileID: 3207528084556292477, guid: 996d62bfe3bf26c4e95c2a77cadabbd2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A face-covering mask that can be connected to an air supply. This one
+        appears to be one of the older models.
+      objectReference: {fileID: 0}
     - target: {fileID: 6404652678407139925, guid: 996d62bfe3bf26c4e95c2a77cadabbd2,
         type: 3}
       propertyPath: m_Name
@@ -83,6 +89,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6446287369552793569, guid: 996d62bfe3bf26c4e95c2a77cadabbd2,
+        type: 3}
+      propertyPath: _assetId
+      value: 2591800382
       objectReference: {fileID: 0}
     - target: {fileID: 6446287369552793569, guid: 996d62bfe3bf26c4e95c2a77cadabbd2,
         type: 3}

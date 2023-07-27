@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 105071557558079543, guid: 32a48818544878d4c8e14ac2fd2b195a,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's milk. White and nutritious goodness!
+      objectReference: {fileID: 0}
     - target: {fileID: 1632096134032418045, guid: 32a48818544878d4c8e14ac2fd2b195a,
         type: 3}
       propertyPath: m_IsActive
@@ -134,6 +139,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300006, guid: d85b95fa86f0ddc4f9b9c0ec1cdda80b,
         type: 3}
+    - target: {fileID: 8395826806974201515, guid: 32a48818544878d4c8e14ac2fd2b195a,
+        type: 3}
+      propertyPath: _assetId
+      value: 73141802
+      objectReference: {fileID: 0}
     - target: {fileID: 8395826806974201515, guid: 32a48818544878d4c8e14ac2fd2b195a,
         type: 3}
       propertyPath: m_AssetId

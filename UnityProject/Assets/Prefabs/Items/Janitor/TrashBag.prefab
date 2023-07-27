@@ -35,6 +35,11 @@ PrefabInstance:
       propertyPath: Infos.AID
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2793993193279965488, guid: a379cfb2056ee4a0f8ce1f68696ef45c,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's the heavy-duty black polymer kind. Time to take out the trash!
+      objectReference: {fileID: 0}
     - target: {fileID: 4584300732884025589, guid: a379cfb2056ee4a0f8ce1f68696ef45c,
         type: 3}
       propertyPath: actionData

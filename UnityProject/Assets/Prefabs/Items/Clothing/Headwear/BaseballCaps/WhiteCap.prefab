@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 788649a7f84574c48a54361479106732,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a baseball hat in a tasteless white colour.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 788649a7f84574c48a54361479106732,
         type: 3}
       propertyPath: foreverID
@@ -40,6 +45,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 01856d01b2211e04a95d96029668e68a,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: 788649a7f84574c48a54361479106732,
+        type: 3}
+      propertyPath: _assetId
+      value: 3161997847
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 788649a7f84574c48a54361479106732,
         type: 3}
       propertyPath: m_AssetId

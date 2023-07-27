@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 02c9f0bce16549c49b1c39bf7a01b06a,
         type: 2}
+    - target: {fileID: 4347135345234725326, guid: 364841a08150e9345b119e71191c8dcf,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a bucket.
+      objectReference: {fileID: 0}
     - target: {fileID: 5198608423821879186, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: m_RootOrder
@@ -77,6 +82,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bucket
+      objectReference: {fileID: 0}
+    - target: {fileID: 5305976386938988370, guid: 364841a08150e9345b119e71191c8dcf,
+        type: 3}
+      propertyPath: _assetId
+      value: 4167779749
       objectReference: {fileID: 0}
     - target: {fileID: 5305976386938988370, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
@@ -302,12 +312,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: a81a8c7023268144cb09641be85e8664, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 256

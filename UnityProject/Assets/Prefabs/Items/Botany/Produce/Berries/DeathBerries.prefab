@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f1aabc1881ba36d4199eaca778b71d8a,
         type: 2}
+    - target: {fileID: 4262586020677685962, guid: 56fe236f6f494d3469fe64281d64382e,
+        type: 3}
+      propertyPath: initialDescription
+      value: Taste so good, you will die!
+      objectReference: {fileID: 0}
     - target: {fileID: 5307683148839054976, guid: 56fe236f6f494d3469fe64281d64382e,
         type: 3}
       propertyPath: initialName
@@ -34,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 989db993668f3a5429966ce571b76d41,
         type: 3}
+    - target: {fileID: 5679323490408414294, guid: 56fe236f6f494d3469fe64281d64382e,
+        type: 3}
+      propertyPath: _assetId
+      value: 4016436432
+      objectReference: {fileID: 0}
     - target: {fileID: 5679323490408414294, guid: 56fe236f6f494d3469fe64281d64382e,
         type: 3}
       propertyPath: m_AssetId

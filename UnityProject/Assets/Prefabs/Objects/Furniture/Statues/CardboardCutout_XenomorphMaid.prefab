@@ -149,6 +149,11 @@ PrefabInstance:
       propertyPath: m_ReflectionProbeUsage
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7581720341194227782, guid: 2780bc362524407449b922cf1f203596,
+        type: 3}
+      propertyPath: initialDescription
+      value: Not something you would show your friends...
+      objectReference: {fileID: 0}
     - target: {fileID: 8551338888481117140, guid: 2780bc362524407449b922cf1f203596,
         type: 3}
       propertyPath: foreverID

@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 105071557558079543, guid: 32a48818544878d4c8e14ac2fd2b195a,
+        type: 3}
+      propertyPath: initialDescription
+      value: Perfect for chips, if you're feeling Space British.
+      objectReference: {fileID: 0}
     - target: {fileID: 2328885821399808152, guid: 32a48818544878d4c8e14ac2fd2b195a,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -53,7 +58,12 @@ PrefabInstance:
         type: 3}
       propertyPath: customNetTransform
       value: 
-      objectReference: {fileID: 944295622499585116}
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395826806974201515, guid: 32a48818544878d4c8e14ac2fd2b195a,
+        type: 3}
+      propertyPath: _assetId
+      value: 3306269046
+      objectReference: {fileID: 0}
     - target: {fileID: 8395826806974201515, guid: 32a48818544878d4c8e14ac2fd2b195a,
         type: 3}
       propertyPath: m_AssetId
@@ -127,15 +137,3 @@ PrefabInstance:
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 32a48818544878d4c8e14ac2fd2b195a, type: 3}
---- !u!114 &944295622499585116 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 8395392673797680847, guid: 32a48818544878d4c8e14ac2fd2b195a,
-    type: 3}
-  m_PrefabInstance: {fileID: 8761932271313478291}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 579884b05ae74e8499329b64997147d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

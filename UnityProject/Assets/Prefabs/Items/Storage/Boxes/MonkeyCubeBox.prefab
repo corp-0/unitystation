@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 267093757808967282, guid: 3e5919f639f566c4590d07d54ef256dd,
+        type: 3}
+      propertyPath: initialDescription
+      value: a box full of monkeys
+      objectReference: {fileID: 0}
     - target: {fileID: 2490630288303511261, guid: 3e5919f639f566c4590d07d54ef256dd,
         type: 3}
       propertyPath: PresentSpriteSet

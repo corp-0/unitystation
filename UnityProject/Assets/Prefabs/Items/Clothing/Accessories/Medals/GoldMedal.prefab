@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 986060116320561314, guid: 10346266394bdb54ca023bf71f4cd128,
         type: 3}
+      propertyPath: _assetId
+      value: 2157707278
+      objectReference: {fileID: 0}
+    - target: {fileID: 986060116320561314, guid: 10346266394bdb54ca023bf71f4cd128,
+        type: 3}
       propertyPath: m_AssetId
       value: 08198d608da024f47ae27defb4e20c43
       objectReference: {fileID: 0}
@@ -99,5 +104,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ea2feae07f17578449e5ebbe25ab5c6b,
         type: 2}
+    - target: {fileID: 8672118183625131582, guid: 10346266394bdb54ca023bf71f4cd128,
+        type: 3}
+      propertyPath: initialDescription
+      value: A prestigious golden medal.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10346266394bdb54ca023bf71f4cd128, type: 3}

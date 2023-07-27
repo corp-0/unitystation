@@ -109,6 +109,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: IDCard Abyss Pass
       objectReference: {fileID: 0}
+    - target: {fileID: 4895533075801560762, guid: 68e52345b8e8eba4aa27e110b598b023,
+        type: 3}
+      propertyPath: initialDescription
+      value: A card used to provide identification and access to secure electronics.
+        This one looks quite evil.
+      objectReference: {fileID: 0}
     - target: {fileID: 7121592010877074965, guid: 68e52345b8e8eba4aa27e110b598b023,
         type: 3}
       propertyPath: PresentSpriteSet

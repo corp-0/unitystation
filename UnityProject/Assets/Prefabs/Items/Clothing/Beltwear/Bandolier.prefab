@@ -21,6 +21,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 1764592290455851827, guid: 51c105fae1f0b074abf4c80745d8b129,
         type: 3}
+      propertyPath: _assetId
+      value: 3890618258
+      objectReference: {fileID: 0}
+    - target: {fileID: 1764592290455851827, guid: 51c105fae1f0b074abf4c80745d8b129,
+        type: 3}
       propertyPath: m_AssetId
       value: 69cbd0a07a7d1de4d93b2937968ee0a4
       objectReference: {fileID: 0}
@@ -111,6 +116,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5e3fed5a34b9b474ba79d711b36b51d6,
         type: 2}
+    - target: {fileID: 7893590444240190895, guid: 51c105fae1f0b074abf4c80745d8b129,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bandolier for holding shotgun ammunition.
+      objectReference: {fileID: 0}
     - target: {fileID: 7968275424856731504, guid: 51c105fae1f0b074abf4c80745d8b129,
         type: 3}
       propertyPath: clothData

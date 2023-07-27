@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: 548b2e942a9ec6d69af3374e3be7dd50,
         type: 3}
+      propertyPath: _assetId
+      value: 1431949647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 548b2e942a9ec6d69af3374e3be7dd50,
+        type: 3}
       propertyPath: m_AssetId
       value: 4cd6f90af9855a54da02b3601ad36823
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: witchhunter garb
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 548b2e942a9ec6d69af3374e3be7dd50,
+        type: 3}
+      propertyPath: initialDescription
+      value: This worn outfit saw much use back in the day.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 548b2e942a9ec6d69af3374e3be7dd50,
         type: 3}
       propertyPath: initialDescription
       value: This worn outfit saw much use back in the day.

@@ -7,6 +7,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 647001443217207071, guid: a0464cf17ad00fc4fb536118710d6ab6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A specialised black and red space suit that's quicker, and more compact
+        than its standard Syndicate counterpart. Can be ultra-compressed into even
+        the tightest of spaces.
+      objectReference: {fileID: 0}
     - target: {fileID: 2603834743622266970, guid: a0464cf17ad00fc4fb536118710d6ab6,
         type: 3}
       propertyPath: foreverID
@@ -136,6 +143,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ContractorSpaceSuit
+      objectReference: {fileID: 0}
+    - target: {fileID: 9010613905700503939, guid: a0464cf17ad00fc4fb536118710d6ab6,
+        type: 3}
+      propertyPath: _assetId
+      value: 1857404281
       objectReference: {fileID: 0}
     - target: {fileID: 9010613905700503939, guid: a0464cf17ad00fc4fb536118710d6ab6,
         type: 3}

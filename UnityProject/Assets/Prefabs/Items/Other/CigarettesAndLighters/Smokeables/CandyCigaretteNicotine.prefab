@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1616943876132354779, guid: 35872b45375f89045971b0e5735a4fb0,
+        type: 3}
+      propertyPath: initialDescription
+      value: For all ages*! Doesn't contain any* amount of nicotine. Health and safety
+        risks can be read on the tip of the cigarette.
+      objectReference: {fileID: 0}
     - target: {fileID: 4226830999684654494, guid: 35872b45375f89045971b0e5735a4fb0,
         type: 3}
       propertyPath: foreverID
@@ -71,6 +77,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CandyCigaretteNicotine
+      objectReference: {fileID: 0}
+    - target: {fileID: 7171476744917324871, guid: 35872b45375f89045971b0e5735a4fb0,
+        type: 3}
+      propertyPath: _assetId
+      value: 3451958275
       objectReference: {fileID: 0}
     - target: {fileID: 7171476744917324871, guid: 35872b45375f89045971b0e5735a4fb0,
         type: 3}

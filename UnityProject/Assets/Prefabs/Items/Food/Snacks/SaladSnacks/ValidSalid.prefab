@@ -95,6 +95,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3584548037582887432, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
+      propertyPath: _assetId
+      value: 1732559771
+      objectReference: {fileID: 0}
+    - target: {fileID: 3584548037582887432, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+        type: 3}
       propertyPath: m_AssetId
       value: 4da33c9fa452d6146835fc963e6e0f6a
       objectReference: {fileID: 0}
@@ -129,6 +134,12 @@ PrefabInstance:
         type: 3}
       propertyPath: StartingNutrients
       value: 388
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920290945618588820, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's just an herb salad with meatballs and fried potato slices. Nothing
+        suspicious about it.
       objectReference: {fileID: 0}
     - target: {fileID: 7308486626998426683, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}

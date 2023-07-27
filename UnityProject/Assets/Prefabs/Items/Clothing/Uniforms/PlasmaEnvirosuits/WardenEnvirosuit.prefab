@@ -26,6 +26,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 491637448181531485, guid: 9cfb226ceb11ccc4d8d5056ba609721a,
         type: 3}
+      propertyPath: _assetId
+      value: 789768018
+      objectReference: {fileID: 0}
+    - target: {fileID: 491637448181531485, guid: 9cfb226ceb11ccc4d8d5056ba609721a,
+        type: 3}
       propertyPath: m_AssetId
       value: e2114febe20f69a4ba60e7fd0c2a4059
       objectReference: {fileID: 0}
@@ -115,6 +120,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: e2114febe20f69a4ba60e7fd0c2a4059
+      objectReference: {fileID: 0}
+    - target: {fileID: 8296783208087481793, guid: 9cfb226ceb11ccc4d8d5056ba609721a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A plasmaman containment suit designed for the warden, white stripes
+        being added to differentiate them from other members of security.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cfb226ceb11ccc4d8d5056ba609721a, type: 3}

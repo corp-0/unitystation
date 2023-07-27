@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 449e03a70664f9d4b96200cbe184b274
       objectReference: {fileID: 0}
+    - target: {fileID: 2414645551038346883, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: initialDescription
+      value: Brewed in space-Belgium. Fancy!
+      objectReference: {fileID: 0}
     - target: {fileID: 4956784215611960579, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: maxCapacity
@@ -53,6 +58,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: Brewed in space-Belgium. Fancy!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: _assetId
+      value: 49865627
       objectReference: {fileID: 0}
     - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}

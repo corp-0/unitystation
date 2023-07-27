@@ -44,6 +44,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: 51326f2264a075148a8aaa6bf95604c7
       objectReference: {fileID: 0}
+    - target: {fileID: 2366958279243658075, guid: 6a1a4888888e8994187da2ccb8d6f1c2,
+        type: 3}
+      propertyPath: initialDescription
+      value: You put your right leg in, your right leg out. In, out, in, out, shake
+        it all about. And apparently then it detaches. The hokey pokey has certainly
+        changed a lot since space colonisation.
+      objectReference: {fileID: 0}
     - target: {fileID: 3959904421835429671, guid: 6a1a4888888e8994187da2ccb8d6f1c2,
         type: 3}
       propertyPath: IsLeg

@@ -82,6 +82,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
+      propertyPath: _assetId
+      value: 1064777453
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
       propertyPath: m_AssetId
       value: 797a9e013ed7dd74fa7945ddc1ef3c46
       objectReference: {fileID: 0}
@@ -91,6 +96,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: ca975a98f9b32244eaf4c14827021257,
         type: 3}
+    - target: {fileID: 6350572432933501875, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
+      propertyPath: initialDescription
+      value: Made out of a modified voidsuit, this suit was Nano-Trasen's first solution
+        to the *logistical problems* that come with employing plasmamen. Due to the
+        modifications, the suit is no longer space-worthy. Despite their limitations,
+        these suits are still in used by historian and old-styled plasmamen alike.
+      objectReference: {fileID: 0}
     - target: {fileID: 8376256678827195166, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
       propertyPath: clothData

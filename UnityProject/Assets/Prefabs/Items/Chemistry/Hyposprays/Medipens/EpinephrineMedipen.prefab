@@ -35,6 +35,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: 6445f714f221b6743aa6d70ac4b73c87
       objectReference: {fileID: 0}
+    - target: {fileID: 3708943858495259836, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+        type: 3}
+      propertyPath: initialDescription
+      value: A rapid and safe way to stabilize patients in critical condition for
+        personnel without advanced medical knowledge. Contains a powerful preservative
+        that can delay decomposition when applied to a dead body.
+      objectReference: {fileID: 0}
     - target: {fileID: 4753481360726882550, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: initialName
@@ -139,6 +146,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 8faac0ff399265542ac913dbb85aeca5,
         type: 3}
+    - target: {fileID: 5084121085497256480, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+        type: 3}
+      propertyPath: _assetId
+      value: 1608127691
+      objectReference: {fileID: 0}
     - target: {fileID: 5084121085497256480, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: m_AssetId

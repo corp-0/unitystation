@@ -85,6 +85,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1083515381603730852, guid: 60b83b01df9880443809c84ab556dad6,
         type: 3}
+      propertyPath: _assetId
+      value: 3576177239
+      objectReference: {fileID: 0}
+    - target: {fileID: 1083515381603730852, guid: 60b83b01df9880443809c84ab556dad6,
+        type: 3}
       propertyPath: m_AssetId
       value: ffb8828049b890f43baeb7c15447d37b
       objectReference: {fileID: 0}
@@ -144,5 +149,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 67e3b9bdfa131134794676e95afc11e9,
         type: 2}
+    - target: {fileID: 8863038465595452216, guid: 60b83b01df9880443809c84ab556dad6,
+        type: 3}
+      propertyPath: initialDescription
+      value: These may, or may not, grow into rice.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60b83b01df9880443809c84ab556dad6, type: 3}

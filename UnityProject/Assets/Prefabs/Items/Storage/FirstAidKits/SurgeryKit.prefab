@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 267093757808967282, guid: d0eb5dacbdcd4844e8c76aabde50434f,
+        type: 3}
+      propertyPath: initialDescription
+      value: An improved first aid kit with extra storage space and some basic surgery
+        tools.
+      objectReference: {fileID: 0}
     - target: {fileID: 2490630288303511261, guid: d0eb5dacbdcd4844e8c76aabde50434f,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -35,6 +41,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: d8f754a1eab84654298502ed91713097,
         type: 3}
+    - target: {fileID: 8521467601672753390, guid: d0eb5dacbdcd4844e8c76aabde50434f,
+        type: 3}
+      propertyPath: _assetId
+      value: 3523342874
+      objectReference: {fileID: 0}
     - target: {fileID: 8521467601672753390, guid: d0eb5dacbdcd4844e8c76aabde50434f,
         type: 3}
       propertyPath: m_AssetId

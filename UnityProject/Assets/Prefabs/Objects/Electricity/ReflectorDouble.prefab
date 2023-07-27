@@ -38,6 +38,11 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 0.25
       objectReference: {fileID: 0}
+    - target: {fileID: 5258533943709768183, guid: d6404a068c8f36c489fbb0ad6325553d,
+        type: 3}
+      propertyPath: initialDescription
+      value: reflects emitter lasers
+      objectReference: {fileID: 0}
     - target: {fileID: 6296537849344641637, guid: d6404a068c8f36c489fbb0ad6325553d,
         type: 3}
       propertyPath: foreverID

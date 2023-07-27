@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 844810168840007048, guid: f165d0512a4d5ef44ba3d22decd038b7,
         type: 3}
+      propertyPath: _assetId
+      value: 245894570
+      objectReference: {fileID: 0}
+    - target: {fileID: 844810168840007048, guid: f165d0512a4d5ef44ba3d22decd038b7,
+        type: 3}
       propertyPath: m_AssetId
       value: 6bd076e856454514c82643c8cf0b2fe8
       objectReference: {fileID: 0}
@@ -121,5 +126,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 66ffbd1416878e64baa209ce539667d3,
         type: 2}
+    - target: {fileID: 9101743676073280276, guid: f165d0512a4d5ef44ba3d22decd038b7,
+        type: 3}
+      propertyPath: initialDescription
+      value: A ragged, dusty set of robes. Strange letters line the inside.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f165d0512a4d5ef44ba3d22decd038b7, type: 3}

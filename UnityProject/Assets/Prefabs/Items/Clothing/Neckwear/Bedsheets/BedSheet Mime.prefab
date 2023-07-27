@@ -86,8 +86,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}
+      propertyPath: _assetId
+      value: 2916909601
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
       propertyPath: m_AssetId
       value: 9f0fbc012b2c434498818a1194941d60
+      objectReference: {fileID: 0}
+    - target: {fileID: 4798647905009580971, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A very soothing striped blanket.  All the noise just seems to fade out
+        when you're under the covers in this.
       objectReference: {fileID: 0}
     - target: {fileID: 7186812133261251332, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}

@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 9c9732fc4090b644799126d91350dd41
       objectReference: {fileID: 0}
+    - target: {fileID: 2907172161762188218, guid: f80586e0fe8257c44afa4d5dcffd86e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A locked box used to store medals to be given to members of the security
+        department.
+      objectReference: {fileID: 0}
     - target: {fileID: 4155501928354798850, guid: f80586e0fe8257c44afa4d5dcffd86e6,
         type: 3}
       propertyPath: allowedClearance
@@ -93,6 +99,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MedalBoxSecurity
+      objectReference: {fileID: 0}
+    - target: {fileID: 6750583944055649574, guid: f80586e0fe8257c44afa4d5dcffd86e6,
+        type: 3}
+      propertyPath: _assetId
+      value: 2989011718
       objectReference: {fileID: 0}
     - target: {fileID: 6750583944055649574, guid: f80586e0fe8257c44afa4d5dcffd86e6,
         type: 3}

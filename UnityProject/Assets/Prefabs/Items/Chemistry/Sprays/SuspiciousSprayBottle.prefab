@@ -176,6 +176,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2827405387058899817, guid: fb073eb335539484b90e5bd9a3dbc4d0,
         type: 3}
+      propertyPath: _assetId
+      value: 3948729586
+      objectReference: {fileID: 0}
+    - target: {fileID: 2827405387058899817, guid: fb073eb335539484b90e5bd9a3dbc4d0,
+        type: 3}
       propertyPath: m_AssetId
       value: b3d3681b510c2394e9cfa95f0c22b224
       objectReference: {fileID: 0}
@@ -183,6 +188,12 @@ PrefabInstance:
         type: 3}
       propertyPath: maxCapacity
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5965663949695403509, guid: fb073eb335539484b90e5bd9a3dbc4d0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A spray bottle, with a high performance plastic nozzle. The color scheme
+        makes you feel slightly uneasy.
       objectReference: {fileID: 0}
     - target: {fileID: 8353856902336572762, guid: fb073eb335539484b90e5bd9a3dbc4d0,
         type: 3}

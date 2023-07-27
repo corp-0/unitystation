@@ -100,6 +100,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
         type: 3}
+      propertyPath: _assetId
+      value: 3980322622
+      objectReference: {fileID: 0}
+    - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
       propertyPath: m_AssetId
       value: ded9070367c2d0048b7e8a5874f969bb
       objectReference: {fileID: 0}
@@ -180,5 +185,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7b4c5338108ad22479642bf9694bf392,
         type: 2}
+    - target: {fileID: 7583825043675237299, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
+      propertyPath: initialDescription
+      value: An autoinjector containing salicylic acid, used to treat severe brute
+        damage.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6445f714f221b6743aa6d70ac4b73c87, type: 3}

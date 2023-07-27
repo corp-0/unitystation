@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: bda3a92c3bab16e4cb40374111199080
       objectReference: {fileID: 0}
+    - target: {fileID: 3473757959931876589, guid: b9dc042fb6542ef4baea84b36c24b31a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A rubbery strip of gum. Not exactly filling, but it keeps you busy.
+      objectReference: {fileID: 0}
     - target: {fileID: 3855224395746198965, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: NutritionLevel
@@ -108,6 +113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bubblegum
+      objectReference: {fileID: 0}
+    - target: {fileID: 5027135991655561841, guid: b9dc042fb6542ef4baea84b36c24b31a,
+        type: 3}
+      propertyPath: _assetId
+      value: 1793117021
       objectReference: {fileID: 0}
     - target: {fileID: 5027135991655561841, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}

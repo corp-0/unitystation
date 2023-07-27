@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 013fe47e07b2b4445984a2cfb6eae402,
         type: 2}
+    - target: {fileID: 2968664142878122032, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tile made out of diamond. Wow, just, wow.
+      objectReference: {fileID: 0}
     - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: waysToPlace.Array.size
@@ -67,6 +72,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 93da96b7116868b43881099b2d4b5ffb,
         type: 2}
+    - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: _assetId
+      value: 239484432
+      objectReference: {fileID: 0}
     - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: m_AssetId

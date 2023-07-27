@@ -13,6 +13,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 373d27494b2b34fb6b987358fb178d54,
         type: 2}
+    - target: {fileID: 396055500115073970, guid: da85b7a590e7c8444af73629fcb5dd22,
+        type: 3}
+      propertyPath: initialDescription
+      value: A spring loaded rifle designed to fit syringes, used to incapacitate
+        unruly patients from a distance.
+      objectReference: {fileID: 0}
     - target: {fileID: 2619834082358948637, guid: da85b7a590e7c8444af73629fcb5dd22,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -65,6 +71,11 @@ PrefabInstance:
         type: 3}
       propertyPath: FiringSoundA.AssetAddress
       value: null
+      objectReference: {fileID: 0}
+    - target: {fileID: 8109205671878849838, guid: da85b7a590e7c8444af73629fcb5dd22,
+        type: 3}
+      propertyPath: _assetId
+      value: 2195977742
       objectReference: {fileID: 0}
     - target: {fileID: 8109205671878849838, guid: da85b7a590e7c8444af73629fcb5dd22,
         type: 3}

@@ -78,6 +78,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3210787376857357156, guid: 157fcff274a3644448d1ff3bdc019619,
         type: 3}
+      propertyPath: _assetId
+      value: 338910369
+      objectReference: {fileID: 0}
+    - target: {fileID: 3210787376857357156, guid: 157fcff274a3644448d1ff3bdc019619,
+        type: 3}
       propertyPath: m_AssetId
       value: 7020b235ecf8ece4ca00af70a60258f8
       objectReference: {fileID: 0}
@@ -142,6 +147,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 7020b235ecf8ece4ca00af70a60258f8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8194546801250042845, guid: 157fcff274a3644448d1ff3bdc019619,
+        type: 3}
+      propertyPath: initialDescription
+      value: A window made out of a plasma-silicate alloy. It looks insanely tough
+        to break and burn through.
       objectReference: {fileID: 0}
     - target: {fileID: 8211889008010393860, guid: 157fcff274a3644448d1ff3bdc019619,
         type: 3}

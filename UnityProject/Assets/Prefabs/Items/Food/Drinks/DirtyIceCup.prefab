@@ -35,6 +35,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3655035755859161407, guid: bf6659d0928edc74d87be58bb72f78d5,
         type: 3}
+      propertyPath: _assetId
+      value: 649820372
+      objectReference: {fileID: 0}
+    - target: {fileID: 3655035755859161407, guid: bf6659d0928edc74d87be58bb72f78d5,
+        type: 3}
       propertyPath: m_AssetId
       value: 211cbbd8044ae68478c4563b3e0375da
       objectReference: {fileID: 0}
@@ -121,6 +126,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ffae063639e98f241989b2e49ecfc54e,
         type: 2}
+    - target: {fileID: 5138596585655967651, guid: bf6659d0928edc74d87be58bb72f78d5,
+        type: 3}
+      propertyPath: initialDescription
+      value: Either Nanotrasen's water supply is contaminated, or this machine actually
+        vends lemon, chocolate, and cherry snow cones.
+      objectReference: {fileID: 0}
     - target: {fileID: 7380099102149359372, guid: bf6659d0928edc74d87be58bb72f78d5,
         type: 3}
       propertyPath: PresentSpriteSet

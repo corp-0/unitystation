@@ -86,8 +86,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4033042375367942854, guid: ab1e465a59765f84b8691daa8693f857,
         type: 3}
+      propertyPath: _assetId
+      value: 3977334910
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033042375367942854, guid: ab1e465a59765f84b8691daa8693f857,
+        type: 3}
       propertyPath: m_AssetId
       value: 706adbdc94f3ee04ea1d02ddbb027dae
+      objectReference: {fileID: 0}
+    - target: {fileID: 4759886258258201690, guid: ab1e465a59765f84b8691daa8693f857,
+        type: 3}
+      propertyPath: initialDescription
+      value: It protected doctors from the Black Death, back then. You bet your arse
+        it's gonna help you against viruses.
       objectReference: {fileID: 0}
     - target: {fileID: 7145545764318209269, guid: ab1e465a59765f84b8691daa8693f857,
         type: 3}

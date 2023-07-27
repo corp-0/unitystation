@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 76db5c2fb8feabb44b3404b2c453d386
       objectReference: {fileID: 0}
+    - target: {fileID: 2907172161762188218, guid: f80586e0fe8257c44afa4d5dcffd86e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A locked box used to store awards to be given to members of the cargo
+        department.
+      objectReference: {fileID: 0}
     - target: {fileID: 4155501928354798850, guid: f80586e0fe8257c44afa4d5dcffd86e6,
         type: 3}
       propertyPath: allowedClearance
@@ -93,6 +99,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MedalBoxCargo
+      objectReference: {fileID: 0}
+    - target: {fileID: 6750583944055649574, guid: f80586e0fe8257c44afa4d5dcffd86e6,
+        type: 3}
+      propertyPath: _assetId
+      value: 3921183582
       objectReference: {fileID: 0}
     - target: {fileID: 6750583944055649574, guid: f80586e0fe8257c44afa4d5dcffd86e6,
         type: 3}

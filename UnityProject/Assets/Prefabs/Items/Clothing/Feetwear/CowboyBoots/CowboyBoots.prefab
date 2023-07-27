@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
         type: 3}
+      propertyPath: _assetId
+      value: 3700615217
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
       propertyPath: m_AssetId
       value: 4b44233aeccf8fd48b804d764fa74f6e
       objectReference: {fileID: 0}
@@ -111,5 +116,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 36687fe2d3eb6a143bdb062cbc2af852,
         type: 2}
+    - target: {fileID: 7890908865026357812, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A small sticker lets you know they've been inspected for snakes, It
+        is unclear how long ago the inspection took place...
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 502f496beb9034b9b9c97868e845ed7e, type: 3}

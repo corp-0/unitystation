@@ -158,6 +158,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3838946345099287980, guid: 9feaaa0ac515571468c1f7a542bc619a,
         type: 3}
+      propertyPath: _assetId
+      value: 1862223821
+      objectReference: {fileID: 0}
+    - target: {fileID: 3838946345099287980, guid: 9feaaa0ac515571468c1f7a542bc619a,
+        type: 3}
       propertyPath: m_AssetId
       value: 882b4a092eff060438657e9c0346ae7c
       objectReference: {fileID: 0}
@@ -167,6 +172,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: b497b1d8437ff29479a2b396004843cd,
         type: 3}
+    - target: {fileID: 4661243916831716144, guid: 9feaaa0ac515571468c1f7a542bc619a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A plant sculped by extensive genetic engineering. The spaceman's trumpet
+        is said to bear no resemblance to its wild ancestors. Inside NT AgriSci circles
+        it is better known as NTPW-0372.
+      objectReference: {fileID: 0}
     - target: {fileID: 7031394399350283167, guid: 9feaaa0ac515571468c1f7a542bc619a,
         type: 3}
       propertyPath: PresentSpriteSet

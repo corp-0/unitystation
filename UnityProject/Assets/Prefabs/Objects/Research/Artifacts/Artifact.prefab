@@ -103,6 +103,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2517016529909921883, guid: b06b702714bab49b9ad949eab1ca4534,
+        type: 3}
+      propertyPath: initialDescription
+      value: A large alien device.
+      objectReference: {fileID: 0}
     - target: {fileID: 3558259718671294003, guid: b06b702714bab49b9ad949eab1ca4534,
         type: 3}
       propertyPath: m_LocalRotation.x

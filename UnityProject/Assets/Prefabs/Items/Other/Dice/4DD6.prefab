@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: sides
       value: 48
       objectReference: {fileID: 0}
+    - target: {fileID: 974874576353264851, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A die that exists in four dimensional space. Properly interpreting them
+        can only be done with the help of a mathematician, a physicist, and a priest.
+      objectReference: {fileID: 0}
     - target: {fileID: 2404714145071242134, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: foreverID
@@ -47,6 +53,11 @@ PrefabInstance:
         type: 3}
       propertyPath: SubCatalogue.Array.data[0]
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: _assetId
+      value: 4115753098
       objectReference: {fileID: 0}
     - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}

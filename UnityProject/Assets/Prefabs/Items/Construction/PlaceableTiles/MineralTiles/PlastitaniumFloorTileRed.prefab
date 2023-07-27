@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 45de3683c4317fa408b28f493690c773,
         type: 2}
+    - target: {fileID: 2188579435306550894, guid: 20f299a7ef11e9d449e974cbac180598,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tile made of plastitanium, used for very red shuttles.
+      objectReference: {fileID: 0}
     - target: {fileID: 3640972160763205931, guid: 20f299a7ef11e9d449e974cbac180598,
         type: 3}
       propertyPath: foreverID
@@ -89,6 +94,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PlastitaniumFloorTileRed
+      objectReference: {fileID: 0}
+    - target: {fileID: 7757970012772837618, guid: 20f299a7ef11e9d449e974cbac180598,
+        type: 3}
+      propertyPath: _assetId
+      value: 1321256588
       objectReference: {fileID: 0}
     - target: {fileID: 7757970012772837618, guid: 20f299a7ef11e9d449e974cbac180598,
         type: 3}

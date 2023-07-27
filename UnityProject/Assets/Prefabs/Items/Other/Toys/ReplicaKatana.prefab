@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 1b5f662435784494fad82ddf6c809db9
       objectReference: {fileID: 0}
+    - target: {fileID: 4025837389729834979, guid: b2cc2b1c514be164282a4cdd366643e5,
+        type: 3}
+      propertyPath: initialDescription
+      value: Woefully underpowered in D20.
+      objectReference: {fileID: 0}
     - target: {fileID: 4705654935379183511, guid: b2cc2b1c514be164282a4cdd366643e5,
         type: 3}
       propertyPath: m_Sprite
@@ -28,6 +33,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767086867303369087, guid: b2cc2b1c514be164282a4cdd366643e5,
+        type: 3}
+      propertyPath: _assetId
+      value: 964365258
       objectReference: {fileID: 0}
     - target: {fileID: 4767086867303369087, guid: b2cc2b1c514be164282a4cdd366643e5,
         type: 3}

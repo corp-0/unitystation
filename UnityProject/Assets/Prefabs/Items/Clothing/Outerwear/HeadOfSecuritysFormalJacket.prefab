@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3564945054494194852, guid: a0c29a11d2c864b7982765b5340eed0e,
         type: 3}
+      propertyPath: _assetId
+      value: 3202607746
+      objectReference: {fileID: 0}
+    - target: {fileID: 3564945054494194852, guid: a0c29a11d2c864b7982765b5340eed0e,
+        type: 3}
       propertyPath: m_AssetId
       value: 46c708bccddd63a4d86b5faf3b44df34
       objectReference: {fileID: 0}
@@ -94,6 +99,12 @@ PrefabInstance:
       value: head of security's formal jacket
       objectReference: {fileID: 0}
     - target: {fileID: 3891274522419703410, guid: a0c29a11d2c864b7982765b5340eed0e,
+        type: 3}
+      propertyPath: initialDescription
+      value: This piece of clothing was specifically designed for asserting superior
+        authority.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4940316139980870200, guid: a0c29a11d2c864b7982765b5340eed0e,
         type: 3}
       propertyPath: initialDescription
       value: This piece of clothing was specifically designed for asserting superior

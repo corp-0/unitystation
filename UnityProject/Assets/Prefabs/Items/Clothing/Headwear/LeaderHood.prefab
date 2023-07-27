@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: dc3081345b70d284788d7ad8823dbd96,
+        type: 3}
+      propertyPath: initialDescription
+      value: Now you're ready for some 50 dollar bling water.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: dc3081345b70d284788d7ad8823dbd96,
         type: 3}
       propertyPath: foreverID
@@ -34,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a49c24cc4af2f444aaaf1eebb4ffc0d8,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: dc3081345b70d284788d7ad8823dbd96,
+        type: 3}
+      propertyPath: _assetId
+      value: 1120046383
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: dc3081345b70d284788d7ad8823dbd96,
         type: 3}
       propertyPath: m_AssetId

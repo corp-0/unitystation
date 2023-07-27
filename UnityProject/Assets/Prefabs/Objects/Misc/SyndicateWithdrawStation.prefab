@@ -12,6 +12,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: 18519db47ae5c8d56b245a1527d11072
       objectReference: {fileID: 0}
+    - target: {fileID: 1344368169052875666, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: initialDescription
+      value: Once the war begins, this console will start slowly charging new telecrystals
+        until the timer ends. Operatives will use their PDAs to transfer them into
+        their uplink.
+      objectReference: {fileID: 0}
     - target: {fileID: 4116897424394887774, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
       propertyPath: m_Size.x
@@ -98,6 +105,11 @@ PrefabInstance:
       propertyPath: CurrentsortingGroup
       value: 
       objectReference: {fileID: 8731991323667823606}
+    - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: _assetId
+      value: 3083735581
+      objectReference: {fileID: 0}
     - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
       propertyPath: m_AssetId

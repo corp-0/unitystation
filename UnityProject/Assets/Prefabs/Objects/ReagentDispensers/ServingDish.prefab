@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 7aab3344829284243b7965e9aef629a4
       objectReference: {fileID: 0}
+    - target: {fileID: 1506691950847041099, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: initialDescription
+      value: A dish full of food slop for your bowl.
+      objectReference: {fileID: 0}
     - target: {fileID: 4324277455529423760, guid: 39da184d881f73c48b25ae5921795c55,
         type: 3}
       propertyPath: m_Name
@@ -113,6 +118,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.data[0]
       value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5323037765139105522, guid: 39da184d881f73c48b25ae5921795c55,
+        type: 3}
+      propertyPath: _assetId
+      value: 3015917123
       objectReference: {fileID: 0}
     - target: {fileID: 5323037765139105522, guid: 39da184d881f73c48b25ae5921795c55,
         type: 3}

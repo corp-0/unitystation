@@ -24,6 +24,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 2227d297000f41644a25a6f21627fe16,
         type: 2}
+    - target: {fileID: 3201097120255405277, guid: b941c479fbceadf4699dddecee87d3f7,
+        type: 3}
+      propertyPath: initialDescription
+      value: An advanced helmet of unknown make. A strange rune is engraved ion it.
+      objectReference: {fileID: 0}
     - target: {fileID: 6345040535459102709, guid: b941c479fbceadf4699dddecee87d3f7,
         type: 3}
       propertyPath: m_Name
@@ -83,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6456518267312816705, guid: b941c479fbceadf4699dddecee87d3f7,
+        type: 3}
+      propertyPath: _assetId
+      value: 580355716
       objectReference: {fileID: 0}
     - target: {fileID: 6456518267312816705, guid: b941c479fbceadf4699dddecee87d3f7,
         type: 3}

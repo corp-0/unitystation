@@ -292,6 +292,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3877279333247478238, guid: d2991f5505400ab479c5262137eed380,
         type: 3}
+      propertyPath: _assetId
+      value: 1469778476
+      objectReference: {fileID: 0}
+    - target: {fileID: 3877279333247478238, guid: d2991f5505400ab479c5262137eed380,
+        type: 3}
       propertyPath: m_AssetId
       value: 5f01f5a34b9c216449c31cf35a77e2da
       objectReference: {fileID: 0}
@@ -305,6 +310,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4627555251773556546, guid: d2991f5505400ab479c5262137eed380,
+        type: 3}
+      propertyPath: initialDescription
+      value: A slice of home.
       objectReference: {fileID: 0}
     - target: {fileID: 6997740245486759917, guid: d2991f5505400ab479c5262137eed380,
         type: 3}

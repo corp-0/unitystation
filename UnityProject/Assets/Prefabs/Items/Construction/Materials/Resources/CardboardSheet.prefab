@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0ca4f4e667bd6ca4a834951c12631c9f,
         type: 2}
+    - target: {fileID: 94447294824387351, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: initialDescription
+      value: Large sheets of card, like boxes folded flat.
+      objectReference: {fileID: 0}
     - target: {fileID: 2335991647453887416, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -134,6 +139,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.Flammable
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
+        type: 3}
+      propertyPath: _assetId
+      value: 71914926
       objectReference: {fileID: 0}
     - target: {fileID: 8410813880369429899, guid: b56fec0300832ce48ade0ddf2e577ee7,
         type: 3}

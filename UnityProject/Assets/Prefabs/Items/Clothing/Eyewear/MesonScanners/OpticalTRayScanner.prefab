@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 146028621113159547, guid: 67edff078434b7d46a845a17839398cf,
         type: 3}
+      propertyPath: _assetId
+      value: 167358632
+      objectReference: {fileID: 0}
+    - target: {fileID: 146028621113159547, guid: 67edff078434b7d46a845a17839398cf,
+        type: 3}
       propertyPath: m_AssetId
       value: 7489039294a4ab74495912a1d77e1677
       objectReference: {fileID: 0}
@@ -121,5 +126,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 014afe1792104e64f9f02ca14ba8a297,
         type: 2}
+    - target: {fileID: 8642532723252281831, guid: 67edff078434b7d46a845a17839398cf,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used by engineering staff to see underfloor objects such as cables and
+        pipes.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 67edff078434b7d46a845a17839398cf, type: 3}

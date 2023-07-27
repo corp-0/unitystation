@@ -34,6 +34,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 51fa4efb14c93714ea1ff2121835d6cc
       objectReference: {fileID: 0}
+    - target: {fileID: 2406450897809466474, guid: b9ea9931e8b07a140ab790d555cace98,
+        type: 3}
+      propertyPath: initialDescription
+      value: A green suitskirt and yellow necktie. Exemplifies authority.
+      objectReference: {fileID: 0}
     - target: {fileID: 6046782349577852960, guid: b9ea9931e8b07a140ab790d555cace98,
         type: 3}
       propertyPath: initialName
@@ -43,6 +48,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A green suitskirt and yellow necktie. Exemplifies authority.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6094447466852338422, guid: b9ea9931e8b07a140ab790d555cace98,
+        type: 3}
+      propertyPath: _assetId
+      value: 3100274880
       objectReference: {fileID: 0}
     - target: {fileID: 6094447466852338422, guid: b9ea9931e8b07a140ab790d555cace98,
         type: 3}

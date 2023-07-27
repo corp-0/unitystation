@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 992973921148535777, guid: 26c5baacae3795f4ba2c5caf5ce80791,
+        type: 3}
+      propertyPath: initialDescription
+      value: Some small, mysterious rocks. A pickaxe would be good for clearing these.
+      objectReference: {fileID: 0}
     - target: {fileID: 1322962729041121395, guid: 26c5baacae3795f4ba2c5caf5ce80791,
         type: 3}
       propertyPath: foreverID

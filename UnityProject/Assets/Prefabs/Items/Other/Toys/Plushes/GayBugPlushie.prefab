@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2153643963139993510, guid: 8e61d8436be5a404bb7bcdfa3e0e2743,
         type: 3}
+      propertyPath: _assetId
+      value: 2725359548
+      objectReference: {fileID: 0}
+    - target: {fileID: 2153643963139993510, guid: 8e61d8436be5a404bb7bcdfa3e0e2743,
+        type: 3}
       propertyPath: m_AssetId
       value: 023a567b3271b994aa0f0ae61cc4d5ff
       objectReference: {fileID: 0}
@@ -100,5 +105,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7959adaece6857549854451e8ff6d86c,
         type: 2}
+    - target: {fileID: 7500175903931400506, guid: 8e61d8436be5a404bb7bcdfa3e0e2743,
+        type: 3}
+      propertyPath: initialDescription
+      value: A cute, soft plush of a long-horned bug. Her cloak is in the colors
+        of the lesbian pride flag.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e61d8436be5a404bb7bcdfa3e0e2743, type: 3}

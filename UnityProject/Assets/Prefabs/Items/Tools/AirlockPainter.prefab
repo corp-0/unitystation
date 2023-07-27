@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 224935955204253567, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialDescription
+      value: An advanced autopainter preprogrammed with several paintjobs for airlocks.
+        Use it on an airlock after construction to change the paintjob.
+      objectReference: {fileID: 0}
     - target: {fileID: 2466764617220362192, guid: c9c58a9243d494537abcb4ee470efab0,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -83,6 +89,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8568555645537651171, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: _assetId
+      value: 2984669860
       objectReference: {fileID: 0}
     - target: {fileID: 8568555645537651171, guid: c9c58a9243d494537abcb4ee470efab0,
         type: 3}
@@ -180,11 +191,13 @@ MonoBehaviour:
     type: 2}
   itemStoragePopulator: {fileID: 0}
   forceSpawnContents: 0
+  ManuallySpawnContent: 0
   dropItemsOnDespawn: 0
   UesAddlistPopulater: 0
   Populater:
     SlotContents: []
     DeprecatedContents: []
+  SetSlotItemNotRemovableOnStartUp: 0
   ashPrefab: {fileID: 2957035178188790827, guid: 9ac6968a3f3ed54428662c9aae5a4b32,
     type: 3}
 --- !u!114 &-2033254541000654494

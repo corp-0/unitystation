@@ -18,6 +18,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a60d8721143aafb49b92a814eb91b118,
         type: 2}
+    - target: {fileID: 4451205881773016173, guid: a753ad12f9c4b8847be33e910d2e18e5,
+        type: 3}
+      propertyPath: initialDescription
+      value: A modified air-needle autoinjector for use in combat situations. Prefilled
+        with 5 doses of a holy water and pacifier mixture. Not for use on your teammates.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5202609555093908209, guid: a753ad12f9c4b8847be33e910d2e18e5,
+        type: 3}
+      propertyPath: _assetId
+      value: 66745446
+      objectReference: {fileID: 0}
     - target: {fileID: 5202609555093908209, guid: a753ad12f9c4b8847be33e910d2e18e5,
         type: 3}
       propertyPath: m_AssetId

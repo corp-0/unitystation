@@ -47,6 +47,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 1245986912
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: 77ef6ab9b6acba24b89b360ccd07b98b
       objectReference: {fileID: 0}
@@ -137,6 +142,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 71f59e41375294a43a8703b085c99a6c,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A lowstock vendor only capable of vending clothing for curators and
+        librarians.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

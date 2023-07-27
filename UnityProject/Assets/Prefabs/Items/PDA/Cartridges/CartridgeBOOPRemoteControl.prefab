@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 0ef40be1450a14b4eadea0e714982c2d
       objectReference: {fileID: 0}
+    - target: {fileID: 3110531697778437133, guid: cab5c74016637e544bd4eb2e9065d5b3,
+        type: 3}
+      propertyPath: initialDescription
+      value: Packed with heavy duty quad-bot interlink!
+      objectReference: {fileID: 0}
     - target: {fileID: 6459787821170806855, guid: cab5c74016637e544bd4eb2e9065d5b3,
         type: 3}
       propertyPath: initialName
@@ -21,6 +26,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: Packed with heavy duty quad-bot interlink!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835454746677215889, guid: cab5c74016637e544bd4eb2e9065d5b3,
+        type: 3}
+      propertyPath: _assetId
+      value: 3503032341
       objectReference: {fileID: 0}
     - target: {fileID: 6835454746677215889, guid: cab5c74016637e544bd4eb2e9065d5b3,
         type: 3}

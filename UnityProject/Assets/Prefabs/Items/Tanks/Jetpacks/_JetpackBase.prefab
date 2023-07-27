@@ -152,6 +152,12 @@ PrefabInstance:
       propertyPath: Gases.Array.data[1]
       value: 17.4693
       objectReference: {fileID: 0}
+    - target: {fileID: 7835255112450083552, guid: d27d06b68d77a3d49b21cce589f699da,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tank of compressed gas for use as propulsion in zero-gravity areas.
+        Use with caution.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d27d06b68d77a3d49b21cce589f699da, type: 3}
 --- !u!1 &5220847695223727020 stripped
@@ -191,6 +197,8 @@ MonoBehaviour:
   allClothingData: []
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

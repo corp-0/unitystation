@@ -51,6 +51,11 @@ PrefabInstance:
       objectReference: {fileID: 8969123698629510129}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 2577915468
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: 16c6881fecb34104d91e663e39a403f0
       objectReference: {fileID: 0}
@@ -141,6 +146,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 9f1c6e0fc0f2b90439bec5989ca967b0,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A self cleaning vending machine capable of dispensing clothing for janitors.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

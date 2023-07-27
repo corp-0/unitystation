@@ -19,8 +19,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}
+      propertyPath: _assetId
+      value: 507923620
+      objectReference: {fileID: 0}
+    - target: {fileID: 1993339627899042215, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
       propertyPath: m_AssetId
       value: 818e550b6cfb51b408ea822b5c9ffee5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5088541089700716830, guid: 1f61548e395dbe8449f041a728c5af66,
+        type: 3}
+      propertyPath: initialDescription
+      value: A warning sign which reads 'SECURE AREA'.
       objectReference: {fileID: 0}
     - target: {fileID: 6414808378359280268, guid: 1f61548e395dbe8449f041a728c5af66,
         type: 3}

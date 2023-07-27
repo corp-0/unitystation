@@ -123,6 +123,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 1563661019
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: 23fbdaf1fa5d71340be316ef7c51eae0
       objectReference: {fileID: 0}
@@ -263,5 +268,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 9a8d06e7953d04f4986208c75fb6abb3,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: Strange-looking hat-wear that most certainly belongs to a real magic
+        user.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

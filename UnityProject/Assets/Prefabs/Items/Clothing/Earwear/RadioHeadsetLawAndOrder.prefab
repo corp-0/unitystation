@@ -37,6 +37,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2618191676536156122, guid: 6c06d764ea0ea9e4f9dff0e83cbb46e6,
         type: 3}
+      propertyPath: _assetId
+      value: 1786431981
+      objectReference: {fileID: 0}
+    - target: {fileID: 2618191676536156122, guid: 6c06d764ea0ea9e4f9dff0e83cbb46e6,
+        type: 3}
       propertyPath: m_AssetId
       value: bc66478ed507f244cbcb4ab3af901297
       objectReference: {fileID: 0}
@@ -111,6 +116,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 0468f67d1a69fb08ea48a18395e992ac,
         type: 3}
+    - target: {fileID: 5882565932266242374, guid: 6c06d764ea0ea9e4f9dff0e83cbb46e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: In the criminal justice headset, the encryption key represents two separate
+        but equally important groups. Sec, who investigate crime, and Service, who
+        provide services. These are their comms.
+      objectReference: {fileID: 0}
     - target: {fileID: 8108596829518490089, guid: 6c06d764ea0ea9e4f9dff0e83cbb46e6,
         type: 3}
       propertyPath: PresentSpriteSet

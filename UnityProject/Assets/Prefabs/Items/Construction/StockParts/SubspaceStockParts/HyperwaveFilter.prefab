@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4271034696529489382, guid: aa2175a532ddc614fbd4cebc49ab22fb,
         type: 3}
+      propertyPath: _assetId
+      value: 1492452760
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271034696529489382, guid: aa2175a532ddc614fbd4cebc49ab22fb,
+        type: 3}
       propertyPath: m_AssetId
       value: 8513915a51caca44a9e3ad11a1260f06
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: cae7936a1d9b4c64fa6ab932e9d9bbf6,
         type: 2}
+    - target: {fileID: 5671015531778081658, guid: aa2175a532ddc614fbd4cebc49ab22fb,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tiny device capable of filtering and converting super-intense radiowaves.
+      objectReference: {fileID: 0}
     - target: {fileID: 7091848973800414271, guid: aa2175a532ddc614fbd4cebc49ab22fb,
         type: 3}
       propertyPath: foreverID

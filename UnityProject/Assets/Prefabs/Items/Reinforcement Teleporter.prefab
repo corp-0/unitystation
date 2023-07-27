@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 957093806150701760, guid: 22069d3e294f7e2ad9d264cebe1709bc,
+        type: 3}
+      propertyPath: initialDescription
+      value: A single-use teleporter designed to quickly reinforce operatives in
+        the field
+      objectReference: {fileID: 0}
     - target: {fileID: 2418562999013494149, guid: 22069d3e294f7e2ad9d264cebe1709bc,
         type: 3}
       propertyPath: foreverID
@@ -18,6 +24,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 6221f27f53a895d49819e81cb49a4f7a,
         type: 2}
+    - target: {fileID: 8700666717087464540, guid: 22069d3e294f7e2ad9d264cebe1709bc,
+        type: 3}
+      propertyPath: _assetId
+      value: 1183551675
+      objectReference: {fileID: 0}
     - target: {fileID: 8700666717087464540, guid: 22069d3e294f7e2ad9d264cebe1709bc,
         type: 3}
       propertyPath: m_AssetId

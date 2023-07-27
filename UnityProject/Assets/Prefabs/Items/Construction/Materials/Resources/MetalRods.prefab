@@ -382,6 +382,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 49f578709c4c65c4eb705af98a116726,
         type: 2}
+    - target: {fileID: 7836191319777627771, guid: c3138c3e8a46444199668b85070b1a39,
+        type: 3}
+      propertyPath: initialDescription
+      value: Some rods. Can be used for building or something.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3138c3e8a46444199668b85070b1a39, type: 3}
 --- !u!210 &3986029492502748020 stripped

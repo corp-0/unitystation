@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: fceccba0296eb5b4983bdfe2fc9ccdd0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A british looking helmet.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: fceccba0296eb5b4983bdfe2fc9ccdd0,
         type: 3}
       propertyPath: foreverID
@@ -39,6 +44,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5927c3af00949e8409c70d6fabacf3d2,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: fceccba0296eb5b4983bdfe2fc9ccdd0,
+        type: 3}
+      propertyPath: _assetId
+      value: 2544881783
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: fceccba0296eb5b4983bdfe2fc9ccdd0,
         type: 3}
       propertyPath: m_AssetId

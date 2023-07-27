@@ -120,6 +120,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 844810168840007048, guid: f165d0512a4d5ef44ba3d22decd038b7,
         type: 3}
+      propertyPath: _assetId
+      value: 2551246
+      objectReference: {fileID: 0}
+    - target: {fileID: 844810168840007048, guid: f165d0512a4d5ef44ba3d22decd038b7,
+        type: 3}
       propertyPath: m_AssetId
       value: a677d1a984ae49040ad690bfc36ec550
       objectReference: {fileID: 0}
@@ -441,5 +446,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 9204197c3e5ec4741a862594fdddaeeb,
         type: 2}
+    - target: {fileID: 9101743676073280276, guid: f165d0512a4d5ef44ba3d22decd038b7,
+        type: 3}
+      propertyPath: initialDescription
+      value: Empowered armor which creates a powerful shield around the user."
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f165d0512a4d5ef44ba3d22decd038b7, type: 3}

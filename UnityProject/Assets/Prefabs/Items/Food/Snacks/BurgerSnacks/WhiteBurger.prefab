@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1381682031583824400, guid: 4bf8c38cb85116e4babedf03228412de,
+        type: 3}
+      propertyPath: initialDescription
+      value: Delicous Titanium!
+      objectReference: {fileID: 0}
     - target: {fileID: 3605183359545615039, guid: 4bf8c38cb85116e4babedf03228412de,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -45,6 +50,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: fd332da3fd9ccc749aa28e903d5f1dc2,
         type: 3}
+    - target: {fileID: 7411242208336094348, guid: 4bf8c38cb85116e4babedf03228412de,
+        type: 3}
+      propertyPath: _assetId
+      value: 3198618566
+      objectReference: {fileID: 0}
     - target: {fileID: 7411242208336094348, guid: 4bf8c38cb85116e4babedf03228412de,
         type: 3}
       propertyPath: m_AssetId

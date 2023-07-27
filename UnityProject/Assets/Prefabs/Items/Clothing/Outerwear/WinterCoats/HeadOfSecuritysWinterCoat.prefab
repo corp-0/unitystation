@@ -30,6 +30,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 37b14967c0eb8264096c3ec5554cc6d3,
         type: 2}
+    - target: {fileID: 3515340742817839630, guid: 6920da5d154527242970c7c2f00fcd16,
+        type: 3}
+      propertyPath: initialDescription
+      value: A dark, armour-padded winter coat, lovingly woven with a Kevlar interleave
+        and reinforced with semi-ablative polymers and a silver azide fill material.
+        The zipper tab looks like a tiny replica of Beepsky.
+      objectReference: {fileID: 0}
     - target: {fileID: 4776046595071772228, guid: 6920da5d154527242970c7c2f00fcd16,
         type: 3}
       propertyPath: initialName
@@ -131,6 +138,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Energy
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4989498274605192338, guid: 6920da5d154527242970c7c2f00fcd16,
+        type: 3}
+      propertyPath: _assetId
+      value: 675587024
       objectReference: {fileID: 0}
     - target: {fileID: 4989498274605192338, guid: 6920da5d154527242970c7c2f00fcd16,
         type: 3}

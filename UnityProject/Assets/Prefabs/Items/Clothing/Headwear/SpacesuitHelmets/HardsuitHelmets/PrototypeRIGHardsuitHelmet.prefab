@@ -164,6 +164,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2388022189226633715, guid: c60440956ff96af4b84ba3e95e41c3e0,
         type: 3}
+      propertyPath: _assetId
+      value: 1218579426
+      objectReference: {fileID: 0}
+    - target: {fileID: 2388022189226633715, guid: c60440956ff96af4b84ba3e95e41c3e0,
+        type: 3}
       propertyPath: m_AssetId
       value: fb17f2a1a0e48b942aa3fa328dfadb0a
       objectReference: {fileID: 0}
@@ -246,6 +251,13 @@ PrefabInstance:
         type: 3}
       propertyPath: Size
       value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112871777271252847, guid: c60440956ff96af4b84ba3e95e41c3e0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Early prototype RIG hardsuit helmet, designed to quickly shift over
+        a user's head. Design constraints of the helmet mean it has no inbuilt cameras,
+        thus it restricts the users visability.
       objectReference: {fileID: 0}
     - target: {fileID: 8160527399506739071, guid: c60440956ff96af4b84ba3e95e41c3e0,
         type: 3}

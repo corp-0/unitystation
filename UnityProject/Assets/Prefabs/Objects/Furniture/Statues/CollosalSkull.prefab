@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 540805638979158701, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: initialDescription
+      value: The gaping maw of a dead, titanic monster.
+      objectReference: {fileID: 0}
     - target: {fileID: 1736851031246721343, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
         type: 3}
       propertyPath: foreverID
@@ -102,6 +107,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: The gaping maw of a dead, titanic monster.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6536606663306582548, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
+        type: 3}
+      propertyPath: _assetId
+      value: 447855469
       objectReference: {fileID: 0}
     - target: {fileID: 6536606663306582548, guid: d150f8654b6a3d743a2d2baaf2ebdeec,
         type: 3}

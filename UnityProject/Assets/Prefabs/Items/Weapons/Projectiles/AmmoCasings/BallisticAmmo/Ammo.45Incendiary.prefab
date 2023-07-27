@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 199199104469043306, guid: 55081c8632462ac4b935fa1133a475cc,
+        type: 3}
+      propertyPath: initialDescription
+      value: A .45 incendiary bullet casing.
+      objectReference: {fileID: 0}
     - target: {fileID: 3322393197383554863, guid: 55081c8632462ac4b935fa1133a475cc,
         type: 3}
       propertyPath: foreverID
@@ -81,6 +86,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8589788901008025334, guid: 55081c8632462ac4b935fa1133a475cc,
+        type: 3}
+      propertyPath: _assetId
+      value: 1979849962
       objectReference: {fileID: 0}
     - target: {fileID: 8589788901008025334, guid: 55081c8632462ac4b935fa1133a475cc,
         type: 3}

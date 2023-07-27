@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 8a05cb3da796e42e89e13a0963de6953,
+        type: 3}
+      propertyPath: initialDescription
+      value: A special beret with the Head of Security's insignia emblazoned on it.
+        A symbol of excellence, a badge of courage, a mark of distinction.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 8a05cb3da796e42e89e13a0963de6953,
         type: 3}
       propertyPath: foreverID
@@ -34,6 +40,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e2fa83f4f82faa8489926539c2d943fd,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: 8a05cb3da796e42e89e13a0963de6953,
+        type: 3}
+      propertyPath: _assetId
+      value: 2626453264
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 8a05cb3da796e42e89e13a0963de6953,
         type: 3}
       propertyPath: m_AssetId

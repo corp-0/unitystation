@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2278709885361838553, guid: d70fb70bc4fe6534a85996e49221bb53,
+        type: 3}
+      propertyPath: initialDescription
+      value: This hand of yours glows with an awesome power!
+      objectReference: {fileID: 0}
     - target: {fileID: 3695110123352835740, guid: d70fb70bc4fe6534a85996e49221bb53,
         type: 3}
       propertyPath: foreverID
@@ -24,6 +29,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: f58b7a140b1f29040ad72ec3ec9c1eda,
         type: 3}
+    - target: {fileID: 7667703169655306053, guid: d70fb70bc4fe6534a85996e49221bb53,
+        type: 3}
+      propertyPath: _assetId
+      value: 3450519284
+      objectReference: {fileID: 0}
     - target: {fileID: 7667703169655306053, guid: d70fb70bc4fe6534a85996e49221bb53,
         type: 3}
       propertyPath: m_AssetId

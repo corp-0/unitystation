@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 367949882331542223, guid: 66c1a2c68cdf38f4a9cd469080bad2b4,
         type: 3}
+      propertyPath: _assetId
+      value: 3553746617
+      objectReference: {fileID: 0}
+    - target: {fileID: 367949882331542223, guid: 66c1a2c68cdf38f4a9cd469080bad2b4,
+        type: 3}
       propertyPath: m_AssetId
       value: 3ddcbd135399a4747b00acd64830d59c
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 3ddcbd135399a4747b00acd64830d59c
+      objectReference: {fileID: 0}
+    - target: {fileID: 8137306950801923155, guid: 66c1a2c68cdf38f4a9cd469080bad2b4,
+        type: 3}
+      propertyPath: initialDescription
+      value: A one-hundred-credit bill. It's worth one hundred credits in total.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66c1a2c68cdf38f4a9cd469080bad2b4, type: 3}

@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2593168487031691222, guid: a6a04b99723d3ae42958de4193b9920d,
         type: 3}
+      propertyPath: _assetId
+      value: 437165772
+      objectReference: {fileID: 0}
+    - target: {fileID: 2593168487031691222, guid: a6a04b99723d3ae42958de4193b9920d,
+        type: 3}
       propertyPath: m_AssetId
       value: 5bfb096b3e3382a41be209b68f4b5875
       objectReference: {fileID: 0}
@@ -104,6 +109,12 @@ PrefabInstance:
         type: 3}
       propertyPath: tier
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6199896509570087242, guid: a6a04b99723d3ae42958de4193b9920d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A compact, ultra resolution triphasic scanning module used in the construction
+        of certain devices.
       objectReference: {fileID: 0}
     - target: {fileID: 8588050373806019045, guid: a6a04b99723d3ae42958de4193b9920d,
         type: 3}

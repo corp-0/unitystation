@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1369152180715620219, guid: 5269bbb43ef5a0b40a2676310664d6c6,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'Has a tag on it: Totally not property of an enemy corporation, honest!'
+      objectReference: {fileID: 0}
     - target: {fileID: 3613193060126830548, guid: 5269bbb43ef5a0b40a2676310664d6c6,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -190,6 +195,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 1131ebd43e13ce6429a7f4716c7ded35,
         type: 3}
+    - target: {fileID: 7419268474676488679, guid: 5269bbb43ef5a0b40a2676310664d6c6,
+        type: 3}
+      propertyPath: _assetId
+      value: 884596817
+      objectReference: {fileID: 0}
     - target: {fileID: 7419268474676488679, guid: 5269bbb43ef5a0b40a2676310664d6c6,
         type: 3}
       propertyPath: m_AssetId

@@ -7,6 +7,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2231580897678024641, guid: 55eaf8088d038a642b0f49a0d6c78cd6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A mothic favourite, baked rice can be filled with a variety of vegetable
+        fillings to make a delicious meal to share. Potatoes are also often layered
+        on the bottom of the cooking vessel to create a flavourful crust which is
+        hotly contested amongst diners.
+      objectReference: {fileID: 0}
     - target: {fileID: 3611916063692406916, guid: 55eaf8088d038a642b0f49a0d6c78cd6,
         type: 3}
       propertyPath: foreverID
@@ -99,6 +107,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BigBakedRice
+      objectReference: {fileID: 0}
+    - target: {fileID: 7714269211630793053, guid: 55eaf8088d038a642b0f49a0d6c78cd6,
+        type: 3}
+      propertyPath: _assetId
+      value: 1914934450
       objectReference: {fileID: 0}
     - target: {fileID: 7714269211630793053, guid: 55eaf8088d038a642b0f49a0d6c78cd6,
         type: 3}

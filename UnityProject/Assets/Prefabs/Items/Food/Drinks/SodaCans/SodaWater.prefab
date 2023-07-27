@@ -110,6 +110,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3342215226231398706, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}
+      propertyPath: _assetId
+      value: 3317761233
+      objectReference: {fileID: 0}
+    - target: {fileID: 3342215226231398706, guid: b04d0f9770ef17c459a1af178889e3ba,
+        type: 3}
       propertyPath: m_AssetId
       value: 5aaac2f8c1ca3594582dcaf2bb2a3558
       objectReference: {fileID: 0}
@@ -193,6 +198,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.data[0]
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 6599834983692865454, guid: b04d0f9770ef17c459a1af178889e3ba,
+        type: 3}
+      propertyPath: initialDescription
+      value: A can of soda water. Why not make a scotch and soda?
       objectReference: {fileID: 0}
     - target: {fileID: 8597199573883621611, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}

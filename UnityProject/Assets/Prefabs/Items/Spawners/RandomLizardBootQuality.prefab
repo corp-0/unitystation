@@ -173,6 +173,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2806690048445349940, guid: abff3ae0227731244b0814b2055fa6f0,
         type: 3}
+      propertyPath: _assetId
+      value: 63952388
+      objectReference: {fileID: 0}
+    - target: {fileID: 2806690048445349940, guid: abff3ae0227731244b0814b2055fa6f0,
+        type: 3}
       propertyPath: m_AssetId
       value: d191bca37a379834bbdf6b672bcf012d
       objectReference: {fileID: 0}
@@ -240,6 +245,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5982434261040148136, guid: abff3ae0227731244b0814b2055fa6f0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Which ever gets picked, the lizard race loses.
       objectReference: {fileID: 0}
     - target: {fileID: 8223985327567078919, guid: abff3ae0227731244b0814b2055fa6f0,
         type: 3}

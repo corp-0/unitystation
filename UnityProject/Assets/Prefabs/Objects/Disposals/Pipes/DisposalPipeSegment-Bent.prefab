@@ -36,17 +36,17 @@ PrefabInstance:
     - target: {fileID: 1710127415778951519, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1710127415778951519, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1710127415778951519, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1710127415778951519, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
@@ -71,17 +71,23 @@ PrefabInstance:
     - target: {fileID: 3227768396750277686, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3227768396750277686, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3227768396750277686, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558787617631677022, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bent segment of disposal pipe that has a large cross-section. Could
+        you fit in this?
       objectReference: {fileID: 0}
     - target: {fileID: 5066112798346183791, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
@@ -113,6 +119,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3dae27979ebc4474da2b169cb6255a0a,
         type: 2}
+    - target: {fileID: 7094281925372949223, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
+        type: 3}
+      propertyPath: _assetId
+      value: 1124500790
+      objectReference: {fileID: 0}
     - target: {fileID: 7094281925372949223, guid: b9bb4cf2e55ac1249ae2afe0243cf436,
         type: 3}
       propertyPath: m_AssetId

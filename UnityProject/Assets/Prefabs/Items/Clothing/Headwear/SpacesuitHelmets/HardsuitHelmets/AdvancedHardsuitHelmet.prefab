@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2154036573460103505, guid: c947ef228fe12b44dad029156a74f62b,
+        type: 3}
+      propertyPath: initialDescription
+      value: An advanced helmet designed for work in a hazardous, low pressure environment.
+        Shines with a high polish.
+      objectReference: {fileID: 0}
     - target: {fileID: 3547883628967403028, guid: c947ef228fe12b44dad029156a74f62b,
         type: 3}
       propertyPath: foreverID
@@ -116,6 +122,11 @@ PrefabInstance:
         type: 3}
       propertyPath: armoredBodyParts.Array.data[2].armor.Melee
       value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7499075161934737357, guid: c947ef228fe12b44dad029156a74f62b,
+        type: 3}
+      propertyPath: _assetId
+      value: 331652266
       objectReference: {fileID: 0}
     - target: {fileID: 7499075161934737357, guid: c947ef228fe12b44dad029156a74f62b,
         type: 3}

@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: b054a3a3b8b51b74ca3853fa734a304b
       objectReference: {fileID: 0}
+    - target: {fileID: 3882688689638227017, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+        type: 3}
+      propertyPath: initialDescription
+      value: There are three parts to the ear. Inner, middle and outer. Only one
+        of these parts should be normally visible.
+      objectReference: {fileID: 0}
     - target: {fileID: 4617501557389857493, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: _assetId

@@ -263,6 +263,11 @@ PrefabInstance:
       propertyPath: StartingNutrients
       value: 38
       objectReference: {fileID: 0}
+    - target: {fileID: 7393185702746791663, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+        type: 3}
+      propertyPath: initialDescription
+      value: An egg!
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -4748041340272161142, guid: eaf8c1f2a0f9374488e16061fd5b4dcd, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: eaf8c1f2a0f9374488e16061fd5b4dcd, type: 3}

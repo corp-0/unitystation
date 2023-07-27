@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3107333849576633749, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}
+      propertyPath: _assetId
+      value: 686362814
+      objectReference: {fileID: 0}
+    - target: {fileID: 3107333849576633749, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
       propertyPath: m_AssetId
       value: 024d4787dd72ad04aa84c018e10e609f
       objectReference: {fileID: 0}
@@ -113,6 +118,11 @@ PrefabInstance:
         type: 3}
       propertyPath: relatedRecipes.Array.data[0].ingredientIndex
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6839219976228231945, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
+      propertyPath: initialDescription
+      value: I bet you love stuff made out of plump helmets!
       objectReference: {fileID: 0}
     - target: {fileID: 8228634865165812812, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}

@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3676122640429376199, guid: e46ba34aab52d654787ef10d896b0874,
         type: 3}
+      propertyPath: _assetId
+      value: 4031520894
+      objectReference: {fileID: 0}
+    - target: {fileID: 3676122640429376199, guid: e46ba34aab52d654787ef10d896b0874,
+        type: 3}
       propertyPath: m_AssetId
       value: 074b1758187370b4d85403178d7bb090
       objectReference: {fileID: 0}
@@ -190,6 +195,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ee76ba24a0cd443b1a308dd04cdb3678,
         type: 2}
+    - target: {fileID: 5112302362493013083, guid: e46ba34aab52d654787ef10d896b0874,
+        type: 3}
+      propertyPath: initialDescription
+      value: Highly reinforced container for storing valuable samples.
+      objectReference: {fileID: 0}
     - target: {fileID: 6900997446700812531, guid: e46ba34aab52d654787ef10d896b0874,
         type: 3}
       propertyPath: canClickPickup

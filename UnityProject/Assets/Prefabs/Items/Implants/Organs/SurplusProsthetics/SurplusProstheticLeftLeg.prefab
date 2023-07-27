@@ -13,6 +13,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8954b713b625bee408472347b44c87a3,
         type: 2}
+    - target: {fileID: 2183174480857854407, guid: eb43f0bbcf0aa6d45b1475262374be13,
+        type: 3}
+      propertyPath: initialDescription
+      value: A skeletal, robotic limb. Outdated and fragile, but it's still better
+        than nothing.
+      objectReference: {fileID: 0}
     - target: {fileID: 3644538113297378946, guid: eb43f0bbcf0aa6d45b1475262374be13,
         type: 3}
       propertyPath: foreverID
@@ -100,6 +106,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7762671279846711131, guid: eb43f0bbcf0aa6d45b1475262374be13,
+        type: 3}
+      propertyPath: _assetId
+      value: 457714914
       objectReference: {fileID: 0}
     - target: {fileID: 7762671279846711131, guid: eb43f0bbcf0aa6d45b1475262374be13,
         type: 3}

@@ -114,5 +114,10 @@ PrefabInstance:
       propertyPath: SpeedMultiplier
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 8724697713964336404, guid: 32fcd56a575fd884ebae6deb79a43656,
+        type: 3}
+      propertyPath: initialDescription
+      value: An omni-technological interface.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 32fcd56a575fd884ebae6deb79a43656, type: 3}

@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: pushPullSound.AssetAddress
       value: null
       objectReference: {fileID: 0}
+    - target: {fileID: 1062209189820909400, guid: aa11b93feb043fe4e84e2f313cc41f6b,
+        type: 3}
+      propertyPath: initialDescription
+      value: used to build an Ai core
+      objectReference: {fileID: 0}
     - target: {fileID: 1235783672300606666, guid: aa11b93feb043fe4e84e2f313cc41f6b,
         type: 3}
       propertyPath: foreverID
@@ -112,6 +117,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: AiCoreFrame
+      objectReference: {fileID: 0}
+    - target: {fileID: 6019724306477015009, guid: aa11b93feb043fe4e84e2f313cc41f6b,
+        type: 3}
+      propertyPath: _assetId
+      value: 546295549
       objectReference: {fileID: 0}
     - target: {fileID: 6019724306477015009, guid: aa11b93feb043fe4e84e2f313cc41f6b,
         type: 3}

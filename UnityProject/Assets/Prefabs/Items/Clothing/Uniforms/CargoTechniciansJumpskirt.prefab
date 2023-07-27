@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: efbc8c2ff833d4924a01c0a134819dd7,
         type: 3}
+      propertyPath: _assetId
+      value: 2491994193
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: efbc8c2ff833d4924a01c0a134819dd7,
+        type: 3}
       propertyPath: m_AssetId
       value: d0f1a9b75fd9b4c4498f65e576a9d815
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: cargo technician's jumpskirt
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: efbc8c2ff833d4924a01c0a134819dd7,
+        type: 3}
+      propertyPath: initialDescription
+      value: Skiiiiirts! They're comfy and easy to wear!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: efbc8c2ff833d4924a01c0a134819dd7,
         type: 3}
       propertyPath: initialDescription
       value: Skiiiiirts! They're comfy and easy to wear!

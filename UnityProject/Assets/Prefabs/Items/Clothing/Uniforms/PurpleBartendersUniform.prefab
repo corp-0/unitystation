@@ -24,6 +24,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: c842b429251c54792a95e292b838d034,
         type: 3}
+      propertyPath: _assetId
+      value: 3159087103
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: c842b429251c54792a95e292b838d034,
+        type: 3}
       propertyPath: m_AssetId
       value: e91ce8b61d4df214a9ea32f3adc87154
       objectReference: {fileID: 0}
@@ -99,6 +104,11 @@ PrefabInstance:
       value: purple bartender's uniform
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: c842b429251c54792a95e292b838d034,
+        type: 3}
+      propertyPath: initialDescription
+      value: It looks like it has lots of flair!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: c842b429251c54792a95e292b838d034,
         type: 3}
       propertyPath: initialDescription
       value: It looks like it has lots of flair!

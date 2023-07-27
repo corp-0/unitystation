@@ -59,6 +59,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 880922137936671746, guid: 3bc560c485f5ecb4491bce031cde1635,
         type: 3}
+      propertyPath: _assetId
+      value: 1732407063
+      objectReference: {fileID: 0}
+    - target: {fileID: 880922137936671746, guid: 3bc560c485f5ecb4491bce031cde1635,
+        type: 3}
       propertyPath: m_AssetId
       value: d0e6cbda5c639f54ba60b282149842aa
       objectReference: {fileID: 0}
@@ -245,5 +250,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a0a1f742aa32a0949ac1bdd679bdfae7,
         type: 2}
+    - target: {fileID: 8777260576228711070, guid: 3bc560c485f5ecb4491bce031cde1635,
+        type: 3}
+      propertyPath: initialDescription
+      value: An armored hood worn by the followers of Nar'Sie.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bc560c485f5ecb4491bce031cde1635, type: 3}

@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1760473060056327368, guid: f866b44bcdd7d734885f7c49999d85c9,
+        type: 3}
+      propertyPath: initialDescription
+      value: Not necessarily made out of glass
+      objectReference: {fileID: 0}
     - target: {fileID: 3798299677133241229, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: foreverID
@@ -108,6 +113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.AcidProof
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7897283028627769940, guid: f866b44bcdd7d734885f7c49999d85c9,
+        type: 3}
+      propertyPath: _assetId
+      value: 1634717106
       objectReference: {fileID: 0}
     - target: {fileID: 7897283028627769940, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}

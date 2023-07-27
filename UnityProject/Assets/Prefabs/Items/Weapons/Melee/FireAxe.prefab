@@ -232,6 +232,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 383f21e78be4aa34baf621e60ea4cde7,
         type: 2}
+    - target: {fileID: 4612591963539792540, guid: c22c01b8dd3a9e34388453bd0bdf4b0f,
+        type: 3}
+      propertyPath: initialDescription
+      value: Truly, the weapon of a madman. Who would think to fight fire with an
+        axe?
+      objectReference: {fileID: 0}
     - target: {fileID: 7000740777950825011, guid: c22c01b8dd3a9e34388453bd0bdf4b0f,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -270,6 +276,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4e27bac64513a004cace201bca1215a5, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

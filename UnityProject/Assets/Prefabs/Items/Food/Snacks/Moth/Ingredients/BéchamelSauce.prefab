@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: superwhitestuff
       objectReference: {fileID: 0}
+    - target: {fileID: 2357494185782686468, guid: 6027b24496823464eb766a0d38365cb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A classic white sauce common to several European cultures.
+      objectReference: {fileID: 0}
     - target: {fileID: 5043754326014453892, guid: 6027b24496823464eb766a0d38365cb6,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.data[0]
@@ -125,6 +130,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "B\xE9chamelSauce"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6143258994039922072, guid: 6027b24496823464eb766a0d38365cb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 3011618042
       objectReference: {fileID: 0}
     - target: {fileID: 6143258994039922072, guid: 6027b24496823464eb766a0d38365cb6,
         type: 3}

@@ -82,6 +82,12 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4320305569589820406, guid: 6f371050bff8b32438f91c7c680900bb,
+        type: 3}
+      propertyPath: initialDescription
+      value: A red Nanotrasen issued flare. There are instructions on the side, it
+        reads 'pull cord, make light'.
+      objectReference: {fileID: 0}
     - target: {fileID: 5295069687449651132, guid: 6f371050bff8b32438f91c7c680900bb,
         type: 3}
       propertyPath: exportCost
@@ -222,6 +228,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Colour.r
       value: 0.98039216
+      objectReference: {fileID: 0}
+    - target: {fileID: 5334267868750357690, guid: 6f371050bff8b32438f91c7c680900bb,
+        type: 3}
+      propertyPath: colour.a
+      value: 0.65882355
       objectReference: {fileID: 0}
     - target: {fileID: 5334267868750357690, guid: 6f371050bff8b32438f91c7c680900bb,
         type: 3}

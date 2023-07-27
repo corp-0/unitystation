@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 159925220656132687, guid: b027dfa588d69d848a886ae80d5b25c2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A neosilk clip-on tie.
+      objectReference: {fileID: 0}
     - target: {fileID: 2530104291256965856, guid: b027dfa588d69d848a886ae80d5b25c2,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -124,6 +129,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BlueTie
+      objectReference: {fileID: 0}
+    - target: {fileID: 8633003412026072275, guid: b027dfa588d69d848a886ae80d5b25c2,
+        type: 3}
+      propertyPath: _assetId
+      value: 1031349468
       objectReference: {fileID: 0}
     - target: {fileID: 8633003412026072275, guid: b027dfa588d69d848a886ae80d5b25c2,
         type: 3}

@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3c771842cfb2e774d8d51abebbabb3a1,
         type: 2}
+    - target: {fileID: 3383970485036441349, guid: 5de6e973b59ae00458190123080ff88e,
+        type: 3}
+      propertyPath: initialDescription
+      value: The headset of the boss. Protects ears from flashbangs.
+      objectReference: {fileID: 0}
     - target: {fileID: 6369561878578003825, guid: 5de6e973b59ae00458190123080ff88e,
         type: 3}
       propertyPath: m_Sprite
@@ -83,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RadioHeadsetCaptainBowman
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557516773855981977, guid: 5de6e973b59ae00458190123080ff88e,
+        type: 3}
+      propertyPath: _assetId
+      value: 1732388334
       objectReference: {fileID: 0}
     - target: {fileID: 6557516773855981977, guid: 5de6e973b59ae00458190123080ff88e,
         type: 3}

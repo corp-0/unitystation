@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3287703373030784962, guid: 74eecc4e2bdf99744869c324b23a224e,
         type: 3}
+      propertyPath: _assetId
+      value: 4004439855
+      objectReference: {fileID: 0}
+    - target: {fileID: 3287703373030784962, guid: 74eecc4e2bdf99744869c324b23a224e,
+        type: 3}
       propertyPath: m_AssetId
       value: 0c0c6f9c296468a40a06188ddda71e07
       objectReference: {fileID: 0}
@@ -139,6 +144,11 @@ PrefabInstance:
         type: 3}
       propertyPath: plantData.MutatesInToGameObject.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6365549131058073950, guid: 74eecc4e2bdf99744869c324b23a224e,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into coffee robusta bushes.
       objectReference: {fileID: 0}
     - target: {fileID: 8398871014646205979, guid: 74eecc4e2bdf99744869c324b23a224e,
         type: 3}

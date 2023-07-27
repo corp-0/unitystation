@@ -132,6 +132,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
         type: 3}
+      propertyPath: _assetId
+      value: 581093291
+      objectReference: {fileID: 0}
+    - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
       propertyPath: m_AssetId
       value: c867e97b20544c24a88a714b2c8490ed
       objectReference: {fileID: 0}
@@ -212,5 +217,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1cc18908ea480f247bd8ad8675f03445,
         type: 2}
+    - target: {fileID: 7583825043675237299, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
+      propertyPath: initialDescription
+      value: Contains a very large amount of an incredibly powerful stimulant, vastly
+        increasing your movement speed and reducing stuns by a very large amount
+        for around five minutes. Do not take if pregnant.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6445f714f221b6743aa6d70ac4b73c87, type: 3}

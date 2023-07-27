@@ -117,6 +117,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4312873684044972470, guid: 86669a8ef2406e440827ba82318ce65d,
         type: 3}
+      propertyPath: _assetId
+      value: 213039073
+      objectReference: {fileID: 0}
+    - target: {fileID: 4312873684044972470, guid: 86669a8ef2406e440827ba82318ce65d,
+        type: 3}
       propertyPath: m_AssetId
       value: 4cf40ada4740e8949a6bc8f7e1911a5f
       objectReference: {fileID: 0}
@@ -126,6 +131,13 @@ PrefabInstance:
       value: raw mothic margherita pizza
       objectReference: {fileID: 0}
     - target: {fileID: 4369556995692450656, guid: 86669a8ef2406e440827ba82318ce65d,
+        type: 3}
+      propertyPath: initialDescription
+      value: Another human classic adopted by the moths, mothic pizza is characterised
+        by the use of fresh ingredients, particularly fresh mozzarella, and the use
+        of strong flour to produce a glutenous dough.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5633117179864461098, guid: 86669a8ef2406e440827ba82318ce65d,
         type: 3}
       propertyPath: initialDescription
       value: Another human classic adopted by the moths, mothic pizza is characterised

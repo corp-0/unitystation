@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1138281989343728049, guid: cc032f91cda505e44b066c36db32760d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A heavily reinforced case containing cyborg logic boards, with space
+        for a standard power cell.
+      objectReference: {fileID: 0}
     - target: {fileID: 2527589168897478388, guid: cc032f91cda505e44b066c36db32760d,
         type: 3}
       propertyPath: foreverID

@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 9445628fd16314b7388c7086f5fd2f26,
+        type: 3}
+      propertyPath: initialDescription
+      value: An absolutely ancient beret, allegedly worn by the first mime to ever
+        step foot on a NanoTrasen station.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 9445628fd16314b7388c7086f5fd2f26,
         type: 3}
       propertyPath: foreverID
@@ -39,6 +45,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 6b7000562ac5c364dbac31047f02fdd1,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: 9445628fd16314b7388c7086f5fd2f26,
+        type: 3}
+      propertyPath: _assetId
+      value: 963803731
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 9445628fd16314b7388c7086f5fd2f26,
         type: 3}
       propertyPath: m_AssetId

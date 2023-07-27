@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 9542c9504316c3845bbb5f541ec22cfb,
+        type: 3}
+      propertyPath: initialDescription
+      value: A beanie made from durathread, its resilient fibres provide some protection
+        to the wearer.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 9542c9504316c3845bbb5f541ec22cfb,
         type: 3}
       propertyPath: foreverID
@@ -108,6 +114,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Energy
       value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7524605284256423550, guid: 9542c9504316c3845bbb5f541ec22cfb,
+        type: 3}
+      propertyPath: _assetId
+      value: 3115059534
       objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 9542c9504316c3845bbb5f541ec22cfb,
         type: 3}

@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 3vefxee8523cfc342bc863c12a3ac07c
       objectReference: {fileID: 0}
+    - target: {fileID: 3882688689638227017, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+        type: 3}
+      propertyPath: initialDescription
+      value: A small tube attached to the intestines. Probably useless.
+      objectReference: {fileID: 0}
     - target: {fileID: 4617501557389857493, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: _assetId

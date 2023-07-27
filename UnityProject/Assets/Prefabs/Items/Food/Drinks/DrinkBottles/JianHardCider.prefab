@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 5a36280e1aa161941bd0d239f6421a9c
       objectReference: {fileID: 0}
+    - target: {fileID: 2414645551038346883, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: initialDescription
+      value: Apple juice for adults.
+      objectReference: {fileID: 0}
     - target: {fileID: 4956784215611960579, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: maxCapacity
@@ -53,6 +58,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: Apple juice for adults.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: _assetId
+      value: 2657787970
       objectReference: {fileID: 0}
     - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}

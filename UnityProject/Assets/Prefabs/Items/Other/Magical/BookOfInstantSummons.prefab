@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2122345659975885871, guid: f9b48c194efec7840b9dea9662005173,
+        type: 3}
+      propertyPath: initialDescription
+      value: This book is bright and garish, very hard to miss.
+      objectReference: {fileID: 0}
     - target: {fileID: 3579279403042536298, guid: f9b48c194efec7840b9dea9662005173,
         type: 3}
       propertyPath: foreverID
@@ -64,6 +69,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a95337103776654448fc984d860428eb,
         type: 2}
+    - target: {fileID: 7530770484140264115, guid: f9b48c194efec7840b9dea9662005173,
+        type: 3}
+      propertyPath: _assetId
+      value: 2277709076
+      objectReference: {fileID: 0}
     - target: {fileID: 7530770484140264115, guid: f9b48c194efec7840b9dea9662005173,
         type: 3}
       propertyPath: m_AssetId

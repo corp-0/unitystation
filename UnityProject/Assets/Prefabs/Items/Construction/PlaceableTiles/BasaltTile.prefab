@@ -45,6 +45,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 83855008e43a2674d8d6a006ce94326f,
         type: 2}
+    - target: {fileID: 4234637232426304739, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: initialDescription
+      value: Artificially made ashy soil themed on a hostile environment.
+      objectReference: {fileID: 0}
     - target: {fileID: 5209370598559660201, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
       propertyPath: initialName
@@ -137,6 +142,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5706845613525625471, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: _assetId
+      value: 3680415190
       objectReference: {fileID: 0}
     - target: {fileID: 5706845613525625471, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}

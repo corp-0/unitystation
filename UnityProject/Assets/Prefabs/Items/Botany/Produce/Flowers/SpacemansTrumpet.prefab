@@ -18,12 +18,24 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a6474431d6d9d064ca66a1f53df42729,
         type: 2}
+    - target: {fileID: 4576379240240878476, guid: 829c74a1c8ff14d4f8a1261cccfb123b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A vivid flower that smells faintly of freshly cut grass. Touching the
+        flower seems to stain the skin some time after contact, yet most other surfaces
+        seem to be unaffected by this phenomenon.
+      objectReference: {fileID: 0}
     - target: {fileID: 5265250374818051064, guid: 829c74a1c8ff14d4f8a1261cccfb123b,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 76a72c30ced43774a81f25bb26a1d454,
         type: 3}
+    - target: {fileID: 5364962899290668304, guid: 829c74a1c8ff14d4f8a1261cccfb123b,
+        type: 3}
+      propertyPath: _assetId
+      value: 840283572
+      objectReference: {fileID: 0}
     - target: {fileID: 5364962899290668304, guid: 829c74a1c8ff14d4f8a1261cccfb123b,
         type: 3}
       propertyPath: m_AssetId

@@ -28,6 +28,12 @@ PrefabInstance:
       propertyPath: Gases.Array.data[1]
       value: 22.46
       objectReference: {fileID: 0}
+    - target: {fileID: 2768760414067007983, guid: 2b7c686ad40fca54888ac3c8fc35fc39,
+        type: 3}
+      propertyPath: initialDescription
+      value: A compact, lightweight jetpack containing a high amount of compressed
+        oxygen.
+      objectReference: {fileID: 0}
     - target: {fileID: 2842131419967966115, guid: 2b7c686ad40fca54888ac3c8fc35fc39,
         type: 3}
       propertyPath: allClothingData.Array.data[0]

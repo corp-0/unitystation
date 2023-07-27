@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3868047555491211437, guid: 948f966b367c7ed46b88e2fb2475f66c,
         type: 3}
+      propertyPath: _assetId
+      value: 564474654
+      objectReference: {fileID: 0}
+    - target: {fileID: 3868047555491211437, guid: 948f966b367c7ed46b88e2fb2475f66c,
+        type: 3}
       propertyPath: m_AssetId
       value: 6f71171bf10b76d4eb2ba1a5e5fea19d
       objectReference: {fileID: 0}
@@ -88,6 +93,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: a34b722fa1df1134db4536a9f2daad71,
         type: 3}
+    - target: {fileID: 4636646285796312625, guid: 948f966b367c7ed46b88e2fb2475f66c,
+        type: 3}
+      propertyPath: initialDescription
+      value: A white winter coat hood with blue markings. It's warm.
+      objectReference: {fileID: 0}
     - target: {fileID: 7024553761649700510, guid: 948f966b367c7ed46b88e2fb2475f66c,
         type: 3}
       propertyPath: PresentSpriteSet

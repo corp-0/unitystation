@@ -33,6 +33,11 @@ PrefabInstance:
       propertyPath: maxCapacity
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 3882688689638227017, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+        type: 3}
+      propertyPath: initialDescription
+      value: What a bad haircut...
+      objectReference: {fileID: 0}
     - target: {fileID: 4617501557389857493, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: _assetId

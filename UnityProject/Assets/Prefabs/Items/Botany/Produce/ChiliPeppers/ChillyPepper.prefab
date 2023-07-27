@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 5891e1fe8aa31854c932ddf0c72fc012
       objectReference: {fileID: 0}
+    - target: {fileID: 2425449579350024004, guid: c1f6076f8e09d6841a682007c710f04f,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a mutant strain of chili.
+      objectReference: {fileID: 0}
     - target: {fileID: 5612090779203469339, guid: c1f6076f8e09d6841a682007c710f04f,
         type: 3}
       propertyPath: seedPacket
@@ -49,6 +54,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: It's a mutant strain of chili.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079385004744274392, guid: c1f6076f8e09d6841a682007c710f04f,
+        type: 3}
+      propertyPath: _assetId
+      value: 2732095059
       objectReference: {fileID: 0}
     - target: {fileID: 6079385004744274392, guid: c1f6076f8e09d6841a682007c710f04f,
         type: 3}

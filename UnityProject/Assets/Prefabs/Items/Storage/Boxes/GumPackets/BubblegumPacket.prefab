@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: StorageItemName
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 267093757808967282, guid: 3e5919f639f566c4590d07d54ef256dd,
+        type: 3}
+      propertyPath: initialDescription
+      value: The packaging is entirely in japanese, apparently. You can't make out
+        a single word of it.
+      objectReference: {fileID: 0}
     - target: {fileID: 2490630288303511261, guid: 3e5919f639f566c4590d07d54ef256dd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -45,6 +51,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: d79790ad736dfde42a11e4338022059e,
         type: 3}
+    - target: {fileID: 8521467601672753390, guid: 3e5919f639f566c4590d07d54ef256dd,
+        type: 3}
+      propertyPath: _assetId
+      value: 762283728
+      objectReference: {fileID: 0}
     - target: {fileID: 8521467601672753390, guid: 3e5919f639f566c4590d07d54ef256dd,
         type: 3}
       propertyPath: m_AssetId

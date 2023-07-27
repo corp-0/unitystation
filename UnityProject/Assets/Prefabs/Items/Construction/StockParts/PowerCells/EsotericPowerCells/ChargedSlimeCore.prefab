@@ -103,6 +103,11 @@ PrefabInstance:
       propertyPath: SelfChargeWatts
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 6320981287565224354, guid: e95a1fa76d625d348b07406df101d4c0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A yellow slime core infused with plasma, it crackles with power.
+      objectReference: {fileID: 0}
     - target: {fileID: 8546765201934041357, guid: e95a1fa76d625d348b07406df101d4c0,
         type: 3}
       propertyPath: PresentSpriteSet

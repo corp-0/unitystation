@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 376604837940550367, guid: 2d38bd05b126a474fb2bb0bc351220ee,
+        type: 3}
+      propertyPath: initialDescription
+      value: A strange dagger said to be used by sinister groups for "preparing"
+        a corpse before sacrificing it to their dark gods.
+      objectReference: {fileID: 0}
     - target: {fileID: 2602358533926580848, guid: 2d38bd05b126a474fb2bb0bc351220ee,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -17,6 +23,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 749fd6baf64844a48abeaf5e3fc06c6f
+      objectReference: {fileID: 0}
+    - target: {fileID: 8128792697100760131, guid: 2d38bd05b126a474fb2bb0bc351220ee,
+        type: 3}
+      propertyPath: _assetId
+      value: 33054279
       objectReference: {fileID: 0}
     - target: {fileID: 8128792697100760131, guid: 2d38bd05b126a474fb2bb0bc351220ee,
         type: 3}

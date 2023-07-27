@@ -34,6 +34,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 288c535d5c440164088ade7bf7cd8966,
         type: 2}
+    - target: {fileID: 4077325183551366391, guid: c0567681ea7a62b45b1d22bc477d4e36,
+        type: 3}
+      propertyPath: initialDescription
+      value: We evolve past the person we were a minute before. Little by little
+        we advance with each turn. That's how a drill works!
+      objectReference: {fileID: 0}
     - target: {fileID: 5339724841748502717, guid: c0567681ea7a62b45b1d22bc477d4e36,
         type: 3}
       propertyPath: hitDamage
@@ -119,6 +125,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GigaGarGlasses
+      objectReference: {fileID: 0}
+    - target: {fileID: 5576349553471015531, guid: c0567681ea7a62b45b1d22bc477d4e36,
+        type: 3}
+      propertyPath: _assetId
+      value: 2903838486
       objectReference: {fileID: 0}
     - target: {fileID: 5576349553471015531, guid: c0567681ea7a62b45b1d22bc477d4e36,
         type: 3}

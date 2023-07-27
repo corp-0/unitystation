@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1035950258024032602, guid: 41b8ba286ee48d147b5b90a4535e27c8,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used to stimulate burn healing.
+      objectReference: {fileID: 0}
     - target: {fileID: 2501853773697365535, guid: 41b8ba286ee48d147b5b90a4535e27c8,
         type: 3}
       propertyPath: foreverID
@@ -126,6 +131,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8905537019261093830, guid: 41b8ba286ee48d147b5b90a4535e27c8,
+        type: 3}
+      propertyPath: _assetId
+      value: 2227697806
       objectReference: {fileID: 0}
     - target: {fileID: 8905537019261093830, guid: 41b8ba286ee48d147b5b90a4535e27c8,
         type: 3}

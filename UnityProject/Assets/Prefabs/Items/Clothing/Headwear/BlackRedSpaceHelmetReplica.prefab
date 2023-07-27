@@ -97,6 +97,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 3552634246
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: 75cfbc2d4322b55498fdc52311e79e30
       objectReference: {fileID: 0}
@@ -167,5 +172,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d2acbdc07e48c6f40abbfe8f883429ff,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: A plastic replica of a Syndicate agent's space helmet. You'll look just
+        like a real murderous Syndicate agent in this! This is a toy, it is not made
+        for use in space!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

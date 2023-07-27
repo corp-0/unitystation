@@ -39,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 898d79190ff7b1c48a8c3f04fd29fe06,
         type: 2}
+    - target: {fileID: 3207528084556292477, guid: 7620c1f80fbe6f14d9fd21f5db20cb7b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A mask made of soft vinyl and latex, representing the head of a fox.
+      objectReference: {fileID: 0}
     - target: {fileID: 6404652678407139925, guid: 7620c1f80fbe6f14d9fd21f5db20cb7b,
         type: 3}
       propertyPath: m_Name
@@ -98,6 +103,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6446287369552793569, guid: 7620c1f80fbe6f14d9fd21f5db20cb7b,
+        type: 3}
+      propertyPath: _assetId
+      value: 1431290306
       objectReference: {fileID: 0}
     - target: {fileID: 6446287369552793569, guid: 7620c1f80fbe6f14d9fd21f5db20cb7b,
         type: 3}

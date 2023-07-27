@@ -120,6 +120,11 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2419674509534869806, guid: 8f3b5940c1a9ba34c856057c8b910cbe,
+        type: 3}
+      propertyPath: initialDescription
+      value: Filled to the brim with medical junk.
+      objectReference: {fileID: 0}
     - target: {fileID: 2546539404985144378, guid: 8f3b5940c1a9ba34c856057c8b910cbe,
         type: 3}
       propertyPath: m_Size.x
@@ -241,6 +246,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: Filled to the brim with medical junk.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8981175845054980503, guid: 8f3b5940c1a9ba34c856057c8b910cbe,
+        type: 3}
+      propertyPath: _assetId
+      value: 3253848335
       objectReference: {fileID: 0}
     - target: {fileID: 8981175845054980503, guid: 8f3b5940c1a9ba34c856057c8b910cbe,
         type: 3}

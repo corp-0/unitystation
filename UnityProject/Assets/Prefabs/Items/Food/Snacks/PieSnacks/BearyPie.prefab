@@ -123,6 +123,11 @@ PrefabInstance:
       propertyPath: StartingNutrients
       value: 188
       objectReference: {fileID: 0}
+    - target: {fileID: 6839219976228231945, guid: 8777e0247dca5ab41a385d81bc5719ab,
+        type: 3}
+      propertyPath: initialDescription
+      value: No brown bears, this is a good sign.
+      objectReference: {fileID: 0}
     - target: {fileID: 8228634865165812812, guid: 8777e0247dca5ab41a385d81bc5719ab,
         type: 3}
       propertyPath: foreverID

@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1c7a995e702f0bd45b4b524d35c4767e,
         type: 2}
+    - target: {fileID: 3065629022269742338, guid: d57fa00554efcec4abd669e2d6b24edc,
+        type: 3}
+      propertyPath: initialDescription
+      value: A gun magazine.
+      objectReference: {fileID: 0}
     - target: {fileID: 4111275205169505611, guid: d57fa00554efcec4abd669e2d6b24edc,
         type: 3}
       propertyPath: ammoType
@@ -131,6 +136,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6880920390388757406, guid: d57fa00554efcec4abd669e2d6b24edc,
+        type: 3}
+      propertyPath: _assetId
+      value: 3504058115
       objectReference: {fileID: 0}
     - target: {fileID: 6880920390388757406, guid: d57fa00554efcec4abd669e2d6b24edc,
         type: 3}

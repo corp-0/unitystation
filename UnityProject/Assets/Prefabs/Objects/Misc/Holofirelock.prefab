@@ -88,6 +88,12 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3201548135256760192, guid: 6ca88a64b87d2bf4abed2f9f8922d47d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A holographic barrier resembling a firelock. Though it does not prevent
+        solid objects from passing through, gas is kept out.
+      objectReference: {fileID: 0}
     - target: {fileID: 3744166961359211538, guid: 6ca88a64b87d2bf4abed2f9f8922d47d,
         type: 3}
       propertyPath: foreverID
@@ -124,6 +130,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A holographic barrier resembling a firelock. Though it does not prevent
         solid objects from passing through, gas is kept out.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8167785815871424313, guid: 6ca88a64b87d2bf4abed2f9f8922d47d,
+        type: 3}
+      propertyPath: _assetId
+      value: 3949166630
       objectReference: {fileID: 0}
     - target: {fileID: 8167785815871424313, guid: 6ca88a64b87d2bf4abed2f9f8922d47d,
         type: 3}
@@ -184,6 +195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 813ab4b5d9bc9fb488ddec0397a19373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   matrixDebugLogging: 0
@@ -225,6 +237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819809cff2481914d883a6e1fefb4edd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   MethodRotation: 0

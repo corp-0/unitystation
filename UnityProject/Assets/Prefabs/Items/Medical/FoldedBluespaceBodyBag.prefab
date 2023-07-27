@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 604ea0d57a9660b4b8d0dffbdc584f9a
       objectReference: {fileID: 0}
+    - target: {fileID: 2844042535659632550, guid: 802a90962afb0e44cbcc98f23c352222,
+        type: 3}
+      propertyPath: initialDescription
+      value: A folded bluespace body bag designed for the storage and transportation
+        of cadavers.
+      objectReference: {fileID: 0}
     - target: {fileID: 4705436589443679987, guid: 802a90962afb0e44cbcc98f23c352222,
         type: 3}
       propertyPath: prefabVariant
@@ -30,6 +36,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 09af0815d7e175f4fb273f06a55c01ff,
         type: 3}
+    - target: {fileID: 5948881717011863866, guid: 802a90962afb0e44cbcc98f23c352222,
+        type: 3}
+      propertyPath: _assetId
+      value: 1634357799
+      objectReference: {fileID: 0}
     - target: {fileID: 5948881717011863866, guid: 802a90962afb0e44cbcc98f23c352222,
         type: 3}
       propertyPath: m_AssetId

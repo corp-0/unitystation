@@ -91,6 +91,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 3982669799
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: 5dd96f5e685214da19f65b06f2463aa2
       objectReference: {fileID: 0}
@@ -186,5 +191,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 4cdbbdb1ab38e674182d9d551227b401,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: There's only one man who can sniff out the dirty stench of crime, and
+        he's likely wearing this hat.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

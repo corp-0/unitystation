@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 911578004007578095, guid: 5da2eb22d55c9c045bd7c22925c9b948,
+        type: 3}
+      propertyPath: initialDescription
+      value: The standard issue hardsuit of the ERT, this one has blue highlights.
+        Offers superb protection against environmental hazards.
+      objectReference: {fileID: 0}
     - target: {fileID: 2341487905993848490, guid: 5da2eb22d55c9c045bd7c22925c9b948,
         type: 3}
       propertyPath: foreverID
@@ -398,6 +404,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8741538160526706547, guid: 5da2eb22d55c9c045bd7c22925c9b948,
+        type: 3}
+      propertyPath: _assetId
+      value: 2463218178
       objectReference: {fileID: 0}
     - target: {fileID: 8741538160526706547, guid: 5da2eb22d55c9c045bd7c22925c9b948,
         type: 3}

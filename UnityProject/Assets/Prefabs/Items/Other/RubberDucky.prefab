@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 67653447299552786, guid: 4e87468c82c280b418f8bf0d5f3e7882,
         type: 3}
+      propertyPath: _assetId
+      value: 1052823448
+      objectReference: {fileID: 0}
+    - target: {fileID: 67653447299552786, guid: 4e87468c82c280b418f8bf0d5f3e7882,
+        type: 3}
       propertyPath: m_AssetId
       value: 075cfdcf2f568054899e908988835830
       objectReference: {fileID: 0}
@@ -111,6 +116,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 075cfdcf2f568054899e908988835830
+      objectReference: {fileID: 0}
+    - target: {fileID: 8432681935264282766, guid: 4e87468c82c280b418f8bf0d5f3e7882,
+        type: 3}
+      propertyPath: initialDescription
+      value: Rubber ducky you're so fine, you make bathtime lots of fuuun. Rubber
+        ducky I'm awfully fooooond of yooooouuuu~"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e87468c82c280b418f8bf0d5f3e7882, type: 3}

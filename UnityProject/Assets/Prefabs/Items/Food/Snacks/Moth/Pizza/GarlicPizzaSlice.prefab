@@ -24,6 +24,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
+      propertyPath: _assetId
+      value: 2124043436
+      objectReference: {fileID: 0}
+    - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
       propertyPath: m_AssetId
       value: c2330068fd351bd48b440d9c7aed703b
       objectReference: {fileID: 0}
@@ -109,5 +114,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fdb5f576be1baf64285870a0fd9e2960,
         type: 2}
+    - target: {fileID: 7577121754099152834, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: The best combination of oily, garlicky, and crusty known to mothkind.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48bd1ae82f15544478352338b47f67e6, type: 3}

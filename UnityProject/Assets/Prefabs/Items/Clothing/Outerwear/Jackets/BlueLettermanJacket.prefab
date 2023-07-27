@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1972636957058363524, guid: 7f3cee8a5573625449fd37c4bbb83a1d,
         type: 3}
+      propertyPath: _assetId
+      value: 1533888434
+      objectReference: {fileID: 0}
+    - target: {fileID: 1972636957058363524, guid: 7f3cee8a5573625449fd37c4bbb83a1d,
+        type: 3}
       propertyPath: m_AssetId
       value: a6f21b98af30b044e84714e0f2b4cfad
       objectReference: {fileID: 0}
@@ -121,5 +126,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 720142efcc4f1d94dbd205ce9b066fd0,
         type: 2}
+    - target: {fileID: 7968709583606406680, guid: 7f3cee8a5573625449fd37c4bbb83a1d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A blue letterman jacket with a proud Nanotrasen N on the back. The tag
+        says that it was made in Space China.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7f3cee8a5573625449fd37c4bbb83a1d, type: 3}

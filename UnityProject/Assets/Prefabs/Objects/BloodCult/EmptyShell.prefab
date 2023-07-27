@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: bdcc08163ab750f4b8e483d05643cd8c
       objectReference: {fileID: 0}
+    - target: {fileID: 2134408451500655956, guid: bdc0bbe82126ea747b3fc1d25464d588,
+        type: 3}
+      propertyPath: initialDescription
+      value: A wicked machine used by those skilled in magical arts. It is inactive.
+      objectReference: {fileID: 0}
     - target: {fileID: 3846487292726357589, guid: bdc0bbe82126ea747b3fc1d25464d588,
         type: 3}
       propertyPath: m_RootOrder
@@ -82,6 +87,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4659277074312158701, guid: bdc0bbe82126ea747b3fc1d25464d588,
+        type: 3}
+      propertyPath: _assetId
+      value: 2977338703
       objectReference: {fileID: 0}
     - target: {fileID: 4659277074312158701, guid: bdc0bbe82126ea747b3fc1d25464d588,
         type: 3}

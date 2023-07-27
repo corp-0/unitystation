@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 974874576353264851, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A die with twenty sides. The preferred die to throw at the GM.
+      objectReference: {fileID: 0}
     - target: {fileID: 2404714145071242134, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: foreverID
@@ -36,6 +41,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 15bbdc00e27d0474d8083440d3d468cb,
         type: 2}
+    - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: _assetId
+      value: 2820537405
+      objectReference: {fileID: 0}
     - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: m_AssetId

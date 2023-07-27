@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2278709885361838553, guid: c0bdfc0522dc2ef43add0458efd1c87c,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used for sweeping, and flying into the night while cackling. Black cat
+        not included.
+      objectReference: {fileID: 0}
     - target: {fileID: 3695110123352835740, guid: c0bdfc0522dc2ef43add0458efd1c87c,
         type: 3}
       propertyPath: foreverID
@@ -24,6 +30,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 19decb9d9f56a5f4b97cdb0d5dc07dd7,
         type: 3}
+    - target: {fileID: 7667703169655306053, guid: c0bdfc0522dc2ef43add0458efd1c87c,
+        type: 3}
+      propertyPath: _assetId
+      value: 3195423507
+      objectReference: {fileID: 0}
     - target: {fileID: 7667703169655306053, guid: c0bdfc0522dc2ef43add0458efd1c87c,
         type: 3}
       propertyPath: m_AssetId

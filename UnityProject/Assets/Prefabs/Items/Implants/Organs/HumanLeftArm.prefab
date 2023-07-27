@@ -113,6 +113,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 13fa3e7a251a7b54aa67fd153c616ab7,
         type: 2}
+    - target: {fileID: 1424995841945376822, guid: ba9a875c31908af4ab3749cd127a2edb,
+        type: 3}
+      propertyPath: initialDescription
+      value: Did you know that the word 'sinister' stems originally from the Latin
+        'sinestra' (left hand), because the left hand was supposed to be possessed
+        by the devil? This arm appears to be possessed by no one though.
+      objectReference: {fileID: 0}
     - target: {fileID: 2897815147708187720, guid: ba9a875c31908af4ab3749cd127a2edb,
         type: 3}
       propertyPath: Storage.Array.size

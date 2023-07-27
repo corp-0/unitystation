@@ -66,6 +66,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 1a493786bb62915418aa124e562b8bdd
       objectReference: {fileID: 0}
+    - target: {fileID: 3742366849115467082, guid: 82854d05a642eb841b438f039ae33cb5,
+        type: 3}
+      propertyPath: initialDescription
+      value: Nothing says tasty like maggot filled radioactive mutant flesh.
+      objectReference: {fileID: 0}
     - target: {fileID: 4710936765405548800, guid: 82854d05a642eb841b438f039ae33cb5,
         type: 3}
       propertyPath: initialDescription
@@ -77,6 +82,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: c2c866c68e5183145a0d83f08ea26227,
         type: 3}
+    - target: {fileID: 5051124718424327126, guid: 82854d05a642eb841b438f039ae33cb5,
+        type: 3}
+      propertyPath: _assetId
+      value: 411307434
+      objectReference: {fileID: 0}
     - target: {fileID: 5051124718424327126, guid: 82854d05a642eb841b438f039ae33cb5,
         type: 3}
       propertyPath: m_AssetId

@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 162552311794462770, guid: 1d35052f4fc2cad4d8226d1a63e4a1b3,
         type: 3}
+      propertyPath: _assetId
+      value: 3973092783
+      objectReference: {fileID: 0}
+    - target: {fileID: 162552311794462770, guid: 1d35052f4fc2cad4d8226d1a63e4a1b3,
+        type: 3}
       propertyPath: m_AssetId
       value: a2961d363c395164682f88a6c89baab9
       objectReference: {fileID: 0}
@@ -72,6 +77,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6878793829338310795, guid: 1d35052f4fc2cad4d8226d1a63e4a1b3,
+        type: 3}
+      propertyPath: initialDescription
+      value: A crate designed for safe transport of animals. It has an oxygen tank
+        for safe transport in space.
       objectReference: {fileID: 0}
     - target: {fileID: 8429732818373960007, guid: 1d35052f4fc2cad4d8226d1a63e4a1b3,
         type: 3}

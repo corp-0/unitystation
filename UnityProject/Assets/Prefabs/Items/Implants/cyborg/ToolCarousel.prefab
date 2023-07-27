@@ -99,6 +99,12 @@ PrefabInstance:
       value: A device used by cyborgs to switch between multiple tools in a moments
         notice.
       objectReference: {fileID: 0}
+    - target: {fileID: 5538759810865484835, guid: da2b6aaaa6bb94f4f963d5193aa2e1a8,
+        type: 3}
+      propertyPath: initialDescription
+      value: A device used by cyborgs to switch between multiple tools in a moments
+        notice.
+      objectReference: {fileID: 0}
     - target: {fileID: 6919096067490597734, guid: da2b6aaaa6bb94f4f963d5193aa2e1a8,
         type: 3}
       propertyPath: foreverID

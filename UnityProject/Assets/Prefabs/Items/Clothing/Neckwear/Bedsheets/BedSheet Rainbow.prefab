@@ -86,8 +86,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}
+      propertyPath: _assetId
+      value: 698116342
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
       propertyPath: m_AssetId
       value: 59206c4a8fc671349b7dce87e1f64686
+      objectReference: {fileID: 0}
+    - target: {fileID: 4798647905009580971, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A multicolored blanket. It's actually several different sheets cut up
+        and sewn together.
       objectReference: {fileID: 0}
     - target: {fileID: 7186812133261251332, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}

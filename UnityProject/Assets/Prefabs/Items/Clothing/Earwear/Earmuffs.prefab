@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 529016761080007470, guid: a9c4649a88c0143b68f95ac8adfa3067,
+        type: 3}
+      propertyPath: initialDescription
+      value: Protects your hearing from loud noises, and quiet ones as well."
+      objectReference: {fileID: 0}
     - target: {fileID: 2770811797855495041, guid: a9c4649a88c0143b68f95ac8adfa3067,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -45,6 +50,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 87e2949ab439ccd42a5d88494b0c683e,
         type: 3}
+    - target: {fileID: 8260107534447142322, guid: a9c4649a88c0143b68f95ac8adfa3067,
+        type: 3}
+      propertyPath: _assetId
+      value: 3143655207
+      objectReference: {fileID: 0}
     - target: {fileID: 8260107534447142322, guid: a9c4649a88c0143b68f95ac8adfa3067,
         type: 3}
       propertyPath: m_AssetId

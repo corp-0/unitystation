@@ -115,6 +115,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: bcf35b8ccfaa851448a54ef2ace5aeb9,
         type: 2}
+    - target: {fileID: 7893590444240190895, guid: 51c105fae1f0b074abf4c80745d8b129,
+        type: 3}
+      propertyPath: initialDescription
+      value: Holds tools.
+      objectReference: {fileID: 0}
     - target: {fileID: 7968275424856731504, guid: 51c105fae1f0b074abf4c80745d8b129,
         type: 3}
       propertyPath: clothData

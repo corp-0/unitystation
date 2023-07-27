@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 267093757808967282, guid: 3e5919f639f566c4590d07d54ef256dd,
+        type: 3}
+      propertyPath: initialDescription
+      value: This box is shaped on the inside so that only light tubes and bulbs
+        fit.
+      objectReference: {fileID: 0}
     - target: {fileID: 309958516471808564, guid: 3e5919f639f566c4590d07d54ef256dd,
         type: 3}
       propertyPath: m_Sprite
@@ -44,6 +50,11 @@ PrefabInstance:
         type: 3}
       propertyPath: attackVerbs.Array.data[0]
       value: robusted
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521467601672753390, guid: 3e5919f639f566c4590d07d54ef256dd,
+        type: 3}
+      propertyPath: _assetId
+      value: 2166475158
       objectReference: {fileID: 0}
     - target: {fileID: 8521467601672753390, guid: 3e5919f639f566c4590d07d54ef256dd,
         type: 3}

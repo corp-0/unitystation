@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: ba9a875c31908af4ab3749cd127a2edb
       objectReference: {fileID: 0}
+    - target: {fileID: 2366958279243658075, guid: 6a1a4888888e8994187da2ccb8d6f1c2,
+        type: 3}
+      propertyPath: initialDescription
+      value: Over 87% of humans are right handed. That figure is much lower among
+        humans missing their right arm.
+      objectReference: {fileID: 0}
     - target: {fileID: 3959904421835429671, guid: 6a1a4888888e8994187da2ccb8d6f1c2,
         type: 3}
       propertyPath: IsSurface

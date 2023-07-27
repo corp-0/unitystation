@@ -18,10 +18,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 2c9199d80c9301b4a8943b23fec4760d,
         type: 2}
+    - target: {fileID: 4429180043825553720, guid: a3c2eebd1ee083c4f873a4e8475bae26,
+        type: 3}
+      propertyPath: initialDescription
+      value: You can see funny dog on it.
+      objectReference: {fileID: 0}
     - target: {fileID: 5224499036486209444, guid: a3c2eebd1ee083c4f873a4e8475bae26,
         type: 3}
       propertyPath: sceneId
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5224499036486209444, guid: a3c2eebd1ee083c4f873a4e8475bae26,
+        type: 3}
+      propertyPath: _assetId
+      value: 2060947223
       objectReference: {fileID: 0}
     - target: {fileID: 5224499036486209444, guid: a3c2eebd1ee083c4f873a4e8475bae26,
         type: 3}

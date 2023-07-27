@@ -81,6 +81,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 951152395019604039, guid: 2c46f309a45d8714f9c5db5361e854e6,
         type: 3}
+      propertyPath: _assetId
+      value: 1340515303
+      objectReference: {fileID: 0}
+    - target: {fileID: 951152395019604039, guid: 2c46f309a45d8714f9c5db5361e854e6,
+        type: 3}
       propertyPath: m_AssetId
       value: 68285671d20a34c4f9eaa6e365cdacf0
       objectReference: {fileID: 0}
@@ -155,5 +160,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: eb6d57d489fe8f44787aacf27f4ed9eb,
         type: 2}
+    - target: {fileID: 8702522285971406555, guid: 2c46f309a45d8714f9c5db5361e854e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A green and blue envirohelmet designating it's wearer as a botanist.
+        While not specially designed for it, it protects against minor plant-related
+        injuries.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c46f309a45d8714f9c5db5361e854e6, type: 3}

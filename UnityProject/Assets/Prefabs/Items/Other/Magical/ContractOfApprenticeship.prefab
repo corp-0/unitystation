@@ -29,6 +29,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
         type: 3}
+      propertyPath: _assetId
+      value: 932911269
+      objectReference: {fileID: 0}
+    - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
       propertyPath: m_AssetId
       value: 2f8bae18744e3a04589e3ec4ab5c2ae6
       objectReference: {fileID: 0}
@@ -85,6 +90,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 2f8bae18744e3a04589e3ec4ab5c2ae6
       objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: A magic contract previously signed by an apprentice. In exchange for
+        instruction in the magical arts, they are bound to answer your call for aid.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}
 --- !u!1 &6806663897376166138 stripped
@@ -106,6 +117,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   NetTabType: 33
+  requiresAltClick: 0
 --- !u!114 &5015597723611310450
 MonoBehaviour:
   m_ObjectHideFlags: 0

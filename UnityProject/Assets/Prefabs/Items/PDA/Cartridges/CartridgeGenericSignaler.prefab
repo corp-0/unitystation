@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: ab2d6fa59afa1324980e12105229ff21
       objectReference: {fileID: 0}
+    - target: {fileID: 3110531697778437133, guid: cab5c74016637e544bd4eb2e9065d5b3,
+        type: 3}
+      propertyPath: initialDescription
+      value: A data cartridge with an integrated radio signaler module.
+      objectReference: {fileID: 0}
     - target: {fileID: 6459787821170806855, guid: cab5c74016637e544bd4eb2e9065d5b3,
         type: 3}
       propertyPath: initialName
@@ -21,6 +26,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A data cartridge with an integrated radio signaler module.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6835454746677215889, guid: cab5c74016637e544bd4eb2e9065d5b3,
+        type: 3}
+      propertyPath: _assetId
+      value: 2313474709
       objectReference: {fileID: 0}
     - target: {fileID: 6835454746677215889, guid: cab5c74016637e544bd4eb2e9065d5b3,
         type: 3}

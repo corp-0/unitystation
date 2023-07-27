@@ -120,6 +120,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
+      propertyPath: _assetId
+      value: 1064745792
+      objectReference: {fileID: 0}
+    - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
       propertyPath: m_AssetId
       value: 1a6abc720c22574468cb49e878c0119a
       objectReference: {fileID: 0}
@@ -195,6 +200,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c9dedbe5c57b01d44963454ac026ffd0,
         type: 2}
+    - target: {fileID: 5310784437401147974, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A man-portable anti-armor weapon designed to disable mechanical threats
+        at range.
+      objectReference: {fileID: 0}
     - target: {fileID: 5785640420543790341, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
       propertyPath: m_RootOrder

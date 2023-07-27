@@ -39,6 +39,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4072907947418728449, guid: 38ec62991a94ec745b37278535d7f1ec,
         type: 3}
+      propertyPath: _assetId
+      value: 1194080425
+      objectReference: {fileID: 0}
+    - target: {fileID: 4072907947418728449, guid: 38ec62991a94ec745b37278535d7f1ec,
+        type: 3}
       propertyPath: m_AssetId
       value: 2a5909c38892d3c438f0fb59c0494ae7
       objectReference: {fileID: 0}
@@ -144,6 +149,12 @@ PrefabInstance:
       value: head of security's winter hood
       objectReference: {fileID: 0}
     - target: {fileID: 4610647112553720535, guid: 38ec62991a94ec745b37278535d7f1ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A red, armour-padded winter hood, lovingly woven with a Kevlar interleave.
+        Definitely not bulletproof, especially not the part where your face goes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5580907493621175965, guid: 38ec62991a94ec745b37278535d7f1ec,
         type: 3}
       propertyPath: initialDescription
       value: A red, armour-padded winter hood, lovingly woven with a Kevlar interleave.

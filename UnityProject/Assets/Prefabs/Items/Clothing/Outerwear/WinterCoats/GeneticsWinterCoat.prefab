@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1859544094484313525, guid: 06088292fadbbdd40a0d7dce08102a37,
+        type: 3}
+      propertyPath: initialDescription
+      value: A white winter coat with a DNA helix for the zipper tab.
+      objectReference: {fileID: 0}
     - target: {fileID: 3825346111126973168, guid: 06088292fadbbdd40a0d7dce08102a37,
         type: 3}
       propertyPath: foreverID
@@ -39,6 +44,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A white winter coat with a DNA helix for the zipper tab.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7798211974825810729, guid: 06088292fadbbdd40a0d7dce08102a37,
+        type: 3}
+      propertyPath: _assetId
+      value: 2933924379
       objectReference: {fileID: 0}
     - target: {fileID: 7798211974825810729, guid: 06088292fadbbdd40a0d7dce08102a37,
         type: 3}

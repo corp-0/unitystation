@@ -133,8 +133,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4008436389711970763, guid: 3681ff6246315294c9d3613edcd53e21,
         type: 3}
+      propertyPath: _assetId
+      value: 1469555020
+      objectReference: {fileID: 0}
+    - target: {fileID: 4008436389711970763, guid: 3681ff6246315294c9d3613edcd53e21,
+        type: 3}
       propertyPath: m_AssetId
       value: aa05b25ff4ec73946a0a0ad795ed0c59
+      objectReference: {fileID: 0}
+    - target: {fileID: 4780129351638265687, guid: 3681ff6246315294c9d3613edcd53e21,
+        type: 3}
+      propertyPath: initialDescription
+      value: An impressive species of weed that is thought to have evolved from the
+        simple milk thistle. Contains flavolignans that can help repair a damaged
+        liver.
       objectReference: {fileID: 0}
     - target: {fileID: 7166063765997520888, guid: 3681ff6246315294c9d3613edcd53e21,
         type: 3}

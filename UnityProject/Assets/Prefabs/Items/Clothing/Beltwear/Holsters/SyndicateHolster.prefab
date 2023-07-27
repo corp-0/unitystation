@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3539591971176388631, guid: f81f054e54c0164459e94a191cf3ac9e,
         type: 3}
+      propertyPath: _assetId
+      value: 1968169218
+      objectReference: {fileID: 0}
+    - target: {fileID: 3539591971176388631, guid: f81f054e54c0164459e94a191cf3ac9e,
+        type: 3}
       propertyPath: m_AssetId
       value: 234e5bf5fd2610146adf689bbb987ddd
       objectReference: {fileID: 0}
@@ -95,6 +100,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 74bf3e872403e488695c17ecdde194ab,
         type: 2}
+    - target: {fileID: 4965664844642662027, guid: f81f054e54c0164459e94a191cf3ac9e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A two pouched hip holster that uses chameleon technology to disguise
+        itself and any guns in it.
+      objectReference: {fileID: 0}
     - target: {fileID: 7335522165562252836, guid: f81f054e54c0164459e94a191cf3ac9e,
         type: 3}
       propertyPath: PresentSpriteSet

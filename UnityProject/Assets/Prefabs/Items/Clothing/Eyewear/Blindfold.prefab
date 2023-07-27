@@ -35,6 +35,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
+      propertyPath: _assetId
+      value: 15389886
+      objectReference: {fileID: 0}
+    - target: {fileID: 2607336686439034363, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
       propertyPath: m_AssetId
       value: 55f84d3d2305ff64184bb7a99ef1c103
       objectReference: {fileID: 0}
@@ -109,6 +114,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: ffd983795fd4f164084d2cd23c13949f,
         type: 3}
+    - target: {fileID: 5897924544656819047, guid: 28c72054b1f484ed4a6253c4feee3eb4,
+        type: 3}
+      propertyPath: initialDescription
+      value: Covers the eyes, preventing sight.
+      objectReference: {fileID: 0}
     - target: {fileID: 8141721191079898056, guid: 28c72054b1f484ed4a6253c4feee3eb4,
         type: 3}
       propertyPath: PresentSpriteSet

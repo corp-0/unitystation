@@ -74,6 +74,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1970008000386313741, guid: 868598a9acc5f40b0811af946a2c4c27,
         type: 3}
+      propertyPath: _assetId
+      value: 2770423452
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970008000386313741, guid: 868598a9acc5f40b0811af946a2c4c27,
+        type: 3}
       propertyPath: m_AssetId
       value: da93b0f7c392d46ba85123e2516cfa49
       objectReference: {fileID: 0}
@@ -118,5 +123,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7446f571b280c274f98c9d7ebb5407f7,
         type: 2}
+    - target: {fileID: 7971479297182204049, guid: 868598a9acc5f40b0811af946a2c4c27,
+        type: 3}
+      propertyPath: initialDescription
+      value: You wear this on your back and put items into it.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 868598a9acc5f40b0811af946a2c4c27, type: 3}

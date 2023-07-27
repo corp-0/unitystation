@@ -105,6 +105,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &8501034030556885451
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -112,6 +115,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 360985800186930042, guid: a940a8ef1ee65024fb0a322703040d98,
+        type: 3}
+      propertyPath: initialDescription
+      value: One of countless obsolete ballistic rifles that still sees use as a
+        cheap deterrent. Uses 10mm ammo and its bulky frame prevents one-hand firing.
+      objectReference: {fileID: 0}
     - target: {fileID: 2605031095160245205, guid: a940a8ef1ee65024fb0a322703040d98,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -161,6 +170,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d44bafb93cd64e846bcd9623a67fcb4f,
         type: 2}
+    - target: {fileID: 8139349595194068454, guid: a940a8ef1ee65024fb0a322703040d98,
+        type: 3}
+      propertyPath: _assetId
+      value: 654587097
+      objectReference: {fileID: 0}
     - target: {fileID: 8139349595194068454, guid: a940a8ef1ee65024fb0a322703040d98,
         type: 3}
       propertyPath: m_AssetId
@@ -280,12 +294,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: 48a85cb1bc55f854c868e47536157d9c, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

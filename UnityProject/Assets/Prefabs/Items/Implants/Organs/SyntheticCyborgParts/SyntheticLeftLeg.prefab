@@ -183,6 +183,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d3e2b11fd1d41e240a572b58bb3c1258,
         type: 2}
+    - target: {fileID: 5851924012462410778, guid: 2e6f2ff9beb985749940d242877d84f0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A skeletal limb wrapped in pseudomuscles, with a low-conductivity case.
+      objectReference: {fileID: 0}
     - target: {fileID: 8075695979122336949, guid: 2e6f2ff9beb985749940d242877d84f0,
         type: 3}
       propertyPath: PresentSpriteSet

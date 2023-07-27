@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1545460436735093764, guid: 1c2bdc503ea85964dbb86ef10991bef8,
+        type: 3}
+      propertyPath: initialDescription
+      value: Some good down-home country-style, rootin'-tootin', revolver-shootin',
+        dad-gum yeehaw cornbread.
+      objectReference: {fileID: 0}
     - target: {fileID: 3771205322401006763, guid: 1c2bdc503ea85964dbb86ef10991bef8,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -17,6 +23,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: cornybread
+      objectReference: {fileID: 0}
+    - target: {fileID: 6954729823044027032, guid: 1c2bdc503ea85964dbb86ef10991bef8,
+        type: 3}
+      propertyPath: _assetId
+      value: 2222642945
       objectReference: {fileID: 0}
     - target: {fileID: 6954729823044027032, guid: 1c2bdc503ea85964dbb86ef10991bef8,
         type: 3}

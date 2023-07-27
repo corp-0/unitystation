@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1de96767a138676458566e88dcf2201d,
         type: 2}
+    - target: {fileID: 3110531697778437133, guid: cab5c74016637e544bd4eb2e9065d5b3,
+        type: 3}
+      propertyPath: initialDescription
+      value: Perfect for the Quartermaster on the go!
+      objectReference: {fileID: 0}
     - target: {fileID: 6459787821170806855, guid: cab5c74016637e544bd4eb2e9065d5b3,
         type: 3}
       propertyPath: initialName
@@ -34,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3591537884831614685, guid: a1b0f544d6ccf6445a6882a808336e08,
         type: 3}
+    - target: {fileID: 6835454746677215889, guid: cab5c74016637e544bd4eb2e9065d5b3,
+        type: 3}
+      propertyPath: _assetId
+      value: 620099091
+      objectReference: {fileID: 0}
     - target: {fileID: 6835454746677215889, guid: cab5c74016637e544bd4eb2e9065d5b3,
         type: 3}
       propertyPath: m_AssetId

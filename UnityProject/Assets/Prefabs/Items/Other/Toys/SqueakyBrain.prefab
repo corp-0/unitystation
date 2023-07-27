@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: b70bc91a831638147a9b5cec2d764c9e
       objectReference: {fileID: 0}
+    - target: {fileID: 4025837389729834979, guid: b2cc2b1c514be164282a4cdd366643e5,
+        type: 3}
+      propertyPath: initialDescription
+      value: A Mr. Monstrous brand toy made to imitate a human brain in smell and
+        texture.
+      objectReference: {fileID: 0}
     - target: {fileID: 4705654935379183511, guid: b2cc2b1c514be164282a4cdd366643e5,
         type: 3}
       propertyPath: m_Sprite
@@ -28,6 +34,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767086867303369087, guid: b2cc2b1c514be164282a4cdd366643e5,
+        type: 3}
+      propertyPath: _assetId
+      value: 4245661531
       objectReference: {fileID: 0}
     - target: {fileID: 4767086867303369087, guid: b2cc2b1c514be164282a4cdd366643e5,
         type: 3}

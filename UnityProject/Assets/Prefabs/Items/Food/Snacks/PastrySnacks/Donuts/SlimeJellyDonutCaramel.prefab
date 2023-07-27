@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 523158774117994810, guid: 76d59c6190d1ae34897c499233364f53,
+        type: 3}
+      propertyPath: initialDescription
+      value: Goes great with a mug of hot coco.
+      objectReference: {fileID: 0}
     - target: {fileID: 2766957796462901653, guid: 76d59c6190d1ae34897c499233364f53,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -24,6 +29,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: bfbe68f6741b8a2469bfeddadc78d830,
         type: 3}
+    - target: {fileID: 8265266241677541286, guid: 76d59c6190d1ae34897c499233364f53,
+        type: 3}
+      propertyPath: _assetId
+      value: 3136495676
+      objectReference: {fileID: 0}
     - target: {fileID: 8265266241677541286, guid: 76d59c6190d1ae34897c499233364f53,
         type: 3}
       propertyPath: m_AssetId

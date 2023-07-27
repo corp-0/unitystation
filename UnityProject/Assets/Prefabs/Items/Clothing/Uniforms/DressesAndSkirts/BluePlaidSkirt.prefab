@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2337516348987037667, guid: 98c26cfa4a7883f41a779166e8656612,
         type: 3}
+      propertyPath: _assetId
+      value: 1290990425
+      objectReference: {fileID: 0}
+    - target: {fileID: 2337516348987037667, guid: 98c26cfa4a7883f41a779166e8656612,
+        type: 3}
       propertyPath: m_AssetId
       value: 82247edaf3360bc4295fef209c21fde5
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: blue plaid skirt
       objectReference: {fileID: 0}
     - target: {fileID: 2812825140834436405, guid: 98c26cfa4a7883f41a779166e8656612,
+        type: 3}
+      propertyPath: initialDescription
+      value: A preppy blue skirt with a white blouse.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162678307899013503, guid: 98c26cfa4a7883f41a779166e8656612,
         type: 3}
       propertyPath: initialDescription
       value: A preppy blue skirt with a white blouse.

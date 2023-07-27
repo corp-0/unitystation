@@ -107,6 +107,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
         type: 3}
+      propertyPath: _assetId
+      value: 610536648
+      objectReference: {fileID: 0}
+    - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
       propertyPath: m_AssetId
       value: 4afc7e6f92573e64791e9ce389fe60b3
       objectReference: {fileID: 0}
@@ -147,6 +152,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: ticktockberries
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213787336926973796, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
+      propertyPath: initialDescription
+      value: "A branch with t\xF6chta\xFCse berries on it. They're a favourite on
+        the Mothic Fleet, but not in this form."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27208d0fc3f7c3544a8d1a7861253b52, type: 3}

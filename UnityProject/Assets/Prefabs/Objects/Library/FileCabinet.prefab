@@ -17,6 +17,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: zJyaf3Uy!rYaamX$9?Zq
       objectReference: {fileID: 0}
+    - target: {fileID: 1344368169052875666, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: initialDescription
+      value: Stores important docs such as court documents, department budgets and
+        captain's divorce papers.
+      objectReference: {fileID: 0}
     - target: {fileID: 1481169419180323577, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
       propertyPath: m_SortingLayer
@@ -115,6 +121,11 @@ PrefabInstance:
       objectReference: {fileID: 4687198204525923257}
     - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
+      propertyPath: _assetId
+      value: 3012407303
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
       propertyPath: m_AssetId
       value: 1d018e2bf32d8854b9c89cd0b80544f6
       objectReference: {fileID: 0}
@@ -202,11 +213,13 @@ MonoBehaviour:
     type: 2}
   itemStoragePopulator: {fileID: 0}
   forceSpawnContents: 0
+  ManuallySpawnContent: 0
   dropItemsOnDespawn: 1
   UesAddlistPopulater: 0
   Populater:
     SlotContents: []
     DeprecatedContents: []
+  SetSlotItemNotRemovableOnStartUp: 0
   ashPrefab: {fileID: 2957035178188790827, guid: 9ac6968a3f3ed54428662c9aae5a4b32,
     type: 3}
 --- !u!114 &4687198204525923257 stripped

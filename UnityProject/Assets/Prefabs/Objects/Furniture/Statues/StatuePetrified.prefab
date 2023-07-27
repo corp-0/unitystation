@@ -40,6 +40,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1082192405498165259, guid: ba5045d716084034ab5a9b712f8ce559,
         type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1082192405498165259, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1082192405498165259, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1082192405498165259, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
@@ -57,6 +72,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StatuePetrified
+      objectReference: {fileID: 0}
+    - target: {fileID: 2880965380671279882, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: initialDescription
+      value: An incredibly lifelike marble carving.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779779929180665186, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779779929180665186, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779779929180665186, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4062499396821368984, guid: ba5045d716084034ab5a9b712f8ce559,
         type: 3}
@@ -91,6 +126,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8848689545314208691, guid: ba5045d716084034ab5a9b712f8ce559,
         type: 3}
+      propertyPath: _assetId
+      value: 407495977
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848689545314208691, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
       propertyPath: m_AssetId
       value: e47d4a40d93f49b49bc3721acdb5f2af
       objectReference: {fileID: 0}
@@ -114,6 +154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819809cff2481914d883a6e1fefb4edd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   MethodRotation: 0

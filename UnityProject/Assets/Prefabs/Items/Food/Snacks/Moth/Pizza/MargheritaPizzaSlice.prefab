@@ -24,6 +24,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
+      propertyPath: _assetId
+      value: 2968975302
+      objectReference: {fileID: 0}
+    - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
       propertyPath: m_AssetId
       value: b3457c1604bb0c040ab137e9613e80e6
       objectReference: {fileID: 0}
@@ -109,5 +114,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0ff953e5a15b7754c97af0681eb5f02a,
         type: 2}
+    - target: {fileID: 7577121754099152834, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A slice of mothic margherita pizza, the most humble of pizzas.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48bd1ae82f15544478352338b47f67e6, type: 3}

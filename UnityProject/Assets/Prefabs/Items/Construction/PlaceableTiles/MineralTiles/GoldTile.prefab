@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 2274bdc47d194994680846e4849e0c79,
         type: 2}
+    - target: {fileID: 2968664142878122032, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tile made out of gold, the swag seems strong here.
+      objectReference: {fileID: 0}
     - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: waysToPlace.Array.size
@@ -67,6 +72,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 17dca774d42c33a40947cabe0e167337,
         type: 2}
+    - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: _assetId
+      value: 1900251218
+      objectReference: {fileID: 0}
     - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: m_AssetId

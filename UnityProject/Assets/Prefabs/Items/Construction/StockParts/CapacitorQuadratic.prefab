@@ -85,6 +85,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2091216318531866831, guid: 08be734c1a459464f9c78d3b21384339,
         type: 3}
+      propertyPath: _assetId
+      value: 3768330176
+      objectReference: {fileID: 0}
+    - target: {fileID: 2091216318531866831, guid: 08be734c1a459464f9c78d3b21384339,
+        type: 3}
       propertyPath: m_AssetId
       value: f097b1134bc8f2b4db307db7c0edc255
       objectReference: {fileID: 0}
@@ -105,6 +110,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 622d388bbbbc9314d875fa8bfb3596cd,
         type: 2}
+    - target: {fileID: 7562603499281628755, guid: 08be734c1a459464f9c78d3b21384339,
+        type: 3}
+      propertyPath: initialDescription
+      value: A hyper-high capacitor used in the construction of a variety of devices.
+      objectReference: {fileID: 0}
     - target: {fileID: 8440604757838347269, guid: 08be734c1a459464f9c78d3b21384339,
         type: 3}
       propertyPath: Tier

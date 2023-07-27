@@ -40,6 +40,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4189414895862531579, guid: 056e3e6b6f40fd04090b504404da5957,
         type: 3}
+    - target: {fileID: 490540006960216788, guid: 0d452d035c46dad46a96790f0c346d17,
+        type: 3}
+      propertyPath: initialDescription
+      value: A holographic projector that creates holographic barriers that prevent
+        changes in atmosphere conditions.
+      objectReference: {fileID: 0}
     - target: {fileID: 2876156250880381563, guid: 0d452d035c46dad46a96790f0c346d17,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -121,6 +127,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8302388595661083720, guid: 0d452d035c46dad46a96790f0c346d17,
+        type: 3}
+      propertyPath: _assetId
+      value: 981559833
       objectReference: {fileID: 0}
     - target: {fileID: 8302388595661083720, guid: 0d452d035c46dad46a96790f0c346d17,
         type: 3}

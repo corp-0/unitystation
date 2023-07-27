@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 7198241665461443898, guid: 5dce4d3e01518474bb9bb8085b718980,
         type: 3}
+    - target: {fileID: 3238490697732595474, guid: 77894e6657f8aa940a79a759ddf0fe40,
+        type: 3}
+      propertyPath: initialDescription
+      value: Delicious, golden, fatty goodness on a stick.
+      objectReference: {fileID: 0}
     - target: {fileID: 6377207438147416398, guid: 77894e6657f8aa940a79a759ddf0fe40,
         type: 3}
       propertyPath: m_RootOrder
@@ -77,6 +82,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ButterOnAStick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6415329121154052494, guid: 77894e6657f8aa940a79a759ddf0fe40,
+        type: 3}
+      propertyPath: _assetId
+      value: 955843074
       objectReference: {fileID: 0}
     - target: {fileID: 6415329121154052494, guid: 77894e6657f8aa940a79a759ddf0fe40,
         type: 3}

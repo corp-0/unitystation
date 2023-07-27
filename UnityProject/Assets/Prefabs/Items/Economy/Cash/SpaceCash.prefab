@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1821991397738242279, guid: c3138c3e8a46444199668b85070b1a39,
         type: 3}
+      propertyPath: _assetId
+      value: 2057394480
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821991397738242279, guid: c3138c3e8a46444199668b85070b1a39,
+        type: 3}
       propertyPath: m_AssetId
       value: 66c1a2c68cdf38f4a9cd469080bad2b4
       objectReference: {fileID: 0}
@@ -136,5 +141,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: da05cb032ebfb644bb3b45b31d1b8283,
         type: 2}
+    - target: {fileID: 7836191319777627771, guid: c3138c3e8a46444199668b85070b1a39,
+        type: 3}
+      propertyPath: initialDescription
+      value: A one-credit bill. It's worth one credit in total.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3138c3e8a46444199668b85070b1a39, type: 3}

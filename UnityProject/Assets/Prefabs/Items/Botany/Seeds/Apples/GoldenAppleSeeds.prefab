@@ -18,6 +18,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 75a893cd3b162d247a0d1ecad50feb06,
         type: 2}
+    - target: {fileID: 3386058322005390271, guid: aea6ac6f49bb5e443ac179f2e10caae0,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into golden apple trees. Good thing there are no firebirds
+        in space.
+      objectReference: {fileID: 0}
     - target: {fileID: 5576322218513136174, guid: aea6ac6f49bb5e443ac179f2e10caae0,
         type: 3}
       propertyPath: plantData.PlantName
@@ -105,6 +111,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GoldenAppleSeeds
+      objectReference: {fileID: 0}
+    - target: {fileID: 6560354752356146467, guid: aea6ac6f49bb5e443ac179f2e10caae0,
+        type: 3}
+      propertyPath: _assetId
+      value: 3751601155
       objectReference: {fileID: 0}
     - target: {fileID: 6560354752356146467, guid: aea6ac6f49bb5e443ac179f2e10caae0,
         type: 3}

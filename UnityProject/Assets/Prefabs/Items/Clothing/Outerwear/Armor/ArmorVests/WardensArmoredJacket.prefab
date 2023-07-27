@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 424422003203572256, guid: 259354123db311145a0ccc3922005d0f,
+        type: 3}
+      propertyPath: initialDescription
+      value: A red jacket with silver rank pips and body armor strapped on top.
+      objectReference: {fileID: 0}
     - target: {fileID: 2650173520273386127, guid: 259354123db311145a0ccc3922005d0f,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -58,6 +63,11 @@ PrefabInstance:
         type: 3}
       propertyPath: armoredBodyParts.Array.data[0].armor.StunImmunity
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8076471909809007804, guid: 259354123db311145a0ccc3922005d0f,
+        type: 3}
+      propertyPath: _assetId
+      value: 71597534
       objectReference: {fileID: 0}
     - target: {fileID: 8076471909809007804, guid: 259354123db311145a0ccc3922005d0f,
         type: 3}

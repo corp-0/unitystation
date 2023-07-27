@@ -136,6 +136,11 @@ PrefabInstance:
       propertyPath: relatedRecipes.Array.data[0].ingredientIndex
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6789688758327330809, guid: 792079a5e2a75f94fab3174a3bcd7033,
+        type: 3}
+      propertyPath: initialDescription
+      value: A container designed to hold compressed matter awaiting reconstruction.
+      objectReference: {fileID: 0}
     - target: {fileID: 8278144391334123708, guid: 792079a5e2a75f94fab3174a3bcd7033,
         type: 3}
       propertyPath: foreverID

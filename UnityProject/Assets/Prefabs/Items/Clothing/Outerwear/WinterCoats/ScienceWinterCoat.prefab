@@ -45,12 +45,23 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e2256581409bf6f4fb1ef581d86e84e3,
         type: 2}
+    - target: {fileID: 3414541485199591099, guid: caa7ec1293d63a74aa063307403f0c7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A white winter coat with an outdated atomic model instead of a plastic
+        zipper tab.
+      objectReference: {fileID: 0}
     - target: {fileID: 6481135740484462287, guid: caa7ec1293d63a74aa063307403f0c7e,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: cbbc9def75345b5488645a3eae13941a,
         type: 3}
+    - target: {fileID: 6526945778998519847, guid: caa7ec1293d63a74aa063307403f0c7e,
+        type: 3}
+      propertyPath: _assetId
+      value: 1116431691
+      objectReference: {fileID: 0}
     - target: {fileID: 6526945778998519847, guid: caa7ec1293d63a74aa063307403f0c7e,
         type: 3}
       propertyPath: m_AssetId

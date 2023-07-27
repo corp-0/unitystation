@@ -114,6 +114,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: Dry them out to make some space-smokes.
       objectReference: {fileID: 0}
+    - target: {fileID: 5119650689833977564, guid: fb9217ba5e9d4a84cbc897250c78134d,
+        type: 3}
+      propertyPath: initialDescription
+      value: Dry them out to make some space-smokes.
+      objectReference: {fileID: 0}
     - target: {fileID: 7361186899255815795, guid: fb9217ba5e9d4a84cbc897250c78134d,
         type: 3}
       propertyPath: PresentSpriteSet

@@ -97,6 +97,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
         type: 3}
+      propertyPath: _assetId
+      value: 583315449
+      objectReference: {fileID: 0}
+    - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
       propertyPath: m_AssetId
       value: 1fc6bd1cf076ba14089762709b7574f7
       objectReference: {fileID: 0}
@@ -117,5 +122,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 96fe0bb5ad7c76d4095cdee0c4e1e9a0,
         type: 2}
+    - target: {fileID: 7510198461880636079, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
+      propertyPath: initialDescription
+      value: Smoked by the robust.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2, type: 3}

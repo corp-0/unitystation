@@ -102,6 +102,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
         type: 3}
+      propertyPath: _assetId
+      value: 3224884636
+      objectReference: {fileID: 0}
+    - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
       propertyPath: m_AssetId
       value: a9fa99a5af6e9a147a033ca72de0e554
       objectReference: {fileID: 0}
@@ -122,5 +127,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f3a5dedac30dd2743aa2c4f0c56111a8,
         type: 2}
+    - target: {fileID: 7510198461880636079, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A case of premium cigars. Very expensive.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2, type: 3}

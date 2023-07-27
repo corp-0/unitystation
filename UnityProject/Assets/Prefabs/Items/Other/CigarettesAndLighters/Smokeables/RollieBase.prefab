@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1275951428261943363, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+        type: 3}
+      propertyPath: initialDescription
+      value: A roll of dried plant matter wrapped in thin paper.
+      objectReference: {fileID: 0}
     - target: {fileID: 3499719427789762796, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -71,6 +76,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 60198eec406afb848ac28779c4852b37,
         type: 2}
+    - target: {fileID: 7224806146168436447, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+        type: 3}
+      propertyPath: _assetId
+      value: 2172518420
+      objectReference: {fileID: 0}
     - target: {fileID: 7224806146168436447, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: m_AssetId

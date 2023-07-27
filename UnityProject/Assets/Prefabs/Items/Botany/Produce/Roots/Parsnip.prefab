@@ -187,5 +187,10 @@ PrefabInstance:
       propertyPath: foreverID
       value: b33a479c33469b747be6fe3130c04a01
       objectReference: {fileID: 0}
+    - target: {fileID: 8437259164303947779, guid: fde2e8af4ce865a4ab1b2b3bfb4655c6,
+        type: 3}
+      propertyPath: initialDescription
+      value: Closely related to carrots.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fde2e8af4ce865a4ab1b2b3bfb4655c6, type: 3}

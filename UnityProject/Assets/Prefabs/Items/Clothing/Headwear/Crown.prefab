@@ -135,5 +135,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c06347e122296214eae1ae5e8058c437,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: A crown fit for a king, a petty king maybe.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

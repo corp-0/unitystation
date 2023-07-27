@@ -39,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: dc522a1a0c73ebd47bf2e39d360e0372,
         type: 2}
+    - target: {fileID: 2803524705192454134, guid: f819cf8b4a0534ec59570563e52c8508,
+        type: 3}
+      propertyPath: initialDescription
+      value: These look pretty fancy.
+      objectReference: {fileID: 0}
     - target: {fileID: 5799337935409317762, guid: f819cf8b4a0534ec59570563e52c8508,
         type: 3}
       propertyPath: m_Sprite
@@ -104,6 +109,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5989403931701021034, guid: f819cf8b4a0534ec59570563e52c8508,
+        type: 3}
+      propertyPath: _assetId
+      value: 3727499729
       objectReference: {fileID: 0}
     - target: {fileID: 5989403931701021034, guid: f819cf8b4a0534ec59570563e52c8508,
         type: 3}

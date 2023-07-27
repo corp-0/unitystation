@@ -126,6 +126,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: The pumpkin's toxic sibling.
       objectReference: {fileID: 0}
+    - target: {fileID: 5014701129940196855, guid: d703599b87c99464e83982d5c3d0b3d3,
+        type: 3}
+      propertyPath: initialDescription
+      value: The pumpkin's toxic sibling.
+      objectReference: {fileID: 0}
     - target: {fileID: 7256243812942509400, guid: d703599b87c99464e83982d5c3d0b3d3,
         type: 3}
       propertyPath: PresentSpriteSet

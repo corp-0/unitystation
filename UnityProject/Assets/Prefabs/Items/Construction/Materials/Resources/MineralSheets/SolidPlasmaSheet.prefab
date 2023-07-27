@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 25108e21a69d52c46a538e66eb85db0a
       objectReference: {fileID: 0}
+    - target: {fileID: 2740376300417724159, guid: 8a023982b9ee4fd40b87f69c23492dd6,
+        type: 3}
+      propertyPath: initialDescription
+      value: An incredibly valuable (and unstable) mineral. Do not lick.
+      objectReference: {fileID: 0}
     - target: {fileID: 5590521764569370701, guid: 8a023982b9ee4fd40b87f69c23492dd6,
         type: 3}
       propertyPath: buildList
@@ -94,6 +99,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6048747994970652771, guid: 8a023982b9ee4fd40b87f69c23492dd6,
+        type: 3}
+      propertyPath: _assetId
+      value: 461504061
       objectReference: {fileID: 0}
     - target: {fileID: 6048747994970652771, guid: 8a023982b9ee4fd40b87f69c23492dd6,
         type: 3}

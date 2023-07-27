@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 726046633593260371, guid: 7f29641ac1b06c74a932d09fff95856c,
+        type: 3}
+      propertyPath: initialDescription
+      value: A slice of condensed cake made for filling people up quickly.
+      objectReference: {fileID: 0}
     - target: {fileID: 1984708910383285442, guid: 7f29641ac1b06c74a932d09fff95856c,
         type: 3}
       propertyPath: maxAmount
@@ -108,6 +113,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: PoundCakeSlice
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216003557087045583, guid: 7f29641ac1b06c74a932d09fff95856c,
+        type: 3}
+      propertyPath: _assetId
+      value: 1763991666
       objectReference: {fileID: 0}
     - target: {fileID: 9216003557087045583, guid: 7f29641ac1b06c74a932d09fff95856c,
         type: 3}

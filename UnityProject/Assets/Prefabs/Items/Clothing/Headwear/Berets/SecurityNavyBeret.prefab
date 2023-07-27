@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 3061756049588866409, guid: a4d736b34e26278479563c6bf5f121ce,
         type: 3}
+      propertyPath: _assetId
+      value: 3504941565
+      objectReference: {fileID: 0}
+    - target: {fileID: 3061756049588866409, guid: a4d736b34e26278479563c6bf5f121ce,
+        type: 3}
       propertyPath: m_AssetId
       value: 14669856ddf44564fac40935a5a8e2b4
       objectReference: {fileID: 0}
@@ -116,6 +121,12 @@ PrefabInstance:
       value: security navy beret
       objectReference: {fileID: 0}
     - target: {fileID: 4760672335869358015, guid: a4d736b34e26278479563c6bf5f121ce,
+        type: 3}
+      propertyPath: initialDescription
+      value: A special beret with the security insignia emblazoned on it. For officers
+        with class.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6884657060139295733, guid: a4d736b34e26278479563c6bf5f121ce,
         type: 3}
       propertyPath: initialDescription
       value: A special beret with the security insignia emblazoned on it. For officers

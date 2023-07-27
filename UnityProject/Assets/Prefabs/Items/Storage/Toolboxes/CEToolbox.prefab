@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 182538756404632982, guid: 5e6f53b64c8b43c4285d171f4a9346a3,
+        type: 3}
+      propertyPath: initialDescription
+      value: Awarded only to the extremely robust.
+      objectReference: {fileID: 0}
     - target: {fileID: 2570452983208277305, guid: 5e6f53b64c8b43c4285d171f4a9346a3,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -179,6 +184,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8610389842911851274, guid: 5e6f53b64c8b43c4285d171f4a9346a3,
+        type: 3}
+      propertyPath: _assetId
+      value: 524816200
       objectReference: {fileID: 0}
     - target: {fileID: 8610389842911851274, guid: 5e6f53b64c8b43c4285d171f4a9346a3,
         type: 3}

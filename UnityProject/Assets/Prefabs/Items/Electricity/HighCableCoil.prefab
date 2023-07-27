@@ -23,6 +23,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c389cb78aa8cee94aaa5713ffc645469,
         type: 2}
+    - target: {fileID: 4229282767497494569, guid: c3e6805b264a935428b0de415ea57943,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'A thick coil of insulated high power cable. '
+      objectReference: {fileID: 0}
     - target: {fileID: 5205735185705106531, guid: c3e6805b264a935428b0de415ea57943,
         type: 3}
       propertyPath: initialName

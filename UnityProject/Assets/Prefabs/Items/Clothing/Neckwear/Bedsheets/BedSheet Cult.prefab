@@ -86,8 +86,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}
+      propertyPath: _assetId
+      value: 1931511700
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994276298403714359, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
       propertyPath: m_AssetId
       value: 6ba5f27e3d5a9e84b9cb1029098311af
+      objectReference: {fileID: 0}
+    - target: {fileID: 4798647905009580971, guid: 423cab216aa4e354f8159742cc80d10a,
+        type: 3}
+      propertyPath: initialDescription
+      value: You might dream of Nar'Sie if you sleep with this. It seems rather tattered
+        and glows of an eldritch presence.
       objectReference: {fileID: 0}
     - target: {fileID: 7186812133261251332, guid: 423cab216aa4e354f8159742cc80d10a,
         type: 3}

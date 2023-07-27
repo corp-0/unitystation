@@ -15,6 +15,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 169216062924189193, guid: 75421751b31ee7f49b1adb8b70cd2375,
         type: 3}
+      propertyPath: _assetId
+      value: 512560631
+      objectReference: {fileID: 0}
+    - target: {fileID: 169216062924189193, guid: 75421751b31ee7f49b1adb8b70cd2375,
+        type: 3}
       propertyPath: m_AssetId
       value: 527cf3d35d98eb445b08e5c9e7ab506e
       objectReference: {fileID: 0}
@@ -99,6 +104,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 527cf3d35d98eb445b08e5c9e7ab506e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8624271127910006933, guid: 75421751b31ee7f49b1adb8b70cd2375,
+        type: 3}
+      propertyPath: initialDescription
+      value: An ancient plushie that has grown enlightened to the true nature of
+        reality.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75421751b31ee7f49b1adb8b70cd2375, type: 3}

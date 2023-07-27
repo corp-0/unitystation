@@ -15,6 +15,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 854479238589397880, guid: 2f2954acc32d9d3468c620e34a625966,
         type: 3}
+      propertyPath: _assetId
+      value: 2674636797
+      objectReference: {fileID: 0}
+    - target: {fileID: 854479238589397880, guid: 2f2954acc32d9d3468c620e34a625966,
+        type: 3}
       propertyPath: m_AssetId
       value: 31cce443531f7204ead1caff4bd16923
       objectReference: {fileID: 0}
@@ -298,6 +303,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 31cce443531f7204ead1caff4bd16923
+      objectReference: {fileID: 0}
+    - target: {fileID: 6263480870727295937, guid: 2f2954acc32d9d3468c620e34a625966,
+        type: 3}
+      propertyPath: initialDescription
+      value: A magic vending machine stocked with all your wizardly accoutrements.
       objectReference: {fileID: 0}
     - target: {fileID: 7077253877563091611, guid: 2f2954acc32d9d3468c620e34a625966,
         type: 3}

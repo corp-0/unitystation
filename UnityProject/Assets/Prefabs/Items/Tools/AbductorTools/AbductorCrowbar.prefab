@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: SpeedMultiplier
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 1470287703842544797, guid: f709eab732189d6429ae3fa5beaf3fd3,
+        type: 3}
+      propertyPath: initialDescription
+      value: A hard-light crowbar. It appears to pry by itself, without any effort
+        required.
+      objectReference: {fileID: 0}
     - target: {fileID: 3837935182567797810, guid: f709eab732189d6429ae3fa5beaf3fd3,
         type: 3}
       propertyPath: PresentSpriteSet

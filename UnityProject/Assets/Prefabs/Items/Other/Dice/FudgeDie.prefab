@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 974874576353264851, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A die with six sides but only three results. Is this a plus or a minus?
+        Your mind is drawing a blank...
+      objectReference: {fileID: 0}
     - target: {fileID: 2404714145071242134, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: foreverID
@@ -51,6 +57,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7333958be4678dc4d9effc92b5c699c3,
         type: 2}
+    - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: _assetId
+      value: 3935979669
+      objectReference: {fileID: 0}
     - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: m_AssetId

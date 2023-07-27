@@ -149,6 +149,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4281783023236052696, guid: 650450916815dfb4ba0aa087a3006beb,
         type: 3}
+      propertyPath: _assetId
+      value: 1906711923
+      objectReference: {fileID: 0}
+    - target: {fileID: 4281783023236052696, guid: 650450916815dfb4ba0aa087a3006beb,
+        type: 3}
       propertyPath: m_AssetId
       value: ead7b7ecf45e495409bb1ae8c8e53f3a
       objectReference: {fileID: 0}
@@ -177,6 +182,11 @@ PrefabInstance:
         type: 3}
       propertyPath: relatedRecipes.Array.data[0].ingredientIndex
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5664770769063860292, guid: 650450916815dfb4ba0aa087a3006beb,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into blue-tomato plants.
       objectReference: {fileID: 0}
     - target: {fileID: 7081205100875466497, guid: 650450916815dfb4ba0aa087a3006beb,
         type: 3}

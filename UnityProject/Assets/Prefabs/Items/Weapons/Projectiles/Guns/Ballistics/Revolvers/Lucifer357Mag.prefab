@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 775106844661221496, guid: b17740819c0bf4b44a53be1e477dc4d5,
+        type: 3}
+      propertyPath: initialDescription
+      value: A suspicious revolver. Uses .357 ammo.
+      objectReference: {fileID: 0}
     - target: {fileID: 2745377269052413757, guid: b17740819c0bf4b44a53be1e477dc4d5,
         type: 3}
       propertyPath: foreverID
@@ -172,6 +177,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9166802612737582820, guid: b17740819c0bf4b44a53be1e477dc4d5,
+        type: 3}
+      propertyPath: _assetId
+      value: 1999946989
       objectReference: {fileID: 0}
     - target: {fileID: 9166802612737582820, guid: b17740819c0bf4b44a53be1e477dc4d5,
         type: 3}

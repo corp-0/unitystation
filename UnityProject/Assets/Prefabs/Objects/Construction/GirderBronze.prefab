@@ -73,6 +73,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2479945034856080276, guid: d19f068f30aed4d468cdba7a0e5824a0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A girder made out of sturdy bronze, made to resemble a gear.
+      objectReference: {fileID: 0}
     - target: {fileID: 4463440842342658054, guid: d19f068f30aed4d468cdba7a0e5824a0,
         type: 3}
       propertyPath: foreverID
@@ -93,6 +98,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A girder made out of sturdy bronze, made to resemble a gear.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9177608314343766829, guid: d19f068f30aed4d468cdba7a0e5824a0,
+        type: 3}
+      propertyPath: _assetId
+      value: 1394025065
       objectReference: {fileID: 0}
     - target: {fileID: 9177608314343766829, guid: d19f068f30aed4d468cdba7a0e5824a0,
         type: 3}

@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2208352323188333072, guid: 4663ac7bbb1e2054face4b1d91160105,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bronze medal.
+      objectReference: {fileID: 0}
     - target: {fileID: 3638228150221014357, guid: 4663ac7bbb1e2054face4b1d91160105,
         type: 3}
       propertyPath: foreverID
@@ -83,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7733552772688491660, guid: 4663ac7bbb1e2054face4b1d91160105,
+        type: 3}
+      propertyPath: _assetId
+      value: 344593912
       objectReference: {fileID: 0}
     - target: {fileID: 7733552772688491660, guid: 4663ac7bbb1e2054face4b1d91160105,
         type: 3}

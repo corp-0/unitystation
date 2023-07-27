@@ -115,5 +115,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 3d80681b66a28634aa98c5d923f49045,
         type: 2}
+    - target: {fileID: 9049527719755249139, guid: 05d448fcc59a3ae4188021ab20399844,
+        type: 3}
+      propertyPath: initialDescription
+      value: Blue, glowing, and smells fainly of mushrooms.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05d448fcc59a3ae4188021ab20399844, type: 3}

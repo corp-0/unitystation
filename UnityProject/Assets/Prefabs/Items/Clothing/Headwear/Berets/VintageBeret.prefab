@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 9445628fd16314b7388c7086f5fd2f26,
+        type: 3}
+      propertyPath: initialDescription
+      value: A well-worn beret.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 9445628fd16314b7388c7086f5fd2f26,
         type: 3}
       propertyPath: foreverID
@@ -34,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e0aaba067a27b1c4c8e9bba309b1c5d0,
         type: 2}
+    - target: {fileID: 7524605284256423550, guid: 9445628fd16314b7388c7086f5fd2f26,
+        type: 3}
+      propertyPath: _assetId
+      value: 3179584815
+      objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 9445628fd16314b7388c7086f5fd2f26,
         type: 3}
       propertyPath: m_AssetId

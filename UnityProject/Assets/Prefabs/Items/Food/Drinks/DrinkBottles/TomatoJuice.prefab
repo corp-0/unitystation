@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: a8ef76153e3ab724db4e2b666dca4622
       objectReference: {fileID: 0}
+    - target: {fileID: 2414645551038346883, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: initialDescription
+      value: Well, at least it LOOKS like tomato juice. You can't tell with all that
+        redness.
+      objectReference: {fileID: 0}
     - target: {fileID: 4956784215611960579, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
@@ -130,6 +136,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300006, guid: d85b95fa86f0ddc4f9b9c0ec1cdda80b,
         type: 3}
+    - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: _assetId
+      value: 1537658009
+      objectReference: {fileID: 0}
     - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: m_AssetId

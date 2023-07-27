@@ -105,6 +105,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &8274857781587469554
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -204,6 +207,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3365730268199074847, guid: 3da1d244806a96340a48e959ecc816e4,
         type: 3}
+      propertyPath: _assetId
+      value: 2304670963
+      objectReference: {fileID: 0}
+    - target: {fileID: 3365730268199074847, guid: 3da1d244806a96340a48e959ecc816e4,
+        type: 3}
       propertyPath: m_AssetId
       value: 60e97fd11e26a0c4cb7058adcf6d2be4
       objectReference: {fileID: 0}
@@ -266,6 +274,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6576315529799144067, guid: 3da1d244806a96340a48e959ecc816e4,
+        type: 3}
+      propertyPath: initialDescription
+      value: A toy shotgun with wood furniture and a four-shell capacity underneath.
+        Ages 8 and up.
       objectReference: {fileID: 0}
     - target: {fileID: 8121578692497752265, guid: 3da1d244806a96340a48e959ecc816e4,
         type: 3}

@@ -100,6 +100,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 3cb701e51433c4046bba232ed4f350d1
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A mighty piece of hardware used to send/receive massive amounts of data.
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: variantIndex
@@ -140,6 +145,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 23110c34b10abc6488560e0c3bfdade2,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 130047081
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId

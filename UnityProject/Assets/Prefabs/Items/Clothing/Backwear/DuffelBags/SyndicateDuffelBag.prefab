@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 645237707829823341, guid: cae650b8120e1f04a840374168f5169e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A large duffel bag for holding extra tactical supplies.
+      objectReference: {fileID: 0}
     - target: {fileID: 1581575597566620641, guid: cae650b8120e1f04a840374168f5169e,
         type: 3}
       propertyPath: itemStoragePopulator
@@ -114,6 +119,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SyndicateDuffelBag
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008014816613984753, guid: cae650b8120e1f04a840374168f5169e,
+        type: 3}
+      propertyPath: _assetId
+      value: 1865864164
       objectReference: {fileID: 0}
     - target: {fileID: 9008014816613984753, guid: cae650b8120e1f04a840374168f5169e,
         type: 3}

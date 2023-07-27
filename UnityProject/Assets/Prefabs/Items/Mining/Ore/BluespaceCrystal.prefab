@@ -132,6 +132,12 @@ PrefabInstance:
       propertyPath: relatedRecipes.Array.data[0].ingredientIndex
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5511963231830842426, guid: fdb2f97a13e5b31468c170e6847a8d15,
+        type: 3}
+      propertyPath: initialDescription
+      value: A glowing bluespace crystal, not much is known about how they work.
+        It looks very delicate.
+      objectReference: {fileID: 0}
     - target: {fileID: 6964355983317795711, guid: fdb2f97a13e5b31468c170e6847a8d15,
         type: 3}
       propertyPath: foreverID

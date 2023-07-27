@@ -115,6 +115,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
         type: 3}
+      propertyPath: _assetId
+      value: 1342129673
+      objectReference: {fileID: 0}
+    - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
       propertyPath: m_AssetId
       value: 26863dfd2e15d4c41a10e9ebfb455456
       objectReference: {fileID: 0}
@@ -195,5 +200,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 41c8e5c5344af0143a8a5ecb340ccd11,
         type: 2}
+    - target: {fileID: 7583825043675237299, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
+      propertyPath: initialDescription
+      value: All-purpose snail medicine! Do not use on non-snails!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6445f714f221b6743aa6d70ac4b73c87, type: 3}

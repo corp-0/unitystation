@@ -14,6 +14,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: db6925c2066e4fb49a396bacd6dc7552,
         type: 3}
+      propertyPath: _assetId
+      value: 3180937503
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: db6925c2066e4fb49a396bacd6dc7552,
+        type: 3}
       propertyPath: m_AssetId
       value: b3957fa6983af76409c01b7c8a667385
       objectReference: {fileID: 0}
@@ -89,6 +94,11 @@ PrefabInstance:
       value: jeans
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: db6925c2066e4fb49a396bacd6dc7552,
+        type: 3}
+      propertyPath: initialDescription
+      value: A nondescript pair of tough blue jeans.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: db6925c2066e4fb49a396bacd6dc7552,
         type: 3}
       propertyPath: initialDescription
       value: A nondescript pair of tough blue jeans.

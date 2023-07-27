@@ -86,6 +86,17 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a9bdfe7a2308aaf409338ecbbb604838,
         type: 2}
+    - target: {fileID: 4398359928996400844, guid: 020aa37cdb1748149b33f0786b431160,
+        type: 3}
+      propertyPath: initialDescription
+      value: Reverse-engineered magnetic boots that have a heavy magnetic pull. Property
+        of Gorlex Marauders.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5259255436095103056, guid: 020aa37cdb1748149b33f0786b431160,
+        type: 3}
+      propertyPath: _assetId
+      value: 840876870
+      objectReference: {fileID: 0}
     - target: {fileID: 5259255436095103056, guid: 020aa37cdb1748149b33f0786b431160,
         type: 3}
       propertyPath: m_AssetId

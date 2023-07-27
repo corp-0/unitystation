@@ -17,6 +17,11 @@ PrefabInstance:
       propertyPath: StartingNutrients
       value: 270
       objectReference: {fileID: 0}
+    - target: {fileID: 493527399931038268, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: initialDescription
+      value: This slush is barely a liquid!
+      objectReference: {fileID: 0}
     - target: {fileID: 2881683467392410259, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: PresentSpriteSet

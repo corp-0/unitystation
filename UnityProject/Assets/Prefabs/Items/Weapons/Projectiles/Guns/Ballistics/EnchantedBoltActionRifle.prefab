@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 226836620407225081, guid: 035def552b915ed429f1572133201dcb,
+        type: 3}
+      propertyPath: initialDescription
+      value: Careful not to lose your head.
+      objectReference: {fileID: 0}
     - target: {fileID: 2450369290078622294, guid: 035def552b915ed429f1572133201dcb,
         type: 3}
       propertyPath: SubCatalogue.Array.size
@@ -37,6 +42,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: Careful not to lose your head.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8562292102157112421, guid: 035def552b915ed429f1572133201dcb,
+        type: 3}
+      propertyPath: _assetId
+      value: 2476975924
       objectReference: {fileID: 0}
     - target: {fileID: 8562292102157112421, guid: 035def552b915ed429f1572133201dcb,
         type: 3}

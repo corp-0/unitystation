@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3156860657619003749, guid: 792079a5e2a75f94fab3174a3bcd7033,
         type: 3}
+      propertyPath: _assetId
+      value: 3490240542
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156860657619003749, guid: 792079a5e2a75f94fab3174a3bcd7033,
+        type: 3}
       propertyPath: m_AssetId
       value: a6a04b99723d3ae42958de4193b9920d
       objectReference: {fileID: 0}
@@ -116,6 +121,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fcd7c618ff520e948ba127f6f8275b0e,
         type: 2}
+    - target: {fileID: 6789688758327330809, guid: 792079a5e2a75f94fab3174a3bcd7033,
+        type: 3}
+      propertyPath: initialDescription
+      value: A compact, high resolution scanning module used in the construction
+        of certain devices.
+      objectReference: {fileID: 0}
     - target: {fileID: 8278144391334123708, guid: 792079a5e2a75f94fab3174a3bcd7033,
         type: 3}
       propertyPath: foreverID

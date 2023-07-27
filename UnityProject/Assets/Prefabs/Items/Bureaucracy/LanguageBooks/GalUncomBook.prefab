@@ -18,6 +18,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 47efbe39a7009d9419eb48769a2409c3,
         type: 2}
+    - target: {fileID: 4489323093273851691, guid: 370e44bf0f4127a4194e5d791bca7989,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'The book''s cover reads: \"Galactic Uncommon Manuel for Xenos - Learn
+        common galactic tongues in seconds.\"'
+      objectReference: {fileID: 0}
     - target: {fileID: 5345719914184090627, guid: 370e44bf0f4127a4194e5d791bca7989,
         type: 3}
       propertyPath: m_Name
@@ -77,6 +83,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457230700116875703, guid: 370e44bf0f4127a4194e5d791bca7989,
+        type: 3}
+      propertyPath: _assetId
+      value: 1727245737
       objectReference: {fileID: 0}
     - target: {fileID: 5457230700116875703, guid: 370e44bf0f4127a4194e5d791bca7989,
         type: 3}

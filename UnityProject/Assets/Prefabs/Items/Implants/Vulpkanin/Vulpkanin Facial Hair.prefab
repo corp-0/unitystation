@@ -113,6 +113,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2757649408455041617, guid: 6c6b9b73c0bb8d14c9329b24820e0a9a,
         type: 3}
+      propertyPath: _assetId
+      value: 2797944670
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757649408455041617, guid: 6c6b9b73c0bb8d14c9329b24820e0a9a,
+        type: 3}
       propertyPath: m_AssetId
       value: d3d8589f51b802146a9c91c113aa98b6
       objectReference: {fileID: 0}
@@ -180,6 +185,11 @@ PrefabInstance:
         type: 3}
       propertyPath: maxCapacity
       value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6031338597085236429, guid: 6c6b9b73c0bb8d14c9329b24820e0a9a,
+        type: 3}
+      propertyPath: initialDescription
+      value: Now that's what I call shaving!
       objectReference: {fileID: 0}
     - target: {fileID: 8257078513733723234, guid: 6c6b9b73c0bb8d14c9329b24820e0a9a,
         type: 3}

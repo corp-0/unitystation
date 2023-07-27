@@ -217,6 +217,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lost Soul
       objectReference: {fileID: 0}
+    - target: {fileID: 2880965380671279882, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: initialDescription
+      value: A soul. It belongs to the Abyss now.
+      objectReference: {fileID: 0}
     - target: {fileID: 4062499396821368984, guid: ba5045d716084034ab5a9b712f8ce559,
         type: 3}
       propertyPath: foreverID

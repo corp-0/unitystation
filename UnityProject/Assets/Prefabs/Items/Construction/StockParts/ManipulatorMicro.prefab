@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3156860657619003749, guid: 792079a5e2a75f94fab3174a3bcd7033,
         type: 3}
+      propertyPath: _assetId
+      value: 220049701
+      objectReference: {fileID: 0}
+    - target: {fileID: 3156860657619003749, guid: 792079a5e2a75f94fab3174a3bcd7033,
+        type: 3}
       propertyPath: m_AssetId
       value: 7ba0f8027fae0b747803eabaf13523c7
       objectReference: {fileID: 0}
@@ -115,6 +120,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 915d36e62dc204d43b3448234a65280b,
         type: 2}
+    - target: {fileID: 6789688758327330809, guid: 792079a5e2a75f94fab3174a3bcd7033,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tiny little manipulator used in the construction of certain devices.
+      objectReference: {fileID: 0}
     - target: {fileID: 8278144391334123708, guid: 792079a5e2a75f94fab3174a3bcd7033,
         type: 3}
       propertyPath: foreverID

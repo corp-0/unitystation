@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
+      propertyPath: _assetId
+      value: 258774860
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
       propertyPath: m_AssetId
       value: ac6382b01f942be4d8c4ae28b0ce45a0
       objectReference: {fileID: 0}
@@ -88,6 +93,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: ece059ccd9aff47409e31ac1d230269e,
         type: 3}
+    - target: {fileID: 6350572432933501875, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
+      propertyPath: initialDescription
+      value: A suit designed for the station's plasmaman paramedics.
+      objectReference: {fileID: 0}
     - target: {fileID: 8376256678827195166, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
       propertyPath: clothData

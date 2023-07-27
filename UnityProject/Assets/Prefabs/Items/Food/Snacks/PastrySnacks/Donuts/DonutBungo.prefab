@@ -57,6 +57,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 113582317908489337, guid: 270ed493bf3f6684388bc3ad5696003b,
         type: 3}
+      propertyPath: _assetId
+      value: 3960850761
+      objectReference: {fileID: 0}
+    - target: {fileID: 113582317908489337, guid: 270ed493bf3f6684388bc3ad5696003b,
+        type: 3}
       propertyPath: m_AssetId
       value: dd8adeab0c2e6b245a484c119653f74b
       objectReference: {fileID: 0}
@@ -86,6 +91,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: dd8adeab0c2e6b245a484c119653f74b
+      objectReference: {fileID: 0}
+    - target: {fileID: 8387175290025695973, guid: 270ed493bf3f6684388bc3ad5696003b,
+        type: 3}
+      propertyPath: initialDescription
+      value: Goes great with a mason jar of hippie's delight.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 270ed493bf3f6684388bc3ad5696003b, type: 3}

@@ -104,6 +104,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: 14673e0d9505d4a20ba67712d7358daa,
         type: 3}
+      propertyPath: _assetId
+      value: 436233565
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 14673e0d9505d4a20ba67712d7358daa,
+        type: 3}
       propertyPath: m_AssetId
       value: 43592ac65d77dc04e8f030bb04e26d3e
       objectReference: {fileID: 0}
@@ -179,6 +184,13 @@ PrefabInstance:
       value: research director's vest suitskirt
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 14673e0d9505d4a20ba67712d7358daa,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a suitskirt worn by those with the know-how to achieve the position
+        of "Research Director". Its fabric provides minor protection from biological
+        contaminants.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 14673e0d9505d4a20ba67712d7358daa,
         type: 3}
       propertyPath: initialDescription
       value: It's a suitskirt worn by those with the know-how to achieve the position

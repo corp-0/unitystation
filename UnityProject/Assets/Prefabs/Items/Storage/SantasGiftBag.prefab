@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 637567478918438199, guid: 6fdb43db19eedc84ab031aa637204114,
+        type: 3}
+      propertyPath: initialDescription
+      value: Space Santa uses this to deliver presents to all the nice children in
+        space in Christmas! Wow, it's pretty big!
+      objectReference: {fileID: 0}
     - target: {fileID: 2594400744921285234, guid: 6fdb43db19eedc84ab031aa637204114,
         type: 3}
       propertyPath: foreverID
@@ -122,6 +128,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SantasGiftBag
+      objectReference: {fileID: 0}
+    - target: {fileID: 9020610854443250603, guid: 6fdb43db19eedc84ab031aa637204114,
+        type: 3}
+      propertyPath: _assetId
+      value: 2194301170
       objectReference: {fileID: 0}
     - target: {fileID: 9020610854443250603, guid: 6fdb43db19eedc84ab031aa637204114,
         type: 3}

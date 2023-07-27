@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2448656471470134321, guid: 2d2fc37c5598dcf428d140e8774aad83,
         type: 3}
+      propertyPath: _assetId
+      value: 1597505018
+      objectReference: {fileID: 0}
+    - target: {fileID: 2448656471470134321, guid: 2d2fc37c5598dcf428d140e8774aad83,
+        type: 3}
       propertyPath: m_AssetId
       value: 207a0a073256fcc4a91fef3c02da66bf
       objectReference: {fileID: 0}
@@ -134,6 +139,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5beae98557a654ea6acad86c309950af,
         type: 2}
+    - target: {fileID: 6056741093786614445, guid: 2d2fc37c5598dcf428d140e8774aad83,
+        type: 3}
+      propertyPath: initialDescription
+      value: Do the impossible, see the invisible!
+      objectReference: {fileID: 0}
     - target: {fileID: 8442361138761224706, guid: 2d2fc37c5598dcf428d140e8774aad83,
         type: 3}
       propertyPath: PresentSpriteSet

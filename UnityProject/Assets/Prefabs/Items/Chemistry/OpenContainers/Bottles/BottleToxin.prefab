@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3424172302466455004, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
+      propertyPath: _assetId
+      value: 895901603
+      objectReference: {fileID: 0}
+    - target: {fileID: 3424172302466455004, guid: e29b1fbcef2694d41b261271fecf09dc,
+        type: 3}
       propertyPath: m_AssetId
       value: 959ff707bfdcccf498b0d89ce0a7d5f0
       objectReference: {fileID: 0}
@@ -107,6 +112,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.data[0]
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6517737151716113216, guid: e29b1fbcef2694d41b261271fecf09dc,
+        type: 3}
+      propertyPath: initialDescription
+      value: A small bottle of toxins. Do not drink, it is poisonous.
       objectReference: {fileID: 0}
     - target: {fileID: 8551094262549914629, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}

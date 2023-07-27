@@ -142,6 +142,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 0c894a9b739c8444e994c33d43e20db6
       objectReference: {fileID: 0}
+    - target: {fileID: 8228420322621437928, guid: 454947e247b8d27408f72041e753e7be,
+        type: 3}
+      propertyPath: initialDescription
+      value: I say to-mah-to, you say tom-mae-to... OH GOD IT'S EATING MY LEGS!!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 454947e247b8d27408f72041e753e7be, type: 3}
 --- !u!210 &5421610758123853769 stripped

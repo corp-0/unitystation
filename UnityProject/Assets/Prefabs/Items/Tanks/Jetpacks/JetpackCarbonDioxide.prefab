@@ -38,6 +38,11 @@ PrefabInstance:
       propertyPath: StoredGasMix.GasData.GasesArray.Array.data[0].Moles
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 14087197572857903, guid: 0f8ec2262945efb4bb2ae2aab5329be9,
+        type: 3}
+      propertyPath: StoredGasMix.GasData.GasesArray.Array.data[0].moles
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 1211068856770080705, guid: 0f8ec2262945efb4bb2ae2aab5329be9,
         type: 3}
       propertyPath: foreverID
@@ -49,6 +54,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1a7c29b5737d94740a1090c148a9d227,
         type: 2}
+    - target: {fileID: 4329829718499864708, guid: 0f8ec2262945efb4bb2ae2aab5329be9,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tank of compressed carbon dioxide for use as propulsion in zero-gravity
+        areas. Painted black to indicate that it should not be used as a source for
+        internals.
+      objectReference: {fileID: 0}
     - target: {fileID: 4398748733116209864, guid: 0f8ec2262945efb4bb2ae2aab5329be9,
         type: 3}
       propertyPath: allClothingData.Array.size
@@ -125,6 +137,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: JetpackCarbonDioxide
+      objectReference: {fileID: 0}
+    - target: {fileID: 5323282012667387416, guid: 0f8ec2262945efb4bb2ae2aab5329be9,
+        type: 3}
+      propertyPath: _assetId
+      value: 887920301
       objectReference: {fileID: 0}
     - target: {fileID: 5323282012667387416, guid: 0f8ec2262945efb4bb2ae2aab5329be9,
         type: 3}

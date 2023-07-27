@@ -24,6 +24,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 8b820e5f4d901f543a2800a2dda15d7f
       objectReference: {fileID: 0}
+    - target: {fileID: 2538461622751989417, guid: 211616cbdb7012b4eb5b07baff781d16,
+        type: 3}
+      propertyPath: initialDescription
+      value: A dusty purple winter coat hood.
+      objectReference: {fileID: 0}
     - target: {fileID: 5887752484129272547, guid: 211616cbdb7012b4eb5b07baff781d16,
         type: 3}
       propertyPath: initialName
@@ -44,6 +49,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Melee
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6254603353582542901, guid: 211616cbdb7012b4eb5b07baff781d16,
+        type: 3}
+      propertyPath: _assetId
+      value: 1233898024
       objectReference: {fileID: 0}
     - target: {fileID: 6254603353582542901, guid: 211616cbdb7012b4eb5b07baff781d16,
         type: 3}

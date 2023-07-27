@@ -45,6 +45,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7def9ed12c783b64eac002b6cd66c5ef,
         type: 2}
+    - target: {fileID: 3804024679726463818, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tactical security jumpsuit for officers complete with Nanotrasen belt
+        buckle.
+      objectReference: {fileID: 0}
     - target: {fileID: 4658995992363608162, guid: de234d793cfd842599c9c8726207f217,
         type: 3}
       propertyPath: m_Name
@@ -124,6 +130,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Melee
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: _assetId
+      value: 4224351509
       objectReference: {fileID: 0}
     - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
         type: 3}

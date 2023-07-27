@@ -140,5 +140,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 11eecbeb29e67b7488fa1bb5c748756a,
         type: 2}
+    - target: {fileID: 8777260576228711070, guid: 3bc560c485f5ecb4491bce031cde1635,
+        type: 3}
+      propertyPath: initialDescription
+      value: A cozy winter hood attached to a heavy winter jacket.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3bc560c485f5ecb4491bce031cde1635, type: 3}

@@ -202,6 +202,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
         type: 3}
+      propertyPath: _assetId
+      value: 2368995790
+      objectReference: {fileID: 0}
+    - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
       propertyPath: m_AssetId
       value: 918459372ad0fe34fb1c0569d26e818b
       objectReference: {fileID: 0}
@@ -282,5 +287,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fa135a3eef7b54f47b29cbc9018a122c,
         type: 2}
+    - target: {fileID: 7583825043675237299, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'A medipen for surviving in the harshest of environments, heals and
+        protects from environmental hazards. WARNING: Do not inject more than one
+        pen in quick succession.'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6445f714f221b6743aa6d70ac4b73c87, type: 3}

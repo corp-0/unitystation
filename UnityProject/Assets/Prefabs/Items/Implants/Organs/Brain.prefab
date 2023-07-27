@@ -35,6 +35,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 70f22bab240e3b3468ad4b1509c90e9f,
         type: 2}
+    - target: {fileID: 3882688689638227017, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+        type: 3}
+      propertyPath: initialDescription
+      value: Not so intelligent now, ay?
+      objectReference: {fileID: 0}
     - target: {fileID: 4617501557389857493, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: _assetId
@@ -453,7 +458,6 @@ MonoBehaviour:
   syncMode: 0
   syncInterval: 0.1
   OnBodyID: 0
-  Pickupable: {fileID: 0}
   DrunkReagent: {fileID: 11400000, guid: 68548df5bd53cc24b8d2bbfa735a274d, type: 2}
   MaxDrunkAtPercentage: 0.06
   hasInbuiltSight: 0
@@ -462,6 +466,12 @@ MonoBehaviour:
   hasInbuiltSpeech: 0
   BodyChatModifier: 0
   ReagentCirculatedComponent: {fileID: 0}
+  OnDeath:
+    m_PersistentCalls:
+      m_Calls: []
+  OnRevival:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &8557864071590038898
 MonoBehaviour:
   m_ObjectHideFlags: 0

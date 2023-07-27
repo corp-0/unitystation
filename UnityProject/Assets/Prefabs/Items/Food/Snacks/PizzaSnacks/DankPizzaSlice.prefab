@@ -45,6 +45,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
+      propertyPath: _assetId
+      value: 1568445282
+      objectReference: {fileID: 0}
+    - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
       propertyPath: m_AssetId
       value: 748a567b1de90dc4a818b77c58c08558
       objectReference: {fileID: 0}
@@ -130,6 +135,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fc7e882fb4c864d4ebd2a0d63b98063e,
         type: 2}
+    - target: {fileID: 7577121754099152834, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: So good, man...
+      objectReference: {fileID: 0}
     - target: {fileID: 7823489550948591258, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
       propertyPath: NutritionLevel

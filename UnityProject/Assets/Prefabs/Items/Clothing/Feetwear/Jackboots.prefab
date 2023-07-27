@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
         type: 3}
+      propertyPath: _assetId
+      value: 1019840203
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762207313667118248, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
       propertyPath: m_AssetId
       value: eaeac5365190b4842bedb2b846ff15da
       objectReference: {fileID: 0}
@@ -136,5 +141,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f6857eb6f4d43fd41a1dc157ccdc409c,
         type: 2}
+    - target: {fileID: 7890908865026357812, guid: 502f496beb9034b9b9c97868e845ed7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: Nanotrasen-issue Security combat boots for combat scenarios or combat
+        situations. All combat, all the time.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 502f496beb9034b9b9c97868e845ed7e, type: 3}

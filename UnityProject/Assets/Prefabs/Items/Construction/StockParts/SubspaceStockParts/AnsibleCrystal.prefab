@@ -80,6 +80,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4271034696529489382, guid: aa2175a532ddc614fbd4cebc49ab22fb,
         type: 3}
+      propertyPath: _assetId
+      value: 3270839209
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271034696529489382, guid: aa2175a532ddc614fbd4cebc49ab22fb,
+        type: 3}
       propertyPath: m_AssetId
       value: 2a037b7145cc9dd45ad1d23a4ee4f04f
       objectReference: {fileID: 0}
@@ -105,6 +110,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8274aff2a6efb9c478b4786ae625d9b0,
         type: 2}
+    - target: {fileID: 5671015531778081658, guid: aa2175a532ddc614fbd4cebc49ab22fb,
+        type: 3}
+      propertyPath: initialDescription
+      value: A crystal made from pure glass used to transmit laser databursts to
+        subspace.
+      objectReference: {fileID: 0}
     - target: {fileID: 7091848973800414271, guid: aa2175a532ddc614fbd4cebc49ab22fb,
         type: 3}
       propertyPath: foreverID

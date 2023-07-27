@@ -116,6 +116,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
         type: 3}
+      propertyPath: _assetId
+      value: 148072646
+      objectReference: {fileID: 0}
+    - target: {fileID: 2074353254340257071, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
       propertyPath: m_AssetId
       value: e25c87565855a2340ac8f09bcf7f4bd3
       objectReference: {fileID: 0}
@@ -196,5 +201,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 565a7d31dba98e643b4a5ccb73cf2ad1,
         type: 2}
+    - target: {fileID: 7583825043675237299, guid: 6445f714f221b6743aa6d70ac4b73c87,
+        type: 3}
+      propertyPath: initialDescription
+      value: An autoinjector containing pentetic acid, used to reduce high levels
+        of radiations and moderate toxins.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6445f714f221b6743aa6d70ac4b73c87, type: 3}

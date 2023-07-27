@@ -96,6 +96,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 522590224925556694, guid: 1195572c368c1dd41bb322da8213b5fc,
         type: 3}
+      propertyPath: _assetId
+      value: 3878474570
+      objectReference: {fileID: 0}
+    - target: {fileID: 522590224925556694, guid: 1195572c368c1dd41bb322da8213b5fc,
+        type: 3}
       propertyPath: m_AssetId
       value: 868d30ccaf18a9244b4a6a87d506ef4f
       objectReference: {fileID: 0}
@@ -109,6 +114,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 868d30ccaf18a9244b4a6a87d506ef4f
+      objectReference: {fileID: 0}
+    - target: {fileID: 8265830396124352842, guid: 1195572c368c1dd41bb322da8213b5fc,
+        type: 3}
+      propertyPath: initialDescription
+      value: They shine like exceptionally low quality amethyst.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1195572c368c1dd41bb322da8213b5fc, type: 3}

@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3731140592673150941, guid: 7c4d6f08fc4da3b4dbd86d2f111812ea,
         type: 3}
+      propertyPath: _assetId
+      value: 2099374272
+      objectReference: {fileID: 0}
+    - target: {fileID: 3731140592673150941, guid: 7c4d6f08fc4da3b4dbd86d2f111812ea,
+        type: 3}
       propertyPath: m_AssetId
       value: 7c015dc850eb29f43ad09b94d9354fbc
       objectReference: {fileID: 0}
@@ -100,6 +105,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: b6596c1965acf0044b87988f79c09795,
         type: 2}
+    - target: {fileID: 5057842964152973633, guid: 7c4d6f08fc4da3b4dbd86d2f111812ea,
+        type: 3}
+      propertyPath: initialDescription
+      value: A peel from a mimana.
+      objectReference: {fileID: 0}
     - target: {fileID: 6364197921042542203, guid: 7c4d6f08fc4da3b4dbd86d2f111812ea,
         type: 3}
       propertyPath: seedPacket

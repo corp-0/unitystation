@@ -91,6 +91,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 344952287
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: bf72c28c1bbd7da4cb72f28f2526ab59
       objectReference: {fileID: 0}
@@ -131,5 +136,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 11e12f59c76e6514fb2d2684f0e3c184,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: A horrifying mix of beanie and softcap in CentCom green. You'd have
+        to be pretty desperate for power over your peers to agree to wear this.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

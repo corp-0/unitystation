@@ -34,6 +34,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1b44645f72cda054c877f306684b34d8,
         type: 2}
+    - target: {fileID: 3370155159076554943, guid: 70e762212c1501d49bbcd7004162631a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A teal suitskirt and yellow necktie. An authoritative yet tacky ensemble.
+      objectReference: {fileID: 0}
     - target: {fileID: 6365362806135941323, guid: 70e762212c1501d49bbcd7004162631a,
         type: 3}
       propertyPath: m_Sprite
@@ -99,6 +104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571754318879024675, guid: 70e762212c1501d49bbcd7004162631a,
+        type: 3}
+      propertyPath: _assetId
+      value: 747500560
       objectReference: {fileID: 0}
     - target: {fileID: 6571754318879024675, guid: 70e762212c1501d49bbcd7004162631a,
         type: 3}

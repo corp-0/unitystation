@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d81c0c0319568ff4c8179271d39b81da,
         type: 2}
+    - target: {fileID: 3110531697778437133, guid: cab5c74016637e544bd4eb2e9065d5b3,
+        type: 3}
+      propertyPath: initialDescription
+      value: Now with 350% more value!
+      objectReference: {fileID: 0}
     - target: {fileID: 6459787821170806855, guid: cab5c74016637e544bd4eb2e9065d5b3,
         type: 3}
       propertyPath: initialName
@@ -34,6 +39,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4379798700394005095, guid: 19b7d09790083534bbd3a92bb434af35,
         type: 3}
+    - target: {fileID: 6835454746677215889, guid: cab5c74016637e544bd4eb2e9065d5b3,
+        type: 3}
+      propertyPath: _assetId
+      value: 1614225176
+      objectReference: {fileID: 0}
     - target: {fileID: 6835454746677215889, guid: cab5c74016637e544bd4eb2e9065d5b3,
         type: 3}
       propertyPath: m_AssetId

@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4145792851350106790, guid: fdb2f97a13e5b31468c170e6847a8d15,
         type: 3}
+      propertyPath: _assetId
+      value: 233958739
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145792851350106790, guid: fdb2f97a13e5b31468c170e6847a8d15,
+        type: 3}
       propertyPath: m_AssetId
       value: 4ae761154697d344b88f520c69450098
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: slag
       objectReference: {fileID: 0}
     - target: {fileID: 4535546548030824560, guid: fdb2f97a13e5b31468c170e6847a8d15,
+        type: 3}
+      propertyPath: initialDescription
+      value: Completely useless.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5511963231830842426, guid: fdb2f97a13e5b31468c170e6847a8d15,
         type: 3}
       propertyPath: initialDescription
       value: Completely useless.

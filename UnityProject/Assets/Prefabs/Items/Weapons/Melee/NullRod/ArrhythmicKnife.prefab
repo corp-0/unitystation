@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2278709885361838553, guid: d70fb70bc4fe6534a85996e49221bb53,
+        type: 3}
+      propertyPath: initialDescription
+      value: They say fear is the true mind killer, but stabbing them in the head
+        works too. Honour compels you to not sheathe it once drawn.
+      objectReference: {fileID: 0}
     - target: {fileID: 3695110123352835740, guid: d70fb70bc4fe6534a85996e49221bb53,
         type: 3}
       propertyPath: foreverID
@@ -24,6 +30,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: a2240766d561725479cb19d0139aa748,
         type: 3}
+    - target: {fileID: 7667703169655306053, guid: d70fb70bc4fe6534a85996e49221bb53,
+        type: 3}
+      propertyPath: _assetId
+      value: 1521549904
+      objectReference: {fileID: 0}
     - target: {fileID: 7667703169655306053, guid: d70fb70bc4fe6534a85996e49221bb53,
         type: 3}
       propertyPath: m_AssetId

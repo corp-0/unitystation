@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: dff9b7e8f22ff9b4cb9e2f035702e875,
         type: 3}
+      propertyPath: _assetId
+      value: 3654978749
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: dff9b7e8f22ff9b4cb9e2f035702e875,
+        type: 3}
       propertyPath: m_AssetId
       value: 119a19b7af9f24a4eae413817fdef76d
       objectReference: {fileID: 0}
@@ -84,6 +89,11 @@ PrefabInstance:
       value: executive suit
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: dff9b7e8f22ff9b4cb9e2f035702e875,
+        type: 3}
+      propertyPath: initialDescription
+      value: A formal black suit and red tie, intended for the station's finest.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: dff9b7e8f22ff9b4cb9e2f035702e875,
         type: 3}
       propertyPath: initialDescription
       value: A formal black suit and red tie, intended for the station's finest.

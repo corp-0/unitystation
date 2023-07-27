@@ -106,6 +106,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &2778365020427220700
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -203,6 +206,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: d1ae54e0552aec545941d591e76533c2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4444348791079780341, guid: 5f21a98b0f17cba4d9b572905dbdcbc5,
+        type: 3}
+      propertyPath: initialDescription
+      value: A large, mysterious rock. A pickaxe would be good for clearing this.
       objectReference: {fileID: 0}
     - target: {fileID: 6275691612762716404, guid: 5f21a98b0f17cba4d9b572905dbdcbc5,
         type: 3}

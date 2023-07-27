@@ -99,6 +99,11 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2602668963096875731, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a basic storage unit. Smaller than usual.
+      objectReference: {fileID: 0}
     - target: {fileID: 2800606321036689351, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
         type: 3}
       propertyPath: m_Size.x
@@ -183,6 +188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: pushPullSound.AssetAddress
       value: null
+      objectReference: {fileID: 0}
+    - target: {fileID: 8730627397065656938, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
+        type: 3}
+      propertyPath: _assetId
+      value: 1183334754
       objectReference: {fileID: 0}
     - target: {fileID: 8730627397065656938, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
         type: 3}

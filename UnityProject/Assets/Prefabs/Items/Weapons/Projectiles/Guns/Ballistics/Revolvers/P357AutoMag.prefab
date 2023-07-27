@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4086796152908822152, guid: 538cebc4fa9119344aa630d0f273bced,
         type: 3}
+      propertyPath: _assetId
+      value: 1653860110
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086796152908822152, guid: 538cebc4fa9119344aa630d0f273bced,
+        type: 3}
       propertyPath: m_AssetId
       value: 630e95b6bf6f9e2439487630ee85cfaf
       objectReference: {fileID: 0}
@@ -84,6 +89,12 @@ PrefabInstance:
       value: P357 AutoMag
       objectReference: {fileID: 0}
     - target: {fileID: 4597779802628547678, guid: 538cebc4fa9119344aa630d0f273bced,
+        type: 3}
+      propertyPath: initialDescription
+      value: A retro high-powered autorevolver typically used by officers of the
+        New Russia military. Uses .357 ammo.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5566882947682342932, guid: 538cebc4fa9119344aa630d0f273bced,
         type: 3}
       propertyPath: initialDescription
       value: A retro high-powered autorevolver typically used by officers of the

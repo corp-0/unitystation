@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1225950921186338168, guid: bb2bcbb3619330d41965879e35f7c3ce,
+        type: 3}
+      propertyPath: initialDescription
+      value: The label's written in Cyrillic. All you can make out is the name and
+        a word that looks vaguely like 'Vodka'.
+      objectReference: {fileID: 0}
     - target: {fileID: 3469993313826393559, guid: bb2bcbb3619330d41965879e35f7c3ce,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -41,6 +47,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 32de1f4d04e224f4399721f51621df9d,
         type: 2}
+    - target: {fileID: 7274947440120613860, guid: bb2bcbb3619330d41965879e35f7c3ce,
+        type: 3}
+      propertyPath: _assetId
+      value: 3179351562
+      objectReference: {fileID: 0}
     - target: {fileID: 7274947440120613860, guid: bb2bcbb3619330d41965879e35f7c3ce,
         type: 3}
       propertyPath: m_AssetId

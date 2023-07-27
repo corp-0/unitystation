@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2294360607974276277, guid: 78253771c2047f94c9ae40161a6be7ee,
+        type: 3}
+      propertyPath: initialDescription
+      value: A standard reinforced braincase, with spine-plugged neural socket and
+        sensor gimbals.
+      objectReference: {fileID: 0}
     - target: {fileID: 3679165279116993520, guid: 78253771c2047f94c9ae40161a6be7ee,
         type: 3}
       propertyPath: foreverID

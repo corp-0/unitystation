@@ -18,6 +18,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 27c459a7ce41f9346ae7b0bd8dce559f,
         type: 2}
+    - target: {fileID: 3095605893081422702, guid: 76d27f64a7f31d14cb2df20d85334df2,
+        type: 3}
+      propertyPath: initialDescription
+      value: For the traitor on the go.
+      objectReference: {fileID: 0}
     - target: {fileID: 3404733912697195062, guid: 76d27f64a7f31d14cb2df20d85334df2,
         type: 3}
       propertyPath: NutritionLevel
@@ -155,6 +160,11 @@ PrefabInstance:
         type: 3}
       propertyPath: customNetTransform
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846439903847282162, guid: 76d27f64a7f31d14cb2df20d85334df2,
+        type: 3}
+      propertyPath: _assetId
+      value: 3261709221
       objectReference: {fileID: 0}
     - target: {fileID: 6846439903847282162, guid: 76d27f64a7f31d14cb2df20d85334df2,
         type: 3}

@@ -28,6 +28,11 @@ PrefabInstance:
       propertyPath: StartingNutrients
       value: 350
       objectReference: {fileID: 0}
+    - target: {fileID: 3359839086500358260, guid: e291198bb131d49469d0b57ae983bd32,
+        type: 3}
+      propertyPath: initialDescription
+      value: Just a nice can of ripe peaches swimming in their own juices.
+      objectReference: {fileID: 0}
     - target: {fileID: 5469631057095422964, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
@@ -136,6 +141,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581507416717428456, guid: e291198bb131d49469d0b57ae983bd32,
+        type: 3}
+      propertyPath: _assetId
+      value: 4225939877
       objectReference: {fileID: 0}
     - target: {fileID: 6581507416717428456, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}

@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 6dbabf66e2dac834f9a1c98aa5e0e1da
       objectReference: {fileID: 0}
+    - target: {fileID: 2414645551038346883, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: initialDescription
+      value: Contains 0% real cherries!
+      objectReference: {fileID: 0}
     - target: {fileID: 4956784215611960579, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
@@ -48,6 +53,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: Contains 0% real cherries!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
+        type: 3}
+      propertyPath: _assetId
+      value: 4121304288
       objectReference: {fileID: 0}
     - target: {fileID: 6085549112089319455, guid: f1a38b78ce2ca024a92744e263e5e94a,
         type: 3}

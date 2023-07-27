@@ -25,6 +25,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5515713039983384973, guid: ecd41b6b41a13764ba625359f786f79c,
         type: 3}
+    - target: {fileID: 2143735947355105386, guid: 7fd11f09765590540b2685a0dfa2b8ea,
+        type: 3}
+      propertyPath: initialDescription
+      value: A retro laser gun modified to fire harmless beams red of light. Sound
+        effects included!
+      objectReference: {fileID: 0}
     - target: {fileID: 3537619260171532079, guid: 7fd11f09765590540b2685a0dfa2b8ea,
         type: 3}
       propertyPath: foreverID
@@ -60,6 +66,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a52ed606855d64f48a99f769b7f26219,
         type: 2}
+    - target: {fileID: 7509375819178772214, guid: 7fd11f09765590540b2685a0dfa2b8ea,
+        type: 3}
+      propertyPath: _assetId
+      value: 255152925
+      objectReference: {fileID: 0}
     - target: {fileID: 7509375819178772214, guid: 7fd11f09765590540b2685a0dfa2b8ea,
         type: 3}
       propertyPath: m_AssetId

@@ -334,6 +334,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 019ec0446d92b564db8cb9b1c053b5aa,
         type: 2}
+    - target: {fileID: 7836191319777627771, guid: c3138c3e8a46444199668b85070b1a39,
+        type: 3}
+      propertyPath: initialDescription
+      value: A coil of insulated medium power cable.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c3138c3e8a46444199668b85070b1a39, type: 3}
 --- !u!1 &5680136605834777345 stripped

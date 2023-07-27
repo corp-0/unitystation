@@ -105,6 +105,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 299c594470c34ed45ae416533717f418
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A mighty piece of hardware used to send massive amounts of data quickly.
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -140,6 +145,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ba022bd8f1ea6df4b9b5d411c93567fc,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 749394666
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId

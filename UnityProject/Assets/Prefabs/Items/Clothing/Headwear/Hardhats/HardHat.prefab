@@ -362,6 +362,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a3f3213151fec5b46a8eef9de3f8e4b3,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: A piece of headgear used in dangerous working conditions to protect
+        the head. Comes with a built-in flashlight.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}
 --- !u!114 &4377197623706982477 stripped

@@ -67,6 +67,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StatuePlasmaBase
       objectReference: {fileID: 0}
+    - target: {fileID: 2880965380671279882, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: initialDescription
+      value: This statue is suitably made from plasma.
+      objectReference: {fileID: 0}
     - target: {fileID: 3779779929180665186, guid: ba5045d716084034ab5a9b712f8ce559,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -96,6 +101,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialIntegrity
       value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 8848689545314208691, guid: ba5045d716084034ab5a9b712f8ce559,
+        type: 3}
+      propertyPath: _assetId
+      value: 870358615
       objectReference: {fileID: 0}
     - target: {fileID: 8848689545314208691, guid: ba5045d716084034ab5a9b712f8ce559,
         type: 3}

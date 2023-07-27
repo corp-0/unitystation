@@ -97,6 +97,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
         type: 3}
+      propertyPath: _assetId
+      value: 612537949
+      objectReference: {fileID: 0}
+    - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
       propertyPath: m_AssetId
       value: 09d7b5a48a6f62d4e8fc0ffb7e558eb4
       objectReference: {fileID: 0}
@@ -117,5 +122,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c88f15765340e6d4fa015aaa7bfe82c6,
         type: 2}
+    - target: {fileID: 7510198461880636079, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A label on the packaging reads, "Endorsed by Phineas, Freddy and Franklin."
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2, type: 3}

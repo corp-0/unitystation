@@ -226,10 +226,21 @@ PrefabInstance:
       propertyPath: Colour.a
       value: 0.6862745
       objectReference: {fileID: 0}
+    - target: {fileID: 2932610463863930541, guid: c60440956ff96af4b84ba3e95e41c3e0,
+        type: 3}
+      propertyPath: colour.a
+      value: 0.6862745
+      objectReference: {fileID: 0}
     - target: {fileID: 4417545188675512222, guid: c60440956ff96af4b84ba3e95e41c3e0,
         type: 3}
       propertyPath: Color.a
       value: 0.70980394
+      objectReference: {fileID: 0}
+    - target: {fileID: 6112871777271252847, guid: c60440956ff96af4b84ba3e95e41c3e0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A special helmet designed for work in a hazardous, low pressure environment.
+        Has reinforced plating for wildlife encounters and dual floodlights.
       objectReference: {fileID: 0}
     - target: {fileID: 8160527399506739071, guid: c60440956ff96af4b84ba3e95e41c3e0,
         type: 3}

@@ -52,6 +52,7 @@ MonoBehaviour:
   Material: {fileID: 2100000, guid: b7e7f24fa2e49cb48818dace424b5868, type: 2}
   LightOrigin: {x: 0, y: 0, z: 1}
   Shape: 0
+  GivenID: 0
 --- !u!23 &5588704809863787570
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -205,6 +206,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: d29b970035b2d7e4e93ef13dd092ddb8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8568376034972354767, guid: 0271f252689106348ad30060b7abea96,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bioluminescent plant.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0271f252689106348ad30060b7abea96, type: 3}

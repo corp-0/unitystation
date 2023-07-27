@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2041530944878745007, guid: b0a94fc3923d35042b9bfbd733b953e4,
+        type: 3}
+      propertyPath: initialDescription
+      value: Regal green gloves, with a nice gold trim, a diamond anti-shock coating,
+        and an integrated thermal barrier. Swanky.
+      objectReference: {fileID: 0}
     - target: {fileID: 3479958121192379650, guid: b0a94fc3923d35042b9bfbd733b953e4,
         type: 3}
       propertyPath: clothData
@@ -93,6 +99,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CentComGloves
+      objectReference: {fileID: 0}
+    - target: {fileID: 7611721546397006643, guid: b0a94fc3923d35042b9bfbd733b953e4,
+        type: 3}
+      propertyPath: _assetId
+      value: 2339333384
       objectReference: {fileID: 0}
     - target: {fileID: 7611721546397006643, guid: b0a94fc3923d35042b9bfbd733b953e4,
         type: 3}

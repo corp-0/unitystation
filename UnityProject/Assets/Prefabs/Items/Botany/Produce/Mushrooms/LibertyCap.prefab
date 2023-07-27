@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3153636785586255706, guid: b342216f29275234684ec5c36bab05b1,
         type: 3}
+      propertyPath: _assetId
+      value: 2460110740
+      objectReference: {fileID: 0}
+    - target: {fileID: 3153636785586255706, guid: b342216f29275234684ec5c36bab05b1,
+        type: 3}
       propertyPath: m_AssetId
       value: 49f73420345409443b2b9590db648442
       objectReference: {fileID: 0}
@@ -115,6 +120,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2663326238152022564, guid: ade1755b39122014e834e5d291d2179a,
         type: 3}
+    - target: {fileID: 6788413427558652358, guid: b342216f29275234684ec5c36bab05b1,
+        type: 3}
+      propertyPath: initialDescription
+      value: Liberate yourself!
+      objectReference: {fileID: 0}
     - target: {fileID: 8281411142059591299, guid: b342216f29275234684ec5c36bab05b1,
         type: 3}
       propertyPath: foreverID

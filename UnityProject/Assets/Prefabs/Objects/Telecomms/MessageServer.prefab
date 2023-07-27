@@ -100,6 +100,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 1d4ff16f6504f9f4e84389403c3e718b
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A machine that processes and routes PDA and request console messages.
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: variantIndex
@@ -146,6 +151,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 482b1f1f6e0c96b4083964008b629872,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 792979903
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId

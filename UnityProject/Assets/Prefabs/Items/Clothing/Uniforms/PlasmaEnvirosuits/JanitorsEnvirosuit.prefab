@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
+      propertyPath: _assetId
+      value: 2325114029
+      objectReference: {fileID: 0}
+    - target: {fileID: 3303247399697945903, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
       propertyPath: m_AssetId
       value: 508c2b4510f04a04dbf922dfc3ae3c4f
       objectReference: {fileID: 0}
@@ -88,6 +93,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 88bf52eb8715dfb4d803ae27b4453300,
         type: 3}
+    - target: {fileID: 6350572432933501875, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
+        type: 3}
+      propertyPath: initialDescription
+      value: A grey and purple envirosuit designated for plasmamen janitors.
+      objectReference: {fileID: 0}
     - target: {fileID: 8376256678827195166, guid: 18cfa395284a2ed4a85bb1f7999ac5bf,
         type: 3}
       propertyPath: clothData

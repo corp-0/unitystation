@@ -7,10 +7,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: 9445628fd16314b7388c7086f5fd2f26,
+        type: 3}
+      propertyPath: initialDescription
+      value: A quality beret, infused with the aroma of chain-smoking, wine-swilling
+        Parisians. You feel less inclined to engage military conflict, for some reason.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: 9445628fd16314b7388c7086f5fd2f26,
         type: 3}
       propertyPath: foreverID
       value: 45d275e3799e13e47bb8cea106862a99
+      objectReference: {fileID: 0}
+    - target: {fileID: 7524605284256423550, guid: 9445628fd16314b7388c7086f5fd2f26,
+        type: 3}
+      propertyPath: _assetId
+      value: 1859269120
       objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: 9445628fd16314b7388c7086f5fd2f26,
         type: 3}

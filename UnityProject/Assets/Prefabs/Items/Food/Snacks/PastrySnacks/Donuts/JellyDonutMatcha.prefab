@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 519524008065751446, guid: c97d4bcbe36a3a2448a6ebe3e9ac50e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: Goes great with a cup of tea.
+      objectReference: {fileID: 0}
     - target: {fileID: 2743025340590747961, guid: c97d4bcbe36a3a2448a6ebe3e9ac50e6,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -24,6 +29,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 8dd68f1cdf873e74292b4108ab406b53,
         type: 3}
+    - target: {fileID: 8269459577751402250, guid: c97d4bcbe36a3a2448a6ebe3e9ac50e6,
+        type: 3}
+      propertyPath: _assetId
+      value: 2199780531
+      objectReference: {fileID: 0}
     - target: {fileID: 8269459577751402250, guid: c97d4bcbe36a3a2448a6ebe3e9ac50e6,
         type: 3}
       propertyPath: m_AssetId

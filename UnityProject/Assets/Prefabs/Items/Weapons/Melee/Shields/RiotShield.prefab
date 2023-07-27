@@ -18,6 +18,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0668f4c7f366b7947a3f8642487b1ba6,
         type: 2}
+    - target: {fileID: 4606883307286581235, guid: d8e28939643d5a34095fed9b0898c45b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A shield adept at blocking blunt objects from connecting with the torso
+        of the shield wielder.
+      objectReference: {fileID: 0}
     - target: {fileID: 5295549301877665671, guid: d8e28939643d5a34095fed9b0898c45b,
         type: 3}
       propertyPath: m_Sprite
@@ -33,6 +39,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialIntegrity
       value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 5339107572780065135, guid: d8e28939643d5a34095fed9b0898c45b,
+        type: 3}
+      propertyPath: _assetId
+      value: 354896861
       objectReference: {fileID: 0}
     - target: {fileID: 5339107572780065135, guid: d8e28939643d5a34095fed9b0898c45b,
         type: 3}
@@ -188,12 +199,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: 4e3d74e40a5e3da4f866357f821aa35e, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

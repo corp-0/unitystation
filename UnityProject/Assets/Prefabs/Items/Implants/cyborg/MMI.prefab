@@ -105,6 +105,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: The Warrior's bland acronym, MMI, obscures the true horror of this monstrosity.
       objectReference: {fileID: 0}
+    - target: {fileID: 6213476261879972545, guid: 8f1728f5955b2e549b17eb98ffbd5c3c,
+        type: 3}
+      propertyPath: initialDescription
+      value: The Warrior's bland acronym, MMI, obscures the true horror of this monstrosity.
+      objectReference: {fileID: 0}
     - target: {fileID: 8583338534963260014, guid: 8f1728f5955b2e549b17eb98ffbd5c3c,
         type: 3}
       propertyPath: PresentSpriteSet

@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1776973182312912146, guid: f7b1874a6ebd85a439111098540d72d7,
         type: 3}
+      propertyPath: _assetId
+      value: 3251185822
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776973182312912146, guid: f7b1874a6ebd85a439111098540d72d7,
+        type: 3}
       propertyPath: m_AssetId
       value: 87f3ae414da12c240addea367416f45c
       objectReference: {fileID: 0}
@@ -181,5 +186,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 43c51c769d37e8f44b67828156359569,
         type: 2}
+    - target: {fileID: 7881209500713171854, guid: f7b1874a6ebd85a439111098540d72d7,
+        type: 3}
+      propertyPath: initialDescription
+      value: A trenchcoat enhanced with a special lightweight kevlar. The epitome
+        of tactical plainclothes.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7b1874a6ebd85a439111098540d72d7, type: 3}

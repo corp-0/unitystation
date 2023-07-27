@@ -91,6 +91,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
         type: 3}
+      propertyPath: _assetId
+      value: 2120402122
+      objectReference: {fileID: 0}
+    - target: {fileID: 2293722870276993643, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
       propertyPath: m_AssetId
       value: 5a2c36e5029b04a45a559c20eea57600
       objectReference: {fileID: 0}
@@ -151,5 +156,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 2501614a275f94f4e974f6c9d94a54a6,
         type: 2}
+    - target: {fileID: 7647760008755911927, guid: a7a048f6c330048e9a2358fb6f71d385,
+        type: 3}
+      propertyPath: initialDescription
+      value: A red, black, and gold helmet that strikes fear in all criminals that
+        gaze upon it. YOU ARE THE LAW!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7a048f6c330048e9a2358fb6f71d385, type: 3}

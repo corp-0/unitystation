@@ -95,6 +95,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1669872684171752052, guid: 29de35ce9f3e2ae4daa8de0460cc3009,
         type: 3}
+      propertyPath: _assetId
+      value: 1112115501
+      objectReference: {fileID: 0}
+    - target: {fileID: 1669872684171752052, guid: 29de35ce9f3e2ae4daa8de0460cc3009,
+        type: 3}
       propertyPath: m_AssetId
       value: d9c42e1e7b801ab408872be5bb5b1264
       objectReference: {fileID: 0}
@@ -169,6 +174,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: bc5f5d73200816a4eae7e2d152bd43be,
         type: 2}
+    - target: {fileID: 7123051540586585320, guid: 29de35ce9f3e2ae4daa8de0460cc3009,
+        type: 3}
+      propertyPath: initialDescription
+      value: A robust .44 handgun.
+      objectReference: {fileID: 0}
     - target: {fileID: 8978966730138838452, guid: 29de35ce9f3e2ae4daa8de0460cc3009,
         type: 3}
       propertyPath: m_RootOrder

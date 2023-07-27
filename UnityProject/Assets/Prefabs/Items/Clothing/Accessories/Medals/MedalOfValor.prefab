@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 888f39b13b25c6041a76ffa1655db967
       objectReference: {fileID: 0}
+    - target: {fileID: 4179344045928213577, guid: 00585e1640b90704c80577abf89e78fe,
+        type: 3}
+      propertyPath: initialDescription
+      value: A silver medal awarded for acts of exceptional valor.
+      objectReference: {fileID: 0}
     - target: {fileID: 5228417008115847171, guid: 00585e1640b90704c80577abf89e78fe,
         type: 3}
       propertyPath: initialName
@@ -81,6 +86,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762002493750428373, guid: 00585e1640b90704c80577abf89e78fe,
+        type: 3}
+      propertyPath: _assetId
+      value: 2295146987
       objectReference: {fileID: 0}
     - target: {fileID: 5762002493750428373, guid: 00585e1640b90704c80577abf89e78fe,
         type: 3}

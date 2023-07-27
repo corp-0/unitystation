@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 872465464376951509, guid: dd97c290495c57e47b54b45eb7d49a38,
+        type: 3}
+      propertyPath: initialDescription
+      value: There is a crude drawing which could be either a mushroom, or a deformed
+        moon.
+      objectReference: {fileID: 0}
     - target: {fileID: 2360923261265550736, guid: dd97c290495c57e47b54b45eb7d49a38,
         type: 3}
       propertyPath: foreverID
@@ -77,6 +83,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SuspiciousPillBottleSunshine
+      objectReference: {fileID: 0}
+    - target: {fileID: 8785717269132291145, guid: dd97c290495c57e47b54b45eb7d49a38,
+        type: 3}
+      propertyPath: _assetId
+      value: 3989997455
       objectReference: {fileID: 0}
     - target: {fileID: 8785717269132291145, guid: dd97c290495c57e47b54b45eb7d49a38,
         type: 3}

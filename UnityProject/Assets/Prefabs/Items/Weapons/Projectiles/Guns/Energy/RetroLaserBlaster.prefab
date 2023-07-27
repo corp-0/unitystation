@@ -12,6 +12,13 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2143735947355105386, guid: 7fd11f09765590540b2685a0dfa2b8ea,
+        type: 3}
+      propertyPath: initialDescription
+      value: An ancestor of the basic laser carbine, no longer used by Nanotrasen's
+        private security or military forces. Nevertheless, it is still quite deadly
+        and easy to maintain, making it a favorite amongst pirates and other outlaws.
+      objectReference: {fileID: 0}
     - target: {fileID: 3537619260171532079, guid: 7fd11f09765590540b2685a0dfa2b8ea,
         type: 3}
       propertyPath: foreverID
@@ -35,6 +42,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1a7586f5074524f4f89a51a68864a217,
         type: 2}
+    - target: {fileID: 7509375819178772214, guid: 7fd11f09765590540b2685a0dfa2b8ea,
+        type: 3}
+      propertyPath: _assetId
+      value: 3090512160
+      objectReference: {fileID: 0}
     - target: {fileID: 7509375819178772214, guid: 7fd11f09765590540b2685a0dfa2b8ea,
         type: 3}
       propertyPath: m_AssetId

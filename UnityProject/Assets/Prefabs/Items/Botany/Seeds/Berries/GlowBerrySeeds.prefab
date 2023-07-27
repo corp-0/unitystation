@@ -96,6 +96,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4143863672344848873, guid: 0a1175404af7039419a7794cb4bda0d9,
         type: 3}
+      propertyPath: _assetId
+      value: 1858351708
+      objectReference: {fileID: 0}
+    - target: {fileID: 4143863672344848873, guid: 0a1175404af7039419a7794cb4bda0d9,
+        type: 3}
       propertyPath: m_AssetId
       value: fce8719dcefd31744a60072a76ed5f89
       objectReference: {fileID: 0}
@@ -111,6 +116,11 @@ PrefabInstance:
       value: pack of glow-berry seeds
       objectReference: {fileID: 0}
     - target: {fileID: 4537474627599956799, guid: 0a1175404af7039419a7794cb4bda0d9,
+        type: 3}
+      propertyPath: initialDescription
+      value: These seeds grow into glow-berry bushes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5509956193652279157, guid: 0a1175404af7039419a7794cb4bda0d9,
         type: 3}
       propertyPath: initialDescription
       value: These seeds grow into glow-berry bushes.

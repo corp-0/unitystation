@@ -27,6 +27,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: b69bfc56f39849d4ba9139d2d51bedb6
       objectReference: {fileID: 0}
+    - target: {fileID: 1344368169052875666, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: initialDescription
+      value: Some kind of machine.
+      objectReference: {fileID: 0}
     - target: {fileID: 4116897424394887774, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
       propertyPath: m_SortingOrder

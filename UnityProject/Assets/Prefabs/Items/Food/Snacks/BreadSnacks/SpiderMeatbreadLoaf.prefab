@@ -17,6 +17,11 @@ PrefabInstance:
       propertyPath: StartingNutrients
       value: 1313
       objectReference: {fileID: 0}
+    - target: {fileID: 1545460436735093764, guid: 1c2bdc503ea85964dbb86ef10991bef8,
+        type: 3}
+      propertyPath: initialDescription
+      value: Reassuringly green meatloaf made from spider meat
+      objectReference: {fileID: 0}
     - target: {fileID: 3771205322401006763, guid: 1c2bdc503ea85964dbb86ef10991bef8,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -27,6 +32,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 6578ee11995c16f4ebaf4a703ff82881
+      objectReference: {fileID: 0}
+    - target: {fileID: 6954729823044027032, guid: 1c2bdc503ea85964dbb86ef10991bef8,
+        type: 3}
+      propertyPath: _assetId
+      value: 2196643993
       objectReference: {fileID: 0}
     - target: {fileID: 6954729823044027032, guid: 1c2bdc503ea85964dbb86ef10991bef8,
         type: 3}

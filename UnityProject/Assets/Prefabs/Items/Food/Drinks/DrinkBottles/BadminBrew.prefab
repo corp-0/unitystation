@@ -56,6 +56,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2201164813966147181, guid: 48bc65e3f41a48540af24bc4f96d2279,
         type: 3}
+      propertyPath: _assetId
+      value: 4212036776
+      objectReference: {fileID: 0}
+    - target: {fileID: 2201164813966147181, guid: 48bc65e3f41a48540af24bc4f96d2279,
+        type: 3}
       propertyPath: m_AssetId
       value: e0f9bddfca13db847ad27b471e310887
       objectReference: {fileID: 0}
@@ -150,5 +155,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 664395b52479f624cbe1495a91c1993a,
         type: 2}
+    - target: {fileID: 7744685326476726513, guid: 48bc65e3f41a48540af24bc4f96d2279,
+        type: 3}
+      propertyPath: initialDescription
+      value: ....It's green!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48bc65e3f41a48540af24bc4f96d2279, type: 3}

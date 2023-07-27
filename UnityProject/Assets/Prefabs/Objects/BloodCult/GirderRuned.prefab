@@ -73,6 +73,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2479945034856080276, guid: d19f068f30aed4d468cdba7a0e5824a0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Framework made of a strange and shockingly cold metal. It doesn't seem
+        to have any bolts.
+      objectReference: {fileID: 0}
     - target: {fileID: 3057470263191161537, guid: d19f068f30aed4d468cdba7a0e5824a0,
         type: 3}
       propertyPath: pushPullSound.AssetAddress
@@ -99,6 +105,11 @@ PrefabInstance:
       propertyPath: initialDescription
       value: Framework made of a strange and shockingly cold metal. It doesn't seem
         to have any bolts.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9177608314343766829, guid: d19f068f30aed4d468cdba7a0e5824a0,
+        type: 3}
+      propertyPath: _assetId
+      value: 3416046470
       objectReference: {fileID: 0}
     - target: {fileID: 9177608314343766829, guid: d19f068f30aed4d468cdba7a0e5824a0,
         type: 3}

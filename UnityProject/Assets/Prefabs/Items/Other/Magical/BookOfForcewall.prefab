@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2122345659975885871, guid: f9b48c194efec7840b9dea9662005173,
+        type: 3}
+      propertyPath: initialDescription
+      value: This book has a dedication to mimes everywhere inside the front cover.
+      objectReference: {fileID: 0}
     - target: {fileID: 3579279403042536298, guid: f9b48c194efec7840b9dea9662005173,
         type: 3}
       propertyPath: foreverID
@@ -65,6 +70,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c34bb95571f341e4284fb1bcda8a2011,
         type: 2}
+    - target: {fileID: 7530770484140264115, guid: f9b48c194efec7840b9dea9662005173,
+        type: 3}
+      propertyPath: _assetId
+      value: 3614024951
+      objectReference: {fileID: 0}
     - target: {fileID: 7530770484140264115, guid: f9b48c194efec7840b9dea9662005173,
         type: 3}
       propertyPath: m_AssetId

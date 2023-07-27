@@ -107,6 +107,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 518476428655051449, guid: 9933cfcb816f49441b323811afdba50d,
         type: 3}
+      propertyPath: _assetId
+      value: 2703353490
+      objectReference: {fileID: 0}
+    - target: {fileID: 518476428655051449, guid: 9933cfcb816f49441b323811afdba50d,
+        type: 3}
       propertyPath: m_AssetId
       value: b57b4d5dde16ad548a35aa615340a4d8
       objectReference: {fileID: 0}
@@ -126,6 +131,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: b57b4d5dde16ad548a35aa615340a4d8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270652261630012453, guid: 9933cfcb816f49441b323811afdba50d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A strange red mushroom, its surface is moist and slick. You wonder how
+        many tiny worms have met their fate inside.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9933cfcb816f49441b323811afdba50d, type: 3}

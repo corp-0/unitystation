@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 850891808891042660, guid: bc2878fc1e4346c41bf6bc3b53b91f6a,
+        type: 3}
+      propertyPath: initialDescription
+      value: A machine for all your detective needs, as long as you need clothes.
+      objectReference: {fileID: 0}
     - target: {fileID: 1465115208436918518, guid: bc2878fc1e4346c41bf6bc3b53b91f6a,
         type: 3}
       propertyPath: foreverID
@@ -720,6 +725,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Color.r
       value: 0.8313726
+      objectReference: {fileID: 0}
+    - target: {fileID: 6267070499382879197, guid: bc2878fc1e4346c41bf6bc3b53b91f6a,
+        type: 3}
+      propertyPath: _assetId
+      value: 3398781402
       objectReference: {fileID: 0}
     - target: {fileID: 6267070499382879197, guid: bc2878fc1e4346c41bf6bc3b53b91f6a,
         type: 3}

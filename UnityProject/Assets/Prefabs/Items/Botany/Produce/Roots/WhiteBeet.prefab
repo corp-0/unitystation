@@ -147,6 +147,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 65aa5598a8968404e9ca47e68a8d09b6
       objectReference: {fileID: 0}
+    - target: {fileID: 7213787336926973796, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
+      propertyPath: initialDescription
+      value: You can't beat white-beet.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27208d0fc3f7c3544a8d1a7861253b52, type: 3}
 --- !u!1 &3114969372513860924 stripped

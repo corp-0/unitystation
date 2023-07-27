@@ -45,6 +45,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
+      propertyPath: _assetId
+      value: 1362956358
+      objectReference: {fileID: 0}
+    - target: {fileID: 2076693713923332446, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
       propertyPath: m_AssetId
       value: aa1efdb70671d874b8d13a06383a6d25
       objectReference: {fileID: 0}
@@ -130,6 +135,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 1711d44119d5f45458db911b7afa4672,
         type: 2}
+    - target: {fileID: 7577121754099152834, guid: 48bd1ae82f15544478352338b47f67e6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A slice of the most green pizza of all pizzas not containing green ingredients.
+      objectReference: {fileID: 0}
     - target: {fileID: 7823489550948591258, guid: 48bd1ae82f15544478352338b47f67e6,
         type: 3}
       propertyPath: NutritionLevel

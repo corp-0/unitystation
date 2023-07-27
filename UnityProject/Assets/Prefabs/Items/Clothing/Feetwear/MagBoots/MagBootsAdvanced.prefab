@@ -86,6 +86,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a40424dd0653f68468f809c79cf8c095,
         type: 2}
+    - target: {fileID: 4398359928996400844, guid: 020aa37cdb1748149b33f0786b431160,
+        type: 3}
+      propertyPath: initialDescription
+      value: Advanced magnetic boots that have a lighter magnetic pull, placing less
+        burden on the wearer.
+      objectReference: {fileID: 0}
     - target: {fileID: 5256588606818913296, guid: 020aa37cdb1748149b33f0786b431160,
         type: 3}
       propertyPath: Resistances.AcidProof
@@ -100,6 +106,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.Indestructable
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5259255436095103056, guid: 020aa37cdb1748149b33f0786b431160,
+        type: 3}
+      propertyPath: _assetId
+      value: 2359272844
       objectReference: {fileID: 0}
     - target: {fileID: 5259255436095103056, guid: 020aa37cdb1748149b33f0786b431160,
         type: 3}

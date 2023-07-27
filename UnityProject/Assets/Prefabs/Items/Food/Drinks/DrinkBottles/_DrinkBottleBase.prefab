@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1857806640773602436, guid: 46bb2fe95f4f66341aadfb4600751333,
+        type: 3}
+      propertyPath: initialDescription
+      value: This blank bottle is unyieldingly anonymous, offering no clues to its
+        contents.
+      objectReference: {fileID: 0}
     - target: {fileID: 3823680117459157953, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: foreverID
@@ -189,6 +195,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300006, guid: 2de6c283d82f76148b3c3cb77cc62e2d,
         type: 3}
+    - target: {fileID: 7799949450078925336, guid: 46bb2fe95f4f66341aadfb4600751333,
+        type: 3}
+      propertyPath: _assetId
+      value: 4180314014
+      objectReference: {fileID: 0}
     - target: {fileID: 7799949450078925336, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: m_AssetId

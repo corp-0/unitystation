@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 227182538984022547, guid: 838a4732b2dece64497d074b7a700be6,
+        type: 3}
+      propertyPath: initialDescription
+      value: A syndicate manufactured explosive used to sow destruction and chaos.
+      objectReference: {fileID: 0}
     - target: {fileID: 2450954382432651964, guid: 838a4732b2dece64497d074b7a700be6,
         type: 3}
       propertyPath: PresentSpriteSet

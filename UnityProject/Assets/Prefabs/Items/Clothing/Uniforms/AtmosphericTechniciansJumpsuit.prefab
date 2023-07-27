@@ -45,6 +45,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 51b06da942cc6b84fb8ddbf7cff5f975,
         type: 2}
+    - target: {fileID: 3804024679726463818, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a jumpsuit worn by atmospheric technicians. It has minor protection
+        from fire.
+      objectReference: {fileID: 0}
     - target: {fileID: 4658995992363608162, guid: de234d793cfd842599c9c8726207f217,
         type: 3}
       propertyPath: m_Name
@@ -124,6 +130,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Fire
       value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
+        type: 3}
+      propertyPath: _assetId
+      value: 2948297108
       objectReference: {fileID: 0}
     - target: {fileID: 4700669166950225366, guid: de234d793cfd842599c9c8726207f217,
         type: 3}

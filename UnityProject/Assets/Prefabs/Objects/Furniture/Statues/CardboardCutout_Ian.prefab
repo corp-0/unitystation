@@ -109,6 +109,11 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7581720341194227782, guid: 2780bc362524407449b922cf1f203596,
+        type: 3}
+      propertyPath: initialDescription
+      value: A cardboard cutout of Ian.
+      objectReference: {fileID: 0}
     - target: {fileID: 8551338888481117140, guid: 2780bc362524407449b922cf1f203596,
         type: 3}
       propertyPath: foreverID

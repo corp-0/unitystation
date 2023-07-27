@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1661529395482483421, guid: 1d1128b30f39d0940a454d8bc868c64f,
+        type: 3}
+      propertyPath: initialDescription
+      value: Mini-Mecha action figure! Collect them all! 4/13.
+      objectReference: {fileID: 0}
     - target: {fileID: 3903045793025618546, guid: 1d1128b30f39d0940a454d8bc868c64f,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -24,6 +29,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: dde095e7ed65ab246a1b47d4523991cd,
         type: 3}
+    - target: {fileID: 7131535597914780737, guid: 1d1128b30f39d0940a454d8bc868c64f,
+        type: 3}
+      propertyPath: _assetId
+      value: 272563873
+      objectReference: {fileID: 0}
     - target: {fileID: 7131535597914780737, guid: 1d1128b30f39d0940a454d8bc868c64f,
         type: 3}
       propertyPath: m_AssetId

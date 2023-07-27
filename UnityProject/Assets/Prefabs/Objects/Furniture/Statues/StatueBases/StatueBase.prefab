@@ -37,6 +37,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: ba5045d716084034ab5a9b712f8ce559
       objectReference: {fileID: 0}
+    - target: {fileID: 6688559072007500801, guid: a7af28adb717b4c44b8b2002b27670bd,
+        type: 3}
+      propertyPath: initialDescription
+      value: Placeholder. Yell at Firecage if you SOMEHOW see this.
+      objectReference: {fileID: 0}
     - target: {fileID: 8371364824666529536, guid: a7af28adb717b4c44b8b2002b27670bd,
         type: 3}
       propertyPath: m_RootOrder

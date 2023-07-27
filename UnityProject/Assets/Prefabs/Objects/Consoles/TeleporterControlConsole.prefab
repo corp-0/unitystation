@@ -24,6 +24,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2193914177532499227, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
+      propertyPath: _assetId
+      value: 280447318
+      objectReference: {fileID: 0}
+    - target: {fileID: 2193914177532499227, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
       propertyPath: m_AssetId
       value: d57aad4098e577c499c3e86b6abfe1d9
       objectReference: {fileID: 0}
@@ -73,6 +78,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: bddeb5a4f2c724e4fbd6e27351e98741,
         type: 3}
+    - target: {fileID: 4847486937091673506, guid: b46887a995abc224aab70e21b9e53697,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used to control a linked teleportation Hub and Station.
+      objectReference: {fileID: 0}
     - target: {fileID: 6092885030212132519, guid: b46887a995abc224aab70e21b9e53697,
         type: 3}
       propertyPath: Color.b
@@ -192,3 +202,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteHandler: {fileID: 1939264505622795277}
+  trackingBeaconType: 0

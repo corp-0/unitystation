@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 493527399931038268, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: initialDescription
+      value: A hearty noodle soup made from meatballs and nizaya in a rich broth.
+        Commonly topped with a handful of chopped nuts.
+      objectReference: {fileID: 0}
     - target: {fileID: 2881683467392410259, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -114,6 +120,11 @@ PrefabInstance:
         type: 3}
       propertyPath: customNetTransform
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8300100540400329888, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: _assetId
+      value: 4141809558
       objectReference: {fileID: 0}
     - target: {fileID: 8300100540400329888, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}

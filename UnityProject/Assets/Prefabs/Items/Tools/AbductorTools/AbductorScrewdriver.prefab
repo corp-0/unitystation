@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1114134806454866360, guid: 366fb594c17e76346bbb29ad4ce021ad,
+        type: 3}
+      propertyPath: initialDescription
+      value: An ultrasonic screwdriver.
+      objectReference: {fileID: 0}
     - target: {fileID: 1814041240436128874, guid: 366fb594c17e76346bbb29ad4ce021ad,
         type: 3}
       propertyPath: SpeedMultiplier

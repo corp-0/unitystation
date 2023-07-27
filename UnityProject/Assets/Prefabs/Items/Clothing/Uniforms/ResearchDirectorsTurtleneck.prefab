@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: 14673e0d9505d4a20ba67712d7358daa,
         type: 3}
+      propertyPath: _assetId
+      value: 2497968953
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 14673e0d9505d4a20ba67712d7358daa,
+        type: 3}
       propertyPath: m_AssetId
       value: 31017c31c01102c43a4bc47f230ce2d8
       objectReference: {fileID: 0}
@@ -84,6 +89,12 @@ PrefabInstance:
       value: research director's turtleneck
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 14673e0d9505d4a20ba67712d7358daa,
+        type: 3}
+      propertyPath: initialDescription
+      value: A dark purple turtleneck and tan khakis, for a director with a superior
+        sense of style.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 14673e0d9505d4a20ba67712d7358daa,
         type: 3}
       propertyPath: initialDescription
       value: A dark purple turtleneck and tan khakis, for a director with a superior

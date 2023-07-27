@@ -90,8 +90,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4578525896496213067, guid: 201d4b5714989d64d86b11da761ecb15,
         type: 3}
+      propertyPath: _assetId
+      value: 3984756639
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578525896496213067, guid: 201d4b5714989d64d86b11da761ecb15,
+        type: 3}
       propertyPath: m_AssetId
       value: 01f5449a1ff46de49b90671e6a44f49f
+      objectReference: {fileID: 0}
+    - target: {fileID: 5367319828787643095, guid: 201d4b5714989d64d86b11da761ecb15,
+        type: 3}
+      propertyPath: initialDescription
+      value: This appears to be made from both an electropack and a helmet.
       objectReference: {fileID: 0}
     - target: {fileID: 7396244808014028178, guid: 201d4b5714989d64d86b11da761ecb15,
         type: 3}

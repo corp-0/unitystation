@@ -35,6 +35,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 4a97daa0e75797e4db2831ba502ad9e1
       objectReference: {fileID: 0}
+    - target: {fileID: 2340032973947424393, guid: 9e66d5e812c05254e9c2291df78005dd,
+        type: 3}
+      propertyPath: initialDescription
+      value: Made for burning houses down.
+      objectReference: {fileID: 0}
     - target: {fileID: 4289885693946695223, guid: 9e66d5e812c05254e9c2291df78005dd,
         type: 3}
       propertyPath: juicedReagents.m_keys.Array.size

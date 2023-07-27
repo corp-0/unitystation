@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: sides
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 974874576353264851, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A die with ten sides. Works better for d100 rolls than a golf ball.
+      objectReference: {fileID: 0}
     - target: {fileID: 2404714145071242134, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: foreverID
@@ -56,6 +61,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 307906379014b6d4d92c7e34258a40a1,
         type: 2}
+    - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: _assetId
+      value: 1735662723
+      objectReference: {fileID: 0}
     - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: m_AssetId

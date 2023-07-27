@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 944087809490843834, guid: 3252edce30bbb4749a17af748afbaecc,
+        type: 3}
+      propertyPath: initialDescription
+      value: A warning sign which reads 'RADIOACTIVE AREA'.
+      objectReference: {fileID: 0}
     - target: {fileID: 1333568854829345576, guid: 3252edce30bbb4749a17af748afbaecc,
         type: 3}
       propertyPath: foreverID
@@ -61,6 +66,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: A warning sign which reads 'RADIOACTIVE AREA'.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5777537925273935875, guid: 3252edce30bbb4749a17af748afbaecc,
+        type: 3}
+      propertyPath: _assetId
+      value: 2715002691
       objectReference: {fileID: 0}
     - target: {fileID: 5777537925273935875, guid: 3252edce30bbb4749a17af748afbaecc,
         type: 3}

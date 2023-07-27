@@ -81,6 +81,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1420955479860971562, guid: 4f305f20f1c49e444b0c787d220625d5,
         type: 3}
+      propertyPath: _assetId
+      value: 2075130424
+      objectReference: {fileID: 0}
+    - target: {fileID: 1420955479860971562, guid: 4f305f20f1c49e444b0c787d220625d5,
+        type: 3}
       propertyPath: m_AssetId
       value: 52b9fb0e8ed260442bf55d95cf7a0fdc
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 52b9fb0e8ed260442bf55d95cf7a0fdc
+      objectReference: {fileID: 0}
+    - target: {fileID: 7371973143023003318, guid: 4f305f20f1c49e444b0c787d220625d5,
+        type: 3}
+      propertyPath: initialDescription
+      value: The cap of an inocybe mushroom.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4f305f20f1c49e444b0c787d220625d5, type: 3}

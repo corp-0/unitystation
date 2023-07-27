@@ -40,6 +40,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7d91337325124dc4db4c9827fb73b547,
         type: 2}
+    - target: {fileID: 3207528084556292477, guid: ff09e60d118a31e478d827be7faa2f0b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bandana made from durathread, you wish it would provide some protection
+        to its wearer, but it's far too thin...
+      objectReference: {fileID: 0}
     - target: {fileID: 6404652678407139925, guid: ff09e60d118a31e478d827be7faa2f0b,
         type: 3}
       propertyPath: m_Name
@@ -99,6 +105,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6446287369552793569, guid: ff09e60d118a31e478d827be7faa2f0b,
+        type: 3}
+      propertyPath: _assetId
+      value: 114965437
       objectReference: {fileID: 0}
     - target: {fileID: 6446287369552793569, guid: ff09e60d118a31e478d827be7faa2f0b,
         type: 3}

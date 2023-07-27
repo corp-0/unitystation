@@ -63,6 +63,7 @@ MonoBehaviour:
   traitWhitelist: []
   reagentWhitelist: []
   transferMode: 0
+  SyringePulling: 0
   possibleTransferAmounts: []
   transferAmount: 20
   transferSound: []
@@ -158,6 +159,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 69104df12837d1e48bb456dce5301bfa
+      objectReference: {fileID: 0}
+    - target: {fileID: 3882688689638227017, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+        type: 3}
+      propertyPath: initialDescription
+      value: Onaka ga suite imasu.
       objectReference: {fileID: 0}
     - target: {fileID: 4617501557389857493, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}

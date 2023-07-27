@@ -113,6 +113,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
         type: 3}
+      propertyPath: _assetId
+      value: 4087449305
+      objectReference: {fileID: 0}
+    - target: {fileID: 114738972662350094, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
       propertyPath: m_AssetId
       value: b32ca0cccde16ef428f4f164dc1f884a
       objectReference: {fileID: 0}
@@ -168,6 +173,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: b32ca0cccde16ef428f4f164dc1f884a
+      objectReference: {fileID: 0}
+    - target: {fileID: 8386018640490131346, guid: a7abba22164ce49f0bf9b9b219f39298,
+        type: 3}
+      propertyPath: initialDescription
+      value: A roll of paper. Use it on a hand labeler to refill it.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7abba22164ce49f0bf9b9b219f39298, type: 3}

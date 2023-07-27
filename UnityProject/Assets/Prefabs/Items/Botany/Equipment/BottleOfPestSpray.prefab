@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 358010328804840637, guid: c634ae4416239d64595c3a483d65c117,
+        type: 3}
+      propertyPath: initialDescription
+      value: Contains a pesticide.
+      objectReference: {fileID: 0}
     - target: {fileID: 2895772754816650232, guid: c634ae4416239d64595c3a483d65c117,
         type: 3}
       propertyPath: foreverID
@@ -92,6 +97,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BottleOfPestSpray
+      objectReference: {fileID: 0}
+    - target: {fileID: 8142883636669872673, guid: c634ae4416239d64595c3a483d65c117,
+        type: 3}
+      propertyPath: _assetId
+      value: 3090869371
       objectReference: {fileID: 0}
     - target: {fileID: 8142883636669872673, guid: c634ae4416239d64595c3a483d65c117,
         type: 3}

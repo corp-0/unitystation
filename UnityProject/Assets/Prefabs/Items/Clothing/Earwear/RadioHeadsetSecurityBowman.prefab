@@ -31,6 +31,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 4204035148867913800, guid: a67aa95de4c8f7349a192a12cdfc84dd,
         type: 3}
+      propertyPath: _assetId
+      value: 2219582409
+      objectReference: {fileID: 0}
+    - target: {fileID: 4204035148867913800, guid: a67aa95de4c8f7349a192a12cdfc84dd,
+        type: 3}
       propertyPath: m_AssetId
       value: 760ad04c7b18eab4685694f1f5de66e9
       objectReference: {fileID: 0}
@@ -100,6 +105,11 @@ PrefabInstance:
       value: security bowman headset
       objectReference: {fileID: 0}
     - target: {fileID: 4408483752858393246, guid: a67aa95de4c8f7349a192a12cdfc84dd,
+        type: 3}
+      propertyPath: initialDescription
+      value: This is used by your elite security force. Protects ears from flashbangs.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737874309756380884, guid: a67aa95de4c8f7349a192a12cdfc84dd,
         type: 3}
       propertyPath: initialDescription
       value: This is used by your elite security force. Protects ears from flashbangs.

@@ -27,6 +27,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 60abff55cf0ed704dbca354a14ffe757
       objectReference: {fileID: 0}
+    - target: {fileID: 1344368169052875666, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: initialDescription
+      value: A space wizard's magic wall.
+      objectReference: {fileID: 0}
     - target: {fileID: 4116897424394887774, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
       propertyPath: m_Sprite
@@ -213,6 +218,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: _assetId
+      value: 2860320148
       objectReference: {fileID: 0}
     - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}

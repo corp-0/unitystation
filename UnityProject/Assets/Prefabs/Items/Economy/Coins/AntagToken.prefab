@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2217357697691806806, guid: d7d543912ffafe3478e119cbce62b13b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A novelty coin that helps the heart know what hard evidence cannot prove.
+      objectReference: {fileID: 0}
     - target: {fileID: 2850129519096939231, guid: d7d543912ffafe3478e119cbce62b13b,
         type: 3}
       propertyPath: headName
@@ -105,6 +110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7724551780263838410, guid: d7d543912ffafe3478e119cbce62b13b,
+        type: 3}
+      propertyPath: _assetId
+      value: 2583405515
       objectReference: {fileID: 0}
     - target: {fileID: 7724551780263838410, guid: d7d543912ffafe3478e119cbce62b13b,
         type: 3}

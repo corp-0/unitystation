@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: d9a6aa0f6a1f0084ca828c317a6d4948
       objectReference: {fileID: 0}
+    - target: {fileID: 3493749768614208210, guid: 80bdfbc6ac7f8614abbfa237f98bf72d,
+        type: 3}
+      propertyPath: initialDescription
+      value: A sharpened bone. The bare minimum in survival.
+      objectReference: {fileID: 0}
     - target: {fileID: 4824296599455833752, guid: 80bdfbc6ac7f8614abbfa237f98bf72d,
         type: 3}
       propertyPath: hitDamage
@@ -130,6 +135,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BoneDagger
+      objectReference: {fileID: 0}
+    - target: {fileID: 5011089245721545806, guid: 80bdfbc6ac7f8614abbfa237f98bf72d,
+        type: 3}
+      propertyPath: _assetId
+      value: 2699505568
       objectReference: {fileID: 0}
     - target: {fileID: 5011089245721545806, guid: 80bdfbc6ac7f8614abbfa237f98bf72d,
         type: 3}

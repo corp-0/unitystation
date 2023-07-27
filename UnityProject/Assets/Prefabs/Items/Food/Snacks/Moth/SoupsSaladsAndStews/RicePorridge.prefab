@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 493527399931038268, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: initialDescription
+      value: "A plate of rice porridge. It's mostly flavourless, but it does fill
+        a spot. To the Chinese it's congee, and moths call it h\xF6llfl\xF6fmisklsl\xF8sk."
+      objectReference: {fileID: 0}
     - target: {fileID: 2881683467392410259, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -119,6 +125,11 @@ PrefabInstance:
         type: 3}
       propertyPath: customNetTransform
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8300100540400329888, guid: 09d98d684f3dbe544a3f54331019cba1,
+        type: 3}
+      propertyPath: _assetId
+      value: 1262554981
       objectReference: {fileID: 0}
     - target: {fileID: 8300100540400329888, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}

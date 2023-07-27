@@ -29,6 +29,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: 82223aa9f2653409893db380f44262de,
         type: 3}
+      propertyPath: _assetId
+      value: 1858657040
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 82223aa9f2653409893db380f44262de,
+        type: 3}
       propertyPath: m_AssetId
       value: 20b5c706c9fa6d6488022b9b64d732b8
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
       value: cook's skirt
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 82223aa9f2653409893db380f44262de,
+        type: 3}
+      propertyPath: initialDescription
+      value: A skirt which is given only to the most hardcore cooks in space.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 82223aa9f2653409893db380f44262de,
         type: 3}
       propertyPath: initialDescription
       value: A skirt which is given only to the most hardcore cooks in space.

@@ -30,6 +30,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 659d2332b1a316c458d8770e9903f84a,
         type: 2}
+    - target: {fileID: 3399958268842032915, guid: 1c2ebf5951e982c4cb87e7204c670f99,
+        type: 3}
+      propertyPath: initialDescription
+      value: A compact variant of the disruptor cannon with less firepower but easier
+        storage.
+      objectReference: {fileID: 0}
     - target: {fileID: 3606713445597699348, guid: 1c2ebf5951e982c4cb87e7204c670f99,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -65,6 +71,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 21cd1da1b6f82a145b312ce3be3cb965,
         type: 3}
+    - target: {fileID: 6546450386853695887, guid: 1c2ebf5951e982c4cb87e7204c670f99,
+        type: 3}
+      propertyPath: _assetId
+      value: 1496303433
+      objectReference: {fileID: 0}
     - target: {fileID: 6546450386853695887, guid: 1c2ebf5951e982c4cb87e7204c670f99,
         type: 3}
       propertyPath: m_AssetId

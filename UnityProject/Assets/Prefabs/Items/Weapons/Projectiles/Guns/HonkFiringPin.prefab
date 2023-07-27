@@ -32,6 +32,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 16a3e68b2c9dcaf58928506e05687f16
       objectReference: {fileID: 0}
+    - target: {fileID: 2825675554782449549, guid: 0c0328cbf94ffe648a0903cfc375ab91,
+        type: 3}
+      propertyPath: initialDescription
+      value: Advanced clowntech that can convert any firearm into a far more useful
+        object.
+      objectReference: {fileID: 0}
     - target: {fileID: 5883298772289728505, guid: 0c0328cbf94ffe648a0903cfc375ab91,
         type: 3}
       propertyPath: m_Color.b
@@ -46,6 +52,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.r
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5962885801523618065, guid: 0c0328cbf94ffe648a0903cfc375ab91,
+        type: 3}
+      propertyPath: _assetId
+      value: 2759428762
       objectReference: {fileID: 0}
     - target: {fileID: 5962885801523618065, guid: 0c0328cbf94ffe648a0903cfc375ab91,
         type: 3}

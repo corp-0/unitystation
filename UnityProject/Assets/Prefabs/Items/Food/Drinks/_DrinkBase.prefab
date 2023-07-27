@@ -69,6 +69,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 825558115691839795, guid: 6eb9748e1eaf8dc4598a50e5b09df3b3,
         type: 3}
+      propertyPath: _assetId
+      value: 1432856764
+      objectReference: {fileID: 0}
+    - target: {fileID: 825558115691839795, guid: 6eb9748e1eaf8dc4598a50e5b09df3b3,
+        type: 3}
       propertyPath: m_AssetId
       value: 46bb2fe95f4f66341aadfb4600751333
       objectReference: {fileID: 0}
@@ -178,6 +183,11 @@ PrefabInstance:
         type: 3}
       propertyPath: <AlternativePrefabName>k__BackingField
       value: drink
+      objectReference: {fileID: 0}
+    - target: {fileID: 9115924747301547951, guid: 6eb9748e1eaf8dc4598a50e5b09df3b3,
+        type: 3}
+      propertyPath: initialDescription
+      value: yummy
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6eb9748e1eaf8dc4598a50e5b09df3b3, type: 3}

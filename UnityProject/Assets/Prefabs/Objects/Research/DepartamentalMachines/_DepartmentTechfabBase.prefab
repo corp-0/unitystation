@@ -7,6 +7,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1047661854896558, guid: 673bb8fcbfe706f4ba328a489e31337d, type: 3}
+      propertyPath: initialDescription
+      value: An advanced fabricator designed to print out the latest prototypes and
+        circuits researched from Science. Contains hardware to sync to research networks.
+        This one is department-locked and only possesses a limited set of decryption
+        keys.
+      objectReference: {fileID: 0}
     - target: {fileID: 2276679310510023228, guid: 673bb8fcbfe706f4ba328a489e31337d,
         type: 3}
       propertyPath: foreverID
@@ -96,6 +103,11 @@ PrefabInstance:
         circuits researched from Science. Contains hardware to sync to research networks.
         This one is department-locked and only possesses a limited set of decryption
         keys.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6716092082655734039, guid: 673bb8fcbfe706f4ba328a489e31337d,
+        type: 3}
+      propertyPath: _assetId
+      value: 469104793
       objectReference: {fileID: 0}
     - target: {fileID: 6716092082655734039, guid: 673bb8fcbfe706f4ba328a489e31337d,
         type: 3}

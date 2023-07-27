@@ -41,6 +41,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3380285515758663391, guid: 9da2f8923c588ec42ab9693f707da84f,
         type: 3}
+      propertyPath: _assetId
+      value: 1546679868
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380285515758663391, guid: 9da2f8923c588ec42ab9693f707da84f,
+        type: 3}
       propertyPath: m_AssetId
       value: e0e846b8a3fc7ff45a883fd1221b1312
       objectReference: {fileID: 0}
@@ -110,6 +115,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6646600994541929486, guid: a90c31aa0c2b68c459f4442f603a996a,
         type: 3}
+    - target: {fileID: 6566127573618153539, guid: 9da2f8923c588ec42ab9693f707da84f,
+        type: 3}
+      propertyPath: initialDescription
+      value: It smells like burning.
+      objectReference: {fileID: 0}
     - target: {fileID: 6821357363608144155, guid: 9da2f8923c588ec42ab9693f707da84f,
         type: 3}
       propertyPath: leavings

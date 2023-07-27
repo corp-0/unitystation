@@ -47,6 +47,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
+      propertyPath: _assetId
+      value: 1990325514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4546609781174536597, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
       propertyPath: m_AssetId
       value: 8086310b540051947a03d9677b936ac0
       objectReference: {fileID: 0}
@@ -132,6 +137,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 95b9900501ff3c84b9397328e61fff41,
         type: 2}
+    - target: {fileID: 7074925751158378796, guid: f5000c293075c074d80896d211fcd50b,
+        type: 3}
+      propertyPath: initialDescription
+      value: This relatively unknown vending machine delivers clothing for Atmospherics
+        Technicians, an equally unknown job.
+      objectReference: {fileID: 0}
     - target: {fileID: 8506729810979480882, guid: f5000c293075c074d80896d211fcd50b,
         type: 3}
       propertyPath: HullColor.b

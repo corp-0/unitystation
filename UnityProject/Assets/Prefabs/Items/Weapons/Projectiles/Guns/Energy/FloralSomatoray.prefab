@@ -105,6 +105,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &1820312613656738722
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -186,6 +189,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
+      propertyPath: _assetId
+      value: 1299841248
+      objectReference: {fileID: 0}
+    - target: {fileID: 4342894697621943514, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
       propertyPath: m_AssetId
       value: fb742889150088d428b407ad4189dd93
       objectReference: {fileID: 0}
@@ -261,6 +269,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5d681e96b0fabcb46a3918d780452b48,
         type: 2}
+    - target: {fileID: 5310784437401147974, guid: 143d3926d4a5fa84f95f987c152b33a2,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tool that discharges controlled radiation which induces mutation in
+        plant cells.
+      objectReference: {fileID: 0}
     - target: {fileID: 5785640420543790341, guid: 143d3926d4a5fa84f95f987c152b33a2,
         type: 3}
       propertyPath: m_LocalPosition.x

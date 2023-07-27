@@ -21,6 +21,11 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 1764592290455851827, guid: 51c105fae1f0b074abf4c80745d8b129,
         type: 3}
+      propertyPath: _assetId
+      value: 3289035254
+      objectReference: {fileID: 0}
+    - target: {fileID: 1764592290455851827, guid: 51c105fae1f0b074abf4c80745d8b129,
+        type: 3}
       propertyPath: m_AssetId
       value: 6050fe71b1f8f6a4cb17dc69b4e9223b
       objectReference: {fileID: 0}
@@ -116,6 +121,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d6e31725a453ad444a5d6944d6100b63,
         type: 2}
+    - target: {fileID: 7893590444240190895, guid: 51c105fae1f0b074abf4c80745d8b129,
+        type: 3}
+      propertyPath: initialDescription
+      value: A versatile chest rig, cherished by miners and hunters alike.
+      objectReference: {fileID: 0}
     - target: {fileID: 7968275424856731504, guid: 51c105fae1f0b074abf4c80745d8b129,
         type: 3}
       propertyPath: allClothingData.Array.size

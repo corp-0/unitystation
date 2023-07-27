@@ -110,6 +110,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: dd2fa3ed060176d468a6e46e10df2d1c
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's the hub of a teleporting machine.
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -139,6 +144,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0dea39ddaf6249048b9dd301aee889e9,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 3643989140
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId

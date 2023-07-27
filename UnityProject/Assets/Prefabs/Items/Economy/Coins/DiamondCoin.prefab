@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2217357697691806806, guid: d7d543912ffafe3478e119cbce62b13b,
+        type: 3}
+      propertyPath: initialDescription
+      value: A diamond coin. It has a worth of 100 credits.
+      objectReference: {fileID: 0}
     - target: {fileID: 3611203652882625299, guid: d7d543912ffafe3478e119cbce62b13b,
         type: 3}
       propertyPath: foreverID
@@ -95,6 +100,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7724551780263838410, guid: d7d543912ffafe3478e119cbce62b13b,
+        type: 3}
+      propertyPath: _assetId
+      value: 16697792
       objectReference: {fileID: 0}
     - target: {fileID: 7724551780263838410, guid: d7d543912ffafe3478e119cbce62b13b,
         type: 3}

@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: bda198be769216d43a47c47bc1c1e193
       objectReference: {fileID: 0}
+    - target: {fileID: 2340029581146353201, guid: 7ac9a1237a9a84c429f91947b3594be0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A delightly devilish flower... you got a feeling where this is going.
+      objectReference: {fileID: 0}
     - target: {fileID: 4986038043911402929, guid: 7ac9a1237a9a84c429f91947b3594be0,
         type: 3}
       propertyPath: maxCapacity
@@ -115,6 +120,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: ClownFlower
+      objectReference: {fileID: 0}
+    - target: {fileID: 6165367934634639533, guid: 7ac9a1237a9a84c429f91947b3594be0,
+        type: 3}
+      propertyPath: _assetId
+      value: 1129343191
       objectReference: {fileID: 0}
     - target: {fileID: 6165367934634639533, guid: 7ac9a1237a9a84c429f91947b3594be0,
         type: 3}

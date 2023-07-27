@@ -7,6 +7,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1859544094484313525, guid: 06088292fadbbdd40a0d7dce08102a37,
+        type: 3}
+      propertyPath: initialDescription
+      value: A thick arctic winter coat with an outdated atomic model instead of
+        a plastic zipper tab. Most in the know are heavily aware that Bohr's model
+        of the atom was outdated by the time of the 1930s when the Heisenbergian
+        and Schrodinger models were generally accepted for true. Nevertheless, we
+        still see its use in anachronism, roleplaying, and, in this case, as a zipper
+        tab. At least it should keep you warm on your ivory pillar.
+      objectReference: {fileID: 0}
     - target: {fileID: 3825346111126973168, guid: 06088292fadbbdd40a0d7dce08102a37,
         type: 3}
       propertyPath: foreverID
@@ -94,6 +104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Fire
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7798211974825810729, guid: 06088292fadbbdd40a0d7dce08102a37,
+        type: 3}
+      propertyPath: _assetId
+      value: 1368987088
       objectReference: {fileID: 0}
     - target: {fileID: 7798211974825810729, guid: 06088292fadbbdd40a0d7dce08102a37,
         type: 3}

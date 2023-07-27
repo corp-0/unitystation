@@ -93,8 +93,20 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3398265494507982721, guid: 05f59888eb108484aabd67b53074c7a6,
         type: 3}
+      propertyPath: _assetId
+      value: 3504659024
+      objectReference: {fileID: 0}
+    - target: {fileID: 3398265494507982721, guid: 05f59888eb108484aabd67b53074c7a6,
+        type: 3}
       propertyPath: m_AssetId
       value: 7e3ef7a37d0116448bcfc575799f5bcd
+      objectReference: {fileID: 0}
+    - target: {fileID: 6548143215021957405, guid: 05f59888eb108484aabd67b53074c7a6,
+        type: 3}
+      propertyPath: initialDescription
+      value: The non-standard issue hardsuit of the ERT, this one is colourful! Offers
+        superb protection against environmental hazards. Does not offer superb protection
+        against a ravaging crew.
       objectReference: {fileID: 0}
     - target: {fileID: 8504937989527846488, guid: 05f59888eb108484aabd67b53074c7a6,
         type: 3}

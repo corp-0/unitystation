@@ -110,6 +110,9 @@ MonoBehaviour:
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
   palette: []
+  OnSpriteUpdated:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &3917532995848785121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -132,6 +135,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 785692926240997882, guid: f9025da3beb40304cb15babfc0a6cafa,
+        type: 3}
+      propertyPath: initialDescription
+      value: A control terminal for the area's electrical systems.
+      objectReference: {fileID: 0}
     - target: {fileID: 919116449823774865, guid: f9025da3beb40304cb15babfc0a6cafa,
         type: 3}
       propertyPath: m_SortingLayer
@@ -312,6 +320,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6327756969131596099, guid: f9025da3beb40304cb15babfc0a6cafa,
         type: 3}
+      propertyPath: _assetId
+      value: 4221633649
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327756969131596099, guid: f9025da3beb40304cb15babfc0a6cafa,
+        type: 3}
       propertyPath: m_AssetId
       value: cd57203a8d3f54f478446e9b0ced6cf9
       objectReference: {fileID: 0}
@@ -393,6 +406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819809cff2481914d883a6e1fefb4edd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   MethodRotation: 0
@@ -433,11 +447,13 @@ MonoBehaviour:
     type: 2}
   itemStoragePopulator: {fileID: 0}
   forceSpawnContents: 0
+  ManuallySpawnContent: 0
   dropItemsOnDespawn: 0
   UesAddlistPopulater: 0
   Populater:
     SlotContents: []
     DeprecatedContents: []
+  SetSlotItemNotRemovableOnStartUp: 0
   ashPrefab: {fileID: 2957035178188790827, guid: 9ac6968a3f3ed54428662c9aae5a4b32,
     type: 3}
 --- !u!114 &6203834163477203450
@@ -452,6 +468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d7277dcc993463cb6c7f79b663f36fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   NetTabType: 6
@@ -468,6 +485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b795fd3e621e742b0aafdb501b9d36cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   runningInterfaces:

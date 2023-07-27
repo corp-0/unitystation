@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 649413166144429314, guid: d0e6cbda5c639f54ba60b282149842aa,
+        type: 3}
+      propertyPath: initialDescription
+      value: Blood-soaked hood infused with dark magic.
+      objectReference: {fileID: 0}
     - target: {fileID: 2727805130631840327, guid: d0e6cbda5c639f54ba60b282149842aa,
         type: 3}
       propertyPath: foreverID
@@ -86,6 +91,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: Blood-soaked hood infused with dark magic.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9004261550291760030, guid: d0e6cbda5c639f54ba60b282149842aa,
+        type: 3}
+      propertyPath: _assetId
+      value: 2467724103
       objectReference: {fileID: 0}
     - target: {fileID: 9004261550291760030, guid: d0e6cbda5c639f54ba60b282149842aa,
         type: 3}

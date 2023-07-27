@@ -18,6 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 3ad0daebc0fa62f499dab398dee2c4bb
       objectReference: {fileID: 0}
+    - target: {fileID: 2564582898840658955, guid: b39d85aa9080f014b9956cb59d760674,
+        type: 3}
+      propertyPath: initialDescription
+      value: A small spring-loaded sidearm that functions identically to a syringe
+        gun.
+      objectReference: {fileID: 0}
     - target: {fileID: 5843464883585849409, guid: b39d85aa9080f014b9956cb59d760674,
         type: 3}
       propertyPath: hitDamage
@@ -57,6 +63,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 0f371938d77fca04da5286d5e66452ad,
         type: 3}
+    - target: {fileID: 6224405101200099991, guid: b39d85aa9080f014b9956cb59d760674,
+        type: 3}
+      propertyPath: _assetId
+      value: 2069045846
+      objectReference: {fileID: 0}
     - target: {fileID: 6224405101200099991, guid: b39d85aa9080f014b9956cb59d760674,
         type: 3}
       propertyPath: m_AssetId

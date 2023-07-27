@@ -39,6 +39,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7c70c9f080777cd47a7f1f75b81799e7,
         type: 2}
+    - target: {fileID: 4390554661914579218, guid: 68ff916d2f0053c4ab145dfd70a7aa0f,
+        type: 3}
+      propertyPath: initialDescription
+      value: A tactical MK.II SWAT helmet boasting better protection and a reasonable
+        fashion sense.
+      objectReference: {fileID: 0}
     - target: {fileID: 5227810909262283322, guid: 68ff916d2f0053c4ab145dfd70a7aa0f,
         type: 3}
       propertyPath: m_Name
@@ -98,6 +104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5267205827030400910, guid: 68ff916d2f0053c4ab145dfd70a7aa0f,
+        type: 3}
+      propertyPath: _assetId
+      value: 483256228
       objectReference: {fileID: 0}
     - target: {fileID: 5267205827030400910, guid: 68ff916d2f0053c4ab145dfd70a7aa0f,
         type: 3}

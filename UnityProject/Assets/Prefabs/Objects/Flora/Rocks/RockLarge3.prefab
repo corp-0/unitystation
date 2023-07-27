@@ -93,6 +93,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: fbf8b8555ee4ac34ea95ba2b4f6a740d
       objectReference: {fileID: 0}
+    - target: {fileID: 4444348791079780341, guid: 5f21a98b0f17cba4d9b572905dbdcbc5,
+        type: 3}
+      propertyPath: initialDescription
+      value: A large, mysterious rock. A pickaxe would be good for clearing this.
+      objectReference: {fileID: 0}
     - target: {fileID: 6275691612762716404, guid: 5f21a98b0f17cba4d9b572905dbdcbc5,
         type: 3}
       propertyPath: PresentSpriteSet

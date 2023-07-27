@@ -39,6 +39,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: ee5fe1c94d7d3bb4095c535cdc2ea6c8,
         type: 2}
+    - target: {fileID: 3312608723683038991, guid: 628668e5958fedc4bb4bf1685251aa9f,
+        type: 3}
+      propertyPath: initialDescription
+      value: Regal blue gloves, with a nice gold trim, a diamond anti-shock coating,
+        and an integrated thermal barrier. Swanky.
+      objectReference: {fileID: 0}
     - target: {fileID: 6341625060856878547, guid: 628668e5958fedc4bb4bf1685251aa9f,
         type: 3}
       propertyPath: Armor.Acid
@@ -48,6 +54,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Armor.Fire
       value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 6345147379047856531, guid: 628668e5958fedc4bb4bf1685251aa9f,
+        type: 3}
+      propertyPath: _assetId
+      value: 3053846502
       objectReference: {fileID: 0}
     - target: {fileID: 6345147379047856531, guid: 628668e5958fedc4bb4bf1685251aa9f,
         type: 3}

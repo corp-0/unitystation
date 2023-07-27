@@ -29,6 +29,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d977ff50fc504174184be8ce72f7f230,
         type: 2}
+    - target: {fileID: 4489323093273851691, guid: 370e44bf0f4127a4194e5d791bca7989,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'The book''s cover reads: \"Draconic Manuel for Xenos - Learn common
+        galactic tongues in seconds.\"'
+      objectReference: {fileID: 0}
     - target: {fileID: 5250698454179092319, guid: 370e44bf0f4127a4194e5d791bca7989,
         type: 3}
       propertyPath: m_Sprite
@@ -94,6 +100,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457230700116875703, guid: 370e44bf0f4127a4194e5d791bca7989,
+        type: 3}
+      propertyPath: _assetId
+      value: 3211514459
       objectReference: {fileID: 0}
     - target: {fileID: 5457230700116875703, guid: 370e44bf0f4127a4194e5d791bca7989,
         type: 3}

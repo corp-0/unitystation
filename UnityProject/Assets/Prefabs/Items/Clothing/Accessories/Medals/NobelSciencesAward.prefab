@@ -20,6 +20,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1484397340838740694, guid: b5b82a5784598df4984e98d1b8239329,
         type: 3}
+      propertyPath: _assetId
+      value: 3961240477
+      objectReference: {fileID: 0}
+    - target: {fileID: 1484397340838740694, guid: b5b82a5784598df4984e98d1b8239329,
+        type: 3}
       propertyPath: m_AssetId
       value: e80a488bf1da71648a8c5817468e2d62
       objectReference: {fileID: 0}
@@ -87,6 +92,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: e80a488bf1da71648a8c5817468e2d62
+      objectReference: {fileID: 0}
+    - target: {fileID: 7020863867779771466, guid: b5b82a5784598df4984e98d1b8239329,
+        type: 3}
+      propertyPath: initialDescription
+      value: A plasma medal which represents significant contributions to the field
+        of science or engineering.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5b82a5784598df4984e98d1b8239329, type: 3}

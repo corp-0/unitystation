@@ -18,12 +18,23 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 5badf8c39f0e1b340b0f3beed369f779,
         type: 2}
+    - target: {fileID: 4543821990107346535, guid: 71d313f2867d2984bba58f6282270761,
+        type: 3}
+      propertyPath: initialDescription
+      value: A fine lasagne made with pesto and a herby white sauce. Good for multiple
+        servings.
+      objectReference: {fileID: 0}
     - target: {fileID: 5304567439566493203, guid: 71d313f2867d2984bba58f6282270761,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 3cf98965bc3bca341bd06150cabddd36,
         type: 3}
+    - target: {fileID: 5402168906014906619, guid: 71d313f2867d2984bba58f6282270761,
+        type: 3}
+      propertyPath: _assetId
+      value: 2610230788
+      objectReference: {fileID: 0}
     - target: {fileID: 5402168906014906619, guid: 71d313f2867d2984bba58f6282270761,
         type: 3}
       propertyPath: m_AssetId

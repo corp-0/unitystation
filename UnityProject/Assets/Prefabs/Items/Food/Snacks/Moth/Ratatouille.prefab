@@ -30,6 +30,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4044049564896965974, guid: af1c99256eee3e3408a6484e523e452f,
         type: 3}
+      propertyPath: _assetId
+      value: 2172647021
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044049564896965974, guid: af1c99256eee3e3408a6484e523e452f,
+        type: 3}
       propertyPath: m_AssetId
       value: e5d5391e340d10f4d87415c9a68f4bbd
       objectReference: {fileID: 0}
@@ -105,6 +110,12 @@ PrefabInstance:
       value: ratatouille
       objectReference: {fileID: 0}
     - target: {fileID: 4568609949838632832, guid: af1c99256eee3e3408a6484e523e452f,
+        type: 3}
+      propertyPath: initialDescription
+      value: The perfect dish to save your restaurant from a vindictive food critic.
+        Bonus points if you've got a rat in your hat.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5614269503687400394, guid: af1c99256eee3e3408a6484e523e452f,
         type: 3}
       propertyPath: initialDescription
       value: The perfect dish to save your restaurant from a vindictive food critic.

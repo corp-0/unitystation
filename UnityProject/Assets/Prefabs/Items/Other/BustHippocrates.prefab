@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 67653447299552786, guid: 4383a2e1200db8d4e8ed3c116873b878,
         type: 3}
+      propertyPath: _assetId
+      value: 3196669582
+      objectReference: {fileID: 0}
+    - target: {fileID: 67653447299552786, guid: 4383a2e1200db8d4e8ed3c116873b878,
+        type: 3}
       propertyPath: m_AssetId
       value: 9f668aa9c57264a4db0de7978e0cacd2
       objectReference: {fileID: 0}
@@ -99,6 +104,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 9f668aa9c57264a4db0de7978e0cacd2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8432681935264282766, guid: 4383a2e1200db8d4e8ed3c116873b878,
+        type: 3}
+      propertyPath: initialDescription
+      value: A bust of the famous Greek physician Hippocrates of Kos, often referred
+        to as the father of western medicine.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4383a2e1200db8d4e8ed3c116873b878, type: 3}

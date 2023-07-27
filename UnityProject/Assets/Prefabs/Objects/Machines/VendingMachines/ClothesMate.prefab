@@ -30,6 +30,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 854479238589397880, guid: 2f2954acc32d9d3468c620e34a625966,
         type: 3}
+      propertyPath: _assetId
+      value: 1918206649
+      objectReference: {fileID: 0}
+    - target: {fileID: 854479238589397880, guid: 2f2954acc32d9d3468c620e34a625966,
+        type: 3}
       propertyPath: m_AssetId
       value: 702e203b7bf3efd4eadfe5119b064afc
       objectReference: {fileID: 0}
@@ -1257,6 +1262,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 702e203b7bf3efd4eadfe5119b064afc
+      objectReference: {fileID: 0}
+    - target: {fileID: 6263480870727295937, guid: 2f2954acc32d9d3468c620e34a625966,
+        type: 3}
+      propertyPath: initialDescription
+      value: A vending machine for clothing.
       objectReference: {fileID: 0}
     - target: {fileID: 7077253877563091611, guid: 2f2954acc32d9d3468c620e34a625966,
         type: 3}

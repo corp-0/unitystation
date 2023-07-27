@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2133150803290534114, guid: fceccba0296eb5b4983bdfe2fc9ccdd0,
+        type: 3}
+      propertyPath: initialDescription
+      value: An extremely robust, space-worthy helmet in a nefarious red and black
+        stripe pattern.
+      objectReference: {fileID: 0}
     - target: {fileID: 3549479581640830887, guid: fceccba0296eb5b4983bdfe2fc9ccdd0,
         type: 3}
       propertyPath: foreverID
@@ -143,6 +149,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.FireProof
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7524605284256423550, guid: fceccba0296eb5b4983bdfe2fc9ccdd0,
+        type: 3}
+      propertyPath: _assetId
+      value: 2606040278
       objectReference: {fileID: 0}
     - target: {fileID: 7524605284256423550, guid: fceccba0296eb5b4983bdfe2fc9ccdd0,
         type: 3}

@@ -21,6 +21,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3381887893271538130, guid: 4262f7c3dbc59a8499d9f780d06bd0ad,
         type: 3}
+      propertyPath: _assetId
+      value: 4226022485
+      objectReference: {fileID: 0}
+    - target: {fileID: 3381887893271538130, guid: 4262f7c3dbc59a8499d9f780d06bd0ad,
+        type: 3}
       propertyPath: m_AssetId
       value: 51f300832d29f1d4ea34973715e5536c
       objectReference: {fileID: 0}
@@ -83,6 +88,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SpeedLoader.38TRAC
+      objectReference: {fileID: 0}
+    - target: {fileID: 6564098608092530510, guid: 4262f7c3dbc59a8499d9f780d06bd0ad,
+        type: 3}
+      propertyPath: initialDescription
+      value: Designed to quickly reload revolvers. These rounds are manufactured
+        within extremely tight tolerances, making them easy to show off trickshots
+        with.
       objectReference: {fileID: 0}
     - target: {fileID: 8629017157049604107, guid: 4262f7c3dbc59a8499d9f780d06bd0ad,
         type: 3}

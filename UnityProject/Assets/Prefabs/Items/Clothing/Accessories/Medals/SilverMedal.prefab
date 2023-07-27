@@ -79,6 +79,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 986060116320561314, guid: 10346266394bdb54ca023bf71f4cd128,
         type: 3}
+      propertyPath: _assetId
+      value: 1381205407
+      objectReference: {fileID: 0}
+    - target: {fileID: 986060116320561314, guid: 10346266394bdb54ca023bf71f4cd128,
+        type: 3}
       propertyPath: m_AssetId
       value: 00585e1640b90704c80577abf89e78fe
       objectReference: {fileID: 0}
@@ -99,5 +104,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 6e2ad1e446804a149aaa1c9a5412896e,
         type: 2}
+    - target: {fileID: 8672118183625131582, guid: 10346266394bdb54ca023bf71f4cd128,
+        type: 3}
+      propertyPath: initialDescription
+      value: A silver medal.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10346266394bdb54ca023bf71f4cd128, type: 3}

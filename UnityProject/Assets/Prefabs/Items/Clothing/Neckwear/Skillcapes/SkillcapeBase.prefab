@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 159925220656132687, guid: b027dfa588d69d848a886ae80d5b25c2,
+        type: 3}
+      propertyPath: initialDescription
+      value: This is a {0}.
+      objectReference: {fileID: 0}
     - target: {fileID: 3377728999933947146, guid: b027dfa588d69d848a886ae80d5b25c2,
         type: 3}
       propertyPath: foreverID
@@ -76,6 +81,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SkillcapeBase
+      objectReference: {fileID: 0}
+    - target: {fileID: 8633003412026072275, guid: b027dfa588d69d848a886ae80d5b25c2,
+        type: 3}
+      propertyPath: _assetId
+      value: 149725759
       objectReference: {fileID: 0}
     - target: {fileID: 8633003412026072275, guid: b027dfa588d69d848a886ae80d5b25c2,
         type: 3}

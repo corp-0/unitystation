@@ -24,6 +24,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0d6c96da5e6674c4a8955879bf699bd1,
         type: 2}
+    - target: {fileID: 3497097092073615708, guid: d640dc90fad3f994a84f5646febe29c0,
+        type: 3}
+      propertyPath: initialDescription
+      value: Sleek white titanium tiles, used for shuttles.
+      objectReference: {fileID: 0}
     - target: {fileID: 4757839236532768022, guid: d640dc90fad3f994a84f5646febe29c0,
         type: 3}
       propertyPath: initialName
@@ -93,6 +98,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5007601188061863872, guid: d640dc90fad3f994a84f5646febe29c0,
+        type: 3}
+      propertyPath: _assetId
+      value: 3266092707
       objectReference: {fileID: 0}
     - target: {fileID: 5007601188061863872, guid: d640dc90fad3f994a84f5646febe29c0,
         type: 3}

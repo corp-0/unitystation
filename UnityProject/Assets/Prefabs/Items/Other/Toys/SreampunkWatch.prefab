@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 586828e6711673246ae1dd0ea9bcafc4
       objectReference: {fileID: 0}
+    - target: {fileID: 4025837389729834979, guid: b2cc2b1c514be164282a4cdd366643e5,
+        type: 3}
+      propertyPath: initialDescription
+      value: A stylish steampunk watch made out of thousands of tiny cogwheels.
+      objectReference: {fileID: 0}
     - target: {fileID: 4705654935379183511, guid: b2cc2b1c514be164282a4cdd366643e5,
         type: 3}
       propertyPath: m_Sprite
@@ -28,6 +33,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4767086867303369087, guid: b2cc2b1c514be164282a4cdd366643e5,
+        type: 3}
+      propertyPath: _assetId
+      value: 3778937907
       objectReference: {fileID: 0}
     - target: {fileID: 4767086867303369087, guid: b2cc2b1c514be164282a4cdd366643e5,
         type: 3}
@@ -140,12 +150,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: 727edba3f15a34b49b3964e59e3f14aa, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

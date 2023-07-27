@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: clothData
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 1485128146809005279, guid: b735ab74dab174a4f90c79558cd51e43,
+        type: 3}
+      propertyPath: initialDescription
+      value: An upgraded welder based off the industrial welder.
+      objectReference: {fileID: 0}
     - target: {fileID: 3117172067951294432, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -147,6 +152,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: UpgradedIndustrialWeldingTool
+      objectReference: {fileID: 0}
+    - target: {fileID: 7019565730922564163, guid: b735ab74dab174a4f90c79558cd51e43,
+        type: 3}
+      propertyPath: _assetId
+      value: 3282434679
       objectReference: {fileID: 0}
     - target: {fileID: 7019565730922564163, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}

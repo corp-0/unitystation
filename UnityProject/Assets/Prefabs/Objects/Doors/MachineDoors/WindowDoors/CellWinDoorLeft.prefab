@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1094533088158288553, guid: 6fa1bf6a566af2f479f551f9bb604178,
+        type: 3}
+      propertyPath: initialDescription
+      value: For keeping in criminal scum.
+      objectReference: {fileID: 0}
     - target: {fileID: 1201136300133767483, guid: 6fa1bf6a566af2f479f551f9bb604178,
         type: 3}
       propertyPath: foreverID
@@ -61,6 +66,11 @@ PrefabInstance:
         type: 3}
       propertyPath: initialDescription
       value: For keeping in criminal scum.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5910819440385102352, guid: 6fa1bf6a566af2f479f551f9bb604178,
+        type: 3}
+      propertyPath: _assetId
+      value: 2554915335
       objectReference: {fileID: 0}
     - target: {fileID: 5910819440385102352, guid: 6fa1bf6a566af2f479f551f9bb604178,
         type: 3}

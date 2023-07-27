@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
         type: 3}
+      propertyPath: _assetId
+      value: 3811063739
+      objectReference: {fileID: 0}
+    - target: {fileID: 1290906528003875320, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
       propertyPath: m_AssetId
       value: 3388571bef44e68479c393c19d4cb7f7
       objectReference: {fileID: 0}
@@ -110,6 +115,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 3388571bef44e68479c393c19d4cb7f7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7213787336926973796, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+        type: 3}
+      propertyPath: initialDescription
+      value: 'Pueraria Virallis: An invasive species with vines that rapidly creep
+        and wrap around whatever they contact.'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27208d0fc3f7c3544a8d1a7861253b52, type: 3}

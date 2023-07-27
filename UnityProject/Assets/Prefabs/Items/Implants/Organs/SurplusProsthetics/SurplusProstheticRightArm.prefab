@@ -7,6 +7,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1026965309468799597, guid: 05849a8c832dadc4dbdbb0e5bbe37ec8,
+        type: 3}
+      propertyPath: initialDescription
+      value: A skeletal, robotic limb. Outdated and fragile, but it's still better
+        than nothing.
+      objectReference: {fileID: 0}
     - target: {fileID: 1760286878705800721, guid: 05849a8c832dadc4dbdbb0e5bbe37ec8,
         type: 3}
       propertyPath: BodyTypesSprites.BodyTypes.Array.data[0].Sprites.Array.data[0]
@@ -112,6 +118,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8914381210878237937, guid: 05849a8c832dadc4dbdbb0e5bbe37ec8,
+        type: 3}
+      propertyPath: _assetId
+      value: 1398248377
       objectReference: {fileID: 0}
     - target: {fileID: 8914381210878237937, guid: 05849a8c832dadc4dbdbb0e5bbe37ec8,
         type: 3}

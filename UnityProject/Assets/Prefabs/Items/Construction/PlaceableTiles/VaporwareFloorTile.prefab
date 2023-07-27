@@ -13,6 +13,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7052c1b37a47a6c4c8747ad0d2f9ae00,
         type: 2}
+    - target: {fileID: 2153783398316133701, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+        type: 3}
+      propertyPath: initialDescription
+      value: a gateway into both the past and the future.
+      objectReference: {fileID: 0}
     - target: {fileID: 3547700795691028992, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
         type: 3}
       propertyPath: foreverID
@@ -24,6 +29,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fd27f60663448bd4092d0e54a31a9e09,
         type: 2}
+    - target: {fileID: 7500036475197416409, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+        type: 3}
+      propertyPath: _assetId
+      value: 1042102672
+      objectReference: {fileID: 0}
     - target: {fileID: 7500036475197416409, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
         type: 3}
       propertyPath: m_AssetId

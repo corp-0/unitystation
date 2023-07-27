@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 491877240530548187, guid: c0e96760c016b6140ba8c3979e9213f7,
+        type: 3}
+      propertyPath: initialDescription
+      value: Hydrogen, highly flammable.
+      objectReference: {fileID: 0}
     - target: {fileID: 1821887108050511433, guid: c0e96760c016b6140ba8c3979e9213f7,
         type: 3}
       propertyPath: foreverID
@@ -134,6 +139,11 @@ PrefabInstance:
       propertyPath: CurrentsortingGroup
       value: 
       objectReference: {fileID: 4810659880696391718}
+    - target: {fileID: 6621590264234028386, guid: c0e96760c016b6140ba8c3979e9213f7,
+        type: 3}
+      propertyPath: _assetId
+      value: 3505736902
+      objectReference: {fileID: 0}
     - target: {fileID: 6621590264234028386, guid: c0e96760c016b6140ba8c3979e9213f7,
         type: 3}
       propertyPath: m_AssetId

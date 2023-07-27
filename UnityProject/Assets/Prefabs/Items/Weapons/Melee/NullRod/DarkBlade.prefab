@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: 96623f9859ab9a84fb589e110c401f10
       objectReference: {fileID: 0}
+    - target: {fileID: 2592778214070025400, guid: 9c123336301845541830989cb9e3d606,
+        type: 3}
+      propertyPath: initialDescription
+      value: Spread the glory of the dark gods!
+      objectReference: {fileID: 0}
     - target: {fileID: 5869444691453870322, guid: 9c123336301845541830989cb9e3d606,
         type: 3}
       propertyPath: initialName
@@ -51,6 +56,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2184457648898155496, guid: c87f3b21bf81b1148b1956ef763cdaff,
         type: 3}
+    - target: {fileID: 6200854109258175012, guid: 9c123336301845541830989cb9e3d606,
+        type: 3}
+      propertyPath: _assetId
+      value: 224886468
+      objectReference: {fileID: 0}
     - target: {fileID: 6200854109258175012, guid: 9c123336301845541830989cb9e3d606,
         type: 3}
       propertyPath: m_AssetId

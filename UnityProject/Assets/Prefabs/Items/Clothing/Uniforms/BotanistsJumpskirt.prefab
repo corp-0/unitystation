@@ -29,6 +29,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2909197017712554513, guid: 489cb478de43746cda8af4fd63be9282,
         type: 3}
+      propertyPath: _assetId
+      value: 4080770104
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 489cb478de43746cda8af4fd63be9282,
+        type: 3}
       propertyPath: m_AssetId
       value: f10fbf4f4a9d423449ef84f1a38684b1
       objectReference: {fileID: 0}
@@ -104,6 +109,11 @@ PrefabInstance:
       value: botanist's jumpskirt
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 489cb478de43746cda8af4fd63be9282,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a jumpskirt designed to protect against minor plant-related hazards.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 489cb478de43746cda8af4fd63be9282,
         type: 3}
       propertyPath: initialDescription
       value: It's a jumpskirt designed to protect against minor plant-related hazards.

@@ -14,6 +14,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1349684638700962633, guid: bc948ccbd770fff438862a32cd45a867,
         type: 3}
+      propertyPath: _assetId
+      value: 2333651293
+      objectReference: {fileID: 0}
+    - target: {fileID: 1349684638700962633, guid: bc948ccbd770fff438862a32cd45a867,
+        type: 3}
       propertyPath: m_AssetId
       value: fc8f1bc714a0a4f4da45a23de0fbc1ee
       objectReference: {fileID: 0}
@@ -110,6 +115,12 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: fc8f1bc714a0a4f4da45a23de0fbc1ee
+      objectReference: {fileID: 0}
+    - target: {fileID: 7443806961986678229, guid: bc948ccbd770fff438862a32cd45a867,
+        type: 3}
+      propertyPath: initialDescription
+      value: A diamond-tipped syringe that pierces armor when launched at high velocity.
+        It can hold up to 10 units.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc948ccbd770fff438862a32cd45a867, type: 3}

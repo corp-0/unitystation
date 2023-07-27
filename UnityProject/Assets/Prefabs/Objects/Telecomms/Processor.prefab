@@ -100,6 +100,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: d80287f2984bd444d96284d43dd860b5
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: This machine is used to process large quantities of information.
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: variantIndex
@@ -140,6 +145,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 92acb04cec2c9dd42b3daac7c61030a1,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 1839375709
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId

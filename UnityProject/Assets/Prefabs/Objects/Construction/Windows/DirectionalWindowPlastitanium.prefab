@@ -29,6 +29,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3145725722567961701, guid: c80393b4412660b41937e05425ceb921,
         type: 3}
+      propertyPath: _assetId
+      value: 2082007688
+      objectReference: {fileID: 0}
+    - target: {fileID: 3145725722567961701, guid: c80393b4412660b41937e05425ceb921,
+        type: 3}
       propertyPath: m_AssetId
       value: 422afccc119081a4fa895bc72e8ecd78
       objectReference: {fileID: 0}
@@ -119,6 +124,11 @@ PrefabInstance:
         type: 3}
       propertyPath: foreverID
       value: 422afccc119081a4fa895bc72e8ecd78
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543396787519386844, guid: c80393b4412660b41937e05425ceb921,
+        type: 3}
+      propertyPath: initialDescription
+      value: A durable looking window made of an alloy of of plasma and titanium.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c80393b4412660b41937e05425ceb921, type: 3}

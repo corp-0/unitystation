@@ -94,6 +94,11 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2602668963096875731, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a storage unit for janitorial clothes and gear.
+      objectReference: {fileID: 0}
     - target: {fileID: 4288925150764073281, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
         type: 3}
       propertyPath: foreverID
@@ -143,6 +148,11 @@ PrefabInstance:
         type: 3}
       propertyPath: pushPullSound.AssetAddress
       value: null
+      objectReference: {fileID: 0}
+    - target: {fileID: 8730627397065656938, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
+        type: 3}
+      propertyPath: _assetId
+      value: 3955190933
       objectReference: {fileID: 0}
     - target: {fileID: 8730627397065656938, guid: 68a3eee06f0a8cf4da5d8ab811ce1c73,
         type: 3}

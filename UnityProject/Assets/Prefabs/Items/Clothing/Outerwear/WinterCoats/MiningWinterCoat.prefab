@@ -45,12 +45,22 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 98e31714b1efde040bc335d8f94c291e,
         type: 2}
+    - target: {fileID: 3414541485199591099, guid: caa7ec1293d63a74aa063307403f0c7e,
+        type: 3}
+      propertyPath: initialDescription
+      value: A dusty button up winter coat. The zipper tab looks like a tiny pickaxe.
+      objectReference: {fileID: 0}
     - target: {fileID: 6481135740484462287, guid: caa7ec1293d63a74aa063307403f0c7e,
         type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 93138f2edde58f042af1e29f6a4546a3,
         type: 3}
+    - target: {fileID: 6526945778998519847, guid: caa7ec1293d63a74aa063307403f0c7e,
+        type: 3}
+      propertyPath: _assetId
+      value: 2491860004
+      objectReference: {fileID: 0}
     - target: {fileID: 6526945778998519847, guid: caa7ec1293d63a74aa063307403f0c7e,
         type: 3}
       propertyPath: m_AssetId

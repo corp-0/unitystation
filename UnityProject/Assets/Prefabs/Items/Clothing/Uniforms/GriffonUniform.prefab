@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2909197017712554513, guid: 3c8d2434c10f26c42baf079157919c47,
         type: 3}
+      propertyPath: _assetId
+      value: 3123805115
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909197017712554513, guid: 3c8d2434c10f26c42baf079157919c47,
+        type: 3}
       propertyPath: m_AssetId
       value: d7a22b6fbc128a04e8e4b85d2e082fba
       objectReference: {fileID: 0}
@@ -84,6 +89,12 @@ PrefabInstance:
       value: griffon uniform
       objectReference: {fileID: 0}
     - target: {fileID: 3397443007502491847, guid: 3c8d2434c10f26c42baf079157919c47,
+        type: 3}
+      propertyPath: initialDescription
+      value: A soft brown jumpsuit with a white feather collar made of synthetic
+        feathers and a lust for mayhem.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6748985711618743437, guid: 3c8d2434c10f26c42baf079157919c47,
         type: 3}
       propertyPath: initialDescription
       value: A soft brown jumpsuit with a white feather collar made of synthetic

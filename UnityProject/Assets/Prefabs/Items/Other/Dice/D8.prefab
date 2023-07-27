@@ -12,6 +12,11 @@ PrefabInstance:
       propertyPath: sides
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 974874576353264851, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: initialDescription
+      value: A die with eight sides. It feels... lucky.
+      objectReference: {fileID: 0}
     - target: {fileID: 2404714145071242134, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: foreverID
@@ -46,6 +51,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 059c886111027fd4fabe1ec5ce044d1d,
         type: 2}
+    - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
+        type: 3}
+      propertyPath: _assetId
+      value: 249673735
+      objectReference: {fileID: 0}
     - target: {fileID: 8678945255199976015, guid: 77d2a86d1e994c64485b5240c8f917ec,
         type: 3}
       propertyPath: m_AssetId

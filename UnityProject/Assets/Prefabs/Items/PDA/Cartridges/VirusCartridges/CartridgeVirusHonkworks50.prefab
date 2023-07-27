@@ -7,6 +7,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1642130849502917172, guid: a6ac0281d1a8192478248d8f86c2d784,
+        type: 3}
+      propertyPath: initialDescription
+      value: A data cartridge for portable microcomputers. It smells vaguely of bananas.
+      objectReference: {fileID: 0}
     - target: {fileID: 4030319348547672731, guid: a6ac0281d1a8192478248d8f86c2d784,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -83,6 +88,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7150793407664610472, guid: a6ac0281d1a8192478248d8f86c2d784,
+        type: 3}
+      propertyPath: _assetId
+      value: 3201799920
       objectReference: {fileID: 0}
     - target: {fileID: 7150793407664610472, guid: a6ac0281d1a8192478248d8f86c2d784,
         type: 3}

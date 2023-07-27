@@ -18,6 +18,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0f89a910f547b00488e90fe2f451d682,
         type: 2}
+    - target: {fileID: 3327455178086328905, guid: 1488f67a55cb9b84098e095e65e5a2b3,
+        type: 3}
+      propertyPath: initialDescription
+      value: A wicked tool that cleaves through dirt just as easily as it does flesh.
+        The design was styled after ancient lavaland tribal designs.
+      objectReference: {fileID: 0}
     - target: {fileID: 6394551987209013821, guid: 1488f67a55cb9b84098e095e65e5a2b3,
         type: 3}
       propertyPath: m_Sprite
@@ -83,6 +89,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6619098635907335381, guid: 1488f67a55cb9b84098e095e65e5a2b3,
+        type: 3}
+      propertyPath: _assetId
+      value: 1174019865
       objectReference: {fileID: 0}
     - target: {fileID: 6619098635907335381, guid: 1488f67a55cb9b84098e095e65e5a2b3,
         type: 3}

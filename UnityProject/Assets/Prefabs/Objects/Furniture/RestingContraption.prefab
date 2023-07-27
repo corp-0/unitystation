@@ -78,6 +78,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: e10c37bd80e7ef74ea22f1cce013e48f
       objectReference: {fileID: 0}
+    - target: {fileID: 3516965058190913555, guid: 5a7af30c589b41a449d0ba74c9e1771c,
+        type: 3}
+      propertyPath: initialDescription
+      value: This looks similar to contraptions from Earth. Could aliens be stealing
+        our technology?
+      objectReference: {fileID: 0}
     - target: {fileID: 5027040430374590435, guid: 5a7af30c589b41a449d0ba74c9e1771c,
         type: 3}
       propertyPath: resourcesMadeOf
@@ -90,6 +96,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8dac3f61981272d4e8c566abf678971b,
         type: 2}
+    - target: {fileID: 7924408911985682602, guid: 5a7af30c589b41a449d0ba74c9e1771c,
+        type: 3}
+      propertyPath: _assetId
+      value: 1299023440
+      objectReference: {fileID: 0}
     - target: {fileID: 7924408911985682602, guid: 5a7af30c589b41a449d0ba74c9e1771c,
         type: 3}
       propertyPath: m_AssetId

@@ -38,6 +38,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 3904014449823356494, guid: 5f9896c0cca80e14f8144be44d05e0a0,
         type: 3}
+      propertyPath: _assetId
+      value: 3583065915
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904014449823356494, guid: 5f9896c0cca80e14f8144be44d05e0a0,
+        type: 3}
       propertyPath: m_AssetId
       value: 3133f6ca5574a4b43ab378a0bf2f6ee0
       objectReference: {fileID: 0}
@@ -100,6 +105,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StrobeShield
+      objectReference: {fileID: 0}
+    - target: {fileID: 4889613473332312274, guid: 5f9896c0cca80e14f8144be44d05e0a0,
+        type: 3}
+      propertyPath: initialDescription
+      value: A shield with a built in, high intensity light capable of blinding and
+        disorienting suspects. Takes regular handheld flashes as bulbs.
       objectReference: {fileID: 0}
     - target: {fileID: 7133687355514949757, guid: 5f9896c0cca80e14f8144be44d05e0a0,
         type: 3}

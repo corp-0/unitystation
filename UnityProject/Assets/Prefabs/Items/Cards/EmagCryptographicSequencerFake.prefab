@@ -7,6 +7,13 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1019631599102624319, guid: 08128a9a69925eb4c93bc817c6ec2a88,
+        type: 3}
+      propertyPath: initialDescription
+      value: It's a card with a magnetic strip attached to some circuitry. Closer
+        inspection shows that this card is a poorly made replica, with a "DonkCo"
+        logo stamped on the back.
+      objectReference: {fileID: 0}
     - target: {fileID: 2521527662540365178, guid: 08128a9a69925eb4c93bc817c6ec2a88,
         type: 3}
       propertyPath: foreverID
@@ -96,6 +103,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8921851247785389219, guid: 08128a9a69925eb4c93bc817c6ec2a88,
         type: 3}
+      propertyPath: _assetId
+      value: 1659152115
+      objectReference: {fileID: 0}
+    - target: {fileID: 8921851247785389219, guid: 08128a9a69925eb4c93bc817c6ec2a88,
+        type: 3}
       propertyPath: m_AssetId
       value: 8d99b1da2dd11f44883e1a6470042394
       objectReference: {fileID: 0}
@@ -160,12 +172,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e15827970984ba78808f03bc3f01586, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   allClothingData:
   - {fileID: 11400000, guid: 4758621c95185244482f05a3d23c4993, type: 2}
   CurrentClothIndex: 0
   randomInitialClothData: 0
+  providesArtisticName: 0
+  artisticNameType: 0
   hidesIdentity: 0
   hidesSlots: 0
   hideClothingFlags: 0

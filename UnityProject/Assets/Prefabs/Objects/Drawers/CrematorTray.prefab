@@ -27,6 +27,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: cb335e9d7c8dce444a0ea88946edbfd8
       objectReference: {fileID: 0}
+    - target: {fileID: 1344368169052875666, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: initialDescription
+      value: Apply corpse and close tray before igniting.
+      objectReference: {fileID: 0}
     - target: {fileID: 4116897424394887774, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}
       propertyPath: m_Sprite
@@ -112,6 +117,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.FreezeProof
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
+        type: 3}
+      propertyPath: _assetId
+      value: 1415627036
       objectReference: {fileID: 0}
     - target: {fileID: 5737521361753715499, guid: ebb08cf966efc084aa918bd8d9429604,
         type: 3}

@@ -18,6 +18,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 901c1f6615fcfd94597e331012dacafd,
         type: 2}
+    - target: {fileID: 3336089833442446145, guid: 51326f2264a075148a8aaa6bf95604c7,
+        type: 3}
+      propertyPath: initialDescription
+      value: Some athletes prefer to tie their left shoelaces first for good luck.
+        In this instance, it probably would not have helped.
+      objectReference: {fileID: 0}
     - target: {fileID: 4062638375031680829, guid: 51326f2264a075148a8aaa6bf95604c7,
         type: 3}
       propertyPath: IsSurface

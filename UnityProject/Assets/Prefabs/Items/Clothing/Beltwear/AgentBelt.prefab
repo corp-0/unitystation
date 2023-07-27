@@ -75,6 +75,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3710393935362628567, guid: 00019cd41de95b244ac165825679fd64,
         type: 3}
+      propertyPath: _assetId
+      value: 1861103981
+      objectReference: {fileID: 0}
+    - target: {fileID: 3710393935362628567, guid: 00019cd41de95b244ac165825679fd64,
+        type: 3}
       propertyPath: m_AssetId
       value: d91af6f25eab9ce449c471607d5d614b
       objectReference: {fileID: 0}
@@ -106,6 +111,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: d27212f7cb194bc47b87021c285a5e05,
         type: 2}
+    - target: {fileID: 5083238351458579787, guid: 00019cd41de95b244ac165825679fd64,
+        type: 3}
+      propertyPath: initialDescription
+      value: A belt used by abductor agents.
+      objectReference: {fileID: 0}
     - target: {fileID: 7471433365968723428, guid: 00019cd41de95b244ac165825679fd64,
         type: 3}
       propertyPath: PresentSpriteSet

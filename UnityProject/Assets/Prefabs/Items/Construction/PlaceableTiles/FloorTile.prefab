@@ -732,6 +732,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: caac4e682b31370458443390467ba86f,
         type: 2}
+    - target: {fileID: 4234637232426304739, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: initialDescription
+      value: The ground you walk on
+      objectReference: {fileID: 0}
     - target: {fileID: 5209370598559660201, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
       propertyPath: hitDamage

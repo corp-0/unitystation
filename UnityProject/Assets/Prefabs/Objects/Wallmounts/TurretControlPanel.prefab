@@ -138,6 +138,11 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: -1618464505
       objectReference: {fileID: 0}
+    - target: {fileID: 4499248896074852455, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: initialDescription
+      value: Used to control a room's automated defenses.
+      objectReference: {fileID: 0}
     - target: {fileID: 6109775972905365350, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: PresentSpriteSet
@@ -173,6 +178,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 2a4f3022c5ac3d74eb3da675fe6268d5,
         type: 2}
+    - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
+        type: 3}
+      propertyPath: _assetId
+      value: 3888556403
+      objectReference: {fileID: 0}
     - target: {fileID: 7153803037707514078, guid: b69bfc56f39849d4ba9139d2d51bedb6,
         type: 3}
       propertyPath: m_AssetId
@@ -265,6 +275,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d7277dcc993463cb6c7f79b663f36fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
+  syncMode: 0
+  syncInterval: 0.1
   NetTabType: 40
   aiInteractable: 1
 --- !u!114 &4076128794705490040
@@ -292,6 +305,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 819809cff2481914d883a6e1fefb4edd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   MethodRotation: 0
@@ -313,6 +327,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5e7146b5ced6f143b6e4784877c7513, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
   runningInterfaces: []

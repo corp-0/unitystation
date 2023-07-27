@@ -28,6 +28,11 @@ PrefabInstance:
       propertyPath: StartingNutrients
       value: 223
       objectReference: {fileID: 0}
+    - target: {fileID: 2647775604988798290, guid: 699a33dd843ab594e9b3dbbf5b6305d4,
+        type: 3}
+      propertyPath: initialDescription
+      value: Some deliciously cooked crab meat.
+      objectReference: {fileID: 0}
     - target: {fileID: 4753068150696918738, guid: 699a33dd843ab594e9b3dbbf5b6305d4,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
@@ -130,6 +135,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CrabMeat
+      objectReference: {fileID: 0}
+    - target: {fileID: 5857058975867227086, guid: 699a33dd843ab594e9b3dbbf5b6305d4,
+        type: 3}
+      propertyPath: _assetId
+      value: 2785701361
       objectReference: {fileID: 0}
     - target: {fileID: 5857058975867227086, guid: 699a33dd843ab594e9b3dbbf5b6305d4,
         type: 3}

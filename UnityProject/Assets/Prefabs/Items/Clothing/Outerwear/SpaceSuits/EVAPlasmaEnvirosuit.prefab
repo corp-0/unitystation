@@ -39,6 +39,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: f70adc254785cb540bcd9b1b873db30e,
         type: 2}
+    - target: {fileID: 4411345340311771647, guid: 5b03000bed50be045b14e7dc9186fd97,
+        type: 3}
+      propertyPath: initialDescription
+      value: A special plasma containment suit designed to be space-worthy, as well
+        as worn over other clothing. Like its smaller counterpart, it can automatically
+        extinguish the wearer in a crisis, and holds twice as many charges.
+      objectReference: {fileID: 0}
     - target: {fileID: 5242477243790367523, guid: 5b03000bed50be045b14e7dc9186fd97,
         type: 3}
       propertyPath: Armor.Rad
@@ -58,6 +65,11 @@ PrefabInstance:
         type: 3}
       propertyPath: Resistances.FireProof
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5246274445521368931, guid: 5b03000bed50be045b14e7dc9186fd97,
+        type: 3}
+      propertyPath: _assetId
+      value: 3008082945
       objectReference: {fileID: 0}
     - target: {fileID: 5246274445521368931, guid: 5b03000bed50be045b14e7dc9186fd97,
         type: 3}

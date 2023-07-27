@@ -9,6 +9,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1762559375258620544, guid: 6224e1266c75b0643bd1cef8fbb6e615,
         type: 3}
+      propertyPath: _assetId
+      value: 2649501705
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762559375258620544, guid: 6224e1266c75b0643bd1cef8fbb6e615,
+        type: 3}
       propertyPath: m_AssetId
       value: 41ca4b485865db84ead9e159cefa435e
       objectReference: {fileID: 0}
@@ -110,5 +115,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 128a50c4cf2fcc942a0c043ab618b12d,
         type: 2}
+    - target: {fileID: 7891260445574183964, guid: 6224e1266c75b0643bd1cef8fbb6e615,
+        type: 3}
+      propertyPath: initialDescription
+      value: The perfect showcase for your favorite deathtrap memories.
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6224e1266c75b0643bd1cef8fbb6e615, type: 3}

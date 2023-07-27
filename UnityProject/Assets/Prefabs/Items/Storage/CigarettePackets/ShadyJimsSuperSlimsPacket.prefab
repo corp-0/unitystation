@@ -99,6 +99,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
         type: 3}
+      propertyPath: _assetId
+      value: 2405388607
+      objectReference: {fileID: 0}
+    - target: {fileID: 2147979857387961395, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
       propertyPath: m_AssetId
       value: 062d0147cd763a74e92a69bde7b76f0e
       objectReference: {fileID: 0}
@@ -119,5 +124,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7c546c8da5df7a24eb256195715fa43a,
         type: 2}
+    - target: {fileID: 7510198461880636079, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2,
+        type: 3}
+      propertyPath: initialDescription
+      value: Is your weight slowing you down? Having trouble running away from gravitational
+        singularities? Can't stop stuffing your mouth? Smoke Shady Jim's Super Slims
+        and watch all that fat burn away. Guaranteed results!
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9c8ffe7c5a0a044bbe8343e681e1fe2, type: 3}

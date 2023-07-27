@@ -18,6 +18,11 @@ PrefabInstance:
       propertyPath: foreverID
       value: f2fafeba491b2654496e53736b4d2e12
       objectReference: {fileID: 0}
+    - target: {fileID: 2591763137819343825, guid: d2ef9e5590dc00048833d43a568feb07,
+        type: 3}
+      propertyPath: initialDescription
+      value: Honey drizzled over a snowball in a paper cup.
+      objectReference: {fileID: 0}
     - target: {fileID: 2756779714572970633, guid: d2ef9e5590dc00048833d43a568feb07,
         type: 3}
       propertyPath: NutritionLevel
@@ -80,6 +85,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197365604022048077, guid: d2ef9e5590dc00048833d43a568feb07,
+        type: 3}
+      propertyPath: _assetId
+      value: 3050542211
       objectReference: {fileID: 0}
     - target: {fileID: 6197365604022048077, guid: d2ef9e5590dc00048833d43a568feb07,
         type: 3}
