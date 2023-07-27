@@ -71,13 +71,13 @@ namespace Systems.Research
 
 				Globals.InternalIDSearch = new Dictionary<string, Design>();
 
-				string info = Path.Combine("TechWeb", "Designs");
+				string info = AccessFile.TechWebDesingsFolder;
 
-				var Files = AccessFile.Contents(info);
+				var files = AccessFile.Contents(info);
 
-				foreach(string file in Files)
+				foreach(string file in files)
 				{
-					Jsons.Add(AccessFile.Load(Path.Combine("TechWeb", "Designs",file)));
+					Jsons.Add(AccessFile.Load(Path.Combine(AccessFile.TechWebDesingsFolder,file)));
 				}
 
 				new Task(JsonImportInitialization).Start();

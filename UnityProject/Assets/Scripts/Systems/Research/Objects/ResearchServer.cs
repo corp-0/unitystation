@@ -2,10 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using Core.SafeFilesystem;
 using Items.Storage.VirtualStorage;
 using Mirror;
 using UnityEngine;
-using Systems.Research.Data;
 using Shared.Systems.ObjectConnection;
 using Random = UnityEngine.Random;
 
@@ -52,7 +52,7 @@ namespace Systems.Research.Objects
 
 			if (diskStorage.GetIndexedItemSlot(0).ItemObject.TryGetComponent<HardDriveBase>(out var disk) == true)
 			{
-				string path = Path.Combine("TechWeb", "TechwebData.json");
+				string path = Path.Combine(AccessFile.TechWebFolder, "TechwebData.json");
 				Techweb.LoadTechweb(path);
 
 				var newTechwebFile = new TechwebFiles();

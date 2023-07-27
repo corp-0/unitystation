@@ -20,6 +20,8 @@ namespace Core.SafeFilesystem
 
 		public static string ChatLogsFolder => "Chatlogs";
 		public static string AdminFolder => "Admin";
+		public static string TechWebFolder => "TechWeb";
+		public static string TechWebDesingsFolder => Path.Combine(TechWebFolder, "Designs");
 
 		private static string ForkName
 		{
@@ -31,7 +33,7 @@ namespace Core.SafeFilesystem
 					"buildinfo.json"));
 				var text = File.ReadAllText(path);
 				var data = JsonConvert.DeserializeObject<BuiltFork>(text);
-				cashedForkName = data == null ? "Unitystation" : data.Name;
+				cashedForkName = data == null ? "Unitystation" : data.ForkName;
 
 				return cashedForkName;
 			}
@@ -45,69 +47,79 @@ namespace Core.SafeFilesystem
 
 		private class BuiltFork
 		{
-			public string Name { get; set; } // = Unitystation"
+			public string ForkName { get; set; } // = Unitystation"
 		}
 
 
 		private static readonly string[] AllowedExtensions = new[] {".txt", ".json", ".toml", ".yaml", ".data", ".log"};
 
-		private static string ValidatePath(string relativePath, FolderType folderType, bool userPersistent, bool createFile, bool addExtension = true)
+		private static string ValidatePath(string relativePath, FolderType folderType, bool userPersistent,
+			bool createFile, bool addExtension = true)
 		{
-			string extension = GetFileExtension(relativePath, folderType, addExtension);
-			string resolvedPath = GetResolvedPath(relativePath + extension, folderType, userPersistent);
-			CreateDirectoryIfNotExists(resolvedPath);
-			CreateFileIfRequired(resolvedPath, createFile);
-			return resolvedPath;
-		}
+			bool isAllowedExtension = false;
+			var extension = "";
 
-		private static string GetFileExtension(string relativePath, FolderType folderType, bool addExtension)
-		{
-			if (!addExtension) return "";
-
-			var isAllowedExtension = AllowedExtensions.Any(relativePath.EndsWith);
-			if (isAllowedExtension) return "";
-
-			return folderType switch
+			if (addExtension)
 			{
-				FolderType.Config => ".txt",
-				FolderType.Data => ".Data",
-				FolderType.Logs => ".log",
-				_ => ""
-			};
-		}
+				foreach (var allowedExtension in AllowedExtensions)
+				{
+					if (relativePath.EndsWith(allowedExtension) == false) continue;
+					isAllowedExtension = true;
+					break;
+				}
 
-		private static string GetResolvedPath(string relativePath, FolderType folderType, bool userPersistent)
-		{
-			string baseFolder = userPersistent ? Application.persistentDataPath : Application.streamingAssetsPath;
-			string resolvedPath = Path.GetFullPath(Path.Combine(baseFolder, ForkName, folderType.ToString(), relativePath));
+				if (isAllowedExtension == false)
+				{
+					extension = folderType switch
+					{
+						FolderType.Config => ".txt",
+						FolderType.Data => ".Data",
+						FolderType.Logs => ".log",
+						_ => extension
+					};
+				}
 
-			if (!resolvedPath.StartsWith(Path.GetFullPath(Path.Combine(baseFolder, ForkName, folderType.ToString()))))
+			}
+
+			string resolvedPath;
+
+			if (userPersistent)
 			{
-				var error = $"{(userPersistent ? "Persistent data" : "Streaming assets")} Malicious PATH was passed into File access, HEY NO! Stop being naughty with the PATH! {resolvedPath}";
-				Logger.LogError(error);
-				throw new Exception(error);
+				resolvedPath = Path.GetFullPath(Path.Combine(Application.persistentDataPath, ForkName , folderType.ToString(), relativePath + extension));
+				if (resolvedPath.StartsWith(Path.GetFullPath(Path.Combine(Application.persistentDataPath, ForkName, folderType.ToString()))) == false)
+				{
+					Logger.LogError($"Persistent data Malicious PATH was passed into File access, HEY NO! Stop being naughty with the PATH! {resolvedPath}");
+					throw new Exception($"Persistent data  Malicious PATH was passed into File access, HEY NO! Stop being naughty with the PATH! {resolvedPath}");
+				}
+			}
+			else
+			{
+				resolvedPath = Path.GetFullPath(Path.Combine(Application.streamingAssetsPath,folderType.ToString(), relativePath + extension));
+				if (resolvedPath.StartsWith(Path.GetFullPath(Path.Combine(Application.streamingAssetsPath,  folderType.ToString()))) == false)
+				{
+					Logger.LogError($"Streaming assets Malicious PATH was passed into File access, HEY NO! Stop being naughty with the PATH! {resolvedPath}");
+					throw new Exception($"Streaming assets Malicious PATH was passed into File access, HEY NO! Stop being naughty with the PATH! {resolvedPath}");
+				}
+			}
+
+			var aDirectory = Path.GetDirectoryName(resolvedPath);
+			if (aDirectory is not null)
+			{
+				Directory.CreateDirectory(aDirectory);
+			}
+
+			if (createFile)
+			{
+				// Check if the file already exists
+				if (File.Exists(resolvedPath) == false)
+				{
+					// Create the file at the specified path
+					File.Create(resolvedPath).Close();
+				}
 			}
 
 			return resolvedPath;
 		}
-
-		private static void CreateDirectoryIfNotExists(string resolvedPath)
-		{
-			var directoryPath = Path.GetDirectoryName(resolvedPath);
-			if (directoryPath is not null)
-			{
-				Directory.CreateDirectory(directoryPath);
-			}
-		}
-
-		private static void CreateFileIfRequired(string resolvedPath, bool createFile)
-		{
-			if (createFile && !File.Exists(resolvedPath))
-			{
-				File.Create(resolvedPath).Close();
-			}
-		}
-
 
 		/// <summary>
 		/// Saves the provided data as a string to a specified file path within a designated access category. The function ensures the path's validity and security before performing the save operation. The data can be saved either in a user-specific persistent data path or in the streaming assets path, based on the 'userPersistent' parameter.
