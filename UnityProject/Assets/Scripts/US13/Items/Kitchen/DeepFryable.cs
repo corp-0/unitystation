@@ -24,11 +24,6 @@ namespace US13.Items.Kitchen
 		[SerializeField] private Edible dormantEdible;
 
 		/// <summary>
-		/// The resolved active ReagentContainer (set during dormant component activation).
-		/// </summary>
-		private ReagentContainer activeReagentContainer;
-
-		/// <summary>
 		/// Name of the item when the current fry session started.
 		/// Used to replace prefixes within a session without stacking.
 		/// </summary>
@@ -116,61 +111,35 @@ namespace US13.Items.Kitchen
 
 		#region Dormant Component Activation
 
-		private void ResolveActiveComponents()
+		private void EnableDormantComponents()
 		{
-			ResolveReagentContainerComponent();
-			ResolveEdibleComponent();
-		}
-
-		private void ResolveEdibleComponent()
-		{
-			Edible edible = null;
-			foreach (var e in GetComponents<Edible>())
-			{
-				if (!e.enabled || e == dormantEdible) continue;
-				edible = e;
-				break;
-			}
-
-			if (edible != null || dormantEdible == null) return;
-			dormantEdible.enabled = true;
-			int bites = Mathf.Max(1, (int)itemAttributes.Size);
-			dormantEdible.SetMaxBites(bites, resetCurrentBites: true);
-		}
-
-		private void ResolveReagentContainerComponent()
-		{
-			ReagentContainer container = null;
-			foreach (var rc in GetComponents<ReagentContainer>())
-			{
-				if (!rc.enabled || rc == dormantReagentContainer) continue;
-				container = rc;
-				break;
-			}
-
-			if (container == null && dormantReagentContainer != null)
+			if (dormantReagentContainer != null)
 			{
 				dormantReagentContainer.enabled = true;
-				container = dormantReagentContainer;
 			}
 
-			activeReagentContainer = container;
+			if (dormantEdible != null)
+			{
+				dormantEdible.enabled = true;
+				int bites = Mathf.Max(1, (int)itemAttributes.Size);
+				dormantEdible.SetMaxBites(bites, resetCurrentBites: true);
+			}
 		}
 
 		[Server]
 		private void UpdateNutriment(FriedLevel newLevel)
 		{
-			if (activeReagentContainer == null) return;
+			if (dormantReagentContainer == null) return;
 
 			float nutriment = NutrientForLevel(newLevel);
 
 			// Remove any existing fried nutriment, then add the new amount
 			if (friedNutrimentReagent != null)
 			{
-				activeReagentContainer.CurrentReagentMix.Remove(friedNutrimentReagent, activeReagentContainer.CurrentReagentMix[friedNutrimentReagent]);
+				dormantReagentContainer.CurrentReagentMix.Remove(friedNutrimentReagent, dormantReagentContainer.CurrentReagentMix[friedNutrimentReagent]);
 				if (nutriment > 0f)
 				{
-					activeReagentContainer.CurrentReagentMix.Add(friedNutrimentReagent, nutriment);
+					dormantReagentContainer.CurrentReagentMix.Add(friedNutrimentReagent, nutriment);
 				}
 			}
 		}
@@ -195,7 +164,7 @@ namespace US13.Items.Kitchen
 			// Try enabling the dormant components. This call is done in both server and client.
 			if (oldLevel == FriedLevel.NotFried && newLevel > FriedLevel.NotFried)
 			{
-				ResolveActiveComponents();
+				EnableDormantComponents();
 			}
 
 			if (spriteHandler == null) return;
