@@ -12,7 +12,7 @@ PrefabInstance:
       propertyPath: BasePurity
       value: 43
       objectReference: {fileID: 0}
-    - target: {fileID: 2566823228151221772, guid: d5e025aa25145c744ae2e3883cd7dd39,
+    - target: {fileID: 7744501558190171475, guid: d5e025aa25145c744ae2e3883cd7dd39,
         type: 3}
       propertyPath: maxCapacity
       value: 420

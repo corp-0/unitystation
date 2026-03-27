@@ -100,28 +100,28 @@ PrefabInstance:
       value: The choice to use real gondola meat in the recipe is controversial,
         to say the least.
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: dd10310c18d4bdabca267178a4fe7963,
         type: 2}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 5

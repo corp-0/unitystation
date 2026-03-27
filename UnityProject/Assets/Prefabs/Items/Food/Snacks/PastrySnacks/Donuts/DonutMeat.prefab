@@ -94,23 +94,23 @@ PrefabInstance:
       propertyPath: initialDescription
       value: Tastes as gross as it looks.
       objectReference: {fileID: 0}
-    - target: {fileID: 1398369218560679540, guid: c8966d5986e801548b806fb2ab2bbf3c,
+    - target: {fileID: 6597437449954719019, guid: c8966d5986e801548b806fb2ab2bbf3c,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 1398369218560679540, guid: c8966d5986e801548b806fb2ab2bbf3c,
+    - target: {fileID: 6597437449954719019, guid: c8966d5986e801548b806fb2ab2bbf3c,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 1398369218560679540, guid: c8966d5986e801548b806fb2ab2bbf3c,
+    - target: {fileID: 6597437449954719019, guid: c8966d5986e801548b806fb2ab2bbf3c,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: 7ace1bf0147f08919bb5c16a12fb72f3,
         type: 2}
-    - target: {fileID: 1398369218560679540, guid: c8966d5986e801548b806fb2ab2bbf3c,
+    - target: {fileID: 6597437449954719019, guid: c8966d5986e801548b806fb2ab2bbf3c,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 2

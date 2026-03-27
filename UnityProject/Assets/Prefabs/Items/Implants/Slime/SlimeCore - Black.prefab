@@ -137,12 +137,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: e6e37338f31055446bbbdd40920fbc5d,
         type: 2}
-    - target: {fileID: 8358244675405048560, guid: 789d74731ecbf8e4a813fc024afaf831,
+    - target: {fileID: 7093579094221658151, guid: 789d74731ecbf8e4a813fc024afaf831,
         type: 3}
       propertyPath: AdditionalReactions.Array.size
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8358244675405048560, guid: 789d74731ecbf8e4a813fc024afaf831,
+    - target: {fileID: 7093579094221658151, guid: 789d74731ecbf8e4a813fc024afaf831,
         type: 3}
       propertyPath: 'AdditionalReactions.Array.data[0]'
       value: 

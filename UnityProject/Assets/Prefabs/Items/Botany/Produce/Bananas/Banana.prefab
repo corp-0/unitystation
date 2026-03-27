@@ -252,13 +252,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: b29d3b3d0eac3a84d9ef700d10f41b3a
       objectReference: {fileID: 0}
-    - target: {fileID: 7037229560526396988, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+    - target: {fileID: 3753276431180565781, guid: 27208d0fc3f7c3544a8d1a7861253b52,
         type: 3}
       propertyPath: leavings
       value: 
       objectReference: {fileID: 3626410358046780009, guid: 7c4d6f08fc4da3b4dbd86d2f111812ea,
         type: 3}
-    - target: {fileID: 7037229560526396988, guid: 27208d0fc3f7c3544a8d1a7861253b52,
+    - target: {fileID: 3753276431180565781, guid: 27208d0fc3f7c3544a8d1a7861253b52,
         type: 3}
       propertyPath: copyPlantDataToLeavings
       value: 1

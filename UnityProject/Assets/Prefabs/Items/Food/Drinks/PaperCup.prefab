@@ -356,12 +356,12 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 8971384748461147908, guid: 46bb2fe95f4f66341aadfb4600751333,
+    - target: {fileID: 3775720626508852315, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: maxCapacity
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 8971384748461147908, guid: 46bb2fe95f4f66341aadfb4600751333,
+    - target: {fileID: 3775720626508852315, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 0

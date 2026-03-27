@@ -52,6 +52,9 @@ SpriteRenderer:
   m_RayTraceProcedural: 0
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -73,6 +76,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1463207863
   m_SortingLayer: 13
   m_SortingOrder: 40
@@ -104,10 +108,14 @@ MonoBehaviour:
   InitialPresentSpriteSet: {fileID: 11400000, guid: cb9094433cfd404448d8fa567d22508c,
     type: 2}
   randomInitialSprite: 0
+  spriteRenderer: {fileID: 0}
   doReverseAnimation: 0
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
+  InitialColour: {r: 1, g: 1, b: 1, a: 1}
   palette: []
+  initialSortingOrder: -1
+  initialSortingLayerName: 
 --- !u!1 &9166176503069144041
 GameObject:
   m_ObjectHideFlags: 0
@@ -160,6 +168,9 @@ SpriteRenderer:
   m_RayTraceProcedural: 0
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
@@ -181,6 +192,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1463207863
   m_SortingLayer: 13
   m_SortingOrder: 41
@@ -212,10 +224,14 @@ MonoBehaviour:
   InitialPresentSpriteSet: {fileID: 11400000, guid: 3607c9afef5b0f141b88da690283c96c,
     type: 2}
   randomInitialSprite: 0
+  spriteRenderer: {fileID: 0}
   doReverseAnimation: 0
   pushTextureOnStartUp: 1
   initialVariantIndex: 0
+  InitialColour: {r: 1, g: 1, b: 1, a: 1}
   palette: []
+  initialSortingOrder: -1
+  initialSortingLayerName: 
 --- !u!1001 &1694231013772067744
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -501,6 +517,276 @@ PrefabInstance:
       propertyPath: m_Name
       value: WeldingTool
       objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_CorrespondingSourceObject.m_FileID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_CorrespondingSourceObject.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_PrefabInstance.m_FileID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_PrefabInstance.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_PrefabAsset.m_FileID
+      value: 269794
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_PrefabAsset.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_GameObject.m_FileID
+      value: 263264
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_GameObject.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_Script.m_FileID
+      value: 19412
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_Script.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_Name.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_EditorClassIdentifier.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: syncDirection
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: syncMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: syncInterval
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: ReactionSounds
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: maxCapacity
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: DEBUGReagent.m_FileID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: DEBUGReagent.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: DEBUGAmount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: StopReactions
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: reactionSet.m_FileID
+      value: 92346
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: reactionSet.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: AdditionalReactions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialReagentMix.temperature
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialReagentMix.reagents.m_keys.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0].m_FileID'
+      value: 56692
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0].m_PathID'
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialReagentMix.reagents.m_values.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialReagentMix.reagentKeys.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: destroyOnEmpty
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: ContentsSet
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: menuOptions
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: currentReagentMix.temperature
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: currentReagentMix.reagents.m_keys.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: currentReagentMix.reagents.m_values.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: currentReagentMix.reagentKeys.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: spriteHandler.m_FileID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: spriteHandler.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: UseStandardExamine
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: ExamineAmount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: ExamineContent
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: traitWhitelist.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: reagentWhitelist.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: 'reagentWhitelist.Array.data[0].m_FileID'
+      value: 56692
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: 'reagentWhitelist.Array.data[0].m_PathID'
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: transferMode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: onlyAllowSyringeFilling
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: SyringePulling
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: possibleTransferAmounts.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: transferAmount
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: transferSound.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -521,10 +807,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 4591132913751966026}
-    - targetCorrespondingSourceObject: {fileID: 8610225452865205335, guid: c9c58a9243d494537abcb4ee470efab0,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 9051842671118403817}
   m_SourcePrefab: {fileID: 100100000, guid: c9c58a9243d494537abcb4ee470efab0, type: 3}
 --- !u!4 &6984298448623192707 stripped
 Transform:
@@ -574,6 +856,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 204aacae6ca473249a27f34c39929a87, type: 3}
   - {fileID: 21300000, guid: 5ac9c1e3cc70c5c4b9749c0cf40f7363, type: 3}
   - {fileID: 21300002, guid: 100128ab6bf01d24a98cae0a1cc0c962, type: 3}
+  fuelRegenerationPerSecond: 0
   flameSprites:
   - {fileID: 21300000, guid: d1b1a5061af11bd4c9b692d8a2da7c98, type: 3}
   - {fileID: 21300002, guid: d1b1a5061af11bd4c9b692d8a2da7c98, type: 3}
@@ -581,44 +864,3 @@ MonoBehaviour:
   flameRenderer: {fileID: 6120423163433110244}
   fuel: {fileID: 11400000, guid: f4f9cca4ec6d74752a99cdbf95072489, type: 2}
   damageOn: 15
---- !u!114 &9051842671118403817
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6989221924687263735}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6adedb9416d7b647b6c3811ff2f0824, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ReactionSounds: 1
-  maxCapacity: 20
-  DEBUGReagent: {fileID: 0}
-  DEBUGAmount: 0
-  reactionSet: {fileID: 11400000, guid: 2d5f766d9268838aa8d819bee2a442a7, type: 2}
-  AdditionalReactions: []
-  initialReagentMix:
-    temperature: 0
-    reagents:
-      m_keys:
-      - {fileID: 11400000, guid: f4f9cca4ec6d74752a99cdbf95072489, type: 2}
-      m_values:
-      - 20
-    reagentKeys: []
-  destroyOnEmpty: 0
-  ContentsSet: 0
-  menuOptions: 0
-  spriteHandler: {fileID: 0}
-  UseStandardExamine: 1
-  ExamineAmount: 1
-  ExamineContent: 0
-  traitWhitelist: []
-  reagentWhitelist:
-  - {fileID: 11400000, guid: f4f9cca4ec6d74752a99cdbf95072489, type: 2}
-  transferMode: 3
-  SyringePulling: 0
-  possibleTransferAmounts: []
-  transferAmount: 100
-  transferSound: []

@@ -24,12 +24,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: f6b66499e875a7f43b902c4070a5e69e
       objectReference: {fileID: 0}
-    - target: {fileID: 3916522603024104466, guid: 82854d05a642eb841b438f039ae33cb5,
+    - target: {fileID: 7198259127542017851, guid: 82854d05a642eb841b438f039ae33cb5,
         type: 3}
       propertyPath: NutritionLevel
       value: 113
       objectReference: {fileID: 0}
-    - target: {fileID: 3916522603024104466, guid: 82854d05a642eb841b438f039ae33cb5,
+    - target: {fileID: 7198259127542017851, guid: 82854d05a642eb841b438f039ae33cb5,
         type: 3}
       propertyPath: StartingNutrients
       value: 113
@@ -115,13 +115,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6243974237879006922, guid: 82854d05a642eb841b438f039ae33cb5,
+    - target: {fileID: 2180237541217230229, guid: 82854d05a642eb841b438f039ae33cb5,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: 00d9a9827ebcc49ab8b0df647c4f7da5,
         type: 2}
-    - target: {fileID: 6243974237879006922, guid: 82854d05a642eb841b438f039ae33cb5,
+    - target: {fileID: 2180237541217230229, guid: 82854d05a642eb841b438f039ae33cb5,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 3

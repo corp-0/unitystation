@@ -129,52 +129,52 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: maxCapacity
       value: 50
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: menuOptions
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: transferMode
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: ExamineContent
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: SyringePulling
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: UseStandardExamine
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: onlyAllowSyringeFilling
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[0]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[1]'
       value: 5

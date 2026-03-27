@@ -8,33 +8,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: fa60dedbe4f861e76a46f56f59987729,
         type: 2}
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 26.666666
       objectReference: {fileID: 0}
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 8
@@ -130,12 +130,12 @@ PrefabInstance:
       propertyPath: initialDescription
       value: Probably too incredible for mortal men to fully enjoy.
       objectReference: {fileID: 0}
-    - target: {fileID: 4755138025394611660, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 1459930234962441957, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: NutritionLevel
       value: 525
       objectReference: {fileID: 0}
-    - target: {fileID: 4755138025394611660, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 1459930234962441957, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: StartingNutrients
       value: 525

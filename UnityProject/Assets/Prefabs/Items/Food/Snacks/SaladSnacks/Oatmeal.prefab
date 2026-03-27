@@ -8,23 +8,23 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: a1724b1210d8177c097a28325415c0b1,
         type: 2}
-    - target: {fileID: 2378148153672396564, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 7630837366276113483, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 10
@@ -120,12 +120,12 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A nice bowl of oatmeal.
       objectReference: {fileID: 0}
-    - target: {fileID: 4755138025394611660, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 1459930234962441957, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: NutritionLevel
       value: 363
       objectReference: {fileID: 0}
-    - target: {fileID: 4755138025394611660, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
+    - target: {fileID: 1459930234962441957, guid: 1817d25e88b0b2b4aadd7b5e6b7e1a98,
         type: 3}
       propertyPath: StartingNutrients
       value: 363

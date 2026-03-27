@@ -171,7 +171,7 @@ PrefabInstance:
       propertyPath: onTakeDamageSounds.Array.data[1].AssetAddress
       value: Assets/Prefabs/Effects/wounds/crack2.prefab
       objectReference: {fileID: 0}
-    - target: {fileID: 5166433732684877445, guid: e241039a7933eb347bd1a9bb67a9078a,
+    - target: {fileID: 9137129011046214237, guid: e241039a7933eb347bd1a9bb67a9078a,
         type: 3}
       propertyPath: maxCapacity
       value: 30

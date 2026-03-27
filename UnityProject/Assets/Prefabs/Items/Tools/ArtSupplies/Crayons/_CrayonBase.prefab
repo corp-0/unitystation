@@ -119,6 +119,251 @@ PrefabInstance:
       propertyPath: m_Name
       value: _CrayonBase
       objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_CorrespondingSourceObject.m_FileID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_CorrespondingSourceObject.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_PrefabInstance.m_FileID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_PrefabInstance.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_PrefabAsset.m_FileID
+      value: 235948
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_PrefabAsset.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_GameObject.m_FileID
+      value: 156812
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_GameObject.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_Script.m_FileID
+      value: 19412
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_Script.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_Name.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: m_EditorClassIdentifier.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: syncDirection
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: syncMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: syncInterval
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: ReactionSounds
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: maxCapacity
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: DEBUGReagent.m_FileID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: DEBUGReagent.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: DEBUGAmount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: StopReactions
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: reactionSet.m_FileID
+      value: 92346
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: reactionSet.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: AdditionalReactions.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialReagentMix.temperature
+      value: 273.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialReagentMix.reagents.m_keys.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialReagentMix.reagents.m_values.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: initialReagentMix.reagentKeys.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: destroyOnEmpty
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: ContentsSet
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: menuOptions
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: currentReagentMix.temperature
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: currentReagentMix.reagents.m_keys.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: currentReagentMix.reagents.m_values.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: currentReagentMix.reagentKeys.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: spriteHandler.m_FileID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: spriteHandler.m_PathID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: UseStandardExamine
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: ExamineAmount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: ExamineContent
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: traitWhitelist.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: reagentWhitelist.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: transferMode
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: onlyAllowSyringeFilling
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: SyringePulling
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: possibleTransferAmounts.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: transferAmount
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3364592044955228064, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: transferSound.Array.size
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -131,10 +376,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1438471213590705318}
-    - targetCorrespondingSourceObject: {fileID: 8610225452865205335, guid: c9c58a9243d494537abcb4ee470efab0,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 9130876904203733421}
   m_SourcePrefab: {fileID: 100100000, guid: c9c58a9243d494537abcb4ee470efab0, type: 3}
 --- !u!212 &1487292090815827991 stripped
 SpriteRenderer:
@@ -195,52 +436,3 @@ MonoBehaviour:
       m_SubObjectType: 
       m_EditorAssetChanged: 0
   crayonBoxCapacity: {fileID: 11400000, guid: b6ebe68a2fe70094e8f9113df20cc0a6, type: 2}
---- !u!114 &9130876904203733421
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1608376441554494283}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a6adedb9416d7b647b6c3811ff2f0824, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  syncDirection: 0
-  syncMode: 0
-  syncInterval: 0
-  ReactionSounds: 1
-  maxCapacity: 50
-  DEBUGReagent: {fileID: 0}
-  DEBUGAmount: 0
-  StopReactions: 0
-  reactionSet: {fileID: 11400000, guid: 2d5f766d9268838aa8d819bee2a442a7, type: 2}
-  AdditionalReactions: []
-  initialReagentMix:
-    temperature: 273.15
-    reagents:
-      m_keys: []
-      m_values: []
-    reagentKeys: []
-  destroyOnEmpty: 0
-  ContentsSet: 0
-  menuOptions: 0
-  currentReagentMix:
-    temperature: 0
-    reagents:
-      m_keys: []
-      m_values: []
-    reagentKeys: []
-  spriteHandler: {fileID: 0}
-  UseStandardExamine: 0
-  ExamineAmount: 0
-  ExamineContent: 0
-  traitWhitelist: []
-  reagentWhitelist: []
-  transferMode: 4
-  onlyAllowSyringeFilling: 0
-  SyringePulling: 0
-  possibleTransferAmounts: []
-  transferAmount: 5
-  transferSound: []

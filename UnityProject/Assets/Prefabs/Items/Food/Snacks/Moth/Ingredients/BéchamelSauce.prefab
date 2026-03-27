@@ -24,13 +24,13 @@ PrefabInstance:
       propertyPath: foreverID
       value: superwhitestuff
       objectReference: {fileID: 0}
-    - target: {fileID: 5043754326014453892, guid: 6027b24496823464eb766a0d38365cb6,
+    - target: {fileID: 944010811592983515, guid: 6027b24496823464eb766a0d38365cb6,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: d5386cc24a0a08cab9f2e1dab976ee2f,
         type: 2}
-    - target: {fileID: 5043754326014453892, guid: 6027b24496823464eb766a0d38365cb6,
+    - target: {fileID: 944010811592983515, guid: 6027b24496823464eb766a0d38365cb6,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 3

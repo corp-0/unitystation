@@ -119,23 +119,23 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A sweet treat lizards love to eat.
       objectReference: {fileID: 0}
-    - target: {fileID: 8136540141348347605, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
+    - target: {fileID: 4038606423033705866, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 8136540141348347605, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
+    - target: {fileID: 4038606423033705866, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 8136540141348347605, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
+    - target: {fileID: 4038606423033705866, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: b699d877848346042a46482836e3f2e7,
         type: 2}
-    - target: {fileID: 8136540141348347605, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
+    - target: {fileID: 4038606423033705866, guid: b1dba47ffb895b94d9a91ea24d86f4ff,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 2

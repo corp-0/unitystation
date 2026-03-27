@@ -8,13 +8,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3401052610295717428, guid: deb84929dfe1d854894fd16fc6c260cc,
+    - target: {fileID: 7481666825442948459, guid: deb84929dfe1d854894fd16fc6c260cc,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: dec2c3059cbf02729b69145c8de2b675,
         type: 2}
-    - target: {fileID: 3401052610295717428, guid: deb84929dfe1d854894fd16fc6c260cc,
+    - target: {fileID: 7481666825442948459, guid: deb84929dfe1d854894fd16fc6c260cc,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 

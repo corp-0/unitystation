@@ -35,17 +35,17 @@ PrefabInstance:
       propertyPath: foreverID
       value: 2b02e24d0d03e6241a36792d168e4bb7
       objectReference: {fileID: 0}
-    - target: {fileID: 7223151104655182775, guid: 32a48818544878d4c8e14ac2fd2b195a,
+    - target: {fileID: 3232184485566996712, guid: 32a48818544878d4c8e14ac2fd2b195a,
         type: 3}
       propertyPath: maxCapacity
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 7223151104655182775, guid: 32a48818544878d4c8e14ac2fd2b195a,
+    - target: {fileID: 3232184485566996712, guid: 32a48818544878d4c8e14ac2fd2b195a,
         type: 3}
       propertyPath: transferAmount
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 7223151104655182775, guid: 32a48818544878d4c8e14ac2fd2b195a,
+    - target: {fileID: 3232184485566996712, guid: 32a48818544878d4c8e14ac2fd2b195a,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 0

@@ -18,7 +18,7 @@ PrefabInstance:
       propertyPath: foreverID
       value: 99014d5b3b098f34a8693a14f81df63a
       objectReference: {fileID: 0}
-    - target: {fileID: 2973686910246030922, guid: 77894e6657f8aa940a79a759ddf0fe40,
+    - target: {fileID: 9005996913008401763, guid: 77894e6657f8aa940a79a759ddf0fe40,
         type: 3}
       propertyPath: leavings
       value: 

@@ -71,23 +71,23 @@ PrefabInstance:
       propertyPath: initialDescription
       value: he leftover from a smoked-out candy cigarette. Smells like nicotine..?
       objectReference: {fileID: 0}
-    - target: {fileID: 1241221539485677130, guid: 9c3dd26f8f4925b4ca73976d18a90408,
+    - target: {fileID: 6476030489711205653, guid: 9c3dd26f8f4925b4ca73976d18a90408,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 1241221539485677130, guid: 9c3dd26f8f4925b4ca73976d18a90408,
+    - target: {fileID: 6476030489711205653, guid: 9c3dd26f8f4925b4ca73976d18a90408,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 1241221539485677130, guid: 9c3dd26f8f4925b4ca73976d18a90408,
+    - target: {fileID: 6476030489711205653, guid: 9c3dd26f8f4925b4ca73976d18a90408,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: c4e931cdd4b041652928e77065466e6b,
         type: 2}
-    - target: {fileID: 1241221539485677130, guid: 9c3dd26f8f4925b4ca73976d18a90408,
+    - target: {fileID: 6476030489711205653, guid: 9c3dd26f8f4925b4ca73976d18a90408,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 1

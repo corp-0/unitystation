@@ -98,22 +98,22 @@ PrefabInstance:
       propertyPath: foreverID
       value: a859eb3fcda3a8747aba7894b40cfdb6
       objectReference: {fileID: 0}
-    - target: {fileID: 7146114630749491127, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+    - target: {fileID: 3932499416440331422, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
       propertyPath: maxBites
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 7146114630749491127, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+    - target: {fileID: 3932499416440331422, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
       propertyPath: timeToEat
       value: 0.75
       objectReference: {fileID: 0}
-    - target: {fileID: 7146114630749491127, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+    - target: {fileID: 3932499416440331422, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
       propertyPath: NutritionLevel
       value: 75
       objectReference: {fileID: 0}
-    - target: {fileID: 7146114630749491127, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+    - target: {fileID: 3932499416440331422, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
       propertyPath: StartingNutrients
       value: 75

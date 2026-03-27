@@ -191,12 +191,12 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A slightly larger welder with a larger tank.
       objectReference: {fileID: 0}
-    - target: {fileID: 9051842671118403817, guid: b735ab74dab174a4f90c79558cd51e43,
+    - target: {fileID: 4121480313098261504, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}
       propertyPath: maxCapacity
       value: 40
       objectReference: {fileID: 0}
-    - target: {fileID: 9051842671118403817, guid: b735ab74dab174a4f90c79558cd51e43,
+    - target: {fileID: 4121480313098261504, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 40

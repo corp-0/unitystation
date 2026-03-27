@@ -105,33 +105,33 @@ PrefabInstance:
       value: An east-asian take on the classic stationside snack, now steamy and
         warm.
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: 97473bb8bf264de35b63cbcb922a313e,
         type: 2}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 6506439916034532723, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 1149709448319202906, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: NutritionLevel
       value: 160
       objectReference: {fileID: 0}
-    - target: {fileID: 6506439916034532723, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 1149709448319202906, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: StartingNutrients
       value: 160

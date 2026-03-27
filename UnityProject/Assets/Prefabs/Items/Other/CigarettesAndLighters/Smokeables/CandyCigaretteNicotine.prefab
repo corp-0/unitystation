@@ -94,23 +94,23 @@ PrefabInstance:
       value: For all ages*! Doesn't contain any* amount of nicotine. Health and safety
         risks can be read on the tip of the cigarette.
       objectReference: {fileID: 0}
-    - target: {fileID: 8270808914605236632, guid: 35872b45375f89045971b0e5735a4fb0,
+    - target: {fileID: 4314102436699326980, guid: 35872b45375f89045971b0e5735a4fb0,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 8270808914605236632, guid: 35872b45375f89045971b0e5735a4fb0,
+    - target: {fileID: 4314102436699326980, guid: 35872b45375f89045971b0e5735a4fb0,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 8270808914605236632, guid: 35872b45375f89045971b0e5735a4fb0,
+    - target: {fileID: 4314102436699326980, guid: 35872b45375f89045971b0e5735a4fb0,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: c4e931cdd4b041652928e77065466e6b,
         type: 2}
-    - target: {fileID: 8270808914605236632, guid: 35872b45375f89045971b0e5735a4fb0,
+    - target: {fileID: 4314102436699326980, guid: 35872b45375f89045971b0e5735a4fb0,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 10

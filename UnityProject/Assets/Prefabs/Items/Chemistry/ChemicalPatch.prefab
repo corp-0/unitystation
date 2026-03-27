@@ -24,7 +24,7 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 7a8a50d7b0151f145b83dd25b12abac5,
         type: 2}
-    - target: {fileID: 7721682058840470234, guid: 41b8ba286ee48d147b5b90a4535e27c8,
+    - target: {fileID: 2580039120449427845, guid: 41b8ba286ee48d147b5b90a4535e27c8,
         type: 3}
       propertyPath: maxCapacity
       value: 40
@@ -144,7 +144,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 41b8ba286ee48d147b5b90a4535e27c8, type: 3}
 --- !u!114 &3412466906303044927 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7721682058840470234, guid: 41b8ba286ee48d147b5b90a4535e27c8,
+  m_CorrespondingSourceObject: {fileID: 2580039120449427845, guid: 41b8ba286ee48d147b5b90a4535e27c8,
     type: 3}
   m_PrefabInstance: {fileID: 4932400889631174629}
   m_PrefabAsset: {fileID: 0}

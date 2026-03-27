@@ -93,12 +93,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: CigaretteRobust
       objectReference: {fileID: 0}
-    - target: {fileID: 8431387283529515776, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+    - target: {fileID: 4331156330173982876, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 45
       objectReference: {fileID: 0}
-    - target: {fileID: 8431387283529515776, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+    - target: {fileID: 4331156330173982876, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 45

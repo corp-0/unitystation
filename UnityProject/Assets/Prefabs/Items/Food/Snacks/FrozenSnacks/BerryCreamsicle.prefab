@@ -18,17 +18,17 @@ PrefabInstance:
       propertyPath: foreverID
       value: 61172890db55d3943b1a2a923ad33ce5
       objectReference: {fileID: 0}
-    - target: {fileID: 3194054077450859374, guid: 6912188aeedf08e4597674ede9f0c62d,
+    - target: {fileID: 8785569896555110471, guid: 6912188aeedf08e4597674ede9f0c62d,
         type: 3}
       propertyPath: NutritionLevel
       value: 145
       objectReference: {fileID: 0}
-    - target: {fileID: 3194054077450859374, guid: 6912188aeedf08e4597674ede9f0c62d,
+    - target: {fileID: 8785569896555110471, guid: 6912188aeedf08e4597674ede9f0c62d,
         type: 3}
       propertyPath: StartingNutrients
       value: 100
       objectReference: {fileID: 0}
-    - target: {fileID: 5525576654264826294, guid: 6912188aeedf08e4597674ede9f0c62d,
+    - target: {fileID: 308502837374735081, guid: 6912188aeedf08e4597674ede9f0c62d,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 

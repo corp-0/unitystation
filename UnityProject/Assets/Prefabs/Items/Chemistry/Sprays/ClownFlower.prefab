@@ -24,18 +24,18 @@ PrefabInstance:
       propertyPath: foreverID
       value: bda198be769216d43a47c47bc1c1e193
       objectReference: {fileID: 0}
-    - target: {fileID: 4986038043911402929, guid: 7ac9a1237a9a84c429f91947b3594be0,
+    - target: {fileID: 997327611675975406, guid: 7ac9a1237a9a84c429f91947b3594be0,
         type: 3}
       propertyPath: maxCapacity
       value: 30
       objectReference: {fileID: 0}
-    - target: {fileID: 4986038043911402929, guid: 7ac9a1237a9a84c429f91947b3594be0,
+    - target: {fileID: 997327611675975406, guid: 7ac9a1237a9a84c429f91947b3594be0,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: e165b9d67b5163a9ea82a4c4fed31f7d,
         type: 2}
-    - target: {fileID: 4986038043911402929, guid: 7ac9a1237a9a84c429f91947b3594be0,
+    - target: {fileID: 997327611675975406, guid: 7ac9a1237a9a84c429f91947b3594be0,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 30

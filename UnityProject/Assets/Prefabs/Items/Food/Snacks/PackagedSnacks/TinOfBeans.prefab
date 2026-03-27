@@ -30,39 +30,39 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0addff3581d7b2c4c8a6bba046e80ed4,
         type: 2}
-    - target: {fileID: 3104472755490273580, guid: e291198bb131d49469d0b57ae983bd32,
+    - target: {fileID: 9127212609113745925, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: leavings
       value: 
       objectReference: {fileID: 890274508382664436, guid: b2835df5b2c36ab4eacd0a4201b6e4d5,
         type: 3}
-    - target: {fileID: 3104472755490273580, guid: e291198bb131d49469d0b57ae983bd32,
+    - target: {fileID: 9127212609113745925, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: NutritionLevel
       value: 375
       objectReference: {fileID: 0}
-    - target: {fileID: 3104472755490273580, guid: e291198bb131d49469d0b57ae983bd32,
+    - target: {fileID: 9127212609113745925, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: StartingNutrients
       value: 375
       objectReference: {fileID: 0}
-    - target: {fileID: 5469631057095422964, guid: e291198bb131d49469d0b57ae983bd32,
+    - target: {fileID: 220332738653411499, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5469631057095422964, guid: e291198bb131d49469d0b57ae983bd32,
+    - target: {fileID: 220332738653411499, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5469631057095422964, guid: e291198bb131d49469d0b57ae983bd32,
+    - target: {fileID: 220332738653411499, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 068bcb587110477558045ad0cfd78237,
         type: 2}
-    - target: {fileID: 5469631057095422964, guid: e291198bb131d49469d0b57ae983bd32,
+    - target: {fileID: 220332738653411499, guid: e291198bb131d49469d0b57ae983bd32,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 10

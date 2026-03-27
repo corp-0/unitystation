@@ -346,22 +346,22 @@ PrefabInstance:
       propertyPath: SlurpA.AssetAddress
       value: Assets/Prefabs/Effects/Slurp.prefab
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: maxCapacity
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: transferMode
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: ExamineAmount
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 1

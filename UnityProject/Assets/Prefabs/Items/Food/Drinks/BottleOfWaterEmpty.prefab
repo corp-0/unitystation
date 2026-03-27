@@ -8,23 +8,23 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 255228598937174176, guid: 8dbbbb2e528f19d4fa232f02fc6ac148,
+    - target: {fileID: 5434734295860472831, guid: 8dbbbb2e528f19d4fa232f02fc6ac148,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 255228598937174176, guid: 8dbbbb2e528f19d4fa232f02fc6ac148,
+    - target: {fileID: 5434734295860472831, guid: 8dbbbb2e528f19d4fa232f02fc6ac148,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 255228598937174176, guid: 8dbbbb2e528f19d4fa232f02fc6ac148,
+    - target: {fileID: 5434734295860472831, guid: 8dbbbb2e528f19d4fa232f02fc6ac148,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 4d51ff2b81592dadcb334ae9640eeca3,
         type: 2}
-    - target: {fileID: 255228598937174176, guid: 8dbbbb2e528f19d4fa232f02fc6ac148,
+    - target: {fileID: 5434734295860472831, guid: 8dbbbb2e528f19d4fa232f02fc6ac148,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 0.5

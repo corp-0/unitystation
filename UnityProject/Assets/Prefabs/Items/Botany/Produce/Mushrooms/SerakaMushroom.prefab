@@ -142,34 +142,34 @@ PrefabInstance:
       propertyPath: relatedRecipes.Array.data[2].ingredientIndex
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 4128808782120064493, guid: f0108676c1bf82d41a7c4efdfc660dc0,
+    - target: {fileID: 8190559758861287090, guid: f0108676c1bf82d41a7c4efdfc660dc0,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4128808782120064493, guid: f0108676c1bf82d41a7c4efdfc660dc0,
+    - target: {fileID: 8190559758861287090, guid: f0108676c1bf82d41a7c4efdfc660dc0,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4128808782120064493, guid: f0108676c1bf82d41a7c4efdfc660dc0,
+    - target: {fileID: 8190559758861287090, guid: f0108676c1bf82d41a7c4efdfc660dc0,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 59534ad2cd612bb41a1714b595343772,
         type: 2}
-    - target: {fileID: 4128808782120064493, guid: f0108676c1bf82d41a7c4efdfc660dc0,
+    - target: {fileID: 8190559758861287090, guid: f0108676c1bf82d41a7c4efdfc660dc0,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: 7c1c27ae524b16444a3570d0f39dfc32,
         type: 2}
-    - target: {fileID: 4128808782120064493, guid: f0108676c1bf82d41a7c4efdfc660dc0,
+    - target: {fileID: 8190559758861287090, guid: f0108676c1bf82d41a7c4efdfc660dc0,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4128808782120064493, guid: f0108676c1bf82d41a7c4efdfc660dc0,
+    - target: {fileID: 8190559758861287090, guid: f0108676c1bf82d41a7c4efdfc660dc0,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 2

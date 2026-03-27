@@ -474,27 +474,27 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: maxCapacity
       value: 15
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: transferMode
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: ExamineAmount
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[0]'
       value: 5
@@ -523,7 +523,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: f866b44bcdd7d734885f7c49999d85c9, type: 3}
 --- !u!114 &145581183726909013 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+  m_CorrespondingSourceObject: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
     type: 3}
   m_PrefabInstance: {fileID: 9161379464675248413}
   m_PrefabAsset: {fileID: 0}

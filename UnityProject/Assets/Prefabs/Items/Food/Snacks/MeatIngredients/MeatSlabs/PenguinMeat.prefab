@@ -112,22 +112,22 @@ PrefabInstance:
       propertyPath: m_AssetId
       value: 91e9b3c64a6a00e45aa562e398fa9f71
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 6.6666665
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 6304245728322857827, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 198787381483403338, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: NutritionLevel
       value: 128
       objectReference: {fileID: 0}
-    - target: {fileID: 6304245728322857827, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 198787381483403338, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: StartingNutrients
       value: 128

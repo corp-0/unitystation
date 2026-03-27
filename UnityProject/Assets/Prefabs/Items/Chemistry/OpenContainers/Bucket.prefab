@@ -277,47 +277,47 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300006, guid: da71812f2f86589478f7aab6787db838,
         type: 3}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: maxCapacity
       value: 70
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: transferAmount
       value: 20
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: transferSound.Array.size
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 8
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[7]'
       value: 70
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: transferSound.Array.data[0].AssetAddress
       value: Assets/Prefabs/footsteps/water/FootstepWater1.prefab
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: transferSound.Array.data[1].AssetAddress
       value: Assets/Prefabs/footsteps/water/FootstepWater2.prefab
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: transferSound.Array.data[2].AssetAddress
       value: Assets/Prefabs/footsteps/water/FootstepWater3.prefab
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: transferSound.Array.data[3].AssetAddress
       value: Assets/Prefabs/footsteps/water/FootstepWater4.prefab

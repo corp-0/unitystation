@@ -8,12 +8,12 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1608437286450332735, guid: bda3a92c3bab16e4cb40374111199080,
+    - target: {fileID: 4894642277685483286, guid: bda3a92c3bab16e4cb40374111199080,
         type: 3}
       propertyPath: NutritionLevel
       value: 188
       objectReference: {fileID: 0}
-    - target: {fileID: 1608437286450332735, guid: bda3a92c3bab16e4cb40374111199080,
+    - target: {fileID: 4894642277685483286, guid: bda3a92c3bab16e4cb40374111199080,
         type: 3}
       propertyPath: StartingNutrients
       value: 188
@@ -123,34 +123,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8552077044633063143, guid: bda3a92c3bab16e4cb40374111199080,
+    - target: {fileID: 4488360122009970104, guid: bda3a92c3bab16e4cb40374111199080,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 8552077044633063143, guid: bda3a92c3bab16e4cb40374111199080,
+    - target: {fileID: 4488360122009970104, guid: bda3a92c3bab16e4cb40374111199080,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 8552077044633063143, guid: bda3a92c3bab16e4cb40374111199080,
+    - target: {fileID: 4488360122009970104, guid: bda3a92c3bab16e4cb40374111199080,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: c4e931cdd4b041652928e77065466e6b,
         type: 2}
-    - target: {fileID: 8552077044633063143, guid: bda3a92c3bab16e4cb40374111199080,
+    - target: {fileID: 4488360122009970104, guid: bda3a92c3bab16e4cb40374111199080,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: 4f35c3b79d1187213bc2c025391e96e9,
         type: 2}
-    - target: {fileID: 8552077044633063143, guid: bda3a92c3bab16e4cb40374111199080,
+    - target: {fileID: 4488360122009970104, guid: bda3a92c3bab16e4cb40374111199080,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 8552077044633063143, guid: bda3a92c3bab16e4cb40374111199080,
+    - target: {fileID: 4488360122009970104, guid: bda3a92c3bab16e4cb40374111199080,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 5

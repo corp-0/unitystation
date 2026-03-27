@@ -94,23 +94,23 @@ PrefabInstance:
       propertyPath: initialDescription
       value: The detective's only true friend.
       objectReference: {fileID: 0}
-    - target: {fileID: 1753305791038262296, guid: 1f332585069499e49a1f8f8bd17f486d,
+    - target: {fileID: 5814764293122828103, guid: 1f332585069499e49a1f8f8bd17f486d,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 1753305791038262296, guid: 1f332585069499e49a1f8f8bd17f486d,
+    - target: {fileID: 5814764293122828103, guid: 1f332585069499e49a1f8f8bd17f486d,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 1753305791038262296, guid: 1f332585069499e49a1f8f8bd17f486d,
+    - target: {fileID: 5814764293122828103, guid: 1f332585069499e49a1f8f8bd17f486d,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 8d1468f2ac5202e65af28854a30b9c55,
         type: 2}
-    - target: {fileID: 1753305791038262296, guid: 1f332585069499e49a1f8f8bd17f486d,
+    - target: {fileID: 5814764293122828103, guid: 1f332585069499e49a1f8f8bd17f486d,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 30

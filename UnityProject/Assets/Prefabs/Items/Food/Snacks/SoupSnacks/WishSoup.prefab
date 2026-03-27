@@ -8,22 +8,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 246742310216031076, guid: 09d98d684f3dbe544a3f54331019cba1,
+    - target: {fileID: 6256494758729648205, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: sound
       value: Slurp
       objectReference: {fileID: 0}
-    - target: {fileID: 246742310216031076, guid: 09d98d684f3dbe544a3f54331019cba1,
+    - target: {fileID: 6256494758729648205, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: NutritionLevel
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 246742310216031076, guid: 09d98d684f3dbe544a3f54331019cba1,
+    - target: {fileID: 6256494758729648205, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: StartingNutrients
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 246742310216031076, guid: 09d98d684f3dbe544a3f54331019cba1,
+    - target: {fileID: 6256494758729648205, guid: 09d98d684f3dbe544a3f54331019cba1,
         type: 3}
       propertyPath: eatSound.AssetAddress
       value: Assets/Prefabs/Effects/Slurp.prefab

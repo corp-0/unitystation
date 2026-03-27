@@ -78,45 +78,45 @@ PrefabInstance:
       propertyPath: m_Name
       value: JellySandwichSlime
       objectReference: {fileID: 0}
-    - target: {fileID: 2231453201363004575, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 6201872164332292032, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 2231453201363004575, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 6201872164332292032, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 2231453201363004575, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 6201872164332292032, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 068bcb587110477558045ad0cfd78237,
         type: 2}
-    - target: {fileID: 2231453201363004575, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 6201872164332292032, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: d5386cc24a0a08cab9f2e1dab976ee2f,
         type: 2}
-    - target: {fileID: 2231453201363004575, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 6201872164332292032, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: 00d9a9827ebcc49ab8b0df647c4f7da5,
         type: 2}
-    - target: {fileID: 2231453201363004575, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 6201872164332292032, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 6.6666665
       objectReference: {fileID: 0}
-    - target: {fileID: 2231453201363004575, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 6201872164332292032, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 2231453201363004575, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 6201872164332292032, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 5
@@ -131,12 +131,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: bdf291c70e12c68418beeb22b5384557
       objectReference: {fileID: 0}
-    - target: {fileID: 9082338983469098567, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 3149671077153305966, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: NutritionLevel
       value: 150
       objectReference: {fileID: 0}
-    - target: {fileID: 9082338983469098567, guid: 71c90208ddf5d59489b9273c371733d7,
+    - target: {fileID: 3149671077153305966, guid: 71c90208ddf5d59489b9273c371733d7,
         type: 3}
       propertyPath: StartingNutrients
       value: 150

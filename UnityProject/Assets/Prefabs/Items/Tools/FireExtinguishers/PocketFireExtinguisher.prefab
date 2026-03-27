@@ -48,12 +48,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: c8b828bbf03855a4080271d3e2c0e403,
         type: 2}
-    - target: {fileID: 5035609469445439989, guid: 908afbc5b9f871148b5ccd0b81bd147f,
+    - target: {fileID: 3754224708110069198, guid: 908afbc5b9f871148b5ccd0b81bd147f,
         type: 3}
       propertyPath: maxCapacity
       value: 1800
       objectReference: {fileID: 0}
-    - target: {fileID: 5035609469445439989, guid: 908afbc5b9f871148b5ccd0b81bd147f,
+    - target: {fileID: 3754224708110069198, guid: 908afbc5b9f871148b5ccd0b81bd147f,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 1800

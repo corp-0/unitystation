@@ -24,13 +24,13 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8850463315335230013, guid: b23453ce7e53947438cee3cf417ac942,
         type: 3}
-    - target: {fileID: 2362322378926985792, guid: 22393c79daa24284fa0c95a3af36f4a3,
+    - target: {fileID: 7507052745969940767, guid: 22393c79daa24284fa0c95a3af36f4a3,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 84c6e08358573194c8c518895b225efd,
         type: 2}
-    - target: {fileID: 2362322378926985792, guid: 22393c79daa24284fa0c95a3af36f4a3,
+    - target: {fileID: 7507052745969940767, guid: 22393c79daa24284fa0c95a3af36f4a3,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 3

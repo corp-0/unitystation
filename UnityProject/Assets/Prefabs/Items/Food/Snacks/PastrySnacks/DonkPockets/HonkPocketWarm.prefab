@@ -99,49 +99,49 @@ PrefabInstance:
       propertyPath: initialDescription
       value: The award-winning donk-pocket, now warm and toasty.
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: f225fc056ed995028b8b5192de8f067b,
         type: 2}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[3]'
       value: 
       objectReference: {fileID: 11400000, guid: cff12e9f5a603b42a9787fb37cb8ae66,
         type: 2}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[3]'
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 6506439916034532723, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 1149709448319202906, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: NutritionLevel
       value: 168
       objectReference: {fileID: 0}
-    - target: {fileID: 6506439916034532723, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 1149709448319202906, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: StartingNutrients
       value: 168

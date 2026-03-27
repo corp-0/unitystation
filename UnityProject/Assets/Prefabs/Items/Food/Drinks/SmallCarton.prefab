@@ -104,7 +104,7 @@ PrefabInstance:
       propertyPath: relatedRecipes.Array.size
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1822638479480687849, guid: 40c34e56c622eb749908c4cf23b4778f,
+    - target: {fileID: 5885535147338049462, guid: 40c34e56c622eb749908c4cf23b4778f,
         type: 3}
       propertyPath: maxCapacity
       value: 15

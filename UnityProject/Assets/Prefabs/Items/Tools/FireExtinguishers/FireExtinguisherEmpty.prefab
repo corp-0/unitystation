@@ -18,12 +18,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: a696fba1a403cfb4e8b3752a81bc205d
       objectReference: {fileID: 0}
-    - target: {fileID: 5035609469445439989, guid: 908afbc5b9f871148b5ccd0b81bd147f,
+    - target: {fileID: 3754224708110069198, guid: 908afbc5b9f871148b5ccd0b81bd147f,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5035609469445439989, guid: 908afbc5b9f871148b5ccd0b81bd147f,
+    - target: {fileID: 3754224708110069198, guid: 908afbc5b9f871148b5ccd0b81bd147f,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 0

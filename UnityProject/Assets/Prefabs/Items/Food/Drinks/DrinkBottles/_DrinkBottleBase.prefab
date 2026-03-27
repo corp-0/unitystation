@@ -265,12 +265,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8971384748461147908, guid: 46bb2fe95f4f66341aadfb4600751333,
+    - target: {fileID: 3775720626508852315, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: maxCapacity
       value: 100
       objectReference: {fileID: 0}
-    - target: {fileID: 8971384748461147908, guid: 46bb2fe95f4f66341aadfb4600751333,
+    - target: {fileID: 3775720626508852315, guid: 46bb2fe95f4f66341aadfb4600751333,
         type: 3}
       propertyPath: transferAmount
       value: 10

@@ -187,7 +187,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vulpkanin Facial Hair
       objectReference: {fileID: 0}
-    - target: {fileID: 5143837157643442378, guid: 6c6b9b73c0bb8d14c9329b24820e0a9a,
+    - target: {fileID: 9087651430707149842, guid: 6c6b9b73c0bb8d14c9329b24820e0a9a,
         type: 3}
       propertyPath: maxCapacity
       value: 0.5

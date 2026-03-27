@@ -318,37 +318,37 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: maxCapacity
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[0]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[1]'
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[2]'
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[3]'
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 9018167180428263240, guid: f866b44bcdd7d734885f7c49999d85c9,
+    - target: {fileID: 3873157561357014039, guid: f866b44bcdd7d734885f7c49999d85c9,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[4]'
       value: 5

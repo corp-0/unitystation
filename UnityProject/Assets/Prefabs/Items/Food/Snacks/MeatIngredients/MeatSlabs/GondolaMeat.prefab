@@ -101,38 +101,38 @@ PrefabInstance:
       propertyPath: m_AssetId
       value: 475fa145c1f671b4d916dfc2f18de701
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: dd10310c18d4bdabca267178a4fe7963,
         type: 2}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 6304245728322857827, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 198787381483403338, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: NutritionLevel
       value: 162
       objectReference: {fileID: 0}
-    - target: {fileID: 6304245728322857827, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 198787381483403338, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: StartingNutrients
       value: 162

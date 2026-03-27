@@ -110,12 +110,12 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A slice of herby, pesto-y lasagne.
       objectReference: {fileID: 0}
-    - target: {fileID: 6510225151120096413, guid: 5c12eafd2bed5fd439dfd54c2de887d4,
+    - target: {fileID: 1350578831103956930, guid: 5c12eafd2bed5fd439dfd54c2de887d4,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 6510225151120096413, guid: 5c12eafd2bed5fd439dfd54c2de887d4,
+    - target: {fileID: 1350578831103956930, guid: 5c12eafd2bed5fd439dfd54c2de887d4,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 3

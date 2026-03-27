@@ -117,27 +117,27 @@ PrefabInstance:
         juice items placed in it using a pestle; however the process, unlike modern
         methods, is slow and physically exhausting. Alt click to eject the item.
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: maxCapacity
       value: 100
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: destroyOnEmpty
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: transferAmount
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 8
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[7]'
       value: 100

@@ -74,7 +74,7 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fc27671f70b0d0141a0005079ac1659f,
         type: 2}
-    - target: {fileID: 887411641704819287, guid: f984960cf940f5242bd90a33f3c8c35a,
+    - target: {fileID: 4951275877377900808, guid: f984960cf940f5242bd90a33f3c8c35a,
         type: 3}
       propertyPath: maxCapacity
       value: 50

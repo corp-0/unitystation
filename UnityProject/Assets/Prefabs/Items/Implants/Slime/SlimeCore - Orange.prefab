@@ -165,19 +165,19 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: afca034c281d045439a5aedc9ff78a5d,
         type: 2}
-    - target: {fileID: 8358244675405048560, guid: 789d74731ecbf8e4a813fc024afaf831,
+    - target: {fileID: 7093579094221658151, guid: 789d74731ecbf8e4a813fc024afaf831,
         type: 3}
       propertyPath: 'AdditionalReactions.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 754ee90c4df6d1e409bd5589f9675dce,
         type: 2}
-    - target: {fileID: 8358244675405048560, guid: 789d74731ecbf8e4a813fc024afaf831,
+    - target: {fileID: 7093579094221658151, guid: 789d74731ecbf8e4a813fc024afaf831,
         type: 3}
       propertyPath: 'AdditionalReactions.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: dc78f710c7a1b78469cee10562dbdc80,
         type: 2}
-    - target: {fileID: 8358244675405048560, guid: 789d74731ecbf8e4a813fc024afaf831,
+    - target: {fileID: 7093579094221658151, guid: 789d74731ecbf8e4a813fc024afaf831,
         type: 3}
       propertyPath: 'AdditionalReactions.Array.data[2]'
       value: 

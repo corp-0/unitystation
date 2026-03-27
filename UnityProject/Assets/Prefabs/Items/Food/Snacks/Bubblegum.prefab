@@ -24,12 +24,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: bda3a92c3bab16e4cb40374111199080
       objectReference: {fileID: 0}
-    - target: {fileID: 3855224395746198965, guid: b9dc042fb6542ef4baea84b36c24b31a,
+    - target: {fileID: 6935420479147579036, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: NutritionLevel
       value: 125
       objectReference: {fileID: 0}
-    - target: {fileID: 3855224395746198965, guid: b9dc042fb6542ef4baea84b36c24b31a,
+    - target: {fileID: 6935420479147579036, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: StartingNutrients
       value: 125
@@ -151,23 +151,23 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6160299609573986157, guid: b9dc042fb6542ef4baea84b36c24b31a,
+    - target: {fileID: 2133308580817544242, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6160299609573986157, guid: b9dc042fb6542ef4baea84b36c24b31a,
+    - target: {fileID: 2133308580817544242, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6160299609573986157, guid: b9dc042fb6542ef4baea84b36c24b31a,
+    - target: {fileID: 2133308580817544242, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 911271db97b77da51889f97d6688a103,
         type: 2}
-    - target: {fileID: 6160299609573986157, guid: b9dc042fb6542ef4baea84b36c24b31a,
+    - target: {fileID: 2133308580817544242, guid: b9dc042fb6542ef4baea84b36c24b31a,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 5

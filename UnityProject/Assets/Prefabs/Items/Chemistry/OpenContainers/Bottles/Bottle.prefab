@@ -355,22 +355,22 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300006, guid: b75e4ffccfd53b047b2e5073e1709847,
         type: 3}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: maxCapacity
       value: 30
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[3]'
       value: 25
       objectReference: {fileID: 0}
-    - target: {fileID: 6421186659643855438, guid: 364841a08150e9345b119e71191c8dcf,
+    - target: {fileID: 1295466848678197521, guid: 364841a08150e9345b119e71191c8dcf,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[4]'
       value: 30

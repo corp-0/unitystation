@@ -93,33 +93,33 @@ PrefabInstance:
       propertyPath: m_Name
       value: CigaretteSyndicate
       objectReference: {fileID: 0}
-    - target: {fileID: 8431387283529515776, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+    - target: {fileID: 4331156330173982876, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: maxCapacity
       value: 60
       objectReference: {fileID: 0}
-    - target: {fileID: 8431387283529515776, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+    - target: {fileID: 4331156330173982876, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 8431387283529515776, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+    - target: {fileID: 4331156330173982876, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 8431387283529515776, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+    - target: {fileID: 4331156330173982876, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: fa60dedbe4f861e76a46f56f59987729,
         type: 2}
-    - target: {fileID: 8431387283529515776, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+    - target: {fileID: 4331156330173982876, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 8431387283529515776, guid: 77b0f36047b1a0e48ba9f97f954035fd,
+    - target: {fileID: 4331156330173982876, guid: 77b0f36047b1a0e48ba9f97f954035fd,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 15

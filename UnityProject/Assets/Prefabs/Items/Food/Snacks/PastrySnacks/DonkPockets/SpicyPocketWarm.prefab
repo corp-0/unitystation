@@ -99,38 +99,38 @@ PrefabInstance:
       propertyPath: initialDescription
       value: The classic snack food, now maybe a bit too spicy.
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: 35888fb2853c5f66abec0ff080f80481,
         type: 2}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 6506439916034532723, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 1149709448319202906, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: NutritionLevel
       value: 154
       objectReference: {fileID: 0}
-    - target: {fileID: 6506439916034532723, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 1149709448319202906, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: StartingNutrients
       value: 154

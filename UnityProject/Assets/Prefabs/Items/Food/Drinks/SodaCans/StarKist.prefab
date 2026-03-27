@@ -179,34 +179,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: StarKist
       objectReference: {fileID: 0}
-    - target: {fileID: 4530569950825010222, guid: b04d0f9770ef17c459a1af178889e3ba,
+    - target: {fileID: 8518873563748728689, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4530569950825010222, guid: b04d0f9770ef17c459a1af178889e3ba,
+    - target: {fileID: 8518873563748728689, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4530569950825010222, guid: b04d0f9770ef17c459a1af178889e3ba,
+    - target: {fileID: 8518873563748728689, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 4f81752cf28b76cdd8993e76335fb8ea,
         type: 2}
-    - target: {fileID: 4530569950825010222, guid: b04d0f9770ef17c459a1af178889e3ba,
+    - target: {fileID: 8518873563748728689, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: 5d8a1146358df3df6aa2716780276565,
         type: 2}
-    - target: {fileID: 4530569950825010222, guid: b04d0f9770ef17c459a1af178889e3ba,
+    - target: {fileID: 8518873563748728689, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 15
       objectReference: {fileID: 0}
-    - target: {fileID: 4530569950825010222, guid: b04d0f9770ef17c459a1af178889e3ba,
+    - target: {fileID: 8518873563748728689, guid: b04d0f9770ef17c459a1af178889e3ba,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 15

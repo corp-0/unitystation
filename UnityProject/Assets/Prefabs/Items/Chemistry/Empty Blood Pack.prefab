@@ -73,12 +73,12 @@ PrefabInstance:
       propertyPath: _assetId
       value: 609253217
       objectReference: {fileID: 0}
-    - target: {fileID: 8165359744119576141, guid: c7be5235efa44cb4cbb5ba9d717f4266,
+    - target: {fileID: 4159039544668929298, guid: c7be5235efa44cb4cbb5ba9d717f4266,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 8165359744119576141, guid: c7be5235efa44cb4cbb5ba9d717f4266,
+    - target: {fileID: 4159039544668929298, guid: c7be5235efa44cb4cbb5ba9d717f4266,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 0

@@ -35,18 +35,18 @@ PrefabInstance:
       propertyPath: foreverID
       value: 1e19c4562afbbd2479d14830399db738
       objectReference: {fileID: 0}
-    - target: {fileID: 2392288886832539726, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+    - target: {fileID: 1750871554441399446, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: AdditionalReactions.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 2392288886832539726, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+    - target: {fileID: 1750871554441399446, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: 'AdditionalReactions.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 11e70b972f4994f40ba26c72d9bc4b5e,
         type: 2}
-    - target: {fileID: 2392288886832539726, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
+    - target: {fileID: 1750871554441399446, guid: 35ef0ee8523cfc342bc863c12a3ac07c,
         type: 3}
       propertyPath: 'AdditionalReactions.Array.data[1]'
       value: 

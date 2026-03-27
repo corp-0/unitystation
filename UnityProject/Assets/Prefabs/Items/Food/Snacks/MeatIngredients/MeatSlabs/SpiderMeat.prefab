@@ -111,44 +111,44 @@ PrefabInstance:
       propertyPath: m_AssetId
       value: 4e05669938be94241b6b3453843bdd31
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: d5386cc24a0a08cab9f2e1dab976ee2f,
         type: 2}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: 6c3a3878e8878972ea633a27c6d0ba12,
         type: 2}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3999315099893948859, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 9180206198916795108, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 6304245728322857827, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 198787381483403338, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: NutritionLevel
       value: 150
       objectReference: {fileID: 0}
-    - target: {fileID: 6304245728322857827, guid: 9914f83c172606747877a09872724398,
+    - target: {fileID: 198787381483403338, guid: 9914f83c172606747877a09872724398,
         type: 3}
       propertyPath: StartingNutrients
       value: 150

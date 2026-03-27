@@ -88,23 +88,23 @@ PrefabInstance:
       propertyPath: m_AssetId
       value: 2687735201a75bc46bc5bde5827c4030
       objectReference: {fileID: 0}
-    - target: {fileID: 6901734306108147307, guid: 45be202b015c7df4ea023a669e9461d6,
+    - target: {fileID: 1666663683129519412, guid: 45be202b015c7df4ea023a669e9461d6,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6901734306108147307, guid: 45be202b015c7df4ea023a669e9461d6,
+    - target: {fileID: 1666663683129519412, guid: 45be202b015c7df4ea023a669e9461d6,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6901734306108147307, guid: 45be202b015c7df4ea023a669e9461d6,
+    - target: {fileID: 1666663683129519412, guid: 45be202b015c7df4ea023a669e9461d6,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 9392a6ad7851e4c97a71de27a472e0e1,
         type: 2}
-    - target: {fileID: 6901734306108147307, guid: 45be202b015c7df4ea023a669e9461d6,
+    - target: {fileID: 1666663683129519412, guid: 45be202b015c7df4ea023a669e9461d6,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 15

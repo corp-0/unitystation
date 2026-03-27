@@ -8,7 +8,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1628471418149378888, guid: 4bf8c38cb85116e4babedf03228412de,
+    - target: {fileID: 4838673765019371617, guid: 4bf8c38cb85116e4babedf03228412de,
         type: 3}
       propertyPath: consumeTime
       value: 0.5

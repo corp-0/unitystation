@@ -24,7 +24,7 @@ PrefabInstance:
       propertyPath: foreverID
       value: 21578009db1fe0440958d0c183a4fe84
       objectReference: {fileID: 0}
-    - target: {fileID: 3615150796982688536, guid: c97d4bcbe36a3a2448a6ebe3e9ac50e6,
+    - target: {fileID: 6286862415169100775, guid: c97d4bcbe36a3a2448a6ebe3e9ac50e6,
         type: 3}
       propertyPath: SecurityHealBruteDamage
       value: 10

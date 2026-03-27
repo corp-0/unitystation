@@ -125,7 +125,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6242721564745565760, guid: 23da5cf6be2781344b9040c388022fa5,
+    - target: {fileID: 2180961796466814239, guid: 23da5cf6be2781344b9040c388022fa5,
         type: 3}
       propertyPath: maxCapacity
       value: 125

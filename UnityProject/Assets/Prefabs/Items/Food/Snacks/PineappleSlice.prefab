@@ -131,12 +131,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: f12645657338dd04caed40797327f674
       objectReference: {fileID: 0}
-    - target: {fileID: 7146114630749491127, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+    - target: {fileID: 3932499416440331422, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
       propertyPath: NutritionLevel
       value: 27
       objectReference: {fileID: 0}
-    - target: {fileID: 7146114630749491127, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
+    - target: {fileID: 3932499416440331422, guid: eaf8c1f2a0f9374488e16061fd5b4dcd,
         type: 3}
       propertyPath: StartingNutrients
       value: 27

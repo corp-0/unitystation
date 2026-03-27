@@ -8,12 +8,12 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 318786259221729225, guid: 7d3192a7eebeb004c8bd3d53172d6ce9,
+    - target: {fileID: 5515292622113039510, guid: 7d3192a7eebeb004c8bd3d53172d6ce9,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 28
       objectReference: {fileID: 0}
-    - target: {fileID: 318786259221729225, guid: 7d3192a7eebeb004c8bd3d53172d6ce9,
+    - target: {fileID: 5515292622113039510, guid: 7d3192a7eebeb004c8bd3d53172d6ce9,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 7
@@ -125,12 +125,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: 8b3fa0df9fb5cf94e9de16f862166a77
       objectReference: {fileID: 0}
-    - target: {fileID: 7246797144736269585, guid: 7d3192a7eebeb004c8bd3d53172d6ce9,
+    - target: {fileID: 3544009224935888440, guid: 7d3192a7eebeb004c8bd3d53172d6ce9,
         type: 3}
       propertyPath: NutritionLevel
       value: 1313
       objectReference: {fileID: 0}
-    - target: {fileID: 7246797144736269585, guid: 7d3192a7eebeb004c8bd3d53172d6ce9,
+    - target: {fileID: 3544009224935888440, guid: 7d3192a7eebeb004c8bd3d53172d6ce9,
         type: 3}
       propertyPath: StartingNutrients
       value: 1313

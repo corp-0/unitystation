@@ -94,23 +94,23 @@ PrefabInstance:
       propertyPath: initialDescription
       value: What's better than baked corn? Baked corn with butter!
       objectReference: {fileID: 0}
-    - target: {fileID: 1397560590023353716, guid: 430cc93dd74c6f84dae776271fdf1a99,
+    - target: {fileID: 6594377000153239083, guid: 430cc93dd74c6f84dae776271fdf1a99,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 1397560590023353716, guid: 430cc93dd74c6f84dae776271fdf1a99,
+    - target: {fileID: 6594377000153239083, guid: 430cc93dd74c6f84dae776271fdf1a99,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 1397560590023353716, guid: 430cc93dd74c6f84dae776271fdf1a99,
+    - target: {fileID: 6594377000153239083, guid: 430cc93dd74c6f84dae776271fdf1a99,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: 84c6e08358573194c8c518895b225efd,
         type: 2}
-    - target: {fileID: 1397560590023353716, guid: 430cc93dd74c6f84dae776271fdf1a99,
+    - target: {fileID: 6594377000153239083, guid: 430cc93dd74c6f84dae776271fdf1a99,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 2

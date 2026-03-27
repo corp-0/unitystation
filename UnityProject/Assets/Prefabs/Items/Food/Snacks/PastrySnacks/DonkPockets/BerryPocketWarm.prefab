@@ -94,38 +94,38 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A relentlessly sweet donk-pocket, now warm and delicious.
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: f404090add8a06a26a3739a097558b8f,
         type: 2}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4230781465489895339, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 8237099459743991028, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 6506439916034532723, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 1149709448319202906, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: NutritionLevel
       value: 158
       objectReference: {fileID: 0}
-    - target: {fileID: 6506439916034532723, guid: 76e58cccbbfd2ab40b893f51eddd9094,
+    - target: {fileID: 1149709448319202906, guid: 76e58cccbbfd2ab40b893f51eddd9094,
         type: 3}
       propertyPath: StartingNutrients
       value: 158

@@ -95,52 +95,52 @@ PrefabInstance:
       propertyPath: m_AssetId
       value: 752790e3dadac94449e7417e35974da5
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: maxCapacity
       value: 50
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: transferAmount
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: possibleTransferAmounts.Array.size
       value: 7
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[0]'
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[1]'
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[2]'
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[3]'
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[4]'
       value: 15
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[5]'
       value: 25
       objectReference: {fileID: 0}
-    - target: {fileID: 4556275883868545216, guid: e29b1fbcef2694d41b261271fecf09dc,
+    - target: {fileID: 8637318889524906911, guid: e29b1fbcef2694d41b261271fecf09dc,
         type: 3}
       propertyPath: 'possibleTransferAmounts.Array.data[6]'
       value: 50

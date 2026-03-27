@@ -215,65 +215,65 @@ PrefabInstance:
       propertyPath: m_Name
       value: EpinephrineMedipen
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: maxCapacity
       value: 60
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: transferAmount
       value: 100
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: UseStandardExamine
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: initialReagentMix.temperature
       value: 293.15
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_keys.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: initialReagentMix.reagents.m_values.Array.size
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[0]'
       value: 
       objectReference: {fileID: 11400000, guid: 279aafd215f55eca79b31096ce6c4107,
         type: 2}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[1]'
       value: 
       objectReference: {fileID: 11400000, guid: ae16649c67a65c05198d3a4d8e97a066,
         type: 2}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_keys.Array.data[2]'
       value: 
       objectReference: {fileID: 11400000, guid: 72991f100b5704f5fb63c9629fcdeb6c,
         type: 2}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[0]'
       value: 20
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[1]'
       value: 10
       objectReference: {fileID: 0}
-    - target: {fileID: 6210555589579530044, guid: 1265e6ed7f0c58249b9a29aacc18a166,
+    - target: {fileID: 2222135426309354595, guid: 1265e6ed7f0c58249b9a29aacc18a166,
         type: 3}
       propertyPath: 'initialReagentMix.reagents.m_values.Array.data[2]'
       value: 30
